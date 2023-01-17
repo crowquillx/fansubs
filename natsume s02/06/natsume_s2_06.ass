@@ -9,7 +9,7 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 4
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: natsume
@@ -128,7 +128,7 @@ Dialogue: 0,0:05:31.85,0:05:33.02,Default,,0,0,0,,What is this?
 Dialogue: 0,0:05:33.02,0:05:35.44,Default,,0,0,0,,I've never seen a circle drawn like this.
 Dialogue: 0,0:05:35.44,0:05:38.28,Default,,0,0,0,,Really? You haven't either?
 Dialogue: 0,0:05:38.65,0:05:42.61,Default,,0,0,0,,It couldn't be... a crop circle, could it?
-Dialogue: 0,0:05:44.03,0:05:45.53,Default,,0,0,0,,That's above my pay-grade. 
+Dialogue: 0,0:05:44.03,0:05:45.53,Default,,0,0,0,,That's above my pay-grade.
 Dialogue: 0,0:05:59.42,0:06:01.42,Default,,0,0,0,,Hey, what are you doing?
 Dialogue: 0,0:06:05.47,0:06:06.85,Default,,0,0,0,,Natsume{**-kun}?
 Dialogue: 0,0:06:08.06,0:06:08.60,Default,,0,0,0,,You're...
