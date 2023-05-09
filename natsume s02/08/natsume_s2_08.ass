@@ -19,9 +19,9 @@ Keyframes File: natsume_s2_08_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 229
-Active Line: 235
-Video Position: 24778
+Scroll Position: 303
+Active Line: 309
+Video Position: 34189
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,316 +41,316 @@ Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:32.95,0:01:35.16,Default,,0,0,0,,Hey, come take a look at this, Takashi{**-kun}.
-Dialogue: 0,0:01:35.16,0:01:36.99,Default,,0,0,0,,Ah, yes?
-Dialogue: 0,0:01:36.99,0:01:40.29,Default,,0,0,0,,I bought a bunch of snacks for you.
-Dialogue: 0,0:01:41.46,0:01:43.17,Default,,0,0,0,,That's a lot, Touko-san.
-Dialogue: 0,0:01:44.58,0:01:46.50,Default,,0,0,0,,Take it to your study retreat, okay?
-Dialogue: 0,0:01:49.84,0:01:50.59,Default,,0,0,0,,Okay.
-Dialogue: 0,0:01:54.51,0:01:56.85,Default,,0,0,0,,This last bag of chips won't fit.
-Dialogue: 0,0:01:59.68,0:02:02.94,Default,,0,0,0,,Oh well, I guess I'll eat them here.
-Dialogue: 0,0:02:04.56,0:02:08.78,Default,,0,0,0,,You have absolutely no manners, you know?
-Dialogue: 0,0:02:08.78,0:02:10.86,Default,,0,0,0,,Would you like some too, {*}Master{*Sensei}?
-Dialogue: 0,0:02:11.74,0:02:13.40,Default,,0,0,0,,If you insist, my troublesome charge.
-Dialogue: 0,0:02:25.17,0:02:26.79,Default,,0,0,0,,You're late, Natsume.
-Dialogue: 0,0:02:27.67,0:02:28.92,Default,,0,0,0,,Sorry, sorry.
-Dialogue: 0,0:02:30.25,0:02:32.17,Default,,0,0,0,,Your bag is stuffed!
-Dialogue: 0,0:02:32.17,0:02:34.18,Default,,0,0,0,,Whatcha got in there?
-Dialogue: 0,0:02:34.18,0:02:35.84,Default,,0,0,0,,Trust me, you're gonna love it.
-Dialogue: 0,0:02:35.84,0:02:37.30,Default,,0,0,0,,We will?
-Dialogue: 0,0:02:37.30,0:02:39.01,Default,,0,0,0,,Yeah, you'll see.
-Dialogue: 0,0:02:54.57,0:02:56.49,Default,,0,0,0,,What a nice place.
-Dialogue: 0,0:02:57.95,0:02:59.95,Default,,0,0,0,,This lake sure looks deep.
-Dialogue: 0,0:02:59.95,0:03:01.16,Default,,0,0,0,,Check out all the algae.
-Dialogue: 0,0:03:01.16,0:03:02.62,Default,,0,0,0,,You'll drown if you fall in.
-Dialogue: 0,0:03:02.62,0:03:03.50,Default,,0,0,0,,Spooky.
-Dialogue: 0,0:03:07.33,0:03:08.58,Default,,0,0,0,,What's wrong, Natsume?
-Dialogue: 0,0:03:09.29,0:03:10.75,Default,,0,0,0,,Someone's swimming.
-Dialogue: 0,0:03:10.75,0:03:12.26,Default,,0,0,0,,Someone? Where?
-Dialogue: 0,0:03:12.26,0:03:14.05,Default,,0,0,0,,I'm gonna fall! I'm gonna fall!
-Dialogue: 0,0:03:20.51,0:03:21.68,Default,,0,0,0,,What are you talking about?
-Dialogue: 0,0:03:21.68,0:03:23.22,Default,,0,0,0,,There's nothing out there.
-Dialogue: 0,0:03:23.22,0:03:24.89,Default,,0,0,0,,Huh? What?
-Dialogue: 0,0:03:24.89,0:03:28.77,Default,,0,0,0,,Ah, my mistake. Come on, let's go.
-Dialogue: 0,0:03:28.77,0:03:29.94,Default,,0,0,0,,Come on, what was it?
-Dialogue: 0,0:03:29.94,0:03:30.90,Default,,0,0,0,,Hey!
-Dialogue: 0,0:03:34.90,0:03:36.70,Default,,0,0,0,,Hello?
-Dialogue: 0,0:03:37.36,0:03:39.32,Default,,0,0,0,,Hello?!
-Dialogue: 0,0:03:40.45,0:03:41.83,Default,,0,0,0,,No one's answering...
-Dialogue: 0,0:03:41.83,0:03:43.04,Default,,0,0,0,,Maybe they're out?
-Dialogue: 0,0:03:43.04,0:03:45.41,Default,,0,0,0,,Well, we are a bit early.
-Dialogue: 0,0:03:47.79,0:03:48.75,Default,,0,0,0,,It's open.
-Dialogue: 0,0:03:51.38,0:03:53.71,Default,,0,0,0,,Anyone home?
-Dialogue: 0,0:03:59.09,0:04:01.47,Default,,0,0,0,,Was it okay for us to let ourselves in?
-Dialogue: 0,0:04:05.39,0:04:06.81,Default,,0,0,0,,A lake...
-Dialogue: 0,0:04:06.81,0:04:09.02,Default,,0,0,0,,So there's one in the garden too.
-Dialogue: 0,0:04:09.02,0:04:10.15,Default,,0,0,0,,Naturally!
-Dialogue: 0,0:04:10.15,0:04:12.69,Default,,0,0,0,,This area is renowned for its mermaid legends,
-Dialogue: 0,0:04:13.02,0:04:15.19,Default,,0,0,0,,so there are lakes and ponds everywhere.
-Dialogue: 0,0:04:15.19,0:04:16.49,Default,,0,0,0,,Mermaids?
-Dialogue: 0,0:04:20.87,0:04:23.87,Default,,0,0,0,,Why the hell are you in my bag?!
-Dialogue: 0,0:04:23.12,0:04:24.54,Default,,0,0,0,,{\an8}Natsume's family cat.
-Dialogue: 0,0:04:23.87,0:04:25.83,Default,,0,0,0,,No wonder it was so heavy!
-Dialogue: 0,0:04:24.54,0:04:25.83,Default,,0,0,0,,{\an8}Smuggled in?
-Dialogue: 0,0:04:25.83,0:04:27.41,Default,,0,0,0,,You little...!
-Dialogue: 0,0:04:29.62,0:04:35.63,Default,,0,0,0,,Oh dear, and here I thought \NI had time to run an errand.
-Dialogue: 0,0:04:36.38,0:04:38.05,Default,,0,0,0,,Please excuse me.
-Dialogue: 0,0:04:38.05,0:04:41.01,Default,,0,0,0,,No, no. We're sorry for letting ourselves in.
-Dialogue: 0,0:04:41.01,0:04:43.05,Default,,0,0,0,,Come, come. I'll show you to your rooms.
-Dialogue: 0,0:04:47.39,0:04:48.18,Default,,0,0,0,,Is something wrong?
-Dialogue: 0,0:04:48.52,0:04:51.44,Default,,0,0,0,,N-No, no... It's nothing.
-Dialogue: 0,0:04:52.02,0:04:54.98,Default,,0,0,0,,My name is Sakanaka Chizu.
-Dialogue: 0,0:04:54.98,0:04:57.44,Default,,0,0,0,,Please relax and enjoy yourselves, okay?
-Dialogue: 0,0:05:00.20,0:05:02.16,Default,,0,0,0,,What's up with this one?
-Dialogue: 0,0:05:02.16,0:05:04.37,Default,,0,0,0,,Ah, I don't get it either.
-Dialogue: 0,0:05:04.37,0:05:05.70,Default,,0,0,0,,Same here.
-Dialogue: 0,0:05:05.70,0:05:07.54,Default,,0,0,0,,So question three is a mystery then.
-Dialogue: 0,0:05:17.00,0:05:19.26,Default,,0,0,0,,Ah, this is so tasty!
-Dialogue: 0,0:05:19.26,0:05:22.26,Default,,0,0,0,,I think you're supposed to substitute for "{\fnArial}α{\r0}" there.
-Dialogue: 0,0:05:22.26,0:05:23.43,Default,,0,0,0,,Quiet.
-Dialogue: 0,0:05:23.43,0:05:25.18,Default,,0,0,0,,You'll ruin the food.
-Dialogue: 0,0:05:27.97,0:05:29.60,Default,,0,0,0,,Take this!
-Dialogue: 0,0:05:39.28,0:05:41.74,Default,,0,0,0,,This is pretty fun.
-Dialogue: 0,0:05:43.74,0:05:45.66,Default,,0,0,0,,{*}Master{*Sensei}, look, it's a carp!
-Dialogue: 0,0:05:46.62,0:05:48.45,Default,,0,0,0,,Yeah, so? What's the big deal?
-Dialogue: 0,0:05:52.04,0:05:53.83,Default,,0,0,0,,It blinked! The fish blinked!
-Dialogue: 0,0:05:53.83,0:05:55.59,Default,,0,0,0,,Get back, Natsume!
-Dialogue: 0,0:05:55.59,0:05:59.34,Default,,0,0,0,,Fish with eyelids are said \Nto be spirits in disguise!
-Dialogue: 0,0:05:59.34,0:06:00.92,Default,,0,0,0,,You'll be eaten!
-Dialogue: 0,0:06:02.72,0:06:05.43,Default,,0,0,0,,Oh-ho, it was so terrified of me it fled.
-Dialogue: 0,0:06:05.43,0:06:08.31,Default,,0,0,0,,Yeah, even demons think you have a creepy face.
-Dialogue: 0,0:06:08.31,0:06:10.52,Default,,0,0,0,,That's right, even demons think I have a—
-Dialogue: 0,0:06:10.52,0:06:12.44,Default,,0,0,0,,My face is {\i1}not{\i0} creepy!
-Dialogue: 0,0:06:13.39,0:06:16.31,Default,,0,0,0,,I wonder if that was what I saw \Nin the lake this afternoon.
-Dialogue: 0,0:06:17.06,0:06:20.74,Default,,0,0,0,,It might've realized who you are and followed you.
-Dialogue: 0,0:06:20.74,0:06:23.32,Default,,0,0,0,,Which means it's after the Book of Friends...
-Dialogue: 0,0:06:43.47,0:06:44.63,Default,,0,0,0,,Give it to me.
-Dialogue: 0,0:06:45.09,0:06:46.39,Default,,0,0,0,,It's here.
-Dialogue: 0,0:06:47.05,0:06:49.14,Default,,0,0,0,,Give me the Book of Friends!
-Dialogue: 0,0:07:02.78,0:07:05.66,Default,,0,0,0,,Now, give it to me!
-Dialogue: 0,0:07:07.82,0:07:11.54,Default,,0,0,0,,What the heck? Her flesh is so hard.
-Dialogue: 0,0:07:12.83,0:07:14.83,Default,,0,0,0,,A racoon dog... A racoon dog is...!
-Dialogue: 0,0:07:14.83,0:07:16.54,Default,,0,0,0,,I'm not a racoon dog!
-Dialogue: 0,0:07:18.67,0:07:21.55,Default,,0,0,0,,How dare you... A sneak attack?
-Dialogue: 0,0:07:21.55,0:07:25.88,Default,,0,0,0,,This is why I don't trust humans!
-Dialogue: 0,0:07:27.09,0:07:31.39,Default,,0,0,0,,Though I suppose this is what \Nmakes them good for smacking around.
-Dialogue: 0,0:07:33.10,0:07:35.02,Default,,0,0,0,,Give me the book, boy.
-Dialogue: 0,0:07:35.02,0:07:38.02,Default,,0,0,0,,It's not something a human should have.
-Dialogue: 0,0:07:41.57,0:07:43.98,Default,,0,0,0,,What are you doing out so late?
-Dialogue: 0,0:07:45.19,0:07:46.36,Default,,0,0,0,,I'm sorry!
-Dialogue: 0,0:07:46.36,0:07:47.70,Default,,0,0,0,,I couldn't sleep.
-Dialogue: 0,0:07:51.58,0:07:55.04,Default,,0,0,0,,Shall I make you something warm?
-Dialogue: 0,0:07:55.04,0:07:57.04,Default,,0,0,0,,No, I'm fine.
-Dialogue: 0,0:08:00.88,0:08:02.00,Default,,0,0,0,,What is it?
-Dialogue: 0,0:08:02.00,0:08:03.84,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:08:03.84,0:08:09.22,Default,,0,0,0,,You remind me a bit of the person I'm looking for.
-Dialogue: 0,0:08:09.22,0:08:10.72,Default,,0,0,0,,You're looking for someone?
-Dialogue: 0,0:08:10.72,0:08:11.97,Default,,0,0,0,,Yes.
-Dialogue: 0,0:08:11.97,0:08:15.06,Default,,0,0,0,,A person to whom I can never truly atone.
-Dialogue: 0,0:08:15.56,0:08:17.18,Default,,0,0,0,,Atone for what?
-Dialogue: 0,0:08:18.19,0:08:21.52,Default,,0,0,0,,Have you heard the legend of the mermaid?
-Dialogue: 0,0:08:21.52,0:08:27.49,Default,,0,0,0,,They say that those who drink the blood \Nor eat the flesh of a mermaid will gain eternal youth.
-Dialogue: 0,0:08:28.20,0:08:29.11,Default,,0,0,0,,I see.
-Dialogue: 0,0:08:30.20,0:08:37.08,Default,,0,0,0,,Just once, long ago, I saw \Na mermaid in the lake nearby.
-Dialogue: 0,0:08:37.08,0:08:41.17,Default,,0,0,0,,I was young, though, \Nso perhaps I was only dreaming.
-Dialogue: 0,0:08:42.67,0:08:49.38,Default,,0,0,0,,I made someone drink the blood \NI received from that mermaid.
-Dialogue: 0,0:08:51.39,0:08:54.81,Default,,0,0,0,,He is the person I'm looking for.
-Dialogue: 0,0:09:00.69,0:09:02.40,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:09:02.40,0:09:04.11,Default,,0,0,0,,We had a blast!
-Dialogue: 0,0:09:04.11,0:09:05.61,Default,,0,0,0,,I enjoyed myself as well.
-Dialogue: 0,0:09:05.61,0:09:07.82,Default,,0,0,0,,Thank you for coming.
-Dialogue: 0,0:09:07.82,0:09:09.57,Default,,0,0,0,,That was awesome.
-Dialogue: 0,0:09:09.57,0:09:10.86,Default,,0,0,0,,What a great study retreat.
-Dialogue: 0,0:09:10.86,0:09:12.70,Default,,0,0,0,,You didn't do anything but eat.
-Dialogue: 0,0:09:12.70,0:09:14.74,Default,,0,0,0,,That's not true!
-Dialogue: 0,0:09:18.25,0:09:22.71,Default,,0,0,0,,Hey, wanna go the long way back to the station, \Nand then take one of the old trains home?
-Dialogue: 0,0:09:22.71,0:09:24.04,Default,,0,0,0,,Sounds good to me!
-Dialogue: 0,0:09:24.42,0:09:26.92,Default,,0,0,0,,{\an8}The boxed lunches at that station are great!
-Dialogue: 0,0:09:25.09,0:09:26.92,Default,,0,0,0,,Natsume, be on guard.
-Dialogue: 0,0:09:26.92,0:09:28.05,Default,,0,0,0,,{\an8}How can you still eat?
-Dialogue: 0,0:09:28.55,0:09:30.72,Default,,0,0,0,,Want to, Natsume?
-Dialogue: 0,0:09:31.09,0:09:34.14,Default,,0,0,0,,Sorry, I forgot something.
-Dialogue: 0,0:09:34.14,0:09:35.43,Default,,0,0,0,,Go on without me.
-Dialogue: 0,0:09:44.69,0:09:48.15,Default,,0,0,0,,Leave the Book of Friends!
-Dialogue: 0,0:09:49.86,0:09:53.24,Default,,0,0,0,,Uh... sorry, you startled me.
-Dialogue: 0,0:10:01.71,0:10:03.25,Default,,0,0,0,,What's your name?
-Dialogue: 0,0:10:04.38,0:10:07.09,Default,,0,0,0,,I have no name to give to a mere human.
-Dialogue: 0,0:10:07.09,0:10:10.67,Default,,0,0,0,,To begin with, a noble, \Nravishing mermaid such as myself—
-Dialogue: 0,0:10:12.88,0:10:15.39,Default,,0,0,0,,Listen when you're being spoken to!
-Dialogue: 0,0:10:15.39,0:10:18.31,Default,,0,0,0,,Humans are so damned rude!
-Dialogue: 0,0:10:20.43,0:10:23.77,Default,,0,0,0,,Are you the mermaid Chizu{**-san} met?
-Dialogue: 0,0:10:24.85,0:10:26.19,Default,,0,0,0,,Wouldn't you like to know.
-Dialogue: 0,0:10:26.19,0:10:28.98,Default,,0,0,0,,I have no reason to tell you.
-Dialogue: 0,0:10:30.53,0:10:31.53,Default,,0,0,0,,That's true.
-Dialogue: 0,0:10:32.28,0:10:34.99,Default,,0,0,0,,Sorry, but I can't give you the Book of Friends.
-Dialogue: 0,0:10:36.12,0:10:37.62,Default,,0,0,0,,Don't follow me anymore, okay?
-Dialogue: 0,0:10:47.79,0:10:50.96,Default,,0,0,0,,Mermaids hate humans more than anything.
-Dialogue: 0,0:10:50.96,0:10:54.80,Default,,0,0,0,,They were hunted for their flesh, \Nso there aren't many left.
-Dialogue: 0,0:10:56.01,0:10:58.51,Default,,0,0,0,,You shouldn't have let her go, Natsume.
-Dialogue: 0,0:10:58.51,0:11:01.77,Default,,0,0,0,,You could've eaten her and become immortal.
-Dialogue: 0,0:11:02.98,0:11:07.19,Default,,0,0,0,,If I did that, you'd never get \Nthe Book of Friends, {*}Master{*Sensei}.
-Dialogue: 0,0:11:27.00,0:11:28.00,Default,,0,0,0,,Chizu{**-san}.
-Dialogue: 0,0:11:30.92,0:11:32.30,Default,,0,0,0,,Sorry!
-Dialogue: 0,0:11:34.51,0:11:42.01,Default,,0,0,0,,Forgive me, an acquaintance told me that someone had \Nseen a person who looked like Keiichi{**-san} at this station.
-Dialogue: 0,0:11:42.01,0:11:44.98,Default,,0,0,0,,So, I thought you were him.
-Dialogue: 0,0:11:46.19,0:11:48.40,Default,,0,0,0,,So, the errand you ran yesterday...
-Dialogue: 0,0:11:48.40,0:11:51.40,Default,,0,0,0,,Yes, I came here.
-Dialogue: 0,0:11:51.40,0:11:53.82,Default,,0,0,0,,What is Keiichi{**-san} like?
-Dialogue: 0,0:11:54.40,0:11:57.15,Default,,0,0,0,,You believe me?
-Dialogue: 0,0:11:57.15,0:11:58.91,Default,,0,0,0,,Yeah, I do.
-Dialogue: 0,0:12:00.07,0:12:04.54,Default,,0,0,0,,My parents both worked, and I had no siblings.
-Dialogue: 0,0:12:04.54,0:12:10.13,Default,,0,0,0,,I spent a great deal of time alone, \Nplaying at the lake in front of my house.
-Dialogue: 0,0:12:10.83,0:12:16.55,Default,,0,0,0,,And then my neighbor, Keiichi{**-san}, \Ntook pity on me and began to play with me.
-Dialogue: 0,0:12:17.22,0:12:21.85,Default,,0,0,0,,He was about your age and very kind.
-Dialogue: 0,0:12:21.85,0:12:24.14,Default,,0,0,0,,I adored him.
-Dialogue: 0,0:12:24.64,0:12:27.27,Default,,0,0,0,,But he was ill...
-Dialogue: 0,0:12:27.73,0:12:31.77,Default,,0,0,0,,One stormy night, he took a turn for the worse.
-Dialogue: 0,0:12:32.56,0:12:39.36,Default,,0,0,0,,I recalled the legend that a mermaid lived \Nin that lake, and hurried there.
-Dialogue: 0,0:12:40.70,0:12:44.91,Default,,0,0,0,,In those waters, I saw a mermaid with gentle eyes,
-Dialogue: 0,0:12:45.62,0:12:49.54,Default,,0,0,0,,and she gave me some of her precious blood.
-Dialogue: 0,0:12:49.54,0:12:53.96,Default,,0,0,0,,And so, I poured some onto his lips...
-Dialogue: 0,0:13:03.85,0:13:06.39,Default,,0,0,0,,You made him drink the mermaid's blood?
-Dialogue: 0,0:13:06.39,0:13:10.06,Default,,0,0,0,,The adults said it was just a dream,
-Dialogue: 0,0:13:10.06,0:13:13.36,Default,,0,0,0,,and it's been so long, \NI'm no longer sure myself.
-Dialogue: 0,0:13:14.11,0:13:17.07,Default,,0,0,0,,Keiichi{**-san} was transferred to a hospital far away,
-Dialogue: 0,0:13:17.07,0:13:19.03,Default,,0,0,0,,and his life was saved.
-Dialogue: 0,0:13:19.03,0:13:22.07,Default,,0,0,0,,But he never came back.
-Dialogue: 0,0:13:22.07,0:13:28.20,Default,,0,0,0,,The shock of him moving away made me \Ncompletely forget about the mermaid's blood.
-Dialogue: 0,0:13:28.87,0:13:30.96,Default,,0,0,0,,Terrible of me, don't you think?
-Dialogue: 0,0:13:30.96,0:13:31.83,Default,,0,0,0,,No...
-Dialogue: 0,0:13:32.62,0:13:35.96,Default,,0,0,0,,Last year, my husband passed on,
-Dialogue: 0,0:13:35.96,0:13:39.51,Default,,0,0,0,,and when I said to myself, \N"I won't be long behind him,"
-Dialogue: 0,0:13:40.22,0:13:42.01,Default,,0,0,0,,I suddenly remembered it all.
-Dialogue: 0,0:13:42.84,0:13:46.39,Default,,0,0,0,,I can't stop wondering if it was a dream.
-Dialogue: 0,0:13:46.39,0:13:52.52,Default,,0,0,0,,If not, then he cannot die or even age.
-Dialogue: 0,0:13:53.35,0:13:59.36,Default,,0,0,0,,What if my reckless, thoughtless \Nlove causes him to suffer even now?
-Dialogue: 0,0:14:04.70,0:14:09.70,Default,,0,0,0,,To live forever alone, watching \Neveryone you love pass away...
-Dialogue: 0,0:14:10.12,0:14:13.25,Default,,0,0,0,,{\i1}{*}Master{*Sensei}'s probably lived like that.
-Dialogue: 0,0:14:17.29,0:14:19.42,Default,,0,0,0,,{\i1}Like with Reiko{**-san}, for example.
-Dialogue: 0,0:14:21.88,0:14:24.80,Default,,0,0,0,,{\i1}And someday...
-Dialogue: 0,0:14:33.48,0:14:35.73,Default,,0,0,0,,Maybe I'll catch that mermaid...
-Dialogue: 0,0:14:35.73,0:14:36.98,Default,,0,0,0,,What?
-Dialogue: 0,0:14:36.98,0:14:39.02,Default,,0,0,0,,She might know something.
-Dialogue: 0,0:14:39.02,0:14:40.82,Default,,0,0,0,,Always with the stupid ideas...
-Dialogue: 0,0:14:40.82,0:14:43.40,Default,,0,0,0,,I'm not helping.
-Dialogue: 0,0:14:44.15,0:14:47.16,Default,,0,0,0,,I'll buy you a steamed bun \Nfrom Nanatsujiya on the way back.
-Dialogue: 0,0:14:48.66,0:14:50.37,Default,,0,0,0,,We're just catching her.
-Dialogue: 0,0:14:52.58,0:14:56.42,Default,,0,0,0,,Hey! Mermaid! Hey!
-Dialogue: 0,0:14:57.13,0:14:58.88,Default,,0,0,0,,I just want to talk!
-Dialogue: 0,0:14:58.88,0:15:00.09,Default,,0,0,0,,Please come out!
-Dialogue: 0,0:15:02.26,0:15:05.18,Default,,0,0,0,,Natsume, the sun's going down.
-Dialogue: 0,0:15:05.80,0:15:07.14,Default,,0,0,0,,So we came for nothing?
-Dialogue: 0,0:15:12.98,0:15:14.85,Default,,0,0,0,,You don't like humans, I get it.
-Dialogue: 0,0:15:14.85,0:15:16.60,Default,,0,0,0,,But, aren't you lonely all by yourself?
-Dialogue: 0,0:15:17.06,0:15:19.48,Default,,0,0,0,,I haven't always been alone.
-Dialogue: 0,0:15:20.90,0:15:22.73,Default,,0,0,0,,What do you want, boy?
-Dialogue: 0,0:15:26.16,0:15:27.32,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:15:27.32,0:15:27.87,Default,,0,0,0,,Get off me!
-Dialogue: 0,0:15:27.87,0:15:28.87,Default,,0,0,0,,I want to talk.
-Dialogue: 0,0:15:28.87,0:15:30.66,Default,,0,0,0,,I'm not letting go until you answer me.
-Dialogue: 0,0:15:30.66,0:15:31.99,Default,,0,0,0,,Fool.
-Dialogue: 0,0:15:31.99,0:15:34.50,Default,,0,0,0,,You can't possibly beat me in the water!
-Dialogue: 0,0:15:34.50,0:15:38.13,Default,,0,0,0,,I'd always regret not doing \Neverything in my power to help her!
-Dialogue: 0,0:15:38.46,0:15:39.75,Default,,0,0,0,,So tell me!
-Dialogue: 0,0:15:39.75,0:15:43.01,Default,,0,0,0,,Did you ever give a little girl your blood?
-Dialogue: 0,0:15:43.01,0:15:43.63,Default,,0,0,0,,What?
-Dialogue: 0,0:15:44.05,0:15:48.43,Default,,0,0,0,,She's hurting because she gave it \Nto the person she cared about.
-Dialogue: 0,0:15:48.43,0:15:50.89,Default,,0,0,0,,If you know some way \Nto break the immortality...
-Dialogue: 0,0:15:54.98,0:15:58.98,Default,,0,0,0,,All anybody cares about is immortality; \Nour flesh and blood!
-Dialogue: 0,0:16:00.98,0:16:04.86,Default,,0,0,0,,Yes, she often used to come here.
-Dialogue: 0,0:16:05.15,0:16:09.24,Default,,0,0,0,,She didn't know I was a mermaid, \Nand she would always play with me.
-Dialogue: 0,0:16:10.70,0:16:14.83,Default,,0,0,0,,So when she came back after a long absence, \NI showed her this form,
-Dialogue: 0,0:16:14.83,0:16:18.46,Default,,0,0,0,,and when she asked for blood, \NI gave her some.
-Dialogue: 0,0:16:19.75,0:16:20.79,Default,,0,0,0,,I see...
-Dialogue: 0,0:16:20.79,0:16:26.67,Default,,0,0,0,,She regrets giving it to another, \Nand her timeworn heart is saddened.
-Dialogue: 0,0:16:27.30,0:16:28.80,Default,,0,0,0,,Poor thing...
-Dialogue: 0,0:16:28.80,0:16:30.80,Default,,0,0,0,,In that case, to end her suffering...
-Dialogue: 0,0:16:31.68,0:16:33.76,Default,,0,0,0,,I'll eat her!
-Dialogue: 0,0:16:33.76,0:16:34.72,Default,,0,0,0,,Wait!
-Dialogue: 0,0:16:36.23,0:16:37.39,Default,,0,0,0,,She took off?
-Dialogue: 0,0:16:40.52,0:16:42.98,Default,,0,0,0,,Hey! Where are you going, Natsume?
-Dialogue: 0,0:16:43.36,0:16:44.73,Default,,0,0,0,,This isn't what I wanted!
-Dialogue: 0,0:16:44.73,0:16:46.44,Default,,0,0,0,,I was just trying to help.
-Dialogue: 0,0:16:46.44,0:16:47.90,Default,,0,0,0,,Why didn't it work?
-Dialogue: 0,0:16:48.53,0:16:49.53,Default,,0,0,0,,For me...
-Dialogue: 0,0:16:50.11,0:16:51.24,Default,,0,0,0,,For Chizu{**-san}...
-Dialogue: 0,0:17:09.38,0:17:10.84,Default,,0,0,0,,He...
-Dialogue: 0,0:17:11.93,0:17:13.43,Default,,0,0,0,,Keiichi{**-san} is...
-Dialogue: 0,0:17:13.43,0:17:15.43,Default,,0,0,0,,...the exact same!
-Dialogue: 0,0:17:16.31,0:17:18.48,Default,,0,0,0,,What have I done?
-Dialogue: 0,0:17:19.48,0:17:21.10,Default,,0,0,0,,Keiichi{**-san}!
-Dialogue: 0,0:17:21.10,0:17:22.98,Default,,0,0,0,,Wait, Keiichi{**-san}!
-Dialogue: 0,0:17:26.15,0:17:27.99,Default,,0,0,0,,Keiichi{**-san}!
-Dialogue: 0,0:17:37.41,0:17:39.37,Default,,0,0,0,,You poor thing...
-Dialogue: 0,0:17:39.37,0:17:40.79,Default,,0,0,0,,Are you tired?
-Dialogue: 0,0:17:41.67,0:17:44.04,Default,,0,0,0,,That voice... Are you that mermaid?
-Dialogue: 0,0:17:50.17,0:17:51.88,Default,,0,0,0,,Wait, mermaid!
-Dialogue: 0,0:17:51.88,0:17:54.01,Default,,0,0,0,,She was just a child!
-Dialogue: 0,0:17:54.01,0:17:57.10,Default,,0,0,0,,Just a little girl who didn't \Nunderstand your loneliness or scars!
-Dialogue: 0,0:17:57.56,0:18:00.48,Default,,0,0,0,,She called you a mermaid \Nwith kindness in her eyes...
-Dialogue: 0,0:18:02.85,0:18:04.31,Default,,0,0,0,,It's reacting to you.
-Dialogue: 0,0:18:04.31,0:18:06.57,Default,,0,0,0,,Is your name in the Book of Friends?
-Dialogue: 0,0:18:06.57,0:18:08.53,Default,,0,0,0,,Is that why you want it?
-Dialogue: 0,0:18:09.36,0:18:11.03,Default,,0,0,0,,I was just killing time.
-Dialogue: 0,0:18:11.03,0:18:12.95,Default,,0,0,0,,That's why I was after the Book of Friends,
-Dialogue: 0,0:18:12.95,0:18:15.20,Default,,0,0,0,,why I fought Natsume Reiko,
-Dialogue: 0,0:18:15.20,0:18:17.08,Default,,0,0,0,,and why I gave that girl my blood.
-Dialogue: 0,0:18:17.08,0:18:19.08,Default,,0,0,0,,It was all to kill time.
-Dialogue: 0,0:18:19.62,0:18:21.50,Default,,0,0,0,,So you're Reiko's grandson?
-Dialogue: 0,0:18:21.50,0:18:22.58,Default,,0,0,0,,You look delicious.
-Dialogue: 0,0:18:27.84,0:18:29.09,Default,,0,0,0,,I found it.
-Dialogue: 0,0:18:29.09,0:18:31.72,Default,,0,0,0,,Sasafune, I return your name.
-Dialogue: 0,0:18:31.72,0:18:32.59,Default,,0,0,0,,Please take it.
-Dialogue: 0,0:18:50.69,0:18:52.74,Default,,0,0,0,,What a stormy night...
-Dialogue: 0,0:18:52.74,0:18:57.41,Default,,0,0,0,,She hasn't come by for months, \Nbut she's back now.
-Dialogue: 0,0:18:58.16,0:19:00.58,Default,,0,0,0,,Maybe I'll ask her to be my friend.
-Dialogue: 0,0:19:01.37,0:19:05.83,Default,,0,0,0,,Should I smile so she won't be scared?
-Dialogue: 0,0:19:05.83,0:19:08.29,Default,,0,0,0,,Mermaid! Mermaid!
-Dialogue: 0,0:19:08.29,0:19:09.96,Default,,0,0,0,,Please give me your blood!
-Dialogue: 0,0:19:11.59,0:19:15.76,Default,,0,0,0,,I see... that's all you were after.
-Dialogue: 0,0:19:16.26,0:19:17.84,Default,,0,0,0,,Is that true?
-Dialogue: 0,0:19:20.68,0:19:23.85,Default,,0,0,0,,You saw my thoughts, didn't you, Natsume?
-Dialogue: 0,0:19:23.85,0:19:25.02,Default,,0,0,0,,That's right...
-Dialogue: 0,0:19:25.02,0:19:29.19,Default,,0,0,0,,I was so disappointed, \NI decided to play a trick on her,
-Dialogue: 0,0:19:29.19,0:19:31.61,Default,,0,0,0,,and gave her a vial filled with grape juice.
-Dialogue: 0,0:19:32.28,0:19:36.61,Default,,0,0,0,,She smiled with tears in her eyes and thanked me.
-Dialogue: 0,0:19:37.03,0:19:41.79,Default,,0,0,0,,And then I became disappointed in myself.
-Dialogue: 0,0:19:42.33,0:19:43.79,Default,,0,0,0,,Sasafune...
-Dialogue: 0,0:19:44.20,0:19:46.87,Default,,0,0,0,,But it was for the best.
-Dialogue: 0,0:19:46.87,0:19:49.04,Default,,0,0,0,,It was all for the best.
-Dialogue: 0,0:19:49.63,0:19:51.80,Default,,0,0,0,,Please tell her for me, Natsume...
-Dialogue: 0,0:19:51.80,0:19:55.05,Default,,0,0,0,,Tell her I'm sorry for tricking her.
-Dialogue: 0,0:19:55.38,0:19:56.72,Default,,0,0,0,,Wait, Sasafune!
-Dialogue: 0,0:19:56.72,0:19:59.09,Default,,0,0,0,,Tell her... Tell her yourself!
-Dialogue: 0,0:20:00.72,0:20:01.72,Default,,0,0,0,,Chizu{**-san}!
-Dialogue: 0,0:20:07.27,0:20:08.56,Default,,0,0,0,,Mermaid!
-Dialogue: 0,0:20:15.32,0:20:17.49,Default,,0,0,0,,Take care.
-Dialogue: 0,0:20:20.49,0:20:23.08,Default,,0,0,0,,Did you hear that, Chizu{**-san}?
-Dialogue: 0,0:20:25.12,0:20:26.37,Default,,0,0,0,,Yes...
-Dialogue: 0,0:20:26.79,0:20:30.33,Default,,0,0,0,,That same gentle voice I used to hear.
-Dialogue: 0,0:20:44.01,0:20:46.98,Default,,0,0,0,,I see, it was his grandson.
-Dialogue: 0,0:20:46.98,0:20:49.94,Default,,0,0,0,,Yes, he comes through this station \Nsometimes on his way to cram school.
-Dialogue: 0,0:20:50.90,0:20:54.52,Default,,0,0,0,,Keiichi{**-san} died three years ago, he said,
-Dialogue: 0,0:20:54.52,0:20:57.19,Default,,0,0,0,,but he led a very happy life.
-Dialogue: 0,0:20:57.19,0:21:00.16,Default,,0,0,0,,His grandson really did look just like the picture.
-Dialogue: 0,0:21:02.32,0:21:06.37,Default,,0,0,0,,He said he'd like to hear about his grandfather.
-Dialogue: 0,0:21:16.25,0:21:17.71,Default,,0,0,0,,Hello.
-Dialogue: 0,0:21:17.71,0:21:19.22,Default,,0,0,0,,A pleasure to meet you.
-Dialogue: 0,0:21:31.94,0:21:36.02,Default,,0,0,0,,Sasafune, Chizu{**-san} says she'll come back.
-Dialogue: 0,0:21:39.03,0:21:42.66,Default,,0,0,0,,Don't think I can save you every time, Natsume.
-Dialogue: 0,0:21:42.66,0:21:44.91,Default,,0,0,0,,Some things are just impossible,
-Dialogue: 0,0:21:44.91,0:21:47.95,Default,,0,0,0,,which is a fact you seem to constantly forget.
-Dialogue: 0,0:21:48.37,0:21:50.00,Default,,0,0,0,,You're right.
-Dialogue: 0,0:21:50.00,0:21:51.75,Default,,0,0,0,,I'm painfully aware of my weakness.
-Dialogue: 0,0:21:52.37,0:21:58.80,Default,,0,0,0,,{\i1}But that's exactly why everyone knows \Nhow it feels to want to be with someone,
-Dialogue: 0,0:21:58.80,0:22:01.05,Default,,0,0,0,,{\i1}or to want someone with you,
-Dialogue: 0,0:22:01.05,0:22:04.01,Default,,0,0,0,,{\i1}and what a precious thing it is \Nwhen that wish comes true.
-Dialogue: 0,0:23:35.98,0:23:38.23,Default,,0,0,0,,I got a picture at the flea market.
-Dialogue: 0,0:23:38.23,0:23:40.98,Default,,0,0,0,,Who keeps spreading flowers every night?!
-Dialogue: 0,0:23:40.98,0:23:43.44,Default,,0,0,0,,{*}Lord Yasaka{*Yasaka-sama} is inside that image.
-Dialogue: 0,0:23:43.44,0:23:45.11,Default,,0,0,0,,There you are, underling!
-Dialogue: 0,0:23:45.11,0:23:45.95,Default,,0,0,0,,Why flowers?
-Dialogue: 0,0:23:45.95,0:23:49.49,Default,,0,0,0,,During his years as a human, \N{*}Lord Yasaka{*Yasaka-sama} adored flowers.
+Dialogue: 99,0:01:32.95,0:01:35.16,Default,,0,0,0,,Hey, come take a look at this, Takashi{**-kun}.
+Dialogue: 99,0:01:35.16,0:01:36.99,Default,,0,0,0,,Ah, yes?
+Dialogue: 99,0:01:36.99,0:01:40.29,Default,,0,0,0,,I bought a bunch of snacks for you.
+Dialogue: 99,0:01:41.46,0:01:43.17,Default,,0,0,0,,That's a lot, Touko-san.
+Dialogue: 99,0:01:44.58,0:01:46.50,Default,,0,0,0,,Take it to your study retreat, okay?
+Dialogue: 99,0:01:49.84,0:01:50.59,Default,,0,0,0,,Okay.
+Dialogue: 99,0:01:54.51,0:01:56.85,Default,,0,0,0,,This last bag of chips won't fit.
+Dialogue: 99,0:01:59.68,0:02:02.94,Default,,0,0,0,,Oh well, I guess I'll eat them here.
+Dialogue: 99,0:02:04.56,0:02:08.78,Default,,0,0,0,,You have absolutely no manners, you know?
+Dialogue: 99,0:02:08.78,0:02:10.86,Default,,0,0,0,,Would you like some too, {*}Master{*Sensei}?
+Dialogue: 99,0:02:11.74,0:02:13.40,Default,,0,0,0,,If you insist, my troublesome charge.
+Dialogue: 99,0:02:25.17,0:02:26.79,Default,,0,0,0,,You're late, Natsume.
+Dialogue: 99,0:02:27.67,0:02:28.92,Default,,0,0,0,,Sorry, sorry.
+Dialogue: 99,0:02:30.25,0:02:32.17,Default,,0,0,0,,Your bag is stuffed!
+Dialogue: 99,0:02:32.17,0:02:34.18,Default,,0,0,0,,Whatcha got in there?
+Dialogue: 99,0:02:34.18,0:02:35.84,Default,,0,0,0,,Trust me, you're gonna love it.
+Dialogue: 99,0:02:35.84,0:02:37.30,Default,,0,0,0,,We will?
+Dialogue: 99,0:02:37.30,0:02:39.01,Default,,0,0,0,,Yeah, you'll see.
+Dialogue: 99,0:02:54.57,0:02:56.49,Default,,0,0,0,,What a nice place.
+Dialogue: 99,0:02:57.95,0:02:59.95,Default,,0,0,0,,This lake sure looks deep.
+Dialogue: 99,0:02:59.95,0:03:01.16,Default,,0,0,0,,Check out all the algae.
+Dialogue: 99,0:03:01.16,0:03:02.62,Default,,0,0,0,,You'll drown if you fall in.
+Dialogue: 99,0:03:02.62,0:03:03.50,Default,,0,0,0,,Spooky.
+Dialogue: 99,0:03:07.33,0:03:08.58,Default,,0,0,0,,What's wrong, Natsume?
+Dialogue: 99,0:03:09.29,0:03:10.75,Default,,0,0,0,,Someone's swimming.
+Dialogue: 99,0:03:10.75,0:03:12.26,Default,,0,0,0,,Someone? Where?
+Dialogue: 99,0:03:12.26,0:03:14.05,Default,,0,0,0,,I'm gonna fall! I'm gonna fall!
+Dialogue: 99,0:03:20.51,0:03:21.68,Default,,0,0,0,,What are you talking about?
+Dialogue: 99,0:03:21.68,0:03:23.22,Default,,0,0,0,,There's nothing out there.
+Dialogue: 99,0:03:23.22,0:03:24.89,Default,,0,0,0,,Huh? What?
+Dialogue: 99,0:03:24.89,0:03:28.77,Default,,0,0,0,,Ah, my mistake. Come on, let's go.
+Dialogue: 99,0:03:28.77,0:03:29.94,Default,,0,0,0,,Come on, what was it?
+Dialogue: 99,0:03:29.94,0:03:30.90,Default,,0,0,0,,Hey!
+Dialogue: 99,0:03:34.90,0:03:36.70,Default,,0,0,0,,Hello?
+Dialogue: 99,0:03:37.36,0:03:39.32,Default,,0,0,0,,Hello?!
+Dialogue: 99,0:03:40.45,0:03:41.83,Default,,0,0,0,,No one's answering...
+Dialogue: 99,0:03:41.83,0:03:43.04,Default,,0,0,0,,Maybe they're out?
+Dialogue: 99,0:03:43.04,0:03:45.41,Default,,0,0,0,,Well, we are a bit early.
+Dialogue: 99,0:03:47.79,0:03:48.75,Default,,0,0,0,,It's open.
+Dialogue: 99,0:03:51.38,0:03:53.71,Default,,0,0,0,,Anyone home?
+Dialogue: 99,0:03:59.09,0:04:01.47,Default,,0,0,0,,Was it okay for us to let ourselves in?
+Dialogue: 99,0:04:05.39,0:04:06.81,Default,,0,0,0,,A lake...
+Dialogue: 99,0:04:06.81,0:04:09.02,Default,,0,0,0,,So there's one in the garden too.
+Dialogue: 99,0:04:09.02,0:04:10.15,Default,,0,0,0,,Naturally!
+Dialogue: 99,0:04:10.15,0:04:12.69,Default,,0,0,0,,This area is renowned for its mermaid legends,
+Dialogue: 99,0:04:13.02,0:04:15.19,Default,,0,0,0,,so there are lakes and ponds everywhere.
+Dialogue: 99,0:04:15.19,0:04:16.49,Default,,0,0,0,,Mermaids?
+Dialogue: 99,0:04:20.87,0:04:23.87,Default,,0,0,0,,Why the hell are you in my bag?!
+Dialogue: 99,0:04:23.12,0:04:24.54,Default,,0,0,0,,{\an8}Natsume's family cat.
+Dialogue: 99,0:04:23.87,0:04:25.83,Default,,0,0,0,,No wonder it was so heavy!
+Dialogue: 99,0:04:24.54,0:04:25.83,Default,,0,0,0,,{\an8}Smuggled in?
+Dialogue: 99,0:04:25.83,0:04:27.41,Default,,0,0,0,,You little...!
+Dialogue: 99,0:04:29.62,0:04:35.63,Default,,0,0,0,,Oh dear, and here I thought \NI had time to run an errand.
+Dialogue: 99,0:04:36.38,0:04:38.05,Default,,0,0,0,,Please excuse me.
+Dialogue: 99,0:04:38.05,0:04:41.01,Default,,0,0,0,,No, no. We're sorry for letting ourselves in.
+Dialogue: 99,0:04:41.01,0:04:43.05,Default,,0,0,0,,Come, come. I'll show you to your rooms.
+Dialogue: 99,0:04:47.39,0:04:48.18,Default,,0,0,0,,Is something wrong?
+Dialogue: 99,0:04:48.52,0:04:51.44,Default,,0,0,0,,N-No, no... It's nothing.
+Dialogue: 99,0:04:52.02,0:04:54.98,Default,,0,0,0,,My name is Sakanaka Chizu.
+Dialogue: 99,0:04:54.98,0:04:57.44,Default,,0,0,0,,Please relax and enjoy yourselves, okay?
+Dialogue: 99,0:05:00.20,0:05:02.16,Default,,0,0,0,,What's up with this one?
+Dialogue: 99,0:05:02.16,0:05:04.37,Default,,0,0,0,,Ah, I don't get it either.
+Dialogue: 99,0:05:04.37,0:05:05.70,Default,,0,0,0,,Same here.
+Dialogue: 99,0:05:05.70,0:05:07.54,Default,,0,0,0,,So question three is a mystery then.
+Dialogue: 99,0:05:17.00,0:05:19.26,Default,,0,0,0,,Ah, this is so tasty!
+Dialogue: 99,0:05:19.26,0:05:22.26,Default,,0,0,0,,I think you're supposed to substitute for "{\fnArial}α{\r0}" there.
+Dialogue: 99,0:05:22.26,0:05:23.43,Default,,0,0,0,,Quiet.
+Dialogue: 99,0:05:23.43,0:05:25.18,Default,,0,0,0,,You'll ruin the food.
+Dialogue: 99,0:05:27.97,0:05:29.60,Default,,0,0,0,,Take this!
+Dialogue: 99,0:05:39.28,0:05:41.74,Default,,0,0,0,,This is pretty fun.
+Dialogue: 99,0:05:43.74,0:05:45.66,Default,,0,0,0,,{*}Master{*Sensei}, look, it's a carp!
+Dialogue: 99,0:05:46.62,0:05:48.45,Default,,0,0,0,,Yeah, so? What's the big deal?
+Dialogue: 99,0:05:52.04,0:05:53.83,Default,,0,0,0,,It blinked! The fish blinked!
+Dialogue: 99,0:05:53.83,0:05:55.59,Default,,0,0,0,,Get back, Natsume!
+Dialogue: 99,0:05:55.59,0:05:59.34,Default,,0,0,0,,Fish with eyelids are said \Nto be spirits in disguise!
+Dialogue: 99,0:05:59.34,0:06:00.92,Default,,0,0,0,,You'll be eaten!
+Dialogue: 99,0:06:02.72,0:06:05.43,Default,,0,0,0,,Oh-ho, it was so terrified of me it fled.
+Dialogue: 99,0:06:05.43,0:06:08.31,Default,,0,0,0,,Yeah, even demons think you have a creepy face.
+Dialogue: 99,0:06:08.31,0:06:10.52,Default,,0,0,0,,That's right, even demons think I have a—
+Dialogue: 99,0:06:10.52,0:06:12.44,Default,,0,0,0,,My face is {\i1}not{\i0} creepy!
+Dialogue: 99,0:06:13.39,0:06:16.31,Default,,0,0,0,,I wonder if that was what I saw \Nin the lake this afternoon.
+Dialogue: 99,0:06:17.06,0:06:20.74,Default,,0,0,0,,It might've realized who you are and followed you.
+Dialogue: 99,0:06:20.74,0:06:23.32,Default,,0,0,0,,Which means it's after the Book of Friends...
+Dialogue: 99,0:06:43.47,0:06:44.63,Default,,0,0,0,,Give it to me.
+Dialogue: 99,0:06:45.09,0:06:46.39,Default,,0,0,0,,It's here.
+Dialogue: 99,0:06:47.05,0:06:49.14,Default,,0,0,0,,Give me the Book of Friends!
+Dialogue: 99,0:07:02.78,0:07:05.66,Default,,0,0,0,,Now, give it to me!
+Dialogue: 99,0:07:07.82,0:07:11.54,Default,,0,0,0,,What the heck? Her flesh is so hard.
+Dialogue: 99,0:07:12.83,0:07:14.83,Default,,0,0,0,,A racoon dog... A racoon dog is...!
+Dialogue: 99,0:07:14.83,0:07:16.54,Default,,0,0,0,,I'm not a racoon dog!
+Dialogue: 99,0:07:18.67,0:07:21.55,Default,,0,0,0,,How dare you... A sneak attack?
+Dialogue: 99,0:07:21.55,0:07:25.88,Default,,0,0,0,,This is why I don't trust humans!
+Dialogue: 99,0:07:27.09,0:07:31.39,Default,,0,0,0,,Though I suppose this is what \Nmakes them good for smacking around.
+Dialogue: 99,0:07:33.10,0:07:35.02,Default,,0,0,0,,Give me the book, boy.
+Dialogue: 99,0:07:35.02,0:07:38.02,Default,,0,0,0,,It's not something a human should have.
+Dialogue: 99,0:07:41.57,0:07:43.98,Default,,0,0,0,,What are you doing out so late?
+Dialogue: 99,0:07:45.19,0:07:46.36,Default,,0,0,0,,I'm sorry!
+Dialogue: 99,0:07:46.36,0:07:47.70,Default,,0,0,0,,I couldn't sleep.
+Dialogue: 99,0:07:51.58,0:07:55.04,Default,,0,0,0,,Shall I make you something warm?
+Dialogue: 99,0:07:55.04,0:07:57.04,Default,,0,0,0,,No, I'm fine.
+Dialogue: 99,0:08:00.88,0:08:02.00,Default,,0,0,0,,What is it?
+Dialogue: 99,0:08:02.00,0:08:03.84,Default,,0,0,0,,I'm sorry.
+Dialogue: 99,0:08:03.84,0:08:09.22,Default,,0,0,0,,You remind me a bit of the person I'm looking for.
+Dialogue: 99,0:08:09.22,0:08:10.72,Default,,0,0,0,,You're looking for someone?
+Dialogue: 99,0:08:10.72,0:08:11.97,Default,,0,0,0,,Yes.
+Dialogue: 99,0:08:11.97,0:08:15.06,Default,,0,0,0,,A person to whom I can never truly atone.
+Dialogue: 99,0:08:15.56,0:08:17.18,Default,,0,0,0,,Atone for what?
+Dialogue: 99,0:08:18.19,0:08:21.52,Default,,0,0,0,,Have you heard the legend of the mermaid?
+Dialogue: 99,0:08:21.52,0:08:27.49,Default,,0,0,0,,They say that those who drink the blood \Nor eat the flesh of a mermaid will gain eternal youth.
+Dialogue: 99,0:08:28.20,0:08:29.11,Default,,0,0,0,,I see.
+Dialogue: 99,0:08:30.20,0:08:37.08,Default,,0,0,0,,Just once, long ago, I saw \Na mermaid in the lake nearby.
+Dialogue: 99,0:08:37.08,0:08:41.17,Default,,0,0,0,,I was young, though, \Nso perhaps I was only dreaming.
+Dialogue: 99,0:08:42.67,0:08:49.38,Default,,0,0,0,,I made someone drink the blood \NI received from that mermaid.
+Dialogue: 99,0:08:51.39,0:08:54.81,Default,,0,0,0,,He is the person I'm looking for.
+Dialogue: 99,0:09:00.69,0:09:02.40,Default,,0,0,0,,Thank you very much.
+Dialogue: 99,0:09:02.40,0:09:04.11,Default,,0,0,0,,We had a blast!
+Dialogue: 99,0:09:04.11,0:09:05.61,Default,,0,0,0,,I enjoyed myself as well.
+Dialogue: 99,0:09:05.61,0:09:07.82,Default,,0,0,0,,Thank you for coming.
+Dialogue: 99,0:09:07.82,0:09:09.57,Default,,0,0,0,,That was awesome.
+Dialogue: 99,0:09:09.57,0:09:10.86,Default,,0,0,0,,What a great study retreat.
+Dialogue: 99,0:09:10.86,0:09:12.70,Default,,0,0,0,,You didn't do anything but eat.
+Dialogue: 99,0:09:12.70,0:09:14.74,Default,,0,0,0,,That's not true!
+Dialogue: 99,0:09:18.25,0:09:22.71,Default,,0,0,0,,Hey, wanna go the long way back to the station, \Nand then take one of the old trains home?
+Dialogue: 99,0:09:22.71,0:09:24.04,Default,,0,0,0,,Sounds good to me!
+Dialogue: 99,0:09:24.42,0:09:26.92,Default,,0,0,0,,{\an8}The boxed lunches at that station are great!
+Dialogue: 99,0:09:25.09,0:09:26.92,Default,,0,0,0,,Natsume, be on guard.
+Dialogue: 99,0:09:26.92,0:09:28.05,Default,,0,0,0,,{\an8}How can you still eat?
+Dialogue: 99,0:09:28.55,0:09:30.72,Default,,0,0,0,,Want to, Natsume?
+Dialogue: 99,0:09:31.09,0:09:34.14,Default,,0,0,0,,Sorry, I forgot something.
+Dialogue: 99,0:09:34.14,0:09:35.43,Default,,0,0,0,,Go on without me.
+Dialogue: 99,0:09:44.69,0:09:48.15,Default,,0,0,0,,Leave the Book of Friends!
+Dialogue: 99,0:09:49.86,0:09:53.24,Default,,0,0,0,,Uh... sorry, you startled me.
+Dialogue: 99,0:10:01.71,0:10:03.25,Default,,0,0,0,,What's your name?
+Dialogue: 99,0:10:04.38,0:10:07.09,Default,,0,0,0,,I have no name to give to a mere human.
+Dialogue: 99,0:10:07.09,0:10:10.67,Default,,0,0,0,,To begin with, a noble, \Nravishing mermaid such as myself—
+Dialogue: 99,0:10:12.88,0:10:15.39,Default,,0,0,0,,Listen when you're being spoken to!
+Dialogue: 99,0:10:15.39,0:10:18.31,Default,,0,0,0,,Humans are so damned rude!
+Dialogue: 99,0:10:20.43,0:10:23.77,Default,,0,0,0,,Are you the mermaid Chizu{**-san} met?
+Dialogue: 99,0:10:24.85,0:10:26.19,Default,,0,0,0,,Wouldn't you like to know.
+Dialogue: 99,0:10:26.19,0:10:28.98,Default,,0,0,0,,I have no reason to tell you.
+Dialogue: 99,0:10:30.53,0:10:31.53,Default,,0,0,0,,That's true.
+Dialogue: 99,0:10:32.28,0:10:34.99,Default,,0,0,0,,Sorry, but I can't give you the Book of Friends.
+Dialogue: 99,0:10:36.12,0:10:37.62,Default,,0,0,0,,Don't follow me anymore, okay?
+Dialogue: 99,0:10:47.79,0:10:50.96,Default,,0,0,0,,Mermaids hate humans more than anything.
+Dialogue: 99,0:10:50.96,0:10:54.80,Default,,0,0,0,,They were hunted for their flesh, \Nso there aren't many left.
+Dialogue: 99,0:10:56.01,0:10:58.51,Default,,0,0,0,,You shouldn't have let her go, Natsume.
+Dialogue: 99,0:10:58.51,0:11:01.77,Default,,0,0,0,,You could've eaten her and become immortal.
+Dialogue: 99,0:11:02.98,0:11:07.19,Default,,0,0,0,,If I did that, you'd never get \Nthe Book of Friends, {*}Master{*Sensei}.
+Dialogue: 99,0:11:27.00,0:11:28.00,Default,,0,0,0,,Chizu{**-san}.
+Dialogue: 99,0:11:30.92,0:11:32.30,Default,,0,0,0,,Sorry!
+Dialogue: 99,0:11:34.51,0:11:42.01,Default,,0,0,0,,Forgive me, an acquaintance told me that someone had \Nseen a person who looked like Keiichi{**-san} at this station.
+Dialogue: 99,0:11:42.01,0:11:44.98,Default,,0,0,0,,So, I thought you were him.
+Dialogue: 99,0:11:46.19,0:11:48.40,Default,,0,0,0,,So, the errand you ran yesterday...
+Dialogue: 99,0:11:48.40,0:11:51.40,Default,,0,0,0,,Yes, I came here.
+Dialogue: 99,0:11:51.40,0:11:53.82,Default,,0,0,0,,What is Keiichi{**-san} like?
+Dialogue: 99,0:11:54.40,0:11:57.15,Default,,0,0,0,,You believe me?
+Dialogue: 99,0:11:57.15,0:11:58.91,Default,,0,0,0,,Yeah, I do.
+Dialogue: 99,0:12:00.07,0:12:04.54,Default,,0,0,0,,My parents both worked, and I had no siblings.
+Dialogue: 99,0:12:04.54,0:12:10.13,Default,,0,0,0,,I spent a great deal of time alone, \Nplaying at the lake in front of my house.
+Dialogue: 99,0:12:10.83,0:12:16.55,Default,,0,0,0,,And then my neighbor, Keiichi{**-san}, \Ntook pity on me and began to play with me.
+Dialogue: 99,0:12:17.22,0:12:21.85,Default,,0,0,0,,He was about your age and very kind.
+Dialogue: 99,0:12:21.85,0:12:24.14,Default,,0,0,0,,I adored him.
+Dialogue: 99,0:12:24.64,0:12:27.27,Default,,0,0,0,,But he was ill...
+Dialogue: 99,0:12:27.73,0:12:31.77,Default,,0,0,0,,One stormy night, he took a turn for the worse.
+Dialogue: 99,0:12:32.56,0:12:39.36,Default,,0,0,0,,I recalled the legend that a mermaid lived \Nin that lake, and hurried there.
+Dialogue: 99,0:12:40.70,0:12:44.91,Default,,0,0,0,,In those waters, I saw a mermaid with gentle eyes,
+Dialogue: 99,0:12:45.62,0:12:49.54,Default,,0,0,0,,and she gave me some of her precious blood.
+Dialogue: 99,0:12:49.54,0:12:53.96,Default,,0,0,0,,And so, I poured some onto his lips...
+Dialogue: 99,0:13:03.85,0:13:06.39,Default,,0,0,0,,You made him drink the mermaid's blood?
+Dialogue: 99,0:13:06.39,0:13:10.06,Default,,0,0,0,,The adults said it was just a dream,
+Dialogue: 99,0:13:10.06,0:13:13.36,Default,,0,0,0,,and it's been so long, \NI'm no longer sure myself.
+Dialogue: 99,0:13:14.11,0:13:17.07,Default,,0,0,0,,Keiichi{**-san} was transferred to a hospital far away,
+Dialogue: 99,0:13:17.07,0:13:19.03,Default,,0,0,0,,and his life was saved.
+Dialogue: 99,0:13:19.03,0:13:22.07,Default,,0,0,0,,But he never came back.
+Dialogue: 99,0:13:22.07,0:13:28.20,Default,,0,0,0,,The shock of him moving away made me \Ncompletely forget about the mermaid's blood.
+Dialogue: 99,0:13:28.87,0:13:30.96,Default,,0,0,0,,Terrible of me, don't you think?
+Dialogue: 99,0:13:30.96,0:13:31.83,Default,,0,0,0,,No...
+Dialogue: 99,0:13:32.62,0:13:35.96,Default,,0,0,0,,Last year, my husband passed on,
+Dialogue: 99,0:13:35.96,0:13:39.51,Default,,0,0,0,,and when I said to myself, \N"I won't be long behind him,"
+Dialogue: 99,0:13:40.22,0:13:42.01,Default,,0,0,0,,I suddenly remembered it all.
+Dialogue: 99,0:13:42.84,0:13:46.39,Default,,0,0,0,,I can't stop wondering if it was a dream.
+Dialogue: 99,0:13:46.39,0:13:52.52,Default,,0,0,0,,If not, then he cannot die or even age.
+Dialogue: 99,0:13:53.35,0:13:59.36,Default,,0,0,0,,What if my reckless, thoughtless \Nlove causes him to suffer even now?
+Dialogue: 99,0:14:04.70,0:14:09.70,Default,,0,0,0,,To live forever alone, watching \Neveryone you love pass away...
+Dialogue: 99,0:14:10.12,0:14:13.25,Default,,0,0,0,,{\i1}{*}Master{*Sensei}'s probably lived like that.
+Dialogue: 99,0:14:17.29,0:14:19.42,Default,,0,0,0,,{\i1}Like with Reiko{**-san}, for example.
+Dialogue: 99,0:14:21.88,0:14:24.80,Default,,0,0,0,,{\i1}And someday...
+Dialogue: 99,0:14:33.48,0:14:35.73,Default,,0,0,0,,Maybe I'll catch that mermaid...
+Dialogue: 99,0:14:35.73,0:14:36.98,Default,,0,0,0,,What?
+Dialogue: 99,0:14:36.98,0:14:39.02,Default,,0,0,0,,She might know something.
+Dialogue: 99,0:14:39.02,0:14:40.82,Default,,0,0,0,,Always with the stupid ideas...
+Dialogue: 99,0:14:40.82,0:14:43.40,Default,,0,0,0,,I'm not helping.
+Dialogue: 99,0:14:44.15,0:14:47.16,Default,,0,0,0,,I'll buy you a steamed bun \Nfrom Nanatsujiya on the way back.
+Dialogue: 99,0:14:48.66,0:14:50.37,Default,,0,0,0,,We're just catching her.
+Dialogue: 99,0:14:52.58,0:14:56.42,Default,,0,0,0,,Hey! Mermaid! Hey!
+Dialogue: 99,0:14:57.13,0:14:58.88,Default,,0,0,0,,I just want to talk!
+Dialogue: 99,0:14:58.88,0:15:00.09,Default,,0,0,0,,Please come out!
+Dialogue: 99,0:15:02.26,0:15:05.18,Default,,0,0,0,,Natsume, the sun's going down.
+Dialogue: 99,0:15:05.80,0:15:07.14,Default,,0,0,0,,So we came for nothing?
+Dialogue: 99,0:15:12.98,0:15:14.85,Default,,0,0,0,,You don't like humans, I get it.
+Dialogue: 99,0:15:14.85,0:15:16.60,Default,,0,0,0,,But, aren't you lonely all by yourself?
+Dialogue: 99,0:15:17.06,0:15:19.48,Default,,0,0,0,,I haven't always been alone.
+Dialogue: 99,0:15:20.90,0:15:22.73,Default,,0,0,0,,What do you want, boy?
+Dialogue: 99,0:15:26.16,0:15:27.32,Default,,0,0,0,,What are you doing?!
+Dialogue: 99,0:15:27.32,0:15:27.87,Default,,0,0,0,,Get off me!
+Dialogue: 99,0:15:27.87,0:15:28.87,Default,,0,0,0,,I want to talk.
+Dialogue: 99,0:15:28.87,0:15:30.66,Default,,0,0,0,,I'm not letting go until you answer me.
+Dialogue: 99,0:15:30.66,0:15:31.99,Default,,0,0,0,,Fool.
+Dialogue: 99,0:15:31.99,0:15:34.50,Default,,0,0,0,,You can't possibly beat me in the water!
+Dialogue: 99,0:15:34.50,0:15:38.13,Default,,0,0,0,,I'd always regret not doing \Neverything in my power to help her!
+Dialogue: 99,0:15:38.46,0:15:39.75,Default,,0,0,0,,So tell me!
+Dialogue: 99,0:15:39.75,0:15:43.01,Default,,0,0,0,,Did you ever give a little girl your blood?
+Dialogue: 99,0:15:43.01,0:15:43.63,Default,,0,0,0,,What?
+Dialogue: 99,0:15:44.05,0:15:48.43,Default,,0,0,0,,She's hurting because she gave it \Nto the person she cared about.
+Dialogue: 99,0:15:48.43,0:15:50.89,Default,,0,0,0,,If you know some way \Nto break the immortality...
+Dialogue: 99,0:15:54.98,0:15:58.98,Default,,0,0,0,,All anybody cares about is immortality; \Nour flesh and blood!
+Dialogue: 99,0:16:00.98,0:16:04.86,Default,,0,0,0,,Yes, she often used to come here.
+Dialogue: 99,0:16:05.15,0:16:09.24,Default,,0,0,0,,She didn't know I was a mermaid, \Nand she would always play with me.
+Dialogue: 99,0:16:10.70,0:16:14.83,Default,,0,0,0,,So when she came back after a long absence, \NI showed her this form,
+Dialogue: 99,0:16:14.83,0:16:18.46,Default,,0,0,0,,and when she asked for blood, \NI gave her some.
+Dialogue: 99,0:16:19.75,0:16:20.79,Default,,0,0,0,,I see...
+Dialogue: 99,0:16:20.79,0:16:26.67,Default,,0,0,0,,She regrets giving it to another, \Nand her timeworn heart is saddened.
+Dialogue: 99,0:16:27.30,0:16:28.80,Default,,0,0,0,,Poor thing...
+Dialogue: 99,0:16:28.80,0:16:30.80,Default,,0,0,0,,In that case, to end her suffering...
+Dialogue: 99,0:16:31.68,0:16:33.76,Default,,0,0,0,,I'll eat her!
+Dialogue: 99,0:16:33.76,0:16:34.72,Default,,0,0,0,,Wait!
+Dialogue: 99,0:16:36.23,0:16:37.39,Default,,0,0,0,,She took off?
+Dialogue: 99,0:16:40.52,0:16:42.98,Default,,0,0,0,,Hey! Where are you going, Natsume?
+Dialogue: 99,0:16:43.36,0:16:44.73,Default,,0,0,0,,This isn't what I wanted!
+Dialogue: 99,0:16:44.73,0:16:46.44,Default,,0,0,0,,I was just trying to help.
+Dialogue: 99,0:16:46.44,0:16:47.90,Default,,0,0,0,,Why didn't it work?
+Dialogue: 99,0:16:48.53,0:16:49.53,Default,,0,0,0,,For me...
+Dialogue: 99,0:16:50.11,0:16:51.24,Default,,0,0,0,,For Chizu{**-san}...
+Dialogue: 99,0:17:09.38,0:17:10.84,Default,,0,0,0,,He...
+Dialogue: 99,0:17:11.93,0:17:13.43,Default,,0,0,0,,Keiichi{**-san} is...
+Dialogue: 99,0:17:13.43,0:17:15.43,Default,,0,0,0,,...the exact same!
+Dialogue: 99,0:17:16.31,0:17:18.48,Default,,0,0,0,,What have I done?
+Dialogue: 99,0:17:19.48,0:17:21.10,Default,,0,0,0,,Keiichi{**-san}!
+Dialogue: 99,0:17:21.10,0:17:22.98,Default,,0,0,0,,Wait, Keiichi{**-san}!
+Dialogue: 99,0:17:26.15,0:17:27.99,Default,,0,0,0,,Keiichi{**-san}!
+Dialogue: 99,0:17:37.41,0:17:39.37,Default,,0,0,0,,You poor thing...
+Dialogue: 99,0:17:39.37,0:17:40.79,Default,,0,0,0,,Are you tired?
+Dialogue: 99,0:17:41.67,0:17:44.04,Default,,0,0,0,,That voice... Are you that mermaid?
+Dialogue: 99,0:17:50.17,0:17:51.88,Default,,0,0,0,,Wait, mermaid!
+Dialogue: 99,0:17:51.88,0:17:54.01,Default,,0,0,0,,She was just a child!
+Dialogue: 99,0:17:54.01,0:17:57.10,Default,,0,0,0,,Just a little girl who didn't \Nunderstand your loneliness or scars!
+Dialogue: 99,0:17:57.56,0:18:00.48,Default,,0,0,0,,She called you a mermaid \Nwith kindness in her eyes...
+Dialogue: 99,0:18:02.85,0:18:04.31,Default,,0,0,0,,It's reacting to you.
+Dialogue: 99,0:18:04.31,0:18:06.57,Default,,0,0,0,,Is your name in the Book of Friends?
+Dialogue: 99,0:18:06.57,0:18:08.53,Default,,0,0,0,,Is that why you want it?
+Dialogue: 99,0:18:09.36,0:18:11.03,Default,,0,0,0,,I was just killing time.
+Dialogue: 99,0:18:11.03,0:18:12.95,Default,,0,0,0,,That's why I was after the Book of Friends,
+Dialogue: 99,0:18:12.95,0:18:15.20,Default,,0,0,0,,why I fought Natsume Reiko,
+Dialogue: 99,0:18:15.20,0:18:17.08,Default,,0,0,0,,and why I gave that girl my blood.
+Dialogue: 99,0:18:17.08,0:18:19.08,Default,,0,0,0,,It was all to kill time.
+Dialogue: 99,0:18:19.62,0:18:21.50,Default,,0,0,0,,So you're Reiko's grandson?
+Dialogue: 99,0:18:21.50,0:18:22.58,Default,,0,0,0,,You look delicious.
+Dialogue: 99,0:18:27.84,0:18:29.09,Default,,0,0,0,,I found it.
+Dialogue: 99,0:18:29.09,0:18:31.72,Default,,0,0,0,,Sasafune, I return your name.
+Dialogue: 99,0:18:31.72,0:18:32.59,Default,,0,0,0,,Please take it.
+Dialogue: 99,0:18:50.69,0:18:52.74,Default,,0,0,0,,What a stormy night...
+Dialogue: 99,0:18:52.74,0:18:57.41,Default,,0,0,0,,She hasn't come by for months, \Nbut she's back now.
+Dialogue: 99,0:18:58.16,0:19:00.58,Default,,0,0,0,,Maybe I'll ask her to be my friend.
+Dialogue: 99,0:19:01.37,0:19:05.83,Default,,0,0,0,,Should I smile so she won't be scared?
+Dialogue: 99,0:19:05.83,0:19:08.29,Default,,0,0,0,,Mermaid! Mermaid!
+Dialogue: 99,0:19:08.29,0:19:09.96,Default,,0,0,0,,Please give me your blood!
+Dialogue: 99,0:19:11.59,0:19:15.76,Default,,0,0,0,,I see... that's all you were after.
+Dialogue: 99,0:19:16.26,0:19:17.84,Default,,0,0,0,,Is that true?
+Dialogue: 99,0:19:20.68,0:19:23.85,Default,,0,0,0,,You saw my thoughts, didn't you, Natsume?
+Dialogue: 99,0:19:23.85,0:19:25.02,Default,,0,0,0,,That's right...
+Dialogue: 99,0:19:25.02,0:19:29.19,Default,,0,0,0,,I was so disappointed, \NI decided to play a trick on her,
+Dialogue: 99,0:19:29.19,0:19:31.61,Default,,0,0,0,,and gave her a vial filled with grape juice.
+Dialogue: 99,0:19:32.28,0:19:36.61,Default,,0,0,0,,She smiled with tears in her eyes and thanked me.
+Dialogue: 99,0:19:37.03,0:19:41.79,Default,,0,0,0,,And then I became disappointed in myself.
+Dialogue: 99,0:19:42.33,0:19:43.79,Default,,0,0,0,,Sasafune...
+Dialogue: 99,0:19:44.20,0:19:46.87,Default,,0,0,0,,But it was for the best.
+Dialogue: 99,0:19:46.87,0:19:49.04,Default,,0,0,0,,It was all for the best.
+Dialogue: 99,0:19:49.63,0:19:51.80,Default,,0,0,0,,Please tell her for me, Natsume...
+Dialogue: 99,0:19:51.80,0:19:55.05,Default,,0,0,0,,Tell her I'm sorry for tricking her.
+Dialogue: 99,0:19:55.38,0:19:56.72,Default,,0,0,0,,Wait, Sasafune!
+Dialogue: 99,0:19:56.72,0:19:59.09,Default,,0,0,0,,Tell her... Tell her yourself!
+Dialogue: 99,0:20:00.72,0:20:01.72,Default,,0,0,0,,Chizu{**-san}!
+Dialogue: 99,0:20:07.27,0:20:08.56,Default,,0,0,0,,Mermaid!
+Dialogue: 99,0:20:15.32,0:20:17.49,Default,,0,0,0,,Take care.
+Dialogue: 99,0:20:20.49,0:20:23.08,Default,,0,0,0,,Did you hear that, Chizu{**-san}?
+Dialogue: 99,0:20:25.12,0:20:26.37,Default,,0,0,0,,Yes...
+Dialogue: 99,0:20:26.79,0:20:30.33,Default,,0,0,0,,That same gentle voice I used to hear.
+Dialogue: 99,0:20:44.01,0:20:46.98,Default,,0,0,0,,I see, it was his grandson.
+Dialogue: 99,0:20:46.98,0:20:49.94,Default,,0,0,0,,Yes, he comes through this station \Nsometimes on his way to cram school.
+Dialogue: 99,0:20:50.90,0:20:54.52,Default,,0,0,0,,Keiichi{**-san} died three years ago, he said,
+Dialogue: 99,0:20:54.52,0:20:57.19,Default,,0,0,0,,but he led a very happy life.
+Dialogue: 99,0:20:57.19,0:21:00.16,Default,,0,0,0,,His grandson really did look just like the picture.
+Dialogue: 99,0:21:02.32,0:21:06.37,Default,,0,0,0,,He said he'd like to hear about his grandfather.
+Dialogue: 99,0:21:16.25,0:21:17.71,Default,,0,0,0,,Hello.
+Dialogue: 99,0:21:17.71,0:21:19.22,Default,,0,0,0,,A pleasure to meet you.
+Dialogue: 99,0:21:31.94,0:21:36.02,Default,,0,0,0,,Sasafune, Chizu{**-san} says she'll come back.
+Dialogue: 99,0:21:39.03,0:21:42.66,Default,,0,0,0,,Don't think I can save you every time, Natsume.
+Dialogue: 99,0:21:42.66,0:21:44.91,Default,,0,0,0,,Some things are just impossible,
+Dialogue: 99,0:21:44.91,0:21:47.95,Default,,0,0,0,,which is a fact you seem to constantly forget.
+Dialogue: 99,0:21:48.37,0:21:50.00,Default,,0,0,0,,You're right.
+Dialogue: 99,0:21:50.00,0:21:51.75,Default,,0,0,0,,I'm painfully aware of my weakness.
+Dialogue: 99,0:21:52.37,0:21:58.80,Default,,0,0,0,,{\i1}But that's exactly why everyone knows \Nhow it feels to want to be with someone,
+Dialogue: 99,0:21:58.80,0:22:01.05,Default,,0,0,0,,{\i1}or to want someone with you,
+Dialogue: 99,0:22:01.05,0:22:04.01,Default,,0,0,0,,{\i1}and what a precious thing it is \Nwhen that wish comes true.
+Dialogue: 99,0:23:35.98,0:23:38.23,Default,,0,0,0,,I got a picture at the flea market.
+Dialogue: 99,0:23:38.23,0:23:40.98,Default,,0,0,0,,Who keeps spreading flowers every night?!
+Dialogue: 99,0:23:40.98,0:23:43.44,Default,,0,0,0,,{*}Lord Yasaka{*Yasaka-sama} is inside that image.
+Dialogue: 99,0:23:43.44,0:23:45.11,Default,,0,0,0,,There you are, underling!
+Dialogue: 99,0:23:45.11,0:23:45.95,Default,,0,0,0,,Why flowers?
+Dialogue: 99,0:23:45.95,0:23:49.49,Default,,0,0,0,,During his years as a human, \N{*}Lord Yasaka{*Yasaka-sama} adored flowers.
 Dialogue: 0,0:22:04.97,0:22:05.01,ED,,0,0,0,,{ED START}
 Dialogue: 0,0:22:05.43,0:22:09.93,ED,,0,0,0,,{\fad(250,250)\blur4\c&HC2D4E8&\1a&HFF&\t(205,250,\1a&H00&)\t(4260,4305,\1a&HFF&)}Hey, just a little longer
 Dialogue: 1,0:22:05.43,0:22:09.93,ED,,0,0,0,,{\bord0\fad(250,250)\blur0.4\4a&HFF&}Hey, just a little longer
