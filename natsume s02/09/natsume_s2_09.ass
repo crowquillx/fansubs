@@ -19,9 +19,8 @@ Keyframes File: natsume_s2_09_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 241
-Active Line: 258
-Video Position: 33940
+Active Line: 5
+Video Position: 3186
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,270 +40,270 @@ Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:53.22,0:01:54.68,Default,,0,0,0,,Natsume!
-Dialogue: 0,0:01:57.06,0:01:58.14,Default,,0,0,0,,Over here.
-Dialogue: 0,0:02:01.89,0:02:03.39,Default,,0,0,0,,{*}Master{*Sensei}?
-Dialogue: 0,0:02:03.39,0:02:04.73,Default,,0,0,0,,What are you up to?
-Dialogue: 0,0:02:04.73,0:02:09.11,Default,,0,0,0,,I came to buy some bowls for Touko{**-san}, \NShigeru{**-san}, and myself.
-Dialogue: 0,0:02:12.86,0:02:13.78,Default,,0,0,0,,Wait.
-Dialogue: 0,0:02:13.78,0:02:16.99,Default,,0,0,0,,I want a bowl!
-Dialogue: 0,0:02:19.79,0:02:22.21,Default,,0,0,0,,Buy one for me too!
-Dialogue: 0,0:02:22.21,0:02:24.75,Default,,0,0,0,,Stand! I said stand up, Natsume!
-Dialogue: 0,0:02:34.80,0:02:35.72,Default,,0,0,0,,What was that?
-Dialogue: 0,0:02:36.22,0:02:38.26,Default,,0,0,0,,I just felt a strange presence.
-Dialogue: 0,0:02:55.45,0:02:57.37,Default,,0,0,0,,Did it come from this painting?
-Dialogue: 0,0:02:58.66,0:02:59.87,Default,,0,0,0,,Caught your eye, did it?
-Dialogue: 0,0:03:00.79,0:03:03.70,Default,,0,0,0,,I'm about to close up the shop, \Nbut that one didn't sell.
-Dialogue: 0,0:03:03.70,0:03:05.16,Default,,0,0,0,,You can have it, if you want.
-Dialogue: 0,0:03:14.92,0:03:16.51,Default,,0,0,0,,You're actually putting that up?
-Dialogue: 0,0:03:16.51,0:03:19.26,Default,,0,0,0,,It's just a bunch of dumb branches.
-Dialogue: 0,0:03:19.26,0:03:20.56,Default,,0,0,0,,You think so?
-Dialogue: 0,0:03:20.56,0:03:22.56,Default,,0,0,0,,I think it's kind of nice.
-Dialogue: 0,0:03:22.56,0:03:24.18,Default,,0,0,0,,For real?
-Dialogue: 0,0:03:28.40,0:03:31.19,Default,,0,0,0,,{\i1}He might have a point, though.
-Dialogue: 0,0:03:31.73,0:03:34.65,Default,,0,0,0,,{\i1}I guess it'd be nicer if the flowers were in bloom.
-Dialogue: 0,0:03:54.13,0:03:55.97,Default,,0,0,0,,What is this?
-Dialogue: 0,0:04:02.47,0:04:04.64,Default,,0,0,0,,Where did these come from?
-Dialogue: 0,0:04:20.20,0:04:21.37,Default,,0,0,0,,{\i1}Oddly...
-Dialogue: 0,0:04:21.95,0:04:23.87,Default,,0,0,0,,Ah! Again?
-Dialogue: 0,0:04:23.87,0:04:24.87,Default,,0,0,0,,{\i1}And the next morning...
-Dialogue: 0,0:04:28.87,0:04:30.37,Default,,0,0,0,,Man, not again!
-Dialogue: 0,0:04:30.83,0:04:34.46,Default,,0,0,0,,{\i1}And on the following morning, \NI found more petals on my pillow.
-Dialogue: 0,0:04:36.01,0:04:39.63,Default,,0,0,0,,You haven't been getting drunk \Nand tracking them in, have you?
-Dialogue: 0,0:04:39.97,0:04:42.93,Default,,0,0,0,,What? Of all the nerve! \NI have no interest in flowers!
-Dialogue: 0,0:04:43.39,0:04:45.10,Default,,0,0,0,,Hmph! Hmph! Hmph!
-Dialogue: 0,0:04:46.22,0:04:48.31,Default,,0,0,0,,{\i1}It started after I hung that painting up.
-Dialogue: 0,0:04:50.69,0:04:54.90,Default,,0,0,0,,{\i1}If some demon is to blame for this, \NI have to act fast.
-Dialogue: 0,0:04:55.69,0:04:59.40,Default,,0,0,0,,Thank you! I've always wanted one of this size.
-Dialogue: 0,0:04:59.40,0:05:03.37,Default,,0,0,0,,{\i1}I'll get rid of anything that could threaten this house.
-Dialogue: 0,0:05:13.96,0:05:16.38,Default,,0,0,0,,Don't think you can just curl up in here with me.
-Dialogue: 0,0:05:16.96,0:05:18.76,Default,,0,0,0,,Uh, why do you have a net?
-Dialogue: 0,0:05:18.76,0:05:21.51,Default,,0,0,0,,Haven't you even considered \Nthat fairies might be behind this?
-Dialogue: 0,0:05:23.84,0:05:26.01,Default,,0,0,0,,If they are, I'm gonna catch 'em!
-Dialogue: 0,0:05:26.43,0:05:29.64,Default,,0,0,0,,I don't think some imaginary creature is to blame.
-Dialogue: 0,0:05:31.06,0:05:32.85,Default,,0,0,0,,Can you say that without a doubt? Huh?
-Dialogue: 0,0:05:32.85,0:05:34.44,Default,,0,0,0,,Are you really sure?
-Dialogue: 0,0:05:34.44,0:05:35.94,Default,,0,0,0,,Hey? Are you absolutely positive?
-Dialogue: 0,0:06:13.23,0:06:16.94,Default,,0,0,0,,I don't appreciate you barging \Ninto my territory, missy.
-Dialogue: 0,0:06:20.69,0:06:23.53,Default,,0,0,0,,Why do you keep putting flowers here?
-Dialogue: 0,0:06:23.53,0:06:26.03,Default,,0,0,0,,They are an offering to {\i1}him,
-Dialogue: 0,0:06:26.03,0:06:28.37,Default,,0,0,0,,and have nothing to do with you,
-Dialogue: 0,0:06:28.37,0:06:29.87,Default,,0,0,0,,you damn thief.
-Dialogue: 0,0:06:29.87,0:06:31.16,Default,,0,0,0,,Thief?
-Dialogue: 0,0:06:31.16,0:06:32.75,Default,,0,0,0,,What have I stolen?
-Dialogue: 0,0:06:32.75,0:06:35.37,Default,,0,0,0,,How impudent! I'll eat you!
-Dialogue: 0,0:06:37.38,0:06:39.25,Default,,0,0,0,,Stop, {*}Master{*Sensei}!
-Dialogue: 0,0:06:40.92,0:06:41.63,Default,,0,0,0,,Why me?
-Dialogue: 0,0:06:41.63,0:06:42.63,Default,,0,0,0,,What was that for?
-Dialogue: 0,0:06:42.63,0:06:45.93,Default,,0,0,0,,I was actually acting like a bodyguard for once...
-Dialogue: 0,0:06:45.93,0:06:47.85,Default,,0,0,0,,Who do you mean by "him"?
-Dialogue: 0,0:06:47.85,0:06:49.93,Default,,0,0,0,,Only {*}Master{*Sensei} and I are here.
-Dialogue: 0,0:06:49.93,0:06:52.85,Default,,0,0,0,,What are you talking about? \NHe's right there.
-Dialogue: 0,0:06:53.31,0:06:53.89,Default,,0,0,0,,Him.
-Dialogue: 0,0:07:08.49,0:07:10.53,Default,,0,0,0,,Don't be so loud.
-Dialogue: 0,0:07:10.53,0:07:12.24,Default,,0,0,0,,You'll startle {*}Lord Yasaka{*Yasaka-sama}.
-Dialogue: 0,0:07:12.24,0:07:13.87,Default,,0,0,0,,R-Right...
-Dialogue: 0,0:07:13.87,0:07:16.08,Default,,0,0,0,,The people in the house, too.
-Dialogue: 0,0:07:16.08,0:07:17.21,Default,,0,0,0,,{*}Lord Yasaka{*Yasaka-sama}?
-Dialogue: 0,0:07:17.21,0:07:17.96,Default,,0,0,0,,Right.
-Dialogue: 0,0:07:18.50,0:07:20.92,Default,,0,0,0,,He lives in this painting.
-Dialogue: 0,0:07:20.92,0:07:22.42,Default,,0,0,0,,I'll be reclaiming this.
-Dialogue: 0,0:07:22.42,0:07:24.13,Default,,0,0,0,,It belongs to me.
-Dialogue: 0,0:07:24.88,0:07:26.68,Default,,0,0,0,,It was misplaced and got left behind,
-Dialogue: 0,0:07:26.68,0:07:29.01,Default,,0,0,0,,then some human picked it up and sold it off...
-Dialogue: 0,0:07:29.01,0:07:31.85,Default,,0,0,0,,Now it seems it's come to this wretched house.
-Dialogue: 0,0:07:34.98,0:07:36.19,Default,,0,0,0,,It's not...
-Dialogue: 0,0:07:36.77,0:07:38.15,Default,,0,0,0,,It's not...
-Dialogue: 0,0:07:38.15,0:07:39.65,Default,,0,0,0,,It won't come off!
-Dialogue: 0,0:07:40.82,0:07:42.40,Default,,0,0,0,,Huh? Why?
-Dialogue: 0,0:07:42.40,0:07:43.61,Default,,0,0,0,,It's really not coming off...
-Dialogue: 0,0:07:43.61,0:07:45.95,Default,,0,0,0,,What did you do, nail it to the wall?
-Dialogue: 0,0:07:45.95,0:07:47.15,Default,,0,0,0,,Of course not!
-Dialogue: 0,0:07:47.15,0:07:49.32,Default,,0,0,0,,You did something weird to it, didn't you?
-Dialogue: 0,0:07:49.32,0:07:50.20,Default,,0,0,0,,What?
-Dialogue: 0,0:07:57.12,0:07:58.50,Default,,0,0,0,,Very well.
-Dialogue: 0,0:07:59.25,0:08:01.29,Default,,0,0,0,,I will continue to visit until it comes off.
-Dialogue: 0,0:08:01.29,0:08:02.63,Default,,0,0,0,,What?!
-Dialogue: 0,0:08:02.63,0:08:05.01,Default,,0,0,0,,My name is Miya. \NI'll return tomorrow.
-Dialogue: 0,0:08:05.51,0:08:08.22,Default,,0,0,0,,Wait! H-Hey!
-Dialogue: 0,0:08:09.01,0:08:11.85,Default,,0,0,0,,Hey! Don't leave these creepy petals behind!
-Dialogue: 0,0:08:12.89,0:08:14.81,Default,,0,0,0,,{\i1}And so, true to her word...
-Dialogue: 0,0:08:18.06,0:08:19.65,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:08:19.65,0:08:22.27,Default,,0,0,0,,{\i1}Miya came back the next night.
-Dialogue: 0,0:08:23.65,0:08:25.23,Default,,0,0,0,,Put your hand out, boy.
-Dialogue: 0,0:08:28.32,0:08:31.24,Default,,0,0,0,,This is my thanks for looking after {*}Lord Yasaka{*Yasaka-sama}.
-Dialogue: 0,0:08:37.62,0:08:40.50,Default,,0,0,0,,It's a nice gesture, but don't \Nlet them loose in my room!
-Dialogue: 0,0:08:40.75,0:08:42.42,Default,,0,0,0,,Hey, wait!
-Dialogue: 0,0:08:42.42,0:08:43.29,Default,,0,0,0,,Pretty, aren't they?
-Dialogue: 0,0:08:44.13,0:08:47.09,Default,,0,0,0,,{*}Lord Yasaka{*Yasaka-sama} was once human.
-Dialogue: 0,0:08:47.09,0:08:51.34,Default,,0,0,0,,He loved gazing at flowers and butterflies.
-Dialogue: 0,0:08:51.34,0:08:53.55,Default,,0,0,0,,{\i1}Was{\i0} a human?
-Dialogue: 0,0:09:11.78,0:09:13.57,Default,,0,0,0,,It was a long time ago...
-Dialogue: 0,0:09:14.78,0:09:18.58,Default,,0,0,0,,I had been looking at the blossoms \Non a row of cherry trees.
-Dialogue: 0,0:09:18.95,0:09:22.79,Default,,0,0,0,,When in full bloom, \Nthey could take your breath away.
-Dialogue: 0,0:09:23.83,0:09:29.42,Default,,0,0,0,,Hidden by the petals, \NI tried talking to him.
-Dialogue: 0,0:09:30.80,0:09:34.14,Default,,0,0,0,,Do you enjoy your books more than \Nthese lovely cherry blossoms?
-Dialogue: 0,0:09:36.72,0:09:40.18,Default,,0,0,0,,Are rows of letters more enjoyable \Nthan rows of flowers?
-Dialogue: 0,0:09:40.18,0:09:42.77,Default,,0,0,0,,I love both books and flowers.
-Dialogue: 0,0:09:42.77,0:09:46.44,Default,,0,0,0,,I also enjoy talking to you.
-Dialogue: 0,0:09:46.94,0:09:49.24,Default,,0,0,0,,He called himself Yasaka.
-Dialogue: 0,0:09:49.24,0:09:52.03,Default,,0,0,0,,He was frail, but he was the heir \Nto a distinguished family,
-Dialogue: 0,0:09:52.03,0:09:54.82,Default,,0,0,0,,so he barely had any time to himself.
-Dialogue: 0,0:09:56.03,0:10:01.08,Default,,0,0,0,,He never realized I was a spirit, \Nand came to speak to me many times.
-Dialogue: 0,0:10:02.41,0:10:03.54,Default,,0,0,0,,But...
-Dialogue: 0,0:10:04.67,0:10:07.25,Default,,0,0,0,,I was always afraid he'd discover what I was.
-Dialogue: 0,0:10:09.71,0:10:15.30,Default,,0,0,0,,So, I would only go to that row of trees \Nwhen there were cherry blossoms to hide me.
-Dialogue: 0,0:10:16.51,0:10:21.27,Default,,0,0,0,,We were friends who only \Nspoke during the flower season.
-Dialogue: 0,0:10:21.27,0:10:22.35,Default,,0,0,0,,Miya,
-Dialogue: 0,0:10:23.10,0:10:27.52,Default,,0,0,0,,if I'm ever given freedom, \NI want to travel everywhere my heart desires.
-Dialogue: 0,0:10:28.23,0:10:32.90,Default,,0,0,0,,Wouldn't it be wonderful to see \Nthe flowers of the world?
-Dialogue: 0,0:10:34.28,0:10:36.41,Default,,0,0,0,,Miya, I wonder why.
-Dialogue: 0,0:10:37.12,0:10:40.62,Default,,0,0,0,,There are so many things that I want you to hear.
-Dialogue: 0,0:10:42.83,0:10:46.58,Default,,0,0,0,,Several springs passed in this way.
-Dialogue: 0,0:10:48.17,0:10:50.88,Default,,0,0,0,,Until one year, he didn't come at all.
-Dialogue: 0,0:10:51.34,0:10:53.88,Default,,0,0,0,,I waited and waited...
-Dialogue: 0,0:10:54.17,0:10:55.38,Default,,0,0,0,,All through the next spring...
-Dialogue: 0,0:10:55.76,0:10:57.43,Default,,0,0,0,,and the one that followed.
-Dialogue: 0,0:11:00.89,0:11:03.23,Default,,0,0,0,,I looked everywhere for him.
-Dialogue: 0,0:11:03.81,0:11:07.56,Default,,0,0,0,,I walked around searching for him, \Nnot even knowing where to look.
-Dialogue: 0,0:11:07.56,0:11:08.98,Default,,0,0,0,,Until finally,
-Dialogue: 0,0:11:09.57,0:11:11.23,Default,,0,0,0,,I found that painting.
-Dialogue: 0,0:11:13.57,0:11:14.61,Default,,0,0,0,,Upon asking,
-Dialogue: 0,0:11:14.61,0:11:17.74,Default,,0,0,0,,I was told that it was drawn by a renowned spirit.
-Dialogue: 0,0:11:18.87,0:11:23.50,Default,,0,0,0,,Maybe he was dissatisfied with the world of men \Nand escaped into the painting.
-Dialogue: 0,0:11:24.46,0:11:30.50,Default,,0,0,0,,So, I took it and began \Nto travel in order to comfort him.
-Dialogue: 0,0:11:31.05,0:11:34.72,Default,,0,0,0,,I believe that someday, \Nonce his heart has healed,
-Dialogue: 0,0:11:34.72,0:11:37.01,Default,,0,0,0,,he'll finally come out.
-Dialogue: 0,0:11:38.34,0:11:40.01,Default,,0,0,0,,And then...
-Dialogue: 0,0:11:40.01,0:11:42.43,Default,,0,0,0,,I can talk to him again.
-Dialogue: 0,0:11:54.19,0:11:59.03,Default,,0,0,0,,It's true that a famous spirit painted this picture.
-Dialogue: 0,0:11:59.03,0:12:01.37,Default,,0,0,0,,However, it's simply a painting.
-Dialogue: 0,0:12:01.37,0:12:07.50,Default,,0,0,0,,It's nothing but a drawing of cherry trees in winter, \Nwith this Yasaka guy standing around.
-Dialogue: 0,0:12:07.50,0:12:11.75,Default,,0,0,0,,Wait as she might, he's not coming out.
-Dialogue: 0,0:12:14.13,0:12:17.93,Default,,0,0,0,,{\i1}Even so, Miya brought flowers every day.
-Dialogue: 0,0:12:18.51,0:12:19.76,Default,,0,0,0,,{\i1}Every day,
-Dialogue: 0,0:12:19.76,0:12:20.97,Default,,0,0,0,,{\i1}no matter what,
-Dialogue: 0,0:12:21.30,0:12:22.22,Default,,0,0,0,,{\i1}without fail.
-Dialogue: 0,0:12:26.10,0:12:27.64,Default,,0,0,0,,Weird cough you've got there.
-Dialogue: 0,0:12:28.39,0:12:30.23,Default,,0,0,0,,It just won't stop...
-Dialogue: 0,0:12:43.87,0:12:46.25,Default,,0,0,0,,Come on, {*}Master{*Sensei}! Don't trample them!
-Dialogue: 0,0:12:48.29,0:12:51.75,Default,,0,0,0,,{\i1}Has Miya been traveling like this,
-Dialogue: 0,0:12:52.46,0:12:55.46,Default,,0,0,0,,{\i1}following the beautiful \Nscenery wherever it leads her,
-Dialogue: 0,0:12:56.26,0:12:58.17,Default,,0,0,0,,{\i1}carrying only an ordinary painting?
-Dialogue: 0,0:13:01.30,0:13:03.97,Default,,0,0,0,,Pardon me. Pardon me.
-Dialogue: 0,0:13:09.35,0:13:11.15,Default,,0,0,0,,Oh, it's Harujizou.
-Dialogue: 0,0:13:11.15,0:13:16.07,Default,,0,0,0,,Every spring, he goes around telling people's \Nfortunes as part of his spiritual training.
-Dialogue: 0,0:13:16.69,0:13:21.36,Default,,0,0,0,,A sinister shadow entwines you.
-Dialogue: 0,0:13:21.36,0:13:26.08,Default,,0,0,0,,I can see your corpse littered with leaves.
-Dialogue: 0,0:13:31.50,0:13:33.71,Default,,0,0,0,,Wait! What do you mean "corpse"?
-Dialogue: 0,0:13:33.71,0:13:35.25,Default,,0,0,0,,Takashi{**-kun}?
-Dialogue: 0,0:13:35.25,0:13:36.96,Default,,0,0,0,,T-Touko{**-san}...
-Dialogue: 0,0:13:37.25,0:13:38.55,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:13:38.55,0:13:40.97,Default,,0,0,0,,You were talking to yourself out loud.
-Dialogue: 0,0:13:41.88,0:13:43.47,Default,,0,0,0,,No. Ah...
-Dialogue: 0,0:13:53.40,0:13:55.44,Default,,0,0,0,,It's nothing.
-Dialogue: 0,0:13:55.44,0:13:56.77,Default,,0,0,0,,Promise?
-Dialogue: 0,0:13:56.77,0:13:57.94,Default,,0,0,0,,Yeah, I swear.
-Dialogue: 0,0:13:57.94,0:13:58.98,Default,,0,0,0,,Okay...
-Dialogue: 0,0:13:59.99,0:14:01.20,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:14:02.65,0:14:04.70,Default,,0,0,0,,Well then, shall we go home?
-Dialogue: 0,0:14:04.70,0:14:05.74,Default,,0,0,0,,Okay.
-Dialogue: 0,0:14:07.66,0:14:11.71,Default,,0,0,0,,{\i1}I was always afraid he'd discover what I was.
-Dialogue: 0,0:14:12.46,0:14:13.25,Default,,0,0,0,,{\i1}Yeah...
-Dialogue: 0,0:14:15.00,0:14:16.46,Default,,0,0,0,,{\i1}It's the same for me.
-Dialogue: 0,0:14:20.80,0:14:25.14,Default,,0,0,0,,Still, what did that Harujizou mean?
-Dialogue: 0,0:14:26.80,0:14:27.60,Default,,0,0,0,,Natsume!
-Dialogue: 0,0:14:29.77,0:14:31.60,Default,,0,0,0,,What is this?
-Dialogue: 0,0:14:35.77,0:14:36.94,Default,,0,0,0,,Oh, now I get it!
-Dialogue: 0,0:14:36.94,0:14:39.02,Default,,0,0,0,,I know why you're coughing!
-Dialogue: 0,0:14:39.02,0:14:42.44,Default,,0,0,0,,This painting is stealing your energy,
-Dialogue: 0,0:14:42.44,0:14:45.70,Default,,0,0,0,,and it's spreading its branches to take even more!
-Dialogue: 0,0:14:48.08,0:14:49.08,Default,,0,0,0,,{*}Master{*Sensei}!
-Dialogue: 0,0:14:49.95,0:14:54.29,Default,,0,0,0,,I won't allow a little painting to pilfer my prey!
-Dialogue: 0,0:14:54.29,0:14:56.58,Default,,0,0,0,,I'll tear it to shreds first!
-Dialogue: 0,0:14:57.04,0:14:58.29,Default,,0,0,0,,Stop, {*}Master{*Sensei}!
-Dialogue: 0,0:14:58.29,0:15:00.05,Default,,0,0,0,,That's Miya's...
-Dialogue: 0,0:15:04.76,0:15:05.97,Default,,0,0,0,,Natsume, you fool!
-Dialogue: 0,0:15:05.97,0:15:07.93,Default,,0,0,0,,What the heck are you doing?
-Dialogue: 0,0:15:07.93,0:15:10.26,Default,,0,0,0,,Wake up, stupid Natsume!
-Dialogue: 0,0:15:19.69,0:15:25.20,Default,,0,0,0,,Miya, if I'm ever given freedom, \NI want to travel everywhere my heart desires.
-Dialogue: 0,0:15:25.20,0:15:28.37,Default,,0,0,0,,But, I'm sure that it'd be wearisome traveling alone.
-Dialogue: 0,0:15:28.37,0:15:30.78,Default,,0,0,0,,Would you accompany me?
-Dialogue: 0,0:15:33.91,0:15:35.33,Default,,0,0,0,,Hello, Miya.
-Dialogue: 0,0:15:36.21,0:15:38.38,Default,,0,0,0,,Come to see me again, have you?
-Dialogue: 0,0:15:39.29,0:15:41.80,Default,,0,0,0,,{\fad(0,1200)}What shall we talk about today?
-Dialogue: 0,0:15:50.35,0:15:52.76,Default,,0,0,0,,I'm sorry, Natsume.
-Dialogue: 0,0:15:53.39,0:15:58.35,Default,,0,0,0,,It appears my carrying it for so long \Nhas given this painting spiritual power.
-Dialogue: 0,0:15:59.27,0:16:02.61,Default,,0,0,0,,It has taken root in the wall, \Nso it won't come off.
-Dialogue: 0,0:16:02.61,0:16:05.78,Default,,0,0,0,,At this rate, your life will be in danger,
-Dialogue: 0,0:16:05.78,0:16:10.37,Default,,0,0,0,,so I will use my power and burn it.
-Dialogue: 0,0:16:10.37,0:16:11.62,Default,,0,0,0,,No, Miya!
-Dialogue: 0,0:16:12.12,0:16:13.62,Default,,0,0,0,,Isn't it everything to you?
-Dialogue: 0,0:16:14.41,0:16:15.95,Default,,0,0,0,,It's okay, Natsume.
-Dialogue: 0,0:16:17.04,0:16:18.83,Default,,0,0,0,,In truth, I'd already noticed...
-Dialogue: 0,0:16:19.79,0:16:21.04,Default,,0,0,0,,That he...
-Dialogue: 0,0:16:22.34,0:16:26.51,Default,,0,0,0,,That {*}Lord Yasaka{*Yasaka-sama}... is gone.
-Dialogue: 0,0:16:29.55,0:16:35.85,Default,,0,0,0,,Even so, I enjoyed the days I traveled \Nwith it as much as if he'd been with me himself.
-Dialogue: 0,0:16:36.48,0:16:38.10,Default,,0,0,0,,Whether it was rainy...
-Dialogue: 0,0:16:38.60,0:16:39.81,Default,,0,0,0,,Or it was windy...
-Dialogue: 0,0:16:41.10,0:16:43.07,Default,,0,0,0,,I never felt alone.
-Dialogue: 0,0:16:51.11,0:16:52.07,Default,,0,0,0,,But...
-Dialogue: 0,0:16:53.33,0:16:54.87,Default,,0,0,0,,This is as far as I go.
-Dialogue: 0,0:16:55.62,0:17:02.58,Default,,0,0,0,,I only wanted to speak with him face to face, \Nand not have to care that I'm a monster, just once.
-Dialogue: 0,0:17:03.96,0:17:04.88,Default,,0,0,0,,Miya.
-Dialogue: 0,0:17:07.26,0:17:09.09,Default,,0,0,0,,I feel fine.
-Dialogue: 0,0:17:09.72,0:17:12.01,Default,,0,0,0,,Let's look for a way to take it down together.
-Dialogue: 0,0:17:12.01,0:17:12.97,Default,,0,0,0,,But...
-Dialogue: 0,0:17:12.97,0:17:15.26,Default,,0,0,0,,I like this painting too.
-Dialogue: 0,0:17:16.47,0:17:18.02,Default,,0,0,0,,Idiots...
-Dialogue: 0,0:17:19.31,0:17:22.06,Default,,0,0,0,,{\i1}Miya and I are alike, {*}Master{*Sensei}.
-Dialogue: 0,0:17:23.77,0:17:29.07,Default,,0,0,0,,{\i1}We feel sad and anxious at the thought of telling \Nthe ones we care about the truth.
-Dialogue: 0,0:17:29.78,0:17:31.74,Default,,0,0,0,,{\i1}So I'm sorry, {*}Master{*Sensei}.
-Dialogue: 0,0:17:32.41,0:17:34.37,Default,,0,0,0,,{\i1}I want Miya to have this painting.
-Dialogue: 0,0:17:35.24,0:17:39.29,Default,,0,0,0,,{\i1}I'm sure {*}Lord Yasaka{*Yasaka-sama} is inside it.
-Dialogue: 0,0:17:40.29,0:17:42.75,Default,,0,0,0,,{\i1}He's standing in a row of cherry trees in winter,
-Dialogue: 0,0:17:42.75,0:17:47.80,Default,,0,0,0,,{\i1}searching endlessly for her,\N though he knows she'll never come.
-Dialogue: 0,0:17:50.38,0:17:56.26,Default,,0,0,0,,{\i1}But even after several days passed, \Nwe couldn't find a solution.
-Dialogue: 0,0:18:11.53,0:18:14.61,Default,,0,0,0,,At least Touko{**-san} can't see them.
-Dialogue: 0,0:18:14.61,0:18:15.87,Default,,0,0,0,,Idiot.
-Dialogue: 0,0:18:25.33,0:18:27.21,Default,,0,0,0,,I've decided.
-Dialogue: 0,0:18:27.21,0:18:29.05,Default,,0,0,0,,I'll burn this picture.
-Dialogue: 0,0:18:29.05,0:18:29.71,Default,,0,0,0,,Miya?
-Dialogue: 0,0:18:30.34,0:18:34.51,Default,,0,0,0,,But before I do, I want to \Nmake the cherry trees bloom.
-Dialogue: 0,0:18:35.22,0:18:37.51,Default,,0,0,0,,Like the day he and I first met.
-Dialogue: 0,0:18:38.56,0:18:40.14,Default,,0,0,0,,Will you help me?
-Dialogue: 0,0:19:11.92,0:19:12.51,Default,,0,0,0,,There we go.
-Dialogue: 0,0:19:23.77,0:19:24.52,Default,,0,0,0,,Natsume!
-Dialogue: 0,0:19:27.48,0:19:28.86,Default,,0,0,0,,It's pretty, huh...?
-Dialogue: 0,0:19:29.23,0:19:30.19,Default,,0,0,0,,Miya...
-Dialogue: 0,0:19:31.82,0:19:34.82,Default,,0,0,0,,Miya, you know, {*}Lord Yasaka{*Yasaka-sama}...
-Dialogue: 0,0:19:35.78,0:19:38.28,Default,,0,0,0,,Thank you, Natsume.
-Dialogue: 0,0:19:39.70,0:19:40.83,Default,,0,0,0,,Good night.
-Dialogue: 0,0:19:42.66,0:19:43.70,Default,,0,0,0,,Rest well.
-Dialogue: 0,0:19:55.59,0:19:57.09,Default,,0,0,0,,{\i1}I see.
-Dialogue: 0,0:19:57.09,0:19:59.18,Default,,0,0,0,,{\i1}I'm inside the painting...
-Dialogue: 0,0:20:35.84,0:20:37.05,Default,,0,0,0,,{\i1}When I woke up,
-Dialogue: 0,0:20:37.38,0:20:42.51,Default,,0,0,0,,{\i1}the growing branches and \Nthe painted blossoms were completely gone.
-Dialogue: 0,0:20:43.51,0:20:48.98,Default,,0,0,0,,{\i1}I looked inside the painting, \Nbut {*}Lord Yasaka{*Yasaka-sama} was nowhere to be found.
-Dialogue: 0,0:20:51.23,0:20:54.57,Default,,0,0,0,,{\i1}The second I touched it, \Nit came right off the wall.
-Dialogue: 0,0:20:56.53,0:21:00.57,Default,,0,0,0,,{\i1}I never saw Miya again.
-Dialogue: 0,0:21:01.78,0:21:07.83,Default,,0,0,0,,{\i1}Miya, it's possible that his heart came \Nto dwell in the painting.
-Dialogue: 0,0:21:08.62,0:21:12.54,Default,,0,0,0,,{\i1}And the reason it took power \Nfrom me to spread its branches
-Dialogue: 0,0:21:12.54,0:21:17.59,Default,,0,0,0,,{\i1}could've been an effort to make \Nthe flowers bloom so he could see you again.
-Dialogue: 0,0:21:18.72,0:21:22.68,Default,,0,0,0,,{\i1}I wonder if those two are still \Nsurrounded by cherry trees in full bloom.
-Dialogue: 0,0:21:23.39,0:21:28.60,Default,,0,0,0,,{\i1}Or were they released from the painting, \Nand now traveling together?
-Dialogue: 0,0:21:28.93,0:21:31.10,Default,,0,0,0,,Takashi{**-kun}!
-Dialogue: 0,0:21:38.86,0:21:41.78,Default,,0,0,0,,I wonder if Miya ever told him the truth...
-Dialogue: 0,0:21:43.03,0:21:45.12,Default,,0,0,0,,You say something, Natsume?
-Dialogue: 0,0:21:45.41,0:21:48.75,Default,,0,0,0,,No, nothing at all, {*}Master{*Sensei}.
-Dialogue: 0,0:21:53.83,0:21:55.71,Default,,0,0,0,,{\i1}Goodbye, Miya,
-Dialogue: 0,0:21:58.42,0:22:01.17,Default,,0,0,0,,{\i1}the dear friend I made in the season of flowers.
-Dialogue: 0,0:23:35.56,0:23:37.52,Default,,0,0,0,,Ever since I saw those strange footprints,
-Dialogue: 0,0:23:37.52,0:23:39.73,Default,,0,0,0,,weird things've been happening at home.
-Dialogue: 0,0:23:39.73,0:23:42.11,Default,,0,0,0,,Something similar happened to me when I was a boy.
-Dialogue: 0,0:23:42.11,0:23:43.07,Default,,0,0,0,,Shigeru{**-san}?
-Dialogue: 0,0:23:43.07,0:23:45.78,Default,,0,0,0,,But after she came, it all stopped.
-Dialogue: 0,0:23:45.78,0:23:49.28,Default,,0,0,0,,She was such an odd, yet beautiful girl.
+Dialogue: 99,0:01:53.22,0:01:54.68,Default,,0,0,0,,Natsume!
+Dialogue: 99,0:01:57.06,0:01:58.14,Default,,0,0,0,,Over here.
+Dialogue: 99,0:02:01.89,0:02:03.39,Default,,0,0,0,,{*}Master{*Sensei}?
+Dialogue: 99,0:02:03.39,0:02:04.73,Default,,0,0,0,,What are you up to?
+Dialogue: 99,0:02:04.73,0:02:09.11,Default,,0,0,0,,I came to buy some bowls for Touko{**-san}, \NShigeru{**-san}, and myself.
+Dialogue: 99,0:02:12.86,0:02:13.78,Default,,0,0,0,,Wait.
+Dialogue: 99,0:02:13.78,0:02:16.99,Default,,0,0,0,,I want a bowl!
+Dialogue: 99,0:02:19.79,0:02:22.21,Default,,0,0,0,,Buy one for me too!
+Dialogue: 99,0:02:22.21,0:02:24.75,Default,,0,0,0,,Stand! I said stand up, Natsume!
+Dialogue: 99,0:02:34.80,0:02:35.72,Default,,0,0,0,,What was that?
+Dialogue: 99,0:02:36.22,0:02:38.26,Default,,0,0,0,,I just felt a strange presence.
+Dialogue: 99,0:02:55.45,0:02:57.37,Default,,0,0,0,,Did it come from this painting?
+Dialogue: 99,0:02:58.66,0:02:59.87,Default,,0,0,0,,Caught your eye, did it?
+Dialogue: 99,0:03:00.79,0:03:03.70,Default,,0,0,0,,I'm about to close up the shop, \Nbut that one didn't sell.
+Dialogue: 99,0:03:03.70,0:03:05.16,Default,,0,0,0,,You can have it, if you want.
+Dialogue: 99,0:03:14.92,0:03:16.51,Default,,0,0,0,,You're actually putting that up?
+Dialogue: 99,0:03:16.51,0:03:19.26,Default,,0,0,0,,It's just a bunch of dumb branches.
+Dialogue: 99,0:03:19.26,0:03:20.56,Default,,0,0,0,,You think so?
+Dialogue: 99,0:03:20.56,0:03:22.56,Default,,0,0,0,,I think it's kind of nice.
+Dialogue: 99,0:03:22.56,0:03:24.18,Default,,0,0,0,,For real?
+Dialogue: 99,0:03:28.40,0:03:31.19,Default,,0,0,0,,{\i1}He might have a point, though.
+Dialogue: 99,0:03:31.73,0:03:34.65,Default,,0,0,0,,{\i1}I guess it'd be nicer if the flowers were in bloom.
+Dialogue: 99,0:03:54.13,0:03:55.97,Default,,0,0,0,,What is this?
+Dialogue: 99,0:04:02.47,0:04:04.64,Default,,0,0,0,,Where did these come from?
+Dialogue: 99,0:04:20.20,0:04:21.37,Default,,0,0,0,,{\i1}Oddly...
+Dialogue: 99,0:04:21.95,0:04:23.87,Default,,0,0,0,,Ah! Again?
+Dialogue: 99,0:04:23.87,0:04:24.87,Default,,0,0,0,,{\i1}And the next morning...
+Dialogue: 99,0:04:28.87,0:04:30.37,Default,,0,0,0,,Man, not again!
+Dialogue: 99,0:04:30.83,0:04:34.46,Default,,0,0,0,,{\i1}And on the following morning, \NI found more petals on my pillow.
+Dialogue: 99,0:04:36.01,0:04:39.63,Default,,0,0,0,,You haven't been getting drunk \Nand tracking them in, have you?
+Dialogue: 99,0:04:39.97,0:04:42.93,Default,,0,0,0,,What? Of all the nerve! \NI have no interest in flowers!
+Dialogue: 99,0:04:43.39,0:04:45.10,Default,,0,0,0,,Hmph! Hmph! Hmph!
+Dialogue: 99,0:04:46.22,0:04:48.31,Default,,0,0,0,,{\i1}It started after I hung that painting up.
+Dialogue: 99,0:04:50.69,0:04:54.90,Default,,0,0,0,,{\i1}If some demon is to blame for this, \NI have to act fast.
+Dialogue: 99,0:04:55.69,0:04:59.40,Default,,0,0,0,,Thank you! I've always wanted one of this size.
+Dialogue: 99,0:04:59.40,0:05:03.37,Default,,0,0,0,,{\i1}I'll get rid of anything that could threaten this house.
+Dialogue: 99,0:05:13.96,0:05:16.38,Default,,0,0,0,,Don't think you can just curl up in here with me.
+Dialogue: 99,0:05:16.96,0:05:18.76,Default,,0,0,0,,Uh, why do you have a net?
+Dialogue: 99,0:05:18.76,0:05:21.51,Default,,0,0,0,,Haven't you even considered \Nthat fairies might be behind this?
+Dialogue: 99,0:05:23.84,0:05:26.01,Default,,0,0,0,,If they are, I'm gonna catch 'em!
+Dialogue: 99,0:05:26.43,0:05:29.64,Default,,0,0,0,,I don't think some imaginary creature is to blame.
+Dialogue: 99,0:05:31.06,0:05:32.85,Default,,0,0,0,,Can you say that without a doubt? Huh?
+Dialogue: 99,0:05:32.85,0:05:34.44,Default,,0,0,0,,Are you really sure?
+Dialogue: 99,0:05:34.44,0:05:35.94,Default,,0,0,0,,Hey? Are you absolutely positive?
+Dialogue: 99,0:06:13.23,0:06:16.94,Default,,0,0,0,,I don't appreciate you barging \Ninto my territory, missy.
+Dialogue: 99,0:06:20.69,0:06:23.53,Default,,0,0,0,,Why do you keep putting flowers here?
+Dialogue: 99,0:06:23.53,0:06:26.03,Default,,0,0,0,,They are an offering to {\i1}him,
+Dialogue: 99,0:06:26.03,0:06:28.37,Default,,0,0,0,,and have nothing to do with you,
+Dialogue: 99,0:06:28.37,0:06:29.87,Default,,0,0,0,,you damn thief.
+Dialogue: 99,0:06:29.87,0:06:31.16,Default,,0,0,0,,Thief?
+Dialogue: 99,0:06:31.16,0:06:32.75,Default,,0,0,0,,What have I stolen?
+Dialogue: 99,0:06:32.75,0:06:35.37,Default,,0,0,0,,How impudent! I'll eat you!
+Dialogue: 99,0:06:37.38,0:06:39.25,Default,,0,0,0,,Stop, {*}Master{*Sensei}!
+Dialogue: 99,0:06:40.92,0:06:41.63,Default,,0,0,0,,Why me?
+Dialogue: 99,0:06:41.63,0:06:42.63,Default,,0,0,0,,What was that for?
+Dialogue: 99,0:06:42.63,0:06:45.93,Default,,0,0,0,,I was actually acting like a bodyguard for once...
+Dialogue: 99,0:06:45.93,0:06:47.85,Default,,0,0,0,,Who do you mean by "him"?
+Dialogue: 99,0:06:47.85,0:06:49.93,Default,,0,0,0,,Only {*}Master{*Sensei} and I are here.
+Dialogue: 99,0:06:49.93,0:06:52.85,Default,,0,0,0,,What are you talking about? \NHe's right there.
+Dialogue: 99,0:06:53.31,0:06:53.89,Default,,0,0,0,,Him.
+Dialogue: 99,0:07:08.49,0:07:10.53,Default,,0,0,0,,Don't be so loud.
+Dialogue: 99,0:07:10.53,0:07:12.24,Default,,0,0,0,,You'll startle {*}Lord Yasaka{*Yasaka-sama}.
+Dialogue: 99,0:07:12.24,0:07:13.87,Default,,0,0,0,,R-Right...
+Dialogue: 99,0:07:13.87,0:07:16.08,Default,,0,0,0,,The people in the house, too.
+Dialogue: 99,0:07:16.08,0:07:17.21,Default,,0,0,0,,{*}Lord Yasaka{*Yasaka-sama}?
+Dialogue: 99,0:07:17.21,0:07:17.96,Default,,0,0,0,,Right.
+Dialogue: 99,0:07:18.50,0:07:20.92,Default,,0,0,0,,He lives in this painting.
+Dialogue: 99,0:07:20.92,0:07:22.42,Default,,0,0,0,,I'll be reclaiming this.
+Dialogue: 99,0:07:22.42,0:07:24.13,Default,,0,0,0,,It belongs to me.
+Dialogue: 99,0:07:24.88,0:07:26.68,Default,,0,0,0,,It was misplaced and got left behind,
+Dialogue: 99,0:07:26.68,0:07:29.01,Default,,0,0,0,,then some human picked it up and sold it off...
+Dialogue: 99,0:07:29.01,0:07:31.85,Default,,0,0,0,,Now it seems it's come to this wretched house.
+Dialogue: 99,0:07:34.98,0:07:36.19,Default,,0,0,0,,It's not...
+Dialogue: 99,0:07:36.77,0:07:38.15,Default,,0,0,0,,It's not...
+Dialogue: 99,0:07:38.15,0:07:39.65,Default,,0,0,0,,It won't come off!
+Dialogue: 99,0:07:40.82,0:07:42.40,Default,,0,0,0,,Huh? Why?
+Dialogue: 99,0:07:42.40,0:07:43.61,Default,,0,0,0,,It's really not coming off...
+Dialogue: 99,0:07:43.61,0:07:45.95,Default,,0,0,0,,What did you do, nail it to the wall?
+Dialogue: 99,0:07:45.95,0:07:47.15,Default,,0,0,0,,Of course not!
+Dialogue: 99,0:07:47.15,0:07:49.32,Default,,0,0,0,,You did something weird to it, didn't you?
+Dialogue: 99,0:07:49.32,0:07:50.20,Default,,0,0,0,,What?
+Dialogue: 99,0:07:57.12,0:07:58.50,Default,,0,0,0,,Very well.
+Dialogue: 99,0:07:59.25,0:08:01.29,Default,,0,0,0,,I will continue to visit until it comes off.
+Dialogue: 99,0:08:01.29,0:08:02.63,Default,,0,0,0,,What?!
+Dialogue: 99,0:08:02.63,0:08:05.01,Default,,0,0,0,,My name is Miya. \NI'll return tomorrow.
+Dialogue: 99,0:08:05.51,0:08:08.22,Default,,0,0,0,,Wait! H-Hey!
+Dialogue: 99,0:08:09.01,0:08:11.85,Default,,0,0,0,,Hey! Don't leave these creepy petals behind!
+Dialogue: 99,0:08:12.89,0:08:14.81,Default,,0,0,0,,{\i1}And so, true to her word...
+Dialogue: 99,0:08:18.06,0:08:19.65,Default,,0,0,0,,Excuse me.
+Dialogue: 99,0:08:19.65,0:08:22.27,Default,,0,0,0,,{\i1}Miya came back the next night.
+Dialogue: 99,0:08:23.65,0:08:25.23,Default,,0,0,0,,Put your hand out, boy.
+Dialogue: 99,0:08:28.32,0:08:31.24,Default,,0,0,0,,This is my thanks for looking after {*}Lord Yasaka{*Yasaka-sama}.
+Dialogue: 99,0:08:37.62,0:08:40.50,Default,,0,0,0,,It's a nice gesture, but don't \Nlet them loose in my room!
+Dialogue: 99,0:08:40.75,0:08:42.42,Default,,0,0,0,,Hey, wait!
+Dialogue: 99,0:08:42.42,0:08:43.29,Default,,0,0,0,,Pretty, aren't they?
+Dialogue: 99,0:08:44.13,0:08:47.09,Default,,0,0,0,,{*}Lord Yasaka{*Yasaka-sama} was once human.
+Dialogue: 99,0:08:47.09,0:08:51.34,Default,,0,0,0,,He loved gazing at flowers and butterflies.
+Dialogue: 99,0:08:51.34,0:08:53.55,Default,,0,0,0,,{\i1}Was{\i0} a human?
+Dialogue: 99,0:09:11.78,0:09:13.57,Default,,0,0,0,,It was a long time ago...
+Dialogue: 99,0:09:14.78,0:09:18.58,Default,,0,0,0,,I had been looking at the blossoms \Non a row of cherry trees.
+Dialogue: 99,0:09:18.95,0:09:22.79,Default,,0,0,0,,When in full bloom, \Nthey could take your breath away.
+Dialogue: 99,0:09:23.83,0:09:29.42,Default,,0,0,0,,Hidden by the petals, \NI tried talking to him.
+Dialogue: 99,0:09:30.80,0:09:34.14,Default,,0,0,0,,Do you enjoy your books more than \Nthese lovely cherry blossoms?
+Dialogue: 99,0:09:36.72,0:09:40.18,Default,,0,0,0,,Are rows of letters more enjoyable \Nthan rows of flowers?
+Dialogue: 99,0:09:40.18,0:09:42.77,Default,,0,0,0,,I love both books and flowers.
+Dialogue: 99,0:09:42.77,0:09:46.44,Default,,0,0,0,,I also enjoy talking to you.
+Dialogue: 99,0:09:46.94,0:09:49.24,Default,,0,0,0,,He called himself Yasaka.
+Dialogue: 99,0:09:49.24,0:09:52.03,Default,,0,0,0,,He was frail, but he was the heir \Nto a distinguished family,
+Dialogue: 99,0:09:52.03,0:09:54.82,Default,,0,0,0,,so he barely had any time to himself.
+Dialogue: 99,0:09:56.03,0:10:01.08,Default,,0,0,0,,He never realized I was a spirit, \Nand came to speak to me many times.
+Dialogue: 99,0:10:02.41,0:10:03.54,Default,,0,0,0,,But...
+Dialogue: 99,0:10:04.67,0:10:07.25,Default,,0,0,0,,I was always afraid he'd discover what I was.
+Dialogue: 99,0:10:09.71,0:10:15.30,Default,,0,0,0,,So, I would only go to that row of trees \Nwhen there were cherry blossoms to hide me.
+Dialogue: 99,0:10:16.51,0:10:21.27,Default,,0,0,0,,We were friends who only \Nspoke during the flower season.
+Dialogue: 99,0:10:21.27,0:10:22.35,Default,,0,0,0,,Miya,
+Dialogue: 99,0:10:23.10,0:10:27.52,Default,,0,0,0,,if I'm ever given freedom, \NI want to travel everywhere my heart desires.
+Dialogue: 99,0:10:28.23,0:10:32.90,Default,,0,0,0,,Wouldn't it be wonderful to see \Nthe flowers of the world?
+Dialogue: 99,0:10:34.28,0:10:36.41,Default,,0,0,0,,Miya, I wonder why.
+Dialogue: 99,0:10:37.12,0:10:40.62,Default,,0,0,0,,There are so many things that I want you to hear.
+Dialogue: 99,0:10:42.83,0:10:46.58,Default,,0,0,0,,Several springs passed in this way.
+Dialogue: 99,0:10:48.17,0:10:50.88,Default,,0,0,0,,Until one year, he didn't come at all.
+Dialogue: 99,0:10:51.34,0:10:53.88,Default,,0,0,0,,I waited and waited...
+Dialogue: 99,0:10:54.17,0:10:55.38,Default,,0,0,0,,All through the next spring...
+Dialogue: 99,0:10:55.76,0:10:57.43,Default,,0,0,0,,and the one that followed.
+Dialogue: 99,0:11:00.89,0:11:03.23,Default,,0,0,0,,I looked everywhere for him.
+Dialogue: 99,0:11:03.81,0:11:07.56,Default,,0,0,0,,I walked around searching for him, \Nnot even knowing where to look.
+Dialogue: 99,0:11:07.56,0:11:08.98,Default,,0,0,0,,Until finally,
+Dialogue: 99,0:11:09.57,0:11:11.23,Default,,0,0,0,,I found that painting.
+Dialogue: 99,0:11:13.57,0:11:14.61,Default,,0,0,0,,Upon asking,
+Dialogue: 99,0:11:14.61,0:11:17.74,Default,,0,0,0,,I was told that it was drawn by a renowned spirit.
+Dialogue: 99,0:11:18.87,0:11:23.50,Default,,0,0,0,,Maybe he was dissatisfied with the world of men \Nand escaped into the painting.
+Dialogue: 99,0:11:24.46,0:11:30.50,Default,,0,0,0,,So, I took it and began \Nto travel in order to comfort him.
+Dialogue: 99,0:11:31.05,0:11:34.72,Default,,0,0,0,,I believe that someday, \Nonce his heart has healed,
+Dialogue: 99,0:11:34.72,0:11:37.01,Default,,0,0,0,,he'll finally come out.
+Dialogue: 99,0:11:38.34,0:11:40.01,Default,,0,0,0,,And then...
+Dialogue: 99,0:11:40.01,0:11:42.43,Default,,0,0,0,,I can talk to him again.
+Dialogue: 99,0:11:54.19,0:11:59.03,Default,,0,0,0,,It's true that a famous spirit painted this picture.
+Dialogue: 99,0:11:59.03,0:12:01.37,Default,,0,0,0,,However, it's simply a painting.
+Dialogue: 99,0:12:01.37,0:12:07.50,Default,,0,0,0,,It's nothing but a drawing of cherry trees in winter, \Nwith this Yasaka guy standing around.
+Dialogue: 99,0:12:07.50,0:12:11.75,Default,,0,0,0,,Wait as she might, he's not coming out.
+Dialogue: 99,0:12:14.13,0:12:17.93,Default,,0,0,0,,{\i1}Even so, Miya brought flowers every day.
+Dialogue: 99,0:12:18.51,0:12:19.76,Default,,0,0,0,,{\i1}Every day,
+Dialogue: 99,0:12:19.76,0:12:20.97,Default,,0,0,0,,{\i1}no matter what,
+Dialogue: 99,0:12:21.30,0:12:22.22,Default,,0,0,0,,{\i1}without fail.
+Dialogue: 99,0:12:26.10,0:12:27.64,Default,,0,0,0,,Weird cough you've got there.
+Dialogue: 99,0:12:28.39,0:12:30.23,Default,,0,0,0,,It just won't stop...
+Dialogue: 99,0:12:43.87,0:12:46.25,Default,,0,0,0,,Come on, {*}Master{*Sensei}! Don't trample them!
+Dialogue: 99,0:12:48.29,0:12:51.75,Default,,0,0,0,,{\i1}Has Miya been traveling like this,
+Dialogue: 99,0:12:52.46,0:12:55.46,Default,,0,0,0,,{\i1}following the beautiful \Nscenery wherever it leads her,
+Dialogue: 99,0:12:56.26,0:12:58.17,Default,,0,0,0,,{\i1}carrying only an ordinary painting?
+Dialogue: 99,0:13:01.30,0:13:03.97,Default,,0,0,0,,Pardon me. Pardon me.
+Dialogue: 99,0:13:09.35,0:13:11.15,Default,,0,0,0,,Oh, it's Harujizou.
+Dialogue: 99,0:13:11.15,0:13:16.07,Default,,0,0,0,,Every spring, he goes around telling people's \Nfortunes as part of his spiritual training.
+Dialogue: 99,0:13:16.69,0:13:21.36,Default,,0,0,0,,A sinister shadow entwines you.
+Dialogue: 99,0:13:21.36,0:13:26.08,Default,,0,0,0,,I can see your corpse littered with leaves.
+Dialogue: 99,0:13:31.50,0:13:33.71,Default,,0,0,0,,Wait! What do you mean "corpse"?
+Dialogue: 99,0:13:33.71,0:13:35.25,Default,,0,0,0,,Takashi{**-kun}?
+Dialogue: 99,0:13:35.25,0:13:36.96,Default,,0,0,0,,T-Touko{**-san}...
+Dialogue: 99,0:13:37.25,0:13:38.55,Default,,0,0,0,,What's wrong?
+Dialogue: 99,0:13:38.55,0:13:40.97,Default,,0,0,0,,You were talking to yourself out loud.
+Dialogue: 99,0:13:41.88,0:13:43.47,Default,,0,0,0,,No. Ah...
+Dialogue: 99,0:13:53.40,0:13:55.44,Default,,0,0,0,,It's nothing.
+Dialogue: 99,0:13:55.44,0:13:56.77,Default,,0,0,0,,Promise?
+Dialogue: 99,0:13:56.77,0:13:57.94,Default,,0,0,0,,Yeah, I swear.
+Dialogue: 99,0:13:57.94,0:13:58.98,Default,,0,0,0,,Okay...
+Dialogue: 99,0:13:59.99,0:14:01.20,Default,,0,0,0,,Yeah.
+Dialogue: 99,0:14:02.65,0:14:04.70,Default,,0,0,0,,Well then, shall we go home?
+Dialogue: 99,0:14:04.70,0:14:05.74,Default,,0,0,0,,Okay.
+Dialogue: 99,0:14:07.66,0:14:11.71,Default,,0,0,0,,{\i1}I was always afraid he'd discover what I was.
+Dialogue: 99,0:14:12.46,0:14:13.25,Default,,0,0,0,,{\i1}Yeah...
+Dialogue: 99,0:14:15.00,0:14:16.46,Default,,0,0,0,,{\i1}It's the same for me.
+Dialogue: 99,0:14:20.80,0:14:25.14,Default,,0,0,0,,Still, what did that Harujizou mean?
+Dialogue: 99,0:14:26.80,0:14:27.60,Default,,0,0,0,,Natsume!
+Dialogue: 99,0:14:29.77,0:14:31.60,Default,,0,0,0,,What is this?
+Dialogue: 99,0:14:35.77,0:14:36.94,Default,,0,0,0,,Oh, now I get it!
+Dialogue: 99,0:14:36.94,0:14:39.02,Default,,0,0,0,,I know why you're coughing!
+Dialogue: 99,0:14:39.02,0:14:42.44,Default,,0,0,0,,This painting is stealing your energy,
+Dialogue: 99,0:14:42.44,0:14:45.70,Default,,0,0,0,,and it's spreading its branches to take even more!
+Dialogue: 99,0:14:48.08,0:14:49.08,Default,,0,0,0,,{*}Master{*Sensei}!
+Dialogue: 99,0:14:49.95,0:14:54.29,Default,,0,0,0,,I won't allow a little painting to pilfer my prey!
+Dialogue: 99,0:14:54.29,0:14:56.58,Default,,0,0,0,,I'll tear it to shreds first!
+Dialogue: 99,0:14:57.04,0:14:58.29,Default,,0,0,0,,Stop, {*}Master{*Sensei}!
+Dialogue: 99,0:14:58.29,0:15:00.05,Default,,0,0,0,,That's Miya's...
+Dialogue: 99,0:15:04.76,0:15:05.97,Default,,0,0,0,,Natsume, you fool!
+Dialogue: 99,0:15:05.97,0:15:07.93,Default,,0,0,0,,What the heck are you doing?
+Dialogue: 99,0:15:07.93,0:15:10.26,Default,,0,0,0,,Wake up, stupid Natsume!
+Dialogue: 99,0:15:19.69,0:15:25.20,Default,,0,0,0,,Miya, if I'm ever given freedom, \NI want to travel everywhere my heart desires.
+Dialogue: 99,0:15:25.20,0:15:28.37,Default,,0,0,0,,But, I'm sure that it'd be wearisome traveling alone.
+Dialogue: 99,0:15:28.37,0:15:30.78,Default,,0,0,0,,Would you accompany me?
+Dialogue: 99,0:15:33.91,0:15:35.33,Default,,0,0,0,,Hello, Miya.
+Dialogue: 99,0:15:36.21,0:15:38.38,Default,,0,0,0,,Come to see me again, have you?
+Dialogue: 99,0:15:39.29,0:15:41.80,Default,,0,0,0,,{\fad(0,1200)}What shall we talk about today?
+Dialogue: 99,0:15:50.35,0:15:52.76,Default,,0,0,0,,I'm sorry, Natsume.
+Dialogue: 99,0:15:53.39,0:15:58.35,Default,,0,0,0,,It appears my carrying it for so long \Nhas given this painting spiritual power.
+Dialogue: 99,0:15:59.27,0:16:02.61,Default,,0,0,0,,It has taken root in the wall, \Nso it won't come off.
+Dialogue: 99,0:16:02.61,0:16:05.78,Default,,0,0,0,,At this rate, your life will be in danger,
+Dialogue: 99,0:16:05.78,0:16:10.37,Default,,0,0,0,,so I will use my power and burn it.
+Dialogue: 99,0:16:10.37,0:16:11.62,Default,,0,0,0,,No, Miya!
+Dialogue: 99,0:16:12.12,0:16:13.62,Default,,0,0,0,,Isn't it everything to you?
+Dialogue: 99,0:16:14.41,0:16:15.95,Default,,0,0,0,,It's okay, Natsume.
+Dialogue: 99,0:16:17.04,0:16:18.83,Default,,0,0,0,,In truth, I'd already noticed...
+Dialogue: 99,0:16:19.79,0:16:21.04,Default,,0,0,0,,That he...
+Dialogue: 99,0:16:22.34,0:16:26.51,Default,,0,0,0,,That {*}Lord Yasaka{*Yasaka-sama}... is gone.
+Dialogue: 99,0:16:29.55,0:16:35.85,Default,,0,0,0,,Even so, I enjoyed the days I traveled \Nwith it as much as if he'd been with me himself.
+Dialogue: 99,0:16:36.48,0:16:38.10,Default,,0,0,0,,Whether it was rainy...
+Dialogue: 99,0:16:38.60,0:16:39.81,Default,,0,0,0,,Or it was windy...
+Dialogue: 99,0:16:41.10,0:16:43.07,Default,,0,0,0,,I never felt alone.
+Dialogue: 99,0:16:51.11,0:16:52.07,Default,,0,0,0,,But...
+Dialogue: 99,0:16:53.33,0:16:54.87,Default,,0,0,0,,This is as far as I go.
+Dialogue: 99,0:16:55.62,0:17:02.58,Default,,0,0,0,,I only wanted to speak with him face to face, \Nand not have to care that I'm a monster, just once.
+Dialogue: 99,0:17:03.96,0:17:04.88,Default,,0,0,0,,Miya.
+Dialogue: 99,0:17:07.26,0:17:09.09,Default,,0,0,0,,I feel fine.
+Dialogue: 99,0:17:09.72,0:17:12.01,Default,,0,0,0,,Let's look for a way to take it down together.
+Dialogue: 99,0:17:12.01,0:17:12.97,Default,,0,0,0,,But...
+Dialogue: 99,0:17:12.97,0:17:15.26,Default,,0,0,0,,I like this painting too.
+Dialogue: 99,0:17:16.47,0:17:18.02,Default,,0,0,0,,Idiots...
+Dialogue: 99,0:17:19.31,0:17:22.06,Default,,0,0,0,,{\i1}Miya and I are alike, {*}Master{*Sensei}.
+Dialogue: 99,0:17:23.77,0:17:29.07,Default,,0,0,0,,{\i1}We feel sad and anxious at the thought of telling \Nthe ones we care about the truth.
+Dialogue: 99,0:17:29.78,0:17:31.74,Default,,0,0,0,,{\i1}So I'm sorry, {*}Master{*Sensei}.
+Dialogue: 99,0:17:32.41,0:17:34.37,Default,,0,0,0,,{\i1}I want Miya to have this painting.
+Dialogue: 99,0:17:35.24,0:17:39.29,Default,,0,0,0,,{\i1}I'm sure {*}Lord Yasaka{*Yasaka-sama} is inside it.
+Dialogue: 99,0:17:40.29,0:17:42.75,Default,,0,0,0,,{\i1}He's standing in a row of cherry trees in winter,
+Dialogue: 99,0:17:42.75,0:17:47.80,Default,,0,0,0,,{\i1}searching endlessly for her,\N though he knows she'll never come.
+Dialogue: 99,0:17:50.38,0:17:56.26,Default,,0,0,0,,{\i1}But even after several days passed, \Nwe couldn't find a solution.
+Dialogue: 99,0:18:11.53,0:18:14.61,Default,,0,0,0,,At least Touko{**-san} can't see them.
+Dialogue: 99,0:18:14.61,0:18:15.87,Default,,0,0,0,,Idiot.
+Dialogue: 99,0:18:25.33,0:18:27.21,Default,,0,0,0,,I've decided.
+Dialogue: 99,0:18:27.21,0:18:29.05,Default,,0,0,0,,I'll burn this picture.
+Dialogue: 99,0:18:29.05,0:18:29.71,Default,,0,0,0,,Miya?
+Dialogue: 99,0:18:30.34,0:18:34.51,Default,,0,0,0,,But before I do, I want to \Nmake the cherry trees bloom.
+Dialogue: 99,0:18:35.22,0:18:37.51,Default,,0,0,0,,Like the day he and I first met.
+Dialogue: 99,0:18:38.56,0:18:40.14,Default,,0,0,0,,Will you help me?
+Dialogue: 99,0:19:11.92,0:19:12.51,Default,,0,0,0,,There we go.
+Dialogue: 99,0:19:23.77,0:19:24.52,Default,,0,0,0,,Natsume!
+Dialogue: 99,0:19:27.48,0:19:28.86,Default,,0,0,0,,It's pretty, huh...?
+Dialogue: 99,0:19:29.23,0:19:30.19,Default,,0,0,0,,Miya...
+Dialogue: 99,0:19:31.82,0:19:34.82,Default,,0,0,0,,Miya, you know, {*}Lord Yasaka{*Yasaka-sama}...
+Dialogue: 99,0:19:35.78,0:19:38.28,Default,,0,0,0,,Thank you, Natsume.
+Dialogue: 99,0:19:39.70,0:19:40.83,Default,,0,0,0,,Good night.
+Dialogue: 99,0:19:42.66,0:19:43.70,Default,,0,0,0,,Rest well.
+Dialogue: 99,0:19:55.59,0:19:57.09,Default,,0,0,0,,{\i1}I see.
+Dialogue: 99,0:19:57.09,0:19:59.18,Default,,0,0,0,,{\i1}I'm inside the painting...
+Dialogue: 99,0:20:35.84,0:20:37.05,Default,,0,0,0,,{\i1}When I woke up,
+Dialogue: 99,0:20:37.38,0:20:42.51,Default,,0,0,0,,{\i1}the growing branches and \Nthe painted blossoms were completely gone.
+Dialogue: 99,0:20:43.51,0:20:48.98,Default,,0,0,0,,{\i1}I looked inside the painting, \Nbut {*}Lord Yasaka{*Yasaka-sama} was nowhere to be found.
+Dialogue: 99,0:20:51.23,0:20:54.57,Default,,0,0,0,,{\i1}The second I touched it, \Nit came right off the wall.
+Dialogue: 99,0:20:56.53,0:21:00.57,Default,,0,0,0,,{\i1}I never saw Miya again.
+Dialogue: 99,0:21:01.78,0:21:07.83,Default,,0,0,0,,{\i1}Miya, it's possible that his heart came \Nto dwell in the painting.
+Dialogue: 99,0:21:08.62,0:21:12.54,Default,,0,0,0,,{\i1}And the reason it took power \Nfrom me to spread its branches
+Dialogue: 99,0:21:12.54,0:21:17.59,Default,,0,0,0,,{\i1}could've been an effort to make \Nthe flowers bloom so he could see you again.
+Dialogue: 99,0:21:18.72,0:21:22.68,Default,,0,0,0,,{\i1}I wonder if those two are still \Nsurrounded by cherry trees in full bloom.
+Dialogue: 99,0:21:23.39,0:21:28.60,Default,,0,0,0,,{\i1}Or were they released from the painting, \Nand now traveling together?
+Dialogue: 99,0:21:28.93,0:21:31.10,Default,,0,0,0,,Takashi{**-kun}!
+Dialogue: 99,0:21:38.86,0:21:41.78,Default,,0,0,0,,I wonder if Miya ever told him the truth...
+Dialogue: 99,0:21:43.03,0:21:45.12,Default,,0,0,0,,You say something, Natsume?
+Dialogue: 99,0:21:45.41,0:21:48.75,Default,,0,0,0,,No, nothing at all, {*}Master{*Sensei}.
+Dialogue: 99,0:21:53.83,0:21:55.71,Default,,0,0,0,,{\i1}Goodbye, Miya,
+Dialogue: 99,0:21:58.42,0:22:01.17,Default,,0,0,0,,{\i1}the dear friend I made in the season of flowers.
+Dialogue: 99,0:23:35.56,0:23:37.52,Default,,0,0,0,,Ever since I saw those strange footprints,
+Dialogue: 99,0:23:37.52,0:23:39.73,Default,,0,0,0,,weird things've been happening at home.
+Dialogue: 99,0:23:39.73,0:23:42.11,Default,,0,0,0,,Something similar happened to me when I was a boy.
+Dialogue: 99,0:23:42.11,0:23:43.07,Default,,0,0,0,,Shigeru{**-san}?
+Dialogue: 99,0:23:43.07,0:23:45.78,Default,,0,0,0,,But after she came, it all stopped.
+Dialogue: 99,0:23:45.78,0:23:49.28,Default,,0,0,0,,She was such an odd, yet beautiful girl.
 Dialogue: 0,0:22:04.97,0:22:05.01,ED,,0,0,0,,{ED START}
 Dialogue: 0,0:22:05.43,0:22:09.93,ED,,0,0,0,,{\fad(250,250)\blur4\c&HC2D4E8&\1a&HFF&\t(205,250,\1a&H00&)\t(4260,4305,\1a&HFF&)}Hey, just a little longer
 Dialogue: 1,0:22:05.43,0:22:09.93,ED,,0,0,0,,{\bord0\fad(250,250)\blur0.4\4a&HFF&}Hey, just a little longer
