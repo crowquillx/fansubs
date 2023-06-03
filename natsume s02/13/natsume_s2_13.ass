@@ -20,8 +20,8 @@ Keyframes File: natsume_s2_13_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 693
-Active Line: 698
+Scroll Position: 637
+Active Line: 700
 Video Position: 3178
 
 [V4+ Styles]
@@ -101,7 +101,7 @@ Dialogue: 99,0:04:52.69,0:04:58.03,Default,,0,0,0,,The area around that mansion 
 Dialogue: 99,0:04:58.03,0:05:04.03,Default,,0,0,0,,There's also a well nearby holding \Nthe ogres who once terrorized the surrounding countryside.
 Dialogue: 99,0:05:04.03,0:05:09.83,Default,,0,0,0,,Those sealed ogres have started calling \Nthe demons to release them.
 Dialogue: 99,0:05:10.29,0:05:12.96,Default,,0,0,0,,So Kai was called by the ogres?
-Dialogue: 99,0:05:13.25,0:05:20.09,Default,,0,0,0,,A weak youkai couldn't release the seal, \Nbut with that thing's power...
+Dialogue: 99,0:05:13.25,0:05:20.09,Default,,0,0,0,,A weak demon couldn't release the seal, \Nbut with that thing's power...
 Dialogue: 99,0:05:20.09,0:05:21.47,Default,,0,0,0,,Where's the well?
 Dialogue: 99,0:05:21.47,0:05:22.51,Default,,0,0,0,,I don't know.
 Dialogue: 99,0:05:22.51,0:05:25.26,Default,,0,0,0,,Then the reason he went to the mansion...
