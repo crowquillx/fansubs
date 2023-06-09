@@ -19,9 +19,9 @@ Keyframes File: natsume_s2_04_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 702
-Active Line: 720
-Video Position: 6530
+Scroll Position: 498
+Active Line: 522
+Video Position: 2234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -564,7 +564,6 @@ Dialogue: 1,0:01:19.43,0:01:22.06,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H020
 Dialogue: 2,0:01:22.06,0:01:27.65,OP,,0,0,0,,{\fad(150,150)\blur0.5\bord0\4a&HFF&}Embrace the fact that you can laugh honestly and run
 Dialogue: 0,0:01:22.06,0:01:27.65,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H40&\1a&HFF&\t(105,150,\1a&H00&)\t(5440,5485,\1a&HFF&)}Embrace the fact that you can laugh honestly and run
 Dialogue: 1,0:01:22.06,0:01:27.65,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(5440,5485,\1a&HFF&)}Embrace the fact that you can laugh honestly and run
-Dialogue: 0,0:01:30.16,0:01:33.16,Default,,0,0,0,,
 Dialogue: 99,0:01:33.16,0:01:34.70,Default,,0,0,0,,A bird's nest?
 Dialogue: 99,0:01:34.70,0:01:37.91,Default,,0,0,0,,Yeah, it was warming five eggs.
 Dialogue: 99,0:01:37.91,0:01:40.37,Default,,0,0,0,,Four hatched, one's left.
