@@ -19,10 +19,10 @@ Video File: natsume_s2_03.mkv
 Keyframes File: natsume_s2_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 507
-Active Line: 522
-Video Position: 2416
+Video Zoom Percent: 0.500000
+Scroll Position: 621
+Active Line: 646
+Video Position: 11549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -566,11 +566,11 @@ Dialogue: 2,0:01:22.06,0:01:27.65,OP,,0,0,0,,{\fad(150,150)\blur0.5\bord0\4a&HFF
 Dialogue: 0,0:01:22.06,0:01:27.65,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H40&\1a&HFF&\t(105,150,\1a&H00&)\t(5440,5485,\1a&HFF&)}Embrace the fact that you can laugh honestly and run
 Dialogue: 1,0:01:22.06,0:01:27.65,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(5440,5485,\1a&HFF&)}Embrace the fact that you can laugh honestly and run
 Dialogue: 99,0:01:40.75,0:01:42.87,Default,,0,0,0,,Oh dear, oh dear...
-Dialogue: 99,0:01:42.87,0:01:44.21,Default - Alt,,0,0,0,,{\i1}They're tiny.
-Dialogue: 99,0:01:43.62,0:01:44.88,Default,,0,0,0,,Oh my.
-Dialogue: 99,0:01:44.88,0:01:46.46,Default,,0,0,0,,We can't cross this.
-Dialogue: 99,0:01:46.46,0:01:47.80,Default,,0,0,0,,We're in trouble...
-Dialogue: 99,0:01:47.80,0:01:49.38,Default,,0,0,0,,We can't go forward!
+Dialogue: 99,0:01:42.87,0:01:44.21,Default,,0,0,0,,{\i1}They're tiny.
+Dialogue: 99,0:01:43.62,0:01:44.88,Default,,0,0,0,,{\an8}Oh my.
+Dialogue: 99,0:01:44.88,0:01:46.46,Default,,0,0,0,,{\an8}We can't cross this.
+Dialogue: 99,0:01:46.46,0:01:47.80,Default,,0,0,0,,{\an8}We're in trouble...
+Dialogue: 99,0:01:47.80,0:01:49.38,Default,,0,0,0,,{\an8}We can't go forward!
 Dialogue: 99,0:01:50.09,0:01:52.13,Default,,0,0,0,,{\i1}Why don't they just go around it?
 Dialogue: 99,0:01:57.39,0:01:58.01,Default,,0,0,0,,Look!
 Dialogue: 99,0:01:58.01,0:01:59.22,Default,,0,0,0,,A pathway has opened!
@@ -690,7 +690,7 @@ Dialogue: 99,0:07:52.37,0:07:53.54,Default,,0,0,0,,Doesn't it feel great?
 Dialogue: 99,0:07:54.33,0:07:55.04,Default,,0,0,0,,Yes.
 Dialogue: 99,0:07:55.37,0:07:57.00,Default,,0,0,0,,I'm glad you like it.
 Dialogue: 99,0:08:01.67,0:08:06.76,Default,,0,0,0,,{\i1}Natori{**-san} has a newt-shaped mark \Nthat others are unable to see.
-Dialogue: 99,0:08:11.89,0:08:13.68,Default,,0,0,0,,{\i1}I don't if I should be looking.
+Dialogue: 99,0:08:11.89,0:08:13.68,Default,,0,0,0,,{\i1}I don't know if I should be looking.
 Dialogue: 99,0:08:15.10,0:08:19.15,Default,,0,0,0,,{\i1}I don't particularly like the demons, \Nbut I'm pretty sure he...
 Dialogue: 99,0:08:20.44,0:08:21.65,Default,,0,0,0,,{\i1}hates them.
 Dialogue: 99,0:08:24.19,0:08:26.40,Default,,0,0,0,,What's wrong, Natsume? \NToo much time in the bath?
