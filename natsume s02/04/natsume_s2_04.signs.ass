@@ -13,13 +13,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: natsume
-Audio File: natsume_s2_04.mkv
-Video File: natsume_s2_04.mkv
-Keyframes File: natsume_s2_04_keyframes.txt
+Audio File: ../../../natsume s02/04/natsume_s2_04.mkv
+Video File: ../../../natsume s02/04/natsume_s2_04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 2234
+Video Position: 31768
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -520,7 +519,7 @@ Dialogue: 0,0:03:56.13,0:03:58.63,sign,,0,0,0,,{\be0\frz3.778\blur1.2\c&H242E35&
 Dialogue: 0,0:03:58.63,0:04:02.64,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\blur1.2}line
 Dialogue: 0,0:04:02.64,0:04:02.81,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\clip(m 1174 702 l 1314 726 1294 840 1150 876 1146 760 1156 732)\blur1.2}line
 Dialogue: 0,0:04:02.81,0:04:02.89,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\clip(m 1224 726 l 1276 730 1286 822 1206 838 1204 776)\blur1.2}line
-Dialogue: 0,0:04:03.81,0:04:03.89,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\clip(m 1126 688 l 1058 676 1072 780 1120 786)\blur1.2}line
+Dialogue: 0,0:04:03.76,0:04:03.89,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\clip(m 1126 688 l 1058 676 1072 780 1120 786)\blur1.2}line
 Dialogue: 0,0:04:03.89,0:04:04.02,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\clip(m 1210 702 l 1058 676 1072 780 1204 798)\blur1.2}line
 Dialogue: 0,0:04:04.02,0:04:04.27,sign,,0,0,0,,{\org(1200,700)\pos(1178,742)\be0\frz350.4\frx12\fry16\c&H363F46&\blur1.2}line
 Dialogue: 0,0:05:32.40,0:05:34.40,sign,,0,0,0,,{\org(1200,700)\pos(1194,744)\be0\frz350.4\frx12\fry16\c&H404850&\fscx66\fscy80\blur1.2}come
