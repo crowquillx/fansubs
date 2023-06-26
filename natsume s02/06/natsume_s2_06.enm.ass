@@ -17,8 +17,8 @@ Video File: ../../../natsume s02/06/natsume_s2_06.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 274
-Active Line: 312
+Scroll Position: 56
+Active Line: 57
 Video Position: 6004
 
 [V4+ Styles]
@@ -97,7 +97,7 @@ Dialogue: 99,0:04:27.25,0:04:28.62,Default,,0,0,0,,Yeah.
 Dialogue: 99,0:04:29.79,0:04:31.38,Default,,0,0,0,,What was so strange?
 Dialogue: 99,0:04:32.00,0:04:33.67,Default,,0,0,0,,A human!
 Dialogue: 99,0:04:33.67,0:04:34.84,Default,,0,0,0,,Whoa, small...
-Dialogue: 99,0:04:36.05,0:04:38.30,Default,,0,0,0,,It sounded like you thought \Nyou shouldn't stay here.
+Dialogue: 99,0:04:36.05,0:04:38.30,Default,,0,0,0,,It seemed like you were against staying here.
 Dialogue: 99,0:04:38.30,0:04:39.72,Default,,0,0,0,,Did you find something?
 Dialogue: 99,0:04:40.47,0:04:41.09,Default,,0,0,0,,Wait!
 Dialogue: 99,0:04:41.72,0:04:44.01,Default,,0,0,0,,{\an8}Save us!
@@ -352,7 +352,7 @@ Dialogue: 99,0:23:43.82,0:23:45.86,Default,,0,0,0,,Oh dear, my precious name's w
 Dialogue: 99,0:23:45.86,0:23:47.99,Default,,0,0,0,,Let's go seal that demon!
 Dialogue: 99,0:23:47.99,0:23:49.28,Default,,0,0,0,,Oh no!
 Dialogue: 99,0:04:08.64,0:04:10.40,Default - Alt,,0,0,0,,Yeah.
-Dialogue: 99,0:04:10.40,0:04:12.19,Default - Alt,,0,0,0,,Good gracious.
+Dialogue: 99,0:04:10.40,0:04:12.19,Default - Alt,,0,0,0,,{\an8}Good gracious.
 Dialogue: 0,0:22:04.97,0:22:05.01,ED,,0,0,0,,{ED START}
 Dialogue: 0,0:22:05.43,0:22:09.93,ED,,0,0,0,,{\fad(250,250)\blur4\c&HC2D4E8&\1a&HFF&\t(205,250,\1a&H00&)\t(4260,4305,\1a&HFF&)}Hey, just a little longer
 Dialogue: 1,0:22:05.43,0:22:09.93,ED,,0,0,0,,{\bord0\fad(250,250)\blur0.4\4a&HFF&}Hey, just a little longer
