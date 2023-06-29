@@ -8,4 +8,4 @@ collection of subs i have worked on - starting in dec 2022, I will eventually up
 ###### S1
 not uploaded here yet, things I want to redo. done for sam's release, modified moo-shi. 
 ###### S2
-using CyC subs as a base, mostly for timing. majority of dialogue taken from crunchyroll subs. title TS taken from CyC and modified, OP/ED TL from CyC/tlacat but with styling to match commie. there will be both honorific and non-honorific tracks. terminoligy changed to match commie. many lines edited to be different from both existing fansubs and CR. for [sam] release. 
+Base CyC subs with most dialogue taken from CR. When I didn't like the line from either of the scripts or the dub, I added my own. Used existing CyC typesetting while making changes to most signs (adding blur, improving tracking, etc) and adding new TS where it was missing. Dialogue and OP/ED styling were changed to match commie. OP/ED TL are unchanged from CyC/tlacat. 
