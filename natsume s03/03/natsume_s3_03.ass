@@ -17,8 +17,8 @@ Video File: [CyC] Natsume Yuujinchou San 03 (BD 1080p Hi10 x264 FLAC) [62AD4260]
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 404
-Active Line: 423
+Scroll Position: 17
+Active Line: 31
 Video Position: 34827
 
 [V4+ Styles]
@@ -65,396 +65,396 @@ Dialogue: 0,0:24:00.96,0:24:15.98,EpTitle,,0,0,0,,{\fs90\pos(966,90)\c&HCEFFDE&\
 Dialogue: 1,0:24:00.96,0:24:15.98,EpTitle,,0,0,0,,{\an2\pos(567,835.5)}Young Days
 Dialogue: 0,0:24:00.96,0:24:15.98,EpTitle,,0,0,0,,{\an2\pos(570,837)\blur4.5\c&HCEFFDE&}Young Days
 Dialogue: 0,0:24:00.96,0:24:15.98,Title,,0,0,0,,{\pos(1489.5,327)\blur0.75}{\1c&H9C6A21&}N{\1c&HAA7C3A&}a{\1c&HB4884C&}t{\1c&HBC9259&}s{\1c&HC59D69&}u{\1c&HD1AD7F&}m{\1c&HCAA675&}e{\1c&HC39D69&} {\1c&HBA925B&}Y{\1c&HAD8347&}u{\1c&HA07433&}u{\1c&H966823&}j{\1c&H9C6F2C&}i{\1c&HA97E40&}n{\1c&HB38A51&}c{\1c&HBE9762&}h{\1c&HC9A473&}o{\1c&HD6B387&}u
-Dialogue: 0,0:01:32.47,0:01:33.88,Default,,0,0,0,,A cake?
-Dialogue: 0,0:01:34.74,0:01:38.19,Default,,0,0,0,,Yes, it's Shigeru's birthday today.
-Dialogue: 0,0:01:38.19,0:01:41.08,Default,,0,0,0,,Takashi, could you buy one on your way home?
-Dialogue: 0,0:01:41.08,0:01:42.64,Default,,0,0,0,,What kind do you want?
-Dialogue: 0,0:01:42.64,0:01:44.25,Default,,0,0,0,,Let me think...
-Dialogue: 0,0:01:44.25,0:01:47.93,Default,,0,0,0,,since it's his birthday, strawberry shortcake would be great.
-Dialogue: 0,0:01:47.93,0:01:49.17,Default,,0,0,0,,Get three slices.
-Dialogue: 0,0:01:49.62,0:01:50.72,Default,,0,0,0,,Okay.
-Dialogue: 0,0:01:51.17,0:01:52.38,Default,,0,0,0,,Make it four!
-Dialogue: 0,0:01:52.90,0:01:54.97,Default,,0,0,0,,Cats can't eat sweets, you know.
-Dialogue: 0,0:01:54.97,0:01:56.19,Default,,0,0,0,,I'm not a cat!
-Dialogue: 0,0:01:56.19,0:01:58.43,Default,,0,0,0,,I'm a Lucky Cat, and I love sweets!
-Dialogue: 0,0:02:01.57,0:02:04.73,Default,,0,0,0,,These are calm, quiet days.
-Dialogue: 0,0:02:09.04,0:02:12.11,Default,,0,0,0,,The chef studied in France, or something.
-Dialogue: 0,0:02:12.11,0:02:13.98,Default,,0,0,0,,It's really good.
-Dialogue: 0,0:02:14.66,0:02:15.62,Default,,0,0,0,,Here you go.
-Dialogue: 0,0:02:17.49,0:02:19.12,Default,,0,0,0,,Forest of Cuteness?
-Dialogue: 0,0:02:19.12,0:02:21.40,Default,,0,0,0,,That's one heck of a name.
-Dialogue: 0,0:02:21.40,0:02:23.71,Default,,0,0,0,,It looks like it's near Kitamoto's house.
-Dialogue: 0,0:02:26.99,0:02:28.43,Default,,0,0,0,,This is it?
-Dialogue: 0,0:02:28.43,0:02:31.61,Default,,0,0,0,,It's as cute as the name suggests.
-Dialogue: 0,0:02:31.61,0:02:32.97,Default,,0,0,0,,That's why we're here, right?
-Dialogue: 0,0:02:32.97,0:02:36.01,Default,,0,0,0,,It's hard for a guy to go in there alone.
-Dialogue: 0,0:02:37.97,0:02:39.54,Default,,0,0,0,,I can't do it.
-Dialogue: 0,0:02:39.54,0:02:41.89,Default,,0,0,0,,It's too much for me.
-Dialogue: 0,0:02:41.89,0:02:45.18,Default,,0,0,0,,You always carry that cat everywhere, so what are you embarrassed for?
-Dialogue: 0,0:02:45.18,0:02:46.52,Default,,0,0,0,,Just go.
-Dialogue: 0,0:02:46.52,0:02:49.64,Default,,0,0,0,,You want to give your folks a nice cake, right?
-Dialogue: 0,0:02:51.31,0:02:52.79,Default,,0,0,0,,That's right.
-Dialogue: 0,0:02:52.79,0:02:54.14,Default,,0,0,0,,Okay.
-Dialogue: 0,0:02:54.14,0:02:55.21,Default,,0,0,0,,Natsume.
-Dialogue: 0,0:02:57.27,0:02:59.91,Default,,0,0,0,,You're Natsume Takashi, right?
-Dialogue: 0,0:03:01.21,0:03:02.66,Default,,0,0,0,,I've finally found you.
-Dialogue: 0,0:03:03.76,0:03:04.66,Default - italics,,0,0,0,,Who's he?
-Dialogue: 0,0:03:04.66,0:03:06.79,Default,,0,0,0,,Oh, you know Natsume?
-Dialogue: 0,0:03:06.79,0:03:09.86,Default,,0,0,0,,I've never seen that uniform around here before.
-Dialogue: 0,0:03:09.86,0:03:10.92,Default,,0,0,0,,Um...
-Dialogue: 0,0:03:10.92,0:03:14.01,Default,,0,0,0,,Oh, so he's made friends here.
-Dialogue: 0,0:03:15.43,0:03:17.37,Default,,0,0,0,,Hey, what's that supposed to mean?
-Dialogue: 0,0:03:17.37,0:03:19.02,Default,,0,0,0,,Oh, sorry.
-Dialogue: 0,0:03:19.02,0:03:21.84,Default,,0,0,0,,I'm Shibata from Sakaki West High.
-Dialogue: 0,0:03:21.84,0:03:25.12,Default,,0,0,0,,I was in Natsume's elementary school for a while.
-Dialogue: 0,0:03:25.12,0:03:26.37,Default,,0,0,0,,You don't remember, do you?
-Dialogue: 0,0:03:27.02,0:03:28.06,Default,,0,0,0,,No.
-Dialogue: 0,0:03:28.06,0:03:29.65,Default,,0,0,0,,Well, I remember.
-Dialogue: 0,0:03:30.08,0:03:32.55,Default,,0,0,0,,You were a bit of a weirdo.
-Dialogue: 0,0:03:33.15,0:03:36.18,Default,,0,0,0,,Can you come with me for a bit?
-Dialogue: 0,0:03:36.18,0:03:37.86,Default,,0,0,0,,Natsume, let's leave.
-Dialogue: 0,0:03:37.86,0:03:39.95,Default,,0,0,0,,I can say it here, if you want.
-Dialogue: 0,0:03:41.33,0:03:44.24,Default,,0,0,0,,Sorry, Nishimura, Kitamoto.
-Dialogue: 0,0:03:44.24,0:03:45.56,Default,,0,0,0,,See you later.
-Dialogue: 0,0:03:45.56,0:03:47.25,Default,,0,0,0,,Hey, Natsume?
-Dialogue: 0,0:03:55.92,0:03:57.87,Default,,0,0,0,,How far are we going to walk?
-Dialogue: 0,0:03:57.87,0:04:01.05,Default,,0,0,0,,You used to say some pretty weird stuff.
-Dialogue: 0,0:04:02.22,0:04:05.11,Default,,0,0,0,,Like how you could see things that everyone else couldn't.
-Dialogue: 0,0:04:06.48,0:04:08.31,Default,,0,0,0,,Was that true?
-Dialogue: 0,0:04:17.23,0:04:18.09,Default - italics,,0,0,0,,Liar!
-Dialogue: 0,0:04:18.09,0:04:20.57,Default - italics,,0,0,0,,He's lying again.
-Dialogue: 0,0:04:20.57,0:04:21.49,Default - italics,,0,0,0,,We should stay away from him.{CPS}
-Dialogue: 0,0:04:21.49,0:04:24.28,Default - italics,,0,0,0,,Liar!
-Dialogue: 0,0:04:26.25,0:04:27.50,Default,,0,0,0,,No way.
-Dialogue: 0,0:04:27.50,0:04:29.34,Default,,0,0,0,,Your face changed color.
-Dialogue: 0,0:04:29.34,0:04:30.36,Default,,0,0,0,,Are you serious?
-Dialogue: 0,0:04:31.06,0:04:34.69,Default,,0,0,0,,It was just a joke when we were little. Nothing serious.
-Dialogue: 0,0:04:34.69,0:04:35.93,Default,,0,0,0,,I'm going home.
-Dialogue: 0,0:04:35.93,0:04:37.42,Default,,0,0,0,,I'll come back again.
-Dialogue: 0,0:04:38.30,0:04:40.67,Default,,0,0,0,,You don't want your new friends to find out about it.
-Dialogue: 0,0:04:40.67,0:04:42.76,Default,,0,0,0,,I know that.
-Dialogue: 0,0:04:44.16,0:04:47.79,Default - italics,,0,0,0,,I'm not as good at lying as I used to be.
-Dialogue: 0,0:04:47.79,0:04:49.21,Default,,0,0,0,,Oh, right.
-Dialogue: 0,0:04:49.21,0:04:50.94,Default,,0,0,0,,Do you have any money?
-Dialogue: 0,0:04:59.95,0:05:01.86,Default,,0,0,0,,Hey, where are we going, really?
-Dialogue: 0,0:05:01.86,0:05:04.40,Default,,0,0,0,,Shut up. Just be quiet and come with me.
-Dialogue: 0,0:05:18.17,0:05:19.50,Default,,0,0,0,,There are mosquitos out here.
-Dialogue: 0,0:05:19.50,0:05:21.43,Default,,0,0,0,,What are we doing?
-Dialogue: 0,0:05:21.43,0:05:22.55,Default,,0,0,0,,She's here.
-Dialogue: 0,0:05:23.28,0:05:24.30,Default,,0,0,0,,Over there.
-Dialogue: 0,0:05:29.30,0:05:30.44,Default,,0,0,0,,Do you see something?
-Dialogue: 0,0:05:31.06,0:05:32.12,Default,,0,0,0,,A girl?
-Dialogue: 0,0:05:32.12,0:05:33.88,Default,,0,0,0,,What kind of girl?
-Dialogue: 0,0:05:35.89,0:05:38.90,Default,,0,0,0,,A normal, long-haired high schooler.
-Dialogue: 0,0:05:38.90,0:05:40.04,Default,,0,0,0,,Really?
-Dialogue: 0,0:05:40.65,0:05:42.55,Default,,0,0,0,,She's really a human, right?
-Dialogue: 0,0:05:46.90,0:05:48.35,Default,,0,0,0,,Don't laugh!
-Dialogue: 0,0:05:48.35,0:05:51.24,Default,,0,0,0,,You can tell whether they're human or not, right?
-Dialogue: 0,0:05:51.24,0:05:53.30,Default,,0,0,0,,She looks totally normal!
-Dialogue: 0,0:05:53.30,0:05:54.95,Default,,0,0,0,,Why are you asking that?
-Dialogue: 0,0:05:54.95,0:05:56.06,Default,,0,0,0,,Shibata?
-Dialogue: 0,0:05:56.65,0:05:57.89,Default,,0,0,0,,Murasaki?
-Dialogue: 0,0:05:59.12,0:06:01.05,Default,,0,0,0,,What are you doing there?
-Dialogue: 0,0:06:01.75,0:06:03.34,Default,,0,0,0,,Is this a friend of yours?
-Dialogue: 0,0:06:03.63,0:06:05.20,Default,,0,0,0,,Y-Yeah. Natsume.{added stutter}
-Dialogue: 0,0:06:05.20,0:06:06.85,Default,,0,0,0,,An old friend.
-Dialogue: 0,0:06:07.50,0:06:09.18,Default,,0,0,0,,Liar.
-Dialogue: 0,0:06:09.18,0:06:11.18,Default,,0,0,0,,Hey, play along!
-Dialogue: 0,0:06:12.69,0:06:14.47,Default,,0,0,0,,You're good friends, huh?
-Dialogue: 0,0:06:15.42,0:06:18.12,Default - italics,,0,0,0,,And then, for a short while,
-Dialogue: 0,0:06:19.52,0:06:24.42,Default - italics,,0,0,0,,the girl named Murasaki talked with Shibata, and then went home.
-Dialogue: 0,0:06:30.48,0:06:32.37,Default - italics,,0,0,0,,The two seemed close.
-Dialogue: 0,0:06:32.93,0:06:36.68,Default - italics,,0,0,0,,Shibata seemed to be in love with her.
-Dialogue: 0,0:06:37.78,0:06:40.50,Default,,0,0,0,,Sorry for being so weird.
-Dialogue: 0,0:06:40.50,0:06:42.13,Default,,0,0,0,,You really helped me, Natsume.
-Dialogue: 0,0:06:42.50,0:06:44.07,Default,,0,0,0,,What did you need me for?
-Dialogue: 0,0:06:44.07,0:06:46.66,Default,,0,0,0,,Did you think she was a ghost?
-Dialogue: 0,0:06:46.66,0:06:47.85,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:06:47.85,0:06:49.95,Default,,0,0,0,,I was acting weird.
-Dialogue: 0,0:06:53.01,0:06:54.10,Default,,0,0,0,,What?
-Dialogue: 0,0:06:54.10,0:06:56.13,Default,,0,0,0,,You think I'm an idiot, right?
-Dialogue: 0,0:06:56.13,0:06:59.37,Default,,0,0,0,,No, I'm not making fun of you.
-Dialogue: 0,0:06:59.37,0:07:02.53,Default,,0,0,0,,Look, it's already gotten pretty late.
-Dialogue: 0,0:07:02.53,0:07:03.96,Default,,0,0,0,,If I don't hurry...
-Dialogue: 0,0:07:06.87,0:07:07.74,Default,,0,0,0,,The cake!
-Dialogue: 0,0:07:07.74,0:07:08.49,Default,,0,0,0,,What?
-Dialogue: 0,0:07:08.49,0:07:10.16,Default,,0,0,0,,What's wrong?
-Dialogue: 0,0:07:12.83,0:07:14.83,Default,,0,0,0,,It's so pretty!
-Dialogue: 0,0:07:15.09,0:07:17.44,Default,,0,0,0,,Are these cakes good enough?
-Dialogue: 0,0:07:17.44,0:07:19.34,Default,,0,0,0,,Yes, thank you.
-Dialogue: 0,0:07:21.53,0:07:23.84,Default - italics,,0,0,0,,I went around to all the local cake shops,
-Dialogue: 0,0:07:24.37,0:07:26.41,Default - italics,,0,0,0,,but each one was out of shortcake.
-Dialogue: 0,0:07:27.89,0:07:31.38,Default - italics,,0,0,0,,If I had been alone, I never would have found it.
-Dialogue: 0,0:07:30.11,0:07:31.72,Default,,0,0,0,,{\an8}I found it, Natsume!
-Dialogue: 0,0:07:31.72,0:07:34.23,Default - italics,,0,0,0,,Shibata looked for it with me.
-Dialogue: 0,0:07:37.52,0:07:38.80,Default,,0,0,0,,This is really good.
-Dialogue: 0,0:07:38.80,0:07:42.48,Default,,0,0,0,,Takashi bought it for us.
-Dialogue: 0,0:07:42.48,0:07:44.36,Default,,0,0,0,,Thank you, Takashi.
-Dialogue: 0,0:07:48.45,0:07:52.78,Default,,0,0,0,,Eating something sweet after something salty is really nice.
-Dialogue: 0,0:07:52.78,0:07:54.95,Default,,0,0,0,,Natsume, go get me another one of these.
-Dialogue: 0,0:07:55.55,0:07:57.62,Default,,0,0,0,,I'm tired.
-Dialogue: 0,0:07:57.62,0:07:59.03,Default,,0,0,0,,It's hopeless.
-Dialogue: 0,0:07:59.03,0:08:00.59,Default,,0,0,0,,I can't open my eyes.
-Dialogue: 0,0:08:02.52,0:08:04.13,Default,,0,0,0,,Where did you go?
-Dialogue: 0,0:08:04.13,0:08:06.97,Default,,0,0,0,,You've got a spirit's smell on you.
-Dialogue: 0,0:08:07.23,0:08:09.04,Default,,0,0,0,,A spirit?
-Dialogue: 0,0:08:09.04,0:08:11.67,Default,,0,0,0,,No, she was a girl.
-Dialogue: 0,0:08:14.95,0:08:18.02,Default - italics,,0,0,0,,Huh? Where am I?
-Dialogue: 0,0:08:19.09,0:08:20.50,Default - italics,,0,0,0,,It's that girl.
-Dialogue: 0,0:08:21.45,0:08:23.02,Default - italics,,0,0,0,,She's eating something.
-Dialogue: 0,0:08:24.78,0:08:25.78,Default,,0,0,0,,Shibata!
-Dialogue: 0,0:08:35.25,0:08:37.17,Default,,0,0,0,,Why did you you come here again?
-Dialogue: 0,0:08:37.70,0:08:39.62,Default,,0,0,0,,It's because you said something weird.
-Dialogue: 0,0:08:39.62,0:08:40.92,Default,,0,0,0,,I'm worried.
-Dialogue: 0,0:08:41.78,0:08:44.46,Default,,0,0,0,,I think it was around here.
-Dialogue: 0,0:08:44.46,0:08:45.72,Default,,0,0,0,,I'll look around.
-Dialogue: 0,0:08:48.29,0:08:50.18,Default - italics,,0,0,0,,I didn't notice yesterday,
-Dialogue: 0,0:08:50.43,0:08:52.99,Default - italics,,0,0,0,,but this is a pretty creepy place.
-Dialogue: 0,0:08:56.34,0:08:57.38,Default,,0,0,0,,That sound...
-Dialogue: 0,0:09:19.12,0:09:21.57,Default,,0,0,0,,You smell delicious.
-Dialogue: 0,0:09:21.57,0:09:23.96,Default,,0,0,0,,So, you really are a demon.
-Dialogue: 0,0:09:23.96,0:09:25.63,Default,,0,0,0,,That's right.
-Dialogue: 0,0:09:25.63,0:09:29.36,Default,,0,0,0,,I can eat you instead of him.
-Dialogue: 0,0:09:36.72,0:09:38.97,Default,,0,0,0,,A white pig is biting me!
-Dialogue: 0,0:09:38.97,0:09:40.25,Default,,0,0,0,,Master Nyanko!
-Dialogue: 0,0:09:40.25,0:09:41.06,Default,,0,0,0,,Ow.
-Dialogue: 0,0:09:41.81,0:09:43.31,Default,,0,0,0,,Curse you, human!
-Dialogue: 0,0:09:43.31,0:09:45.95,Default,,0,0,0,,If you dare tell anyone who I am,
-Dialogue: 0,0:09:45.95,0:09:48.44,Default,,0,0,0,,I'll follow you forever and eat you!
-Dialogue: 0,0:09:48.44,0:09:49.49,Default,,0,0,0,,You brat!
-Dialogue: 0,0:09:49.49,0:09:52.00,Default,,0,0,0,,He's my emergency ration!
-Dialogue: 0,0:09:58.97,0:10:02.05,Default,,0,0,0,,She's a spirit from one of the flower trees around here.
-Dialogue: 0,0:10:02.05,0:10:04.79,Default,,0,0,0,,She's pretending to be human to deceive other humans and eat them.
-Dialogue: 0,0:10:05.48,0:10:09.34,Default,,0,0,0,,Then, she's deceiving Shibata.
-Dialogue: 0,0:10:09.73,0:10:12.84,Default,,0,0,0,,Spirits who act that obvious end up making mistakes.
-Dialogue: 0,0:10:13.29,0:10:19.77,Default,,0,0,0,,That kid probably came to you because he felt something was wrong.
-Dialogue: 0,0:10:24.91,0:10:27.06,Default,,0,0,0,,Hey, did you see that guy at the gate?
-Dialogue: 0,0:10:27.06,0:10:30.11,Default,,0,0,0,,Yeah, who do you think he's waiting for?
-Dialogue: 0,0:10:30.58,0:10:33.06,Default,,0,0,0,,He's not from our school.
-Dialogue: 0,0:10:42.22,0:10:43.74,Default,,0,0,0,,Shibata.
-Dialogue: 0,0:10:43.74,0:10:45.66,Default,,0,0,0,,I thought it was you.
-Dialogue: 0,0:10:45.66,0:10:47.51,Default,,0,0,0,,What are you doing heー
-Dialogue: 0,0:10:50.13,0:10:51.66,Default,,0,0,0,,That's the ugliest cat I've ever seen!
-Dialogue: 0,0:10:53.38,0:10:54.75,Default,,0,0,0,,Get lost, you ugly cat!
-Dialogue: 0,0:10:54.75,0:10:57.93,Default,,0,0,0,,Oh, Shibata, this ugly cat is mine.
-Dialogue: 0,0:10:57.93,0:10:59.22,Default,,0,0,0,,Oww!
-Dialogue: 0,0:10:59.22,0:11:00.14,Default,,0,0,0,,What the heck?
-Dialogue: 0,0:11:04.39,0:11:07.10,Default,,0,0,0,,What did you come all this way for?
-Dialogue: 0,0:11:08.29,0:11:11.12,Default,,0,0,0,,It's about that girl from yesterday...
-Dialogue: 0,0:11:11.66,0:11:16.11,Default,,0,0,0,,Yeah... I really feel bad for what I said.
-Dialogue: 0,0:11:16.59,0:11:19.87,Default,,0,0,0,,I met her in that park.
-Dialogue: 0,0:11:21.16,0:11:25.03,Default,,0,0,0,,The first time we met, she appeared by chance when I was alone.
-Dialogue: 0,0:11:26.39,0:11:29.38,Default,,0,0,0,,After that, I started seeing her every now and then.
-Dialogue: 0,0:11:30.20,0:11:32.88,Default,,0,0,0,,But she wouldn't tell me her name, her phone number,
-Dialogue: 0,0:11:32.88,0:11:36.29,Default,,0,0,0,,or what school she went to.
-Dialogue: 0,0:11:36.29,0:11:38.89,Default,,0,0,0,,I thought she didn't like me.
-Dialogue: 0,0:11:39.49,0:11:43.64,Default,,0,0,0,,But her eyes made me feel like she really liked me.
-Dialogue: 0,0:11:44.05,0:11:45.94,Default,,0,0,0,,Hey, Shibata.
-Dialogue: 0,0:11:45.94,0:11:47.27,Default,,0,0,0,,That girl...
-Dialogue: 0,0:11:47.27,0:11:48.58,Default,,0,0,0,,It's cold.
-Dialogue: 0,0:11:49.65,0:11:54.03,Default,,0,0,0,,Whenever I hold her hand while we look at the flowers or the evening sun,
-Dialogue: 0,0:11:54.51,0:11:57.55,Default,,0,0,0,,her hand is always so cold.
-Dialogue: 0,0:11:58.49,0:11:59.53,Default,,0,0,0,,When we first met,
-Dialogue: 0,0:12:00.66,0:12:03.54,Default - italics,,0,0,0,,What would you do if I were a monster?
-Dialogue: 0,0:12:03.87,0:12:05.82,Default,,0,0,0,,I know it's stupid,
-Dialogue: 0,0:12:05.82,0:12:08.66,Default,,0,0,0,,but it bothered me for some reason.
-Dialogue: 0,0:12:08.66,0:12:11.34,Default,,0,0,0,,And then I remembered you.
-Dialogue: 0,0:12:11.90,0:12:13.19,Default,,0,0,0,,Shibata.
-Dialogue: 0,0:12:14.91,0:12:16.36,Default,,0,0,0,,That girl...
-Dialogue: 0,0:12:16.36,0:12:17.55,Default,,0,0,0,,isn't human.{*I'm not sure if it's better or worse when split. You decide, timer-kun.}
-Dialogue: 0,0:12:19.83,0:12:21.98,Default,,0,0,0,,Stay away from her.
-Dialogue: 0,0:12:21.98,0:12:23.70,Default,,0,0,0,,What are you saying?
-Dialogue: 0,0:12:23.70,0:12:25.17,Default,,0,0,0,,I was wrong.
-Dialogue: 0,0:12:25.17,0:12:26.53,Default,,0,0,0,,She's not human.
-Dialogue: 0,0:12:26.53,0:12:27.94,Default,,0,0,0,,Then, what is she?
-Dialogue: 0,0:12:28.27,0:12:31.29,Default,,0,0,0,,You said she was a normal girl last time!
-Dialogue: 0,0:12:31.29,0:12:32.60,Default,,0,0,0,,I...
-Dialogue: 0,0:12:34.41,0:12:35.43,Default,,0,0,0,,She's...
-Dialogue: 0,0:12:35.43,0:12:36.69,Default,,0,0,0,,Enough. Shut up.
-Dialogue: 0,0:12:36.69,0:12:38.24,Default,,0,0,0,,Shibata.
-Dialogue: 0,0:12:39.18,0:12:40.55,Default,,0,0,0,,Liar.
-Dialogue: 0,0:12:41.61,0:12:44.20,Default,,0,0,0,,I knew you were a liar!
-Dialogue: 0,0:12:59.77,0:13:00.47,Default - italics,,0,0,0,,Liar!
-Dialogue: 0,0:13:00.47,0:13:02.47,Default - italics,,0,0,0,,Liar!
-Dialogue: 0,0:13:03.12,0:13:07.22,Default - italics,,0,0,0,,I can't stop just because he called me a liar.
-Dialogue: 0,0:13:08.24,0:13:11.57,Default - italics,,0,0,0,,Get a grip. Right now, I have to...
-Dialogue: 0,0:13:13.80,0:13:14.77,Default,,0,0,0,,Don't worry.
-Dialogue: 0,0:13:14.77,0:13:16.98,Default,,0,0,0,,She won't show up for a couple of days.
-Dialogue: 0,0:13:20.01,0:13:21.15,Default,,0,0,0,,Jeez.
-Dialogue: 0,0:13:21.15,0:13:22.74,Default,,0,0,0,,Don't you know how to hold back?
-Dialogue: 0,0:13:22.74,0:13:25.66,Default,,0,0,0,,I told you not to come in without asking!
-Dialogue: 0,0:13:25.66,0:13:27.42,Default,,0,0,0,,No cake today?
-Dialogue: 0,0:13:27.42,0:13:28.47,Default,,0,0,0,,No.
-Dialogue: 0,0:13:28.47,0:13:30.54,Default,,0,0,0,,Anyway, about that demon.
-Dialogue: 0,0:13:30.54,0:13:32.58,Default,,0,0,0,,Are you sure she won't appear for a few days?
-Dialogue: 0,0:13:33.01,0:13:36.13,Default,,0,0,0,,She's not a powerful spirit like me.
-Dialogue: 0,0:13:36.13,0:13:38.29,Default,,0,0,0,,She's a little wimp.
-Dialogue: 0,0:13:38.29,0:13:40.53,Default,,0,0,0,,It'll take her at least three days
-Dialogue: 0,0:13:40.53,0:13:42.59,Default,,0,0,0,,before she can appear as a human.
-Dialogue: 0,0:13:42.59,0:13:43.73,Default,,0,0,0,,Three days...
-Dialogue: 0,0:13:44.37,0:13:46.16,Default,,0,0,0,,I have some time, then.
-Dialogue: 0,0:13:46.16,0:13:47.50,Default,,0,0,0,,Natsume?
-Dialogue: 0,0:13:50.93,0:13:52.81,Default,,0,0,0,,He left? Already?
-Dialogue: 0,0:13:52.81,0:13:55.41,Default,,0,0,0,,Yeah, through the back exit.
-Dialogue: 0,0:13:55.41,0:13:56.82,Default,,0,0,0,,He ran away.
-Dialogue: 0,0:13:58.01,0:13:59.11,Default,,0,0,0,,He's gone.
-Dialogue: 0,0:14:00.29,0:14:01.49,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:14:01.78,0:14:02.90,Default,,0,0,0,,Are you sure?
-Dialogue: 0,0:14:02.90,0:14:05.49,Default,,0,0,0,,He seemed worried about you.
-Dialogue: 0,0:14:05.49,0:14:07.65,Default,,0,0,0,,You should talk to him, shouldn't you?
-Dialogue: 0,0:14:07.65,0:14:09.37,Default,,0,0,0,,Aren't you friends with him?
-Dialogue: 0,0:14:10.33,0:14:12.62,Default,,0,0,0,,No, he's...
-Dialogue: 0,0:14:13.01,0:14:14.79,Default,,0,0,0,,a kid I never used to believe,
-Dialogue: 0,0:14:14.79,0:14:16.16,Default,,0,0,0,,and always used to bully.
-Dialogue: 0,0:14:18.13,0:14:19.88,Default,,0,0,0,,What are you going to do?
-Dialogue: 0,0:14:19.88,0:14:23.18,Default,,0,0,0,,I'll watch that demon, and make sure she stays away from Shibata.
-Dialogue: 0,0:14:23.18,0:14:24.99,Default,,0,0,0,,What a pain.
-Dialogue: 0,0:14:24.99,0:14:28.65,Default,,0,0,0,,You don't have any reason to go that far for him.
-Dialogue: 0,0:14:28.65,0:14:32.83,Default,,0,0,0,,He's kind of a jerk, but not a bad person. I think.
-Dialogue: 0,0:14:34.59,0:14:35.69,Default,,0,0,0,,Oh, fine.
-Dialogue: 0,0:14:35.69,0:14:38.64,Default,,0,0,0,,You owe me another slice of cake and another dried squid!
-Dialogue: 0,0:14:43.58,0:14:44.76,Default - italics,,0,0,0,,This smell...
-Dialogue: 0,0:14:46.41,0:14:47.78,Default,,0,0,0,,Let me go!{ends on scenechange}
-Dialogue: 0,0:14:49.54,0:14:51.54,Default,,0,0,0,,You again?
-Dialogue: 0,0:14:51.54,0:14:53.87,Default,,0,0,0,,Did you come to let me eat you?
-Dialogue: 0,0:14:54.47,0:14:58.73,Default,,0,0,0,,Yesterday, I told Shibata that you weren't human.
-Dialogue: 0,0:14:58.73,0:15:01.46,Default,,0,0,0,,No matter how long you wait to eat him, he won't come!
-Dialogue: 0,0:15:01.46,0:15:03.67,Default,,0,0,0,,Give up on him!
-Dialogue: 0,0:15:06.01,0:15:07.11,Default,,0,0,0,,You're lying.
-Dialogue: 0,0:15:07.69,0:15:08.72,Default,,0,0,0,,I'm not lying!
-Dialogue: 0,0:15:08.72,0:15:11.68,Default,,0,0,0,,Then, he didn't believe you.
-Dialogue: 0,0:15:11.68,0:15:15.73,Default,,0,0,0,,If he did, then you wouldn't have needed to come here.
-Dialogue: 0,0:15:16.48,0:15:18.02,Default,,0,0,0,,W-Well...{added stutter}
-Dialogue: 0,0:15:18.02,0:15:24.11,Default,,0,0,0,,He didn't believe you, so you came here to do something about it yourself, right?
-Dialogue: 0,0:15:24.70,0:15:25.95,Default,,0,0,0,,Too bad.
-Dialogue: 0,0:15:25.95,0:15:28.74,Default,,0,0,0,,Hey, Natsume. You see her?
-Dialogue: 0,0:15:29.56,0:15:30.24,Default,,0,0,0,,Let me go!
-Dialogue: 0,0:15:32.38,0:15:35.75,Default,,0,0,0,,I can end this right now by eating her.
-Dialogue: 0,0:15:36.33,0:15:37.74,Default,,0,0,0,,Wait, Master.
-Dialogue: 0,0:15:37.74,0:15:38.62,Default,,0,0,0,,Natsume.
-Dialogue: 0,0:15:38.62,0:15:40.95,Default,,0,0,0,,Wait just a bit longer.
-Dialogue: 0,0:15:40.95,0:15:43.26,Default,,0,0,0,,I want to see what I should do.
-Dialogue: 0,0:15:43.79,0:15:46.88,Default,,0,0,0,,Shibata really cares about her.
-Dialogue: 0,0:15:50.51,0:15:52.77,Default,,0,0,0,,Natsume, you wimp!
-Dialogue: 0,0:15:52.77,0:15:54.39,Default,,0,0,0,,She got away!
-Dialogue: 0,0:15:54.39,0:15:55.39,Default,,0,0,0,,Chase her!
-Dialogue: 0,0:16:01.49,0:16:02.85,Default,,0,0,0,,She fell!
-Dialogue: 0,0:16:02.85,0:16:05.19,Default,,0,0,0,,I knew it, she's weakened.
-Dialogue: 0,0:16:05.19,0:16:06.15,Default,,0,0,0,,Weakened?
-Dialogue: 0,0:16:06.44,0:16:10.80,Default,,0,0,0,,Yeah. I left her alone because she didn't have much time left.
-Dialogue: 0,0:16:14.70,0:16:15.91,Default,,0,0,0,,Murasaki...
-Dialogue: 0,0:16:17.17,0:16:18.72,Default,,0,0,0,,Murasaki...
-Dialogue: 0,0:16:18.72,0:16:19.88,Default,,0,0,0,,Murasaki?
-Dialogue: 0,0:16:23.25,0:16:24.58,Default,,0,0,0,,A wisteria tree?
-Dialogue: 0,0:16:25.69,0:16:27.00,Default,,0,0,0,,It's big.
-Dialogue: 0,0:16:28.75,0:16:30.15,Default,,0,0,0,,You woke up?
-Dialogue: 0,0:16:30.93,0:16:32.21,Default,,0,0,0,,You two...
-Dialogue: 0,0:16:33.43,0:16:34.82,Default,,0,0,0,,Don't touch me!
-Dialogue: 0,0:16:35.73,0:16:39.06,Default,,0,0,0,,If you lowly humans touch me, I'll eat you!
-Dialogue: 0,0:16:40.06,0:16:42.74,Default,,0,0,0,,Will you get better if you do?
-Dialogue: 0,0:16:42.74,0:16:44.02,Default,,0,0,0,,I don't know.
-Dialogue: 0,0:16:44.02,0:16:45.49,Default,,0,0,0,,But...
-Dialogue: 0,0:16:45.49,0:16:50.13,Default,,0,0,0,,I thought I'd rather try to eat a human than just disappear.
-Dialogue: 0,0:16:50.69,0:16:55.95,Default,,0,0,0,,I took a human form, but I was so weak...
-Dialogue: 0,0:16:56.47,0:16:59.29,Default,,0,0,0,,When I was tired, and sat down to rest...
-Dialogue: 0,0:16:59.29,0:17:02.20,Default,,0,0,0,,Shibata came to you?
-Dialogue: 0,0:17:02.72,0:17:05.23,Default,,0,0,0,,I thought he'd be easy prey,
-Dialogue: 0,0:17:05.23,0:17:08.71,Default,,0,0,0,,but I was too tired to even attack him.
-Dialogue: 0,0:17:08.71,0:17:11.18,Default,,0,0,0,,I told him to come back in three days.
-Dialogue: 0,0:17:11.71,0:17:16.12,Default,,0,0,0,,And three days later, that stupid human came back.
-Dialogue: 0,0:17:16.69,0:17:20.33,Default,,0,0,0,,But his moods were so lively...
-Dialogue: 0,0:17:20.33,0:17:22.75,Default,,0,0,0,,and he talked so much...
-Dialogue: 0,0:17:22.75,0:17:24.82,Default,,0,0,0,,I just didn't even have time to eat him.
-Dialogue: 0,0:17:25.47,0:17:28.32,Default,,0,0,0,,So, I said we should meet again.
-Dialogue: 0,0:17:28.83,0:17:30.13,Default,,0,0,0,,No matter how much time passed...
-Dialogue: 0,0:17:31.05,0:17:33.16,Default,,0,0,0,,No matter how many times we met...
-Dialogue: 0,0:17:33.88,0:17:35.23,Default,,0,0,0,,It was fun.
-Dialogue: 0,0:17:36.62,0:17:39.66,Default,,0,0,0,,And I never had the time to eat him.
-Dialogue: 0,0:17:40.66,0:17:44.16,Default,,0,0,0,,To tell the truth, he came last night.
-Dialogue: 0,0:17:42.87,0:17:44.16,Default - italics,,0,0,0,,Murasaki!
-Dialogue: 0,0:17:44.16,0:17:45.17,Default - italics,,0,0,0,,Murasaki!
-Dialogue: 0,0:17:45.77,0:17:47.59,Default - italics,,0,0,0,,Murasaki, where are you?
-Dialogue: 0,0:17:47.59,0:17:52.30,Default,,0,0,0,,I didn't think I could take a human form.
-Dialogue: 0,0:17:52.30,0:17:53.30,Default - italics,,0,0,0,,Murasaki?
-Dialogue: 0,0:17:55.48,0:17:56.56,Default - italics,,0,0,0,,Murasaki?
-Dialogue: 0,0:17:56.81,0:17:59.43,Default - italics,,0,0,0,,What are you doing here at this hour?
-Dialogue: 0,0:18:01.89,0:18:04.56,Default - italics,,0,0,0,,What if you meet a monster?
-Dialogue: 0,0:18:04.56,0:18:05.69,Default - italics,,0,0,0,,I'm fine.
-Dialogue: 0,0:18:06.51,0:18:09.58,Default - italics,,0,0,0,,Hey do you want to take a walk...
-Dialogue: 0,0:18:09.58,0:18:11.70,Default - italics,,0,0,0,,to that hill by the river?
-Dialogue: 0,0:18:11.70,0:18:12.99,Default - italics,,0,0,0,,I'd like to...
-Dialogue: 0,0:18:13.48,0:18:16.46,Default - italics,,0,0,0,,but I don't feel well today.
-Dialogue: 0,0:18:16.46,0:18:19.25,Default - italics,,0,0,0,,Can we do it some other time?
-Dialogue: 0,0:18:19.25,0:18:20.50,Default - italics,,0,0,0,,Okay.
-Dialogue: 0,0:18:21.38,0:18:23.89,Default - italics,,0,0,0,,It's a promise, Murasaki.
-Dialogue: 0,0:18:23.89,0:18:26.42,Default - italics,,0,0,0,,Yes, a promise.
-Dialogue: 0,0:18:27.23,0:18:31.67,Default,,0,0,0,,By then, Shibata already knew who I was.
-Dialogue: 0,0:18:33.43,0:18:34.35,Default,,0,0,0,,Murasaki!
-Dialogue: 0,0:18:34.35,0:18:35.71,Default,,0,0,0,,Get away, Natsume.
-Dialogue: 0,0:18:35.71,0:18:37.43,Default,,0,0,0,,If you touch her, she'll eat you.
-Dialogue: 0,0:18:37.43,0:18:40.24,Default,,0,0,0,,I thought I would,
-Dialogue: 0,0:18:40.85,0:18:42.28,Default,,0,0,0,,but I don't think I can.
-Dialogue: 0,0:18:43.49,0:18:46.12,Default,,0,0,0,,He's Shibata's friend.
-Dialogue: 0,0:18:46.65,0:18:49.07,Default,,0,0,0,,If I ate him, Shibata wouldn't like me anymore.
-Dialogue: 0,0:18:51.82,0:18:52.92,Default,,0,0,0,,Just wait.
-Dialogue: 0,0:18:52.92,0:18:53.87,Default,,0,0,0,,I'll get a fish.
-Dialogue: 0,0:18:53.87,0:18:55.32,Default,,0,0,0,,Wait...
-Dialogue: 0,0:18:59.37,0:19:00.54,Default,,0,0,0,,Shibata!
-Dialogue: 0,0:19:05.56,0:19:10.68,Default,,0,0,0,,Sorry, it's not that I don't believe you, but for now...
-Dialogue: 0,0:19:10.68,0:19:12.17,Default,,0,0,0,,This is a letter from Murasaki.
-Dialogue: 0,0:19:12.95,0:19:14.09,Default,,0,0,0,,Murasaki?
-Dialogue: 0,0:19:14.09,0:19:15.42,Default,,0,0,0,,You met her?
-Dialogue: 0,0:19:15.42,0:19:16.34,Default,,0,0,0,,Where is she?
-Dialogue: 0,0:19:16.34,0:19:18.30,Default,,0,0,0,,Just take it!
-Dialogue: 0,0:19:24.10,0:19:26.93,Default - italics,,0,0,0,,Could you give this to Shibata?
-Dialogue: 0,0:19:26.93,0:19:28.98,Default - italics,,0,0,0,,I wrote what you humans call a letter.
-Dialogue: 0,0:19:29.93,0:19:33.58,Default - italics,,0,0,0,,If I met him, he would always remember me.
-Dialogue: 0,0:19:33.58,0:19:36.10,Default - italics,,0,0,0,,I said my goodbyes and wrote out my feelings.
-Dialogue: 0,0:19:36.10,0:19:38.07,Default,,0,0,0,,Is it because I got you caught up in this?
-Dialogue: 0,0:19:38.74,0:19:40.58,Default,,0,0,0,,Because I called you a liar?
-Dialogue: 0,0:19:41.28,0:19:43.68,Default,,0,0,0,,Because I didn't believe what you said?
-Dialogue: 0,0:19:44.33,0:19:46.71,Default,,0,0,0,,Is that why you gave me these scribbles?
-Dialogue: 0,0:19:47.06,0:19:48.72,Default,,0,0,0,,These characters...
-Dialogue: 0,0:19:48.72,0:19:49.75,Default,,0,0,0,,Enough.
-Dialogue: 0,0:19:50.46,0:19:52.46,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:19:52.46,0:19:53.34,Default,,0,0,0,,So...
-Dialogue: 0,0:19:54.99,0:19:57.38,Default,,0,0,0,,You don't have to believe me!
-Dialogue: 0,0:19:57.38,0:20:00.70,Default,,0,0,0,,Just keep this letter!
-Dialogue: 0,0:20:10.16,0:20:11.31,Default,,0,0,0,,Murasaki.
-Dialogue: 0,0:20:12.80,0:20:14.20,Default,,0,0,0,,Where is Murasaki?
-Dialogue: 0,0:20:14.90,0:20:16.03,Default,,0,0,0,,Shibata?
-Dialogue: 0,0:20:16.57,0:20:18.11,Default,,0,0,0,,Murasaki wants to see me!
-Dialogue: 0,0:20:19.71,0:20:20.77,Default,,0,0,0,,This way!
-Dialogue: 0,0:20:28.37,0:20:29.39,Default,,0,0,0,,Murasaki.
-Dialogue: 0,0:20:33.75,0:20:36.48,Default,,0,0,0,,You shouldn't have come.
-Dialogue: 0,0:20:36.48,0:20:39.43,Default,,0,0,0,,I told you I was leaving, and that we couldn't meet anymore, right?
-Dialogue: 0,0:20:40.67,0:20:41.30,Default,,0,0,0,,But...
-Dialogue: 0,0:20:42.18,0:20:43.81,Default,,0,0,0,,You promised me, didn't you?
-Dialogue: 0,0:20:44.65,0:20:48.14,Default,,0,0,0,,Take me there, Shibata. Like you always do.
-Dialogue: 0,0:20:49.06,0:20:49.82,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:20:57.70,0:20:59.15,Default,,0,0,0,,Shibata...
-Dialogue: 0,0:21:08.53,0:21:10.00,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:21:30.44,0:21:31.64,Default,,0,0,0,,Shibata...
-Dialogue: 0,0:21:32.34,0:21:33.40,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:21:34.88,0:21:35.92,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:21:35.92,0:21:37.78,Default,,0,0,0,,I was so mean to you.
-Dialogue: 0,0:21:39.13,0:21:40.96,Default,,0,0,0,,But you still did all this for me.
-Dialogue: 0,0:21:42.94,0:21:44.77,Default,,0,0,0,,Thank you, Natsume.
-Dialogue: 0,0:21:46.69,0:21:50.89,Default,,0,0,0,,Murasaki would climb up to high places like this...
-Dialogue: 0,0:21:57.66,0:21:59.00,Default,,0,0,0,,It's cold.
-Dialogue: 0,0:22:00.32,0:22:01.95,Default,,0,0,0,,What's so funny?
-Dialogue: 0,0:22:03.25,0:22:05.33,Default,,0,0,0,,Don't tell anybody about this.
-Dialogue: 0,0:22:05.33,0:22:06.56,Default,,0,0,0,,About what?
-Dialogue: 0,0:22:06.93,0:22:08.81,Default,,0,0,0,,About how I cried.
-Dialogue: 0,0:22:10.29,0:22:12.28,Default,,0,0,0,,Yeah, I won't.
-Dialogue: 0,0:22:12.28,0:22:14.10,Default,,0,0,0,,What kind of answer is that?
-Dialogue: 0,0:22:14.10,0:22:15.31,Default,,0,0,0,,Jerk.
-Dialogue: 0,0:22:15.81,0:22:19.57,Default - italics,,0,0,0,,When I was little, I really wanted friends.
-Dialogue: 0,0:22:20.56,0:22:23.07,Default - italics,,0,0,0,,Whether they were human or spirit,
-Dialogue: 0,0:22:24.32,0:22:28.92,Default - italics,,0,0,0,,both light a warm lamp in my heart.
-Dialogue: 0,0:24:01.29,0:24:02.92,Default,,0,0,0,,I was always alone.
-Dialogue: 0,0:24:03.18,0:24:04.97,Default,,0,0,0,,I'm always alone.
-Dialogue: 0,0:24:04.97,0:24:07.80,Default,,0,0,0,,That person always looked so sad and lonely.
-Dialogue: 0,0:24:07.80,0:24:09.78,Default,,0,0,0,,I didn't understand then...
-Dialogue: 0,0:24:09.78,0:24:12.56,Default,,0,0,0,,how I felt, or how others felt.
-Dialogue: 0,0:24:12.56,0:24:15.98,Default,,0,0,0,,I feel like drinking some booze!
+Dialogue: 10,0:01:32.47,0:01:33.88,Default,,0,0,0,,A cake?
+Dialogue: 10,0:01:34.74,0:01:38.19,Default,,0,0,0,,Yes, it's Shigeru's birthday today.
+Dialogue: 10,0:01:38.19,0:01:41.08,Default,,0,0,0,,Takashi, could you buy one on your way home?
+Dialogue: 10,0:01:41.08,0:01:42.64,Default,,0,0,0,,What kind do you want?
+Dialogue: 10,0:01:42.64,0:01:44.25,Default,,0,0,0,,Let me think...
+Dialogue: 10,0:01:44.25,0:01:47.93,Default,,0,0,0,,since it's his birthday, strawberry shortcake would be great.
+Dialogue: 10,0:01:47.93,0:01:49.17,Default,,0,0,0,,Get three slices.
+Dialogue: 10,0:01:49.62,0:01:50.72,Default,,0,0,0,,Okay.
+Dialogue: 10,0:01:51.17,0:01:52.38,Default,,0,0,0,,Make it four!
+Dialogue: 10,0:01:52.90,0:01:54.97,Default,,0,0,0,,Cats can't eat sweets, you know.
+Dialogue: 10,0:01:54.97,0:01:56.19,Default,,0,0,0,,I'm not a cat!
+Dialogue: 10,0:01:56.19,0:01:58.43,Default,,0,0,0,,I'm a Lucky Cat, and I love sweets!
+Dialogue: 10,0:02:01.57,0:02:04.73,Default,,0,0,0,,These are calm, quiet days.
+Dialogue: 10,0:02:09.04,0:02:12.11,Default,,0,0,0,,The chef studied in France, or something.
+Dialogue: 10,0:02:12.11,0:02:13.98,Default,,0,0,0,,It's really good.
+Dialogue: 10,0:02:14.66,0:02:15.62,Default,,0,0,0,,Here you go.
+Dialogue: 10,0:02:17.49,0:02:19.12,Default,,0,0,0,,Forest of Cuteness?
+Dialogue: 10,0:02:19.12,0:02:21.40,Default,,0,0,0,,That's one heck of a name.
+Dialogue: 10,0:02:21.40,0:02:23.71,Default,,0,0,0,,It looks like it's near Kitamoto's house.
+Dialogue: 10,0:02:26.99,0:02:28.43,Default,,0,0,0,,This is it?
+Dialogue: 10,0:02:28.43,0:02:31.61,Default,,0,0,0,,It's as cute as the name suggests.
+Dialogue: 10,0:02:31.61,0:02:32.97,Default,,0,0,0,,That's why we're here, right?
+Dialogue: 10,0:02:32.97,0:02:36.01,Default,,0,0,0,,It's hard for a guy to go in there alone.
+Dialogue: 10,0:02:37.97,0:02:39.54,Default,,0,0,0,,I can't do it.
+Dialogue: 10,0:02:39.54,0:02:41.89,Default,,0,0,0,,It's too much for me.
+Dialogue: 10,0:02:41.89,0:02:45.18,Default,,0,0,0,,You always carry that cat everywhere, so what are you embarrassed for?
+Dialogue: 10,0:02:45.18,0:02:46.52,Default,,0,0,0,,Just go.
+Dialogue: 10,0:02:46.52,0:02:49.64,Default,,0,0,0,,You want to give your folks a nice cake, right?
+Dialogue: 10,0:02:51.31,0:02:52.79,Default,,0,0,0,,That's right.
+Dialogue: 10,0:02:52.79,0:02:54.14,Default,,0,0,0,,Okay.
+Dialogue: 10,0:02:54.14,0:02:55.21,Default,,0,0,0,,Natsume.
+Dialogue: 10,0:02:57.27,0:02:59.91,Default,,0,0,0,,You're Natsume Takashi, right?
+Dialogue: 10,0:03:01.21,0:03:02.66,Default,,0,0,0,,I've finally found you.
+Dialogue: 10,0:03:03.76,0:03:04.66,Default - italics,,0,0,0,,Who's he?
+Dialogue: 10,0:03:04.66,0:03:06.79,Default,,0,0,0,,Oh, you know Natsume?
+Dialogue: 10,0:03:06.79,0:03:09.86,Default,,0,0,0,,I've never seen that uniform around here before.
+Dialogue: 10,0:03:09.86,0:03:10.92,Default,,0,0,0,,Um...
+Dialogue: 10,0:03:10.92,0:03:14.01,Default,,0,0,0,,Oh, so he's made friends here.
+Dialogue: 10,0:03:15.43,0:03:17.37,Default,,0,0,0,,Hey, what's that supposed to mean?
+Dialogue: 10,0:03:17.37,0:03:19.02,Default,,0,0,0,,Oh, sorry.
+Dialogue: 10,0:03:19.02,0:03:21.84,Default,,0,0,0,,I'm Shibata from Sakaki West High.
+Dialogue: 10,0:03:21.84,0:03:25.12,Default,,0,0,0,,I was in Natsume's elementary school for a while.
+Dialogue: 10,0:03:25.12,0:03:26.37,Default,,0,0,0,,You don't remember, do you?
+Dialogue: 10,0:03:27.02,0:03:28.06,Default,,0,0,0,,No.
+Dialogue: 10,0:03:28.06,0:03:29.65,Default,,0,0,0,,Well, I remember.
+Dialogue: 10,0:03:30.08,0:03:32.55,Default,,0,0,0,,You were a bit of a weirdo.
+Dialogue: 10,0:03:33.15,0:03:36.18,Default,,0,0,0,,Can you come with me for a bit?
+Dialogue: 10,0:03:36.18,0:03:37.86,Default,,0,0,0,,Natsume, let's leave.
+Dialogue: 10,0:03:37.86,0:03:39.95,Default,,0,0,0,,I can say it here, if you want.
+Dialogue: 10,0:03:41.33,0:03:44.24,Default,,0,0,0,,Sorry, Nishimura, Kitamoto.
+Dialogue: 10,0:03:44.24,0:03:45.56,Default,,0,0,0,,See you later.
+Dialogue: 10,0:03:45.56,0:03:47.25,Default,,0,0,0,,Hey, Natsume?
+Dialogue: 10,0:03:55.92,0:03:57.87,Default,,0,0,0,,How far are we going to walk?
+Dialogue: 10,0:03:57.87,0:04:01.05,Default,,0,0,0,,You used to say some pretty weird stuff.
+Dialogue: 10,0:04:02.22,0:04:05.11,Default,,0,0,0,,Like how you could see things that everyone else couldn't.
+Dialogue: 10,0:04:06.48,0:04:08.31,Default,,0,0,0,,Was that true?
+Dialogue: 10,0:04:17.23,0:04:18.09,Default - italics,,0,0,0,,Liar!
+Dialogue: 10,0:04:18.09,0:04:20.57,Default - italics,,0,0,0,,He's lying again.
+Dialogue: 10,0:04:20.57,0:04:21.49,Default - italics,,0,0,0,,We should stay away from him.{CPS}
+Dialogue: 10,0:04:21.49,0:04:24.28,Default - italics,,0,0,0,,Liar!
+Dialogue: 10,0:04:26.25,0:04:27.50,Default,,0,0,0,,No way.
+Dialogue: 10,0:04:27.50,0:04:29.34,Default,,0,0,0,,Your face changed color.
+Dialogue: 10,0:04:29.34,0:04:30.36,Default,,0,0,0,,Are you serious?
+Dialogue: 10,0:04:31.06,0:04:34.69,Default,,0,0,0,,It was just a joke when we were little. Nothing serious.
+Dialogue: 10,0:04:34.69,0:04:35.93,Default,,0,0,0,,I'm going home.
+Dialogue: 10,0:04:35.93,0:04:37.42,Default,,0,0,0,,I'll come back again.
+Dialogue: 10,0:04:38.30,0:04:40.67,Default,,0,0,0,,You don't want your new friends to find out about it.
+Dialogue: 10,0:04:40.67,0:04:42.76,Default,,0,0,0,,I know that.
+Dialogue: 10,0:04:44.16,0:04:47.79,Default - italics,,0,0,0,,I'm not as good at lying as I used to be.
+Dialogue: 10,0:04:47.79,0:04:49.21,Default,,0,0,0,,Oh, right.
+Dialogue: 10,0:04:49.21,0:04:50.94,Default,,0,0,0,,Do you have any money?
+Dialogue: 10,0:04:59.95,0:05:01.86,Default,,0,0,0,,Hey, where are we going, really?
+Dialogue: 10,0:05:01.86,0:05:04.40,Default,,0,0,0,,Shut up. Just be quiet and come with me.
+Dialogue: 10,0:05:18.17,0:05:19.50,Default,,0,0,0,,There are mosquitos out here.
+Dialogue: 10,0:05:19.50,0:05:21.43,Default,,0,0,0,,What are we doing?
+Dialogue: 10,0:05:21.43,0:05:22.55,Default,,0,0,0,,She's here.
+Dialogue: 10,0:05:23.28,0:05:24.30,Default,,0,0,0,,Over there.
+Dialogue: 10,0:05:29.30,0:05:30.44,Default,,0,0,0,,Do you see something?
+Dialogue: 10,0:05:31.06,0:05:32.12,Default,,0,0,0,,A girl?
+Dialogue: 10,0:05:32.12,0:05:33.88,Default,,0,0,0,,What kind of girl?
+Dialogue: 10,0:05:35.89,0:05:38.90,Default,,0,0,0,,A normal, long-haired high schooler.
+Dialogue: 10,0:05:38.90,0:05:40.04,Default,,0,0,0,,Really?
+Dialogue: 10,0:05:40.65,0:05:42.55,Default,,0,0,0,,She's really a human, right?
+Dialogue: 10,0:05:46.90,0:05:48.35,Default,,0,0,0,,Don't laugh!
+Dialogue: 10,0:05:48.35,0:05:51.24,Default,,0,0,0,,You can tell whether they're human or not, right?
+Dialogue: 10,0:05:51.24,0:05:53.30,Default,,0,0,0,,She looks totally normal!
+Dialogue: 10,0:05:53.30,0:05:54.95,Default,,0,0,0,,Why are you asking that?
+Dialogue: 10,0:05:54.95,0:05:56.06,Default,,0,0,0,,Shibata?
+Dialogue: 10,0:05:56.65,0:05:57.89,Default,,0,0,0,,Murasaki?
+Dialogue: 10,0:05:59.12,0:06:01.05,Default,,0,0,0,,What are you doing there?
+Dialogue: 10,0:06:01.75,0:06:03.34,Default,,0,0,0,,Is this a friend of yours?
+Dialogue: 10,0:06:03.63,0:06:05.20,Default,,0,0,0,,Y-Yeah. Natsume.{added stutter}
+Dialogue: 10,0:06:05.20,0:06:06.85,Default,,0,0,0,,An old friend.
+Dialogue: 10,0:06:07.50,0:06:09.18,Default,,0,0,0,,Liar.
+Dialogue: 10,0:06:09.18,0:06:11.18,Default,,0,0,0,,Hey, play along!
+Dialogue: 10,0:06:12.69,0:06:14.47,Default,,0,0,0,,You're good friends, huh?
+Dialogue: 10,0:06:15.42,0:06:18.12,Default - italics,,0,0,0,,And then, for a short while,
+Dialogue: 10,0:06:19.52,0:06:24.42,Default - italics,,0,0,0,,the girl named Murasaki talked with Shibata, and then went home.
+Dialogue: 10,0:06:30.48,0:06:32.37,Default - italics,,0,0,0,,The two seemed close.
+Dialogue: 10,0:06:32.93,0:06:36.68,Default - italics,,0,0,0,,Shibata seemed to be in love with her.
+Dialogue: 10,0:06:37.78,0:06:40.50,Default,,0,0,0,,Sorry for being so weird.
+Dialogue: 10,0:06:40.50,0:06:42.13,Default,,0,0,0,,You really helped me, Natsume.
+Dialogue: 10,0:06:42.50,0:06:44.07,Default,,0,0,0,,What did you need me for?
+Dialogue: 10,0:06:44.07,0:06:46.66,Default,,0,0,0,,Did you think she was a ghost?
+Dialogue: 10,0:06:46.66,0:06:47.85,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:06:47.85,0:06:49.95,Default,,0,0,0,,I was acting weird.
+Dialogue: 10,0:06:53.01,0:06:54.10,Default,,0,0,0,,What?
+Dialogue: 10,0:06:54.10,0:06:56.13,Default,,0,0,0,,You think I'm an idiot, right?
+Dialogue: 10,0:06:56.13,0:06:59.37,Default,,0,0,0,,No, I'm not making fun of you.
+Dialogue: 10,0:06:59.37,0:07:02.53,Default,,0,0,0,,Look, it's already gotten pretty late.
+Dialogue: 10,0:07:02.53,0:07:03.96,Default,,0,0,0,,If I don't hurry...
+Dialogue: 10,0:07:06.87,0:07:07.74,Default,,0,0,0,,The cake!
+Dialogue: 10,0:07:07.74,0:07:08.49,Default,,0,0,0,,What?
+Dialogue: 10,0:07:08.49,0:07:10.16,Default,,0,0,0,,What's wrong?
+Dialogue: 10,0:07:12.83,0:07:14.83,Default,,0,0,0,,It's so pretty!
+Dialogue: 10,0:07:15.09,0:07:17.44,Default,,0,0,0,,Are these cakes good enough?
+Dialogue: 10,0:07:17.44,0:07:19.34,Default,,0,0,0,,Yes, thank you.
+Dialogue: 10,0:07:21.53,0:07:23.84,Default - italics,,0,0,0,,I went around to all the local cake shops,
+Dialogue: 10,0:07:24.37,0:07:26.41,Default - italics,,0,0,0,,but each one was out of shortcake.
+Dialogue: 10,0:07:27.89,0:07:31.38,Default - italics,,0,0,0,,If I had been alone, I never would have found it.
+Dialogue: 10,0:07:30.11,0:07:31.72,Default,,0,0,0,,{\an8}I found it, Natsume!
+Dialogue: 10,0:07:31.72,0:07:34.23,Default - italics,,0,0,0,,Shibata looked for it with me.
+Dialogue: 10,0:07:37.52,0:07:38.80,Default,,0,0,0,,This is really good.
+Dialogue: 10,0:07:38.80,0:07:42.48,Default,,0,0,0,,Takashi bought it for us.
+Dialogue: 10,0:07:42.48,0:07:44.36,Default,,0,0,0,,Thank you, Takashi.
+Dialogue: 10,0:07:48.45,0:07:52.78,Default,,0,0,0,,Eating something sweet after something salty is really nice.
+Dialogue: 10,0:07:52.78,0:07:54.95,Default,,0,0,0,,Natsume, go get me another one of these.
+Dialogue: 10,0:07:55.55,0:07:57.62,Default,,0,0,0,,I'm tired.
+Dialogue: 10,0:07:57.62,0:07:59.03,Default,,0,0,0,,It's hopeless.
+Dialogue: 10,0:07:59.03,0:08:00.59,Default,,0,0,0,,I can't open my eyes.
+Dialogue: 10,0:08:02.52,0:08:04.13,Default,,0,0,0,,Where did you go?
+Dialogue: 10,0:08:04.13,0:08:06.97,Default,,0,0,0,,You've got a spirit's smell on you.
+Dialogue: 10,0:08:07.23,0:08:09.04,Default,,0,0,0,,A spirit?
+Dialogue: 10,0:08:09.04,0:08:11.67,Default,,0,0,0,,No, she was a girl.
+Dialogue: 10,0:08:14.95,0:08:18.02,Default - italics,,0,0,0,,Huh? Where am I?
+Dialogue: 10,0:08:19.09,0:08:20.50,Default - italics,,0,0,0,,It's that girl.
+Dialogue: 10,0:08:21.45,0:08:23.02,Default - italics,,0,0,0,,She's eating something.
+Dialogue: 10,0:08:24.78,0:08:25.78,Default,,0,0,0,,Shibata!
+Dialogue: 10,0:08:35.25,0:08:37.17,Default,,0,0,0,,Why did you you come here again?
+Dialogue: 10,0:08:37.70,0:08:39.62,Default,,0,0,0,,It's because you said something weird.
+Dialogue: 10,0:08:39.62,0:08:40.92,Default,,0,0,0,,I'm worried.
+Dialogue: 10,0:08:41.78,0:08:44.46,Default,,0,0,0,,I think it was around here.
+Dialogue: 10,0:08:44.46,0:08:45.72,Default,,0,0,0,,I'll look around.
+Dialogue: 10,0:08:48.29,0:08:50.18,Default - italics,,0,0,0,,I didn't notice yesterday,
+Dialogue: 10,0:08:50.43,0:08:52.99,Default - italics,,0,0,0,,but this is a pretty creepy place.
+Dialogue: 10,0:08:56.34,0:08:57.38,Default,,0,0,0,,That sound...
+Dialogue: 10,0:09:19.12,0:09:21.57,Default,,0,0,0,,You smell delicious.
+Dialogue: 10,0:09:21.57,0:09:23.96,Default,,0,0,0,,So, you really are a demon.
+Dialogue: 10,0:09:23.96,0:09:25.63,Default,,0,0,0,,That's right.
+Dialogue: 10,0:09:25.63,0:09:29.36,Default,,0,0,0,,I can eat you instead of him.
+Dialogue: 10,0:09:36.72,0:09:38.97,Default,,0,0,0,,A white pig is biting me!
+Dialogue: 10,0:09:38.97,0:09:40.25,Default,,0,0,0,,Master Nyanko!
+Dialogue: 10,0:09:40.25,0:09:41.06,Default,,0,0,0,,Ow.
+Dialogue: 10,0:09:41.81,0:09:43.31,Default,,0,0,0,,Curse you, human!
+Dialogue: 10,0:09:43.31,0:09:45.95,Default,,0,0,0,,If you dare tell anyone who I am,
+Dialogue: 10,0:09:45.95,0:09:48.44,Default,,0,0,0,,I'll follow you forever and eat you!
+Dialogue: 10,0:09:48.44,0:09:49.49,Default,,0,0,0,,You brat!
+Dialogue: 10,0:09:49.49,0:09:52.00,Default,,0,0,0,,He's my emergency ration!
+Dialogue: 10,0:09:58.97,0:10:02.05,Default,,0,0,0,,She's a spirit from one of the flower trees around here.
+Dialogue: 10,0:10:02.05,0:10:04.79,Default,,0,0,0,,She's pretending to be human to deceive other humans and eat them.
+Dialogue: 10,0:10:05.48,0:10:09.34,Default,,0,0,0,,Then, she's deceiving Shibata.
+Dialogue: 10,0:10:09.73,0:10:12.84,Default,,0,0,0,,Spirits who act that obvious end up making mistakes.
+Dialogue: 10,0:10:13.29,0:10:19.77,Default,,0,0,0,,That kid probably came to you because he felt something was wrong.
+Dialogue: 10,0:10:24.91,0:10:27.06,Default,,0,0,0,,Hey, did you see that guy at the gate?
+Dialogue: 10,0:10:27.06,0:10:30.11,Default,,0,0,0,,Yeah, who do you think he's waiting for?
+Dialogue: 10,0:10:30.58,0:10:33.06,Default,,0,0,0,,He's not from our school.
+Dialogue: 10,0:10:42.22,0:10:43.74,Default,,0,0,0,,Shibata.
+Dialogue: 10,0:10:43.74,0:10:45.66,Default,,0,0,0,,I thought it was you.
+Dialogue: 10,0:10:45.66,0:10:47.51,Default,,0,0,0,,What are you doing heー
+Dialogue: 10,0:10:50.13,0:10:51.66,Default,,0,0,0,,That's the ugliest cat I've ever seen!
+Dialogue: 10,0:10:53.38,0:10:54.75,Default,,0,0,0,,Get lost, you ugly cat!
+Dialogue: 10,0:10:54.75,0:10:57.93,Default,,0,0,0,,Oh, Shibata, this ugly cat is mine.
+Dialogue: 10,0:10:57.93,0:10:59.22,Default,,0,0,0,,Oww!
+Dialogue: 10,0:10:59.22,0:11:00.14,Default,,0,0,0,,What the heck?
+Dialogue: 10,0:11:04.39,0:11:07.10,Default,,0,0,0,,What did you come all this way for?
+Dialogue: 10,0:11:08.29,0:11:11.12,Default,,0,0,0,,It's about that girl from yesterday...
+Dialogue: 10,0:11:11.66,0:11:16.11,Default,,0,0,0,,Yeah... I really feel bad for what I said.
+Dialogue: 10,0:11:16.59,0:11:19.87,Default,,0,0,0,,I met her in that park.
+Dialogue: 10,0:11:21.16,0:11:25.03,Default,,0,0,0,,The first time we met, she appeared by chance when I was alone.
+Dialogue: 10,0:11:26.39,0:11:29.38,Default,,0,0,0,,After that, I started seeing her every now and then.
+Dialogue: 10,0:11:30.20,0:11:32.88,Default,,0,0,0,,But she wouldn't tell me her name, her phone number,
+Dialogue: 10,0:11:32.88,0:11:36.29,Default,,0,0,0,,or what school she went to.
+Dialogue: 10,0:11:36.29,0:11:38.89,Default,,0,0,0,,I thought she didn't like me.
+Dialogue: 10,0:11:39.49,0:11:43.64,Default,,0,0,0,,But her eyes made me feel like she really liked me.
+Dialogue: 10,0:11:44.05,0:11:45.94,Default,,0,0,0,,Hey, Shibata.
+Dialogue: 10,0:11:45.94,0:11:47.27,Default,,0,0,0,,That girl...
+Dialogue: 10,0:11:47.27,0:11:48.58,Default,,0,0,0,,It's cold.
+Dialogue: 10,0:11:49.65,0:11:54.03,Default,,0,0,0,,Whenever I hold her hand while we look at the flowers or the evening sun,
+Dialogue: 10,0:11:54.51,0:11:57.55,Default,,0,0,0,,her hand is always so cold.
+Dialogue: 10,0:11:58.49,0:11:59.53,Default,,0,0,0,,When we first met,
+Dialogue: 10,0:12:00.66,0:12:03.54,Default - italics,,0,0,0,,What would you do if I were a monster?
+Dialogue: 10,0:12:03.87,0:12:05.82,Default,,0,0,0,,I know it's stupid,
+Dialogue: 10,0:12:05.82,0:12:08.66,Default,,0,0,0,,but it bothered me for some reason.
+Dialogue: 10,0:12:08.66,0:12:11.34,Default,,0,0,0,,And then I remembered you.
+Dialogue: 10,0:12:11.90,0:12:13.19,Default,,0,0,0,,Shibata.
+Dialogue: 10,0:12:14.91,0:12:16.36,Default,,0,0,0,,That girl...
+Dialogue: 10,0:12:16.36,0:12:17.55,Default,,0,0,0,,isn't human.{*I'm not sure if it's better or worse when split. You decide, timer-kun.}
+Dialogue: 10,0:12:19.83,0:12:21.98,Default,,0,0,0,,Stay away from her.
+Dialogue: 10,0:12:21.98,0:12:23.70,Default,,0,0,0,,What are you saying?
+Dialogue: 10,0:12:23.70,0:12:25.17,Default,,0,0,0,,I was wrong.
+Dialogue: 10,0:12:25.17,0:12:26.53,Default,,0,0,0,,She's not human.
+Dialogue: 10,0:12:26.53,0:12:27.94,Default,,0,0,0,,Then, what is she?
+Dialogue: 10,0:12:28.27,0:12:31.29,Default,,0,0,0,,You said she was a normal girl last time!
+Dialogue: 10,0:12:31.29,0:12:32.60,Default,,0,0,0,,I...
+Dialogue: 10,0:12:34.41,0:12:35.43,Default,,0,0,0,,She's...
+Dialogue: 10,0:12:35.43,0:12:36.69,Default,,0,0,0,,Enough. Shut up.
+Dialogue: 10,0:12:36.69,0:12:38.24,Default,,0,0,0,,Shibata.
+Dialogue: 10,0:12:39.18,0:12:40.55,Default,,0,0,0,,Liar.
+Dialogue: 10,0:12:41.61,0:12:44.20,Default,,0,0,0,,I knew you were a liar!
+Dialogue: 10,0:12:59.77,0:13:00.47,Default - italics,,0,0,0,,Liar!
+Dialogue: 10,0:13:00.47,0:13:02.47,Default - italics,,0,0,0,,Liar!
+Dialogue: 10,0:13:03.12,0:13:07.22,Default - italics,,0,0,0,,I can't stop just because he called me a liar.
+Dialogue: 10,0:13:08.24,0:13:11.57,Default - italics,,0,0,0,,Get a grip. Right now, I have to...
+Dialogue: 10,0:13:13.80,0:13:14.77,Default,,0,0,0,,Don't worry.
+Dialogue: 10,0:13:14.77,0:13:16.98,Default,,0,0,0,,She won't show up for a couple of days.
+Dialogue: 10,0:13:20.01,0:13:21.15,Default,,0,0,0,,Jeez.
+Dialogue: 10,0:13:21.15,0:13:22.74,Default,,0,0,0,,Don't you know how to hold back?
+Dialogue: 10,0:13:22.74,0:13:25.66,Default,,0,0,0,,I told you not to come in without asking!
+Dialogue: 10,0:13:25.66,0:13:27.42,Default,,0,0,0,,No cake today?
+Dialogue: 10,0:13:27.42,0:13:28.47,Default,,0,0,0,,No.
+Dialogue: 10,0:13:28.47,0:13:30.54,Default,,0,0,0,,Anyway, about that demon.
+Dialogue: 10,0:13:30.54,0:13:32.58,Default,,0,0,0,,Are you sure she won't appear for a few days?
+Dialogue: 10,0:13:33.01,0:13:36.13,Default,,0,0,0,,She's not a powerful spirit like me.
+Dialogue: 10,0:13:36.13,0:13:38.29,Default,,0,0,0,,She's a little wimp.
+Dialogue: 10,0:13:38.29,0:13:40.53,Default,,0,0,0,,It'll take her at least three days
+Dialogue: 10,0:13:40.53,0:13:42.59,Default,,0,0,0,,before she can appear as a human.
+Dialogue: 10,0:13:42.59,0:13:43.73,Default,,0,0,0,,Three days...
+Dialogue: 10,0:13:44.37,0:13:46.16,Default,,0,0,0,,I have some time, then.
+Dialogue: 10,0:13:46.16,0:13:47.50,Default,,0,0,0,,Natsume?
+Dialogue: 10,0:13:50.93,0:13:52.81,Default,,0,0,0,,He left? Already?
+Dialogue: 10,0:13:52.81,0:13:55.41,Default,,0,0,0,,Yeah, through the back exit.
+Dialogue: 10,0:13:55.41,0:13:56.82,Default,,0,0,0,,He ran away.
+Dialogue: 10,0:13:58.01,0:13:59.11,Default,,0,0,0,,He's gone.
+Dialogue: 10,0:14:00.29,0:14:01.49,Default,,0,0,0,,Thanks.
+Dialogue: 10,0:14:01.78,0:14:02.90,Default,,0,0,0,,Are you sure?
+Dialogue: 10,0:14:02.90,0:14:05.49,Default,,0,0,0,,He seemed worried about you.
+Dialogue: 10,0:14:05.49,0:14:07.65,Default,,0,0,0,,You should talk to him, shouldn't you?
+Dialogue: 10,0:14:07.65,0:14:09.37,Default,,0,0,0,,Aren't you friends with him?
+Dialogue: 10,0:14:10.33,0:14:12.62,Default,,0,0,0,,No, he's...
+Dialogue: 10,0:14:13.01,0:14:14.79,Default,,0,0,0,,a kid I never used to believe,
+Dialogue: 10,0:14:14.79,0:14:16.16,Default,,0,0,0,,and always used to bully.
+Dialogue: 10,0:14:18.13,0:14:19.88,Default,,0,0,0,,What are you going to do?
+Dialogue: 10,0:14:19.88,0:14:23.18,Default,,0,0,0,,I'll watch that demon, and make sure she stays away from Shibata.
+Dialogue: 10,0:14:23.18,0:14:24.99,Default,,0,0,0,,What a pain.
+Dialogue: 10,0:14:24.99,0:14:28.65,Default,,0,0,0,,You don't have any reason to go that far for him.
+Dialogue: 10,0:14:28.65,0:14:32.83,Default,,0,0,0,,He's kind of a jerk, but not a bad person. I think.
+Dialogue: 10,0:14:34.59,0:14:35.69,Default,,0,0,0,,Oh, fine.
+Dialogue: 10,0:14:35.69,0:14:38.64,Default,,0,0,0,,You owe me another slice of cake and another dried squid!
+Dialogue: 10,0:14:43.58,0:14:44.76,Default - italics,,0,0,0,,This smell...
+Dialogue: 10,0:14:46.41,0:14:47.78,Default,,0,0,0,,Let me go!{ends on scenechange}
+Dialogue: 10,0:14:49.54,0:14:51.54,Default,,0,0,0,,You again?
+Dialogue: 10,0:14:51.54,0:14:53.87,Default,,0,0,0,,Did you come to let me eat you?
+Dialogue: 10,0:14:54.47,0:14:58.73,Default,,0,0,0,,Yesterday, I told Shibata that you weren't human.
+Dialogue: 10,0:14:58.73,0:15:01.46,Default,,0,0,0,,No matter how long you wait to eat him, he won't come!
+Dialogue: 10,0:15:01.46,0:15:03.67,Default,,0,0,0,,Give up on him!
+Dialogue: 10,0:15:06.01,0:15:07.11,Default,,0,0,0,,You're lying.
+Dialogue: 10,0:15:07.69,0:15:08.72,Default,,0,0,0,,I'm not lying!
+Dialogue: 10,0:15:08.72,0:15:11.68,Default,,0,0,0,,Then, he didn't believe you.
+Dialogue: 10,0:15:11.68,0:15:15.73,Default,,0,0,0,,If he did, then you wouldn't have needed to come here.
+Dialogue: 10,0:15:16.48,0:15:18.02,Default,,0,0,0,,W-Well...{added stutter}
+Dialogue: 10,0:15:18.02,0:15:24.11,Default,,0,0,0,,He didn't believe you, so you came here to do something about it yourself, right?
+Dialogue: 10,0:15:24.70,0:15:25.95,Default,,0,0,0,,Too bad.
+Dialogue: 10,0:15:25.95,0:15:28.74,Default,,0,0,0,,Hey, Natsume. You see her?
+Dialogue: 10,0:15:29.56,0:15:30.24,Default,,0,0,0,,Let me go!
+Dialogue: 10,0:15:32.38,0:15:35.75,Default,,0,0,0,,I can end this right now by eating her.
+Dialogue: 10,0:15:36.33,0:15:37.74,Default,,0,0,0,,Wait, Master.
+Dialogue: 10,0:15:37.74,0:15:38.62,Default,,0,0,0,,Natsume.
+Dialogue: 10,0:15:38.62,0:15:40.95,Default,,0,0,0,,Wait just a bit longer.
+Dialogue: 10,0:15:40.95,0:15:43.26,Default,,0,0,0,,I want to see what I should do.
+Dialogue: 10,0:15:43.79,0:15:46.88,Default,,0,0,0,,Shibata really cares about her.
+Dialogue: 10,0:15:50.51,0:15:52.77,Default,,0,0,0,,Natsume, you wimp!
+Dialogue: 10,0:15:52.77,0:15:54.39,Default,,0,0,0,,She got away!
+Dialogue: 10,0:15:54.39,0:15:55.39,Default,,0,0,0,,Chase her!
+Dialogue: 10,0:16:01.49,0:16:02.85,Default,,0,0,0,,She fell!
+Dialogue: 10,0:16:02.85,0:16:05.19,Default,,0,0,0,,I knew it, she's weakened.
+Dialogue: 10,0:16:05.19,0:16:06.15,Default,,0,0,0,,Weakened?
+Dialogue: 10,0:16:06.44,0:16:10.80,Default,,0,0,0,,Yeah. I left her alone because she didn't have much time left.
+Dialogue: 10,0:16:14.70,0:16:15.91,Default,,0,0,0,,Murasaki...
+Dialogue: 10,0:16:17.17,0:16:18.72,Default,,0,0,0,,Murasaki...
+Dialogue: 10,0:16:18.72,0:16:19.88,Default,,0,0,0,,Murasaki?
+Dialogue: 10,0:16:23.25,0:16:24.58,Default,,0,0,0,,A wisteria tree?
+Dialogue: 10,0:16:25.69,0:16:27.00,Default,,0,0,0,,It's big.
+Dialogue: 10,0:16:28.75,0:16:30.15,Default,,0,0,0,,You woke up?
+Dialogue: 10,0:16:30.93,0:16:32.21,Default,,0,0,0,,You two...
+Dialogue: 10,0:16:33.43,0:16:34.82,Default,,0,0,0,,Don't touch me!
+Dialogue: 10,0:16:35.73,0:16:39.06,Default,,0,0,0,,If you lowly humans touch me, I'll eat you!
+Dialogue: 10,0:16:40.06,0:16:42.74,Default,,0,0,0,,Will you get better if you do?
+Dialogue: 10,0:16:42.74,0:16:44.02,Default,,0,0,0,,I don't know.
+Dialogue: 10,0:16:44.02,0:16:45.49,Default,,0,0,0,,But...
+Dialogue: 10,0:16:45.49,0:16:50.13,Default,,0,0,0,,I thought I'd rather try to eat a human than just disappear.
+Dialogue: 10,0:16:50.69,0:16:55.95,Default,,0,0,0,,I took a human form, but I was so weak...
+Dialogue: 10,0:16:56.47,0:16:59.29,Default,,0,0,0,,When I was tired, and sat down to rest...
+Dialogue: 10,0:16:59.29,0:17:02.20,Default,,0,0,0,,Shibata came to you?
+Dialogue: 10,0:17:02.72,0:17:05.23,Default,,0,0,0,,I thought he'd be easy prey,
+Dialogue: 10,0:17:05.23,0:17:08.71,Default,,0,0,0,,but I was too tired to even attack him.
+Dialogue: 10,0:17:08.71,0:17:11.18,Default,,0,0,0,,I told him to come back in three days.
+Dialogue: 10,0:17:11.71,0:17:16.12,Default,,0,0,0,,And three days later, that stupid human came back.
+Dialogue: 10,0:17:16.69,0:17:20.33,Default,,0,0,0,,But his moods were so lively...
+Dialogue: 10,0:17:20.33,0:17:22.75,Default,,0,0,0,,and he talked so much...
+Dialogue: 10,0:17:22.75,0:17:24.82,Default,,0,0,0,,I just didn't even have time to eat him.
+Dialogue: 10,0:17:25.47,0:17:28.32,Default,,0,0,0,,So, I said we should meet again.
+Dialogue: 10,0:17:28.83,0:17:30.13,Default,,0,0,0,,No matter how much time passed...
+Dialogue: 10,0:17:31.05,0:17:33.16,Default,,0,0,0,,No matter how many times we met...
+Dialogue: 10,0:17:33.88,0:17:35.23,Default,,0,0,0,,It was fun.
+Dialogue: 10,0:17:36.62,0:17:39.66,Default,,0,0,0,,And I never had the time to eat him.
+Dialogue: 10,0:17:40.66,0:17:44.16,Default,,0,0,0,,To tell the truth, he came last night.
+Dialogue: 10,0:17:42.87,0:17:44.16,Default - italics,,0,0,0,,Murasaki!
+Dialogue: 10,0:17:44.16,0:17:45.17,Default - italics,,0,0,0,,Murasaki!
+Dialogue: 10,0:17:45.77,0:17:47.59,Default - italics,,0,0,0,,Murasaki, where are you?
+Dialogue: 10,0:17:47.59,0:17:52.30,Default,,0,0,0,,I didn't think I could take a human form.
+Dialogue: 10,0:17:52.30,0:17:53.30,Default - italics,,0,0,0,,Murasaki?
+Dialogue: 10,0:17:55.48,0:17:56.56,Default - italics,,0,0,0,,Murasaki?
+Dialogue: 10,0:17:56.81,0:17:59.43,Default - italics,,0,0,0,,What are you doing here at this hour?
+Dialogue: 10,0:18:01.89,0:18:04.56,Default - italics,,0,0,0,,What if you meet a monster?
+Dialogue: 10,0:18:04.56,0:18:05.69,Default - italics,,0,0,0,,I'm fine.
+Dialogue: 10,0:18:06.51,0:18:09.58,Default - italics,,0,0,0,,Hey do you want to take a walk...
+Dialogue: 10,0:18:09.58,0:18:11.70,Default - italics,,0,0,0,,to that hill by the river?
+Dialogue: 10,0:18:11.70,0:18:12.99,Default - italics,,0,0,0,,I'd like to...
+Dialogue: 10,0:18:13.48,0:18:16.46,Default - italics,,0,0,0,,but I don't feel well today.
+Dialogue: 10,0:18:16.46,0:18:19.25,Default - italics,,0,0,0,,Can we do it some other time?
+Dialogue: 10,0:18:19.25,0:18:20.50,Default - italics,,0,0,0,,Okay.
+Dialogue: 10,0:18:21.38,0:18:23.89,Default - italics,,0,0,0,,It's a promise, Murasaki.
+Dialogue: 10,0:18:23.89,0:18:26.42,Default - italics,,0,0,0,,Yes, a promise.
+Dialogue: 10,0:18:27.23,0:18:31.67,Default,,0,0,0,,By then, Shibata already knew who I was.
+Dialogue: 10,0:18:33.43,0:18:34.35,Default,,0,0,0,,Murasaki!
+Dialogue: 10,0:18:34.35,0:18:35.71,Default,,0,0,0,,Get away, Natsume.
+Dialogue: 10,0:18:35.71,0:18:37.43,Default,,0,0,0,,If you touch her, she'll eat you.
+Dialogue: 10,0:18:37.43,0:18:40.24,Default,,0,0,0,,I thought I would,
+Dialogue: 10,0:18:40.85,0:18:42.28,Default,,0,0,0,,but I don't think I can.
+Dialogue: 10,0:18:43.49,0:18:46.12,Default,,0,0,0,,He's Shibata's friend.
+Dialogue: 10,0:18:46.65,0:18:49.07,Default,,0,0,0,,If I ate him, Shibata wouldn't like me anymore.
+Dialogue: 10,0:18:51.82,0:18:52.92,Default,,0,0,0,,Just wait.
+Dialogue: 10,0:18:52.92,0:18:53.87,Default,,0,0,0,,I'll get a fish.
+Dialogue: 10,0:18:53.87,0:18:55.32,Default,,0,0,0,,Wait...
+Dialogue: 10,0:18:59.37,0:19:00.54,Default,,0,0,0,,Shibata!
+Dialogue: 10,0:19:05.56,0:19:10.68,Default,,0,0,0,,Sorry, it's not that I don't believe you, but for now...
+Dialogue: 10,0:19:10.68,0:19:12.17,Default,,0,0,0,,This is a letter from Murasaki.
+Dialogue: 10,0:19:12.95,0:19:14.09,Default,,0,0,0,,Murasaki?
+Dialogue: 10,0:19:14.09,0:19:15.42,Default,,0,0,0,,You met her?
+Dialogue: 10,0:19:15.42,0:19:16.34,Default,,0,0,0,,Where is she?
+Dialogue: 10,0:19:16.34,0:19:18.30,Default,,0,0,0,,Just take it!
+Dialogue: 10,0:19:24.10,0:19:26.93,Default - italics,,0,0,0,,Could you give this to Shibata?
+Dialogue: 10,0:19:26.93,0:19:28.98,Default - italics,,0,0,0,,I wrote what you humans call a letter.
+Dialogue: 10,0:19:29.93,0:19:33.58,Default - italics,,0,0,0,,If I met him, he would always remember me.
+Dialogue: 10,0:19:33.58,0:19:36.10,Default - italics,,0,0,0,,I said my goodbyes and wrote out my feelings.
+Dialogue: 10,0:19:36.10,0:19:38.07,Default,,0,0,0,,Is it because I got you caught up in this?
+Dialogue: 10,0:19:38.74,0:19:40.58,Default,,0,0,0,,Because I called you a liar?
+Dialogue: 10,0:19:41.28,0:19:43.68,Default,,0,0,0,,Because I didn't believe what you said?
+Dialogue: 10,0:19:44.33,0:19:46.71,Default,,0,0,0,,Is that why you gave me these scribbles?
+Dialogue: 10,0:19:47.06,0:19:48.72,Default,,0,0,0,,These characters...
+Dialogue: 10,0:19:48.72,0:19:49.75,Default,,0,0,0,,Enough.
+Dialogue: 10,0:19:50.46,0:19:52.46,Default,,0,0,0,,I'm sorry.
+Dialogue: 10,0:19:52.46,0:19:53.34,Default,,0,0,0,,So...
+Dialogue: 10,0:19:54.99,0:19:57.38,Default,,0,0,0,,You don't have to believe me!
+Dialogue: 10,0:19:57.38,0:20:00.70,Default,,0,0,0,,Just keep this letter!
+Dialogue: 10,0:20:10.16,0:20:11.31,Default,,0,0,0,,Murasaki.
+Dialogue: 10,0:20:12.80,0:20:14.20,Default,,0,0,0,,Where is Murasaki?
+Dialogue: 10,0:20:14.90,0:20:16.03,Default,,0,0,0,,Shibata?
+Dialogue: 10,0:20:16.57,0:20:18.11,Default,,0,0,0,,Murasaki wants to see me!
+Dialogue: 10,0:20:19.71,0:20:20.77,Default,,0,0,0,,This way!
+Dialogue: 10,0:20:28.37,0:20:29.39,Default,,0,0,0,,Murasaki.
+Dialogue: 10,0:20:33.75,0:20:36.48,Default,,0,0,0,,You shouldn't have come.
+Dialogue: 10,0:20:36.48,0:20:39.43,Default,,0,0,0,,I told you I was leaving, and that we couldn't meet anymore, right?
+Dialogue: 10,0:20:40.67,0:20:41.30,Default,,0,0,0,,But...
+Dialogue: 10,0:20:42.18,0:20:43.81,Default,,0,0,0,,You promised me, didn't you?
+Dialogue: 10,0:20:44.65,0:20:48.14,Default,,0,0,0,,Take me there, Shibata. Like you always do.
+Dialogue: 10,0:20:49.06,0:20:49.82,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:20:57.70,0:20:59.15,Default,,0,0,0,,Shibata...
+Dialogue: 10,0:21:08.53,0:21:10.00,Default,,0,0,0,,Thank you.
+Dialogue: 10,0:21:30.44,0:21:31.64,Default,,0,0,0,,Shibata...
+Dialogue: 10,0:21:32.34,0:21:33.40,Default,,0,0,0,,I'm sorry.
+Dialogue: 10,0:21:34.88,0:21:35.92,Default,,0,0,0,,I'm sorry.
+Dialogue: 10,0:21:35.92,0:21:37.78,Default,,0,0,0,,I was so mean to you.
+Dialogue: 10,0:21:39.13,0:21:40.96,Default,,0,0,0,,But you still did all this for me.
+Dialogue: 10,0:21:42.94,0:21:44.77,Default,,0,0,0,,Thank you, Natsume.
+Dialogue: 10,0:21:46.69,0:21:50.89,Default,,0,0,0,,Murasaki would climb up to high places like this...
+Dialogue: 10,0:21:57.66,0:21:59.00,Default,,0,0,0,,It's cold.
+Dialogue: 10,0:22:00.32,0:22:01.95,Default,,0,0,0,,What's so funny?
+Dialogue: 10,0:22:03.25,0:22:05.33,Default,,0,0,0,,Don't tell anybody about this.
+Dialogue: 10,0:22:05.33,0:22:06.56,Default,,0,0,0,,About what?
+Dialogue: 10,0:22:06.93,0:22:08.81,Default,,0,0,0,,About how I cried.
+Dialogue: 10,0:22:10.29,0:22:12.28,Default,,0,0,0,,Yeah, I won't.
+Dialogue: 10,0:22:12.28,0:22:14.10,Default,,0,0,0,,What kind of answer is that?
+Dialogue: 10,0:22:14.10,0:22:15.31,Default,,0,0,0,,Jerk.
+Dialogue: 10,0:22:15.81,0:22:19.57,Default - italics,,0,0,0,,When I was little, I really wanted friends.
+Dialogue: 10,0:22:20.56,0:22:23.07,Default - italics,,0,0,0,,Whether they were human or spirit,
+Dialogue: 10,0:22:24.32,0:22:28.92,Default - italics,,0,0,0,,both light a warm lamp in my heart.
+Dialogue: 10,0:24:01.29,0:24:02.92,Default,,0,0,0,,I was always alone.
+Dialogue: 10,0:24:03.18,0:24:04.97,Default,,0,0,0,,I'm always alone.
+Dialogue: 10,0:24:04.97,0:24:07.80,Default,,0,0,0,,That person always looked so sad and lonely.
+Dialogue: 10,0:24:07.80,0:24:09.78,Default,,0,0,0,,I didn't understand then...
+Dialogue: 10,0:24:09.78,0:24:12.56,Default,,0,0,0,,how I felt, or how others felt.
+Dialogue: 10,0:24:12.56,0:24:15.98,Default,,0,0,0,,I feel like drinking some booze!
