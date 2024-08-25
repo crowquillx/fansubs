@@ -12,14 +12,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_03.mkv
 Video File: ../../../natsume 3/natsume_s3_03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 669
-Active Line: 683
-Video Position: 34884
+Active Line: 7
+Video Position: 300
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +31,7 @@ Style: EpTitleC,Andalus,90,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,1
 Style: Sign,Beautiful Every Time,68,&H00383838,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,53,53,56,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
-Style: number,square kids,170,&H001813B1,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
+Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: title-shadow,Footlight MT Light,105,&H4B9FDE7E,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,2,5,0,15,1
 Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,850,315,1
 Style: nexttime-shadow,Footlight MT Light,105,&H00C4F6CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,845,310,1
