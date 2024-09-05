@@ -17,8 +17,8 @@ Video File: ../../../natsume 3/natsume_s3_07.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 339
-Active Line: 368
+Scroll Position: 336
+Active Line: 375
 Video Position: 34528
 
 [V4+ Styles]
@@ -237,7 +237,7 @@ Dialogue: 10,0:11:09.73,0:11:11.94,Default,,0,0,0,,I'll devour you...
 Dialogue: 10,0:11:11.94,0:11:17.03,Default,,0,0,0,,and awaken a demon that will devour Matoba!
 Dialogue: 1,0:11:29.04,0:11:32.05,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
 Dialogue: 2,0:11:29.04,0:11:32.05,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
-Dialogue: 1,0:11:29.04,0:11:32.05,titlename,,0,0,0,,{\pos(1167.8,200)\fs135\be1\1c&8A6424&\b0}N{\1c&967033&}a{\1c&A37D43&}t{\1c&AF8953&}s{\1c&BC9663&}u{\1c&C8A273&}m{\1c&D5AF83&}e\h{\1c&8A6424&}Y{\1c&926C2E&}u{\1c&9A7439&}u{\1c&A37D43&}j{\1c&AB854E&}i{\1c&B38D58&}n{\1c&BC9663&}c{\1c&C49E6D&}h{\1c&CCA678&}o{\1c&D5AF83&}u
+Dialogue: 1,0:11:29.04,0:11:32.05,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1167.54,188.66)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
 Dialogue: 0,0:11:29.04,0:11:32.05,titlename-blur,,0,0,0,,{\pos(1214,219)\p1\blur20}m 0 0 s 1350 0 1350 150 0 150 c
 Dialogue: 10,0:11:40.93,0:11:42.35,Default,,0,0,0,,This is it.
 Dialogue: 10,0:11:43.18,0:11:45.85,Default,,0,0,0,,It doesn't look like it's woken up yet, but...
@@ -419,8 +419,8 @@ Dialogue: 1,0:24:00.09,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.1
 Dialogue: 0,0:24:00.09,0:24:15.10,number-box,,0,0,0,,{\be1\fscx36\fscy38\pos(1747.33,180)}\h
 Dialogue: 0,0:24:00.09,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
 Dialogue: 1,0:24:00.09,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:24:00.09,0:24:15.10,nexttime-shadow,,0,0,0,,{\blur3.5\pos(656.67,818)}The Fox Child's Watch
-Dialogue: 1,0:24:00.09,0:24:15.10,nexttime,,0,0,0,,{\pos(654.67,813)}The Fox Child's Watch
+Dialogue: 0,0:24:00.09,0:24:15.10,nexttime-shadow,,0,0,0,,{\blur3.5\pos(656.67,818)}The Fox Cub's Watch
+Dialogue: 1,0:24:00.09,0:24:15.10,nexttime,,0,0,0,,{\pos(654.67,813)}The Fox Cub's Watch
 Dialogue: 10,0:24:00.09,0:24:01.29,Default,,0,0,0,,He's here!
 Dialogue: 10,0:24:01.29,0:24:03.05,Default,,0,0,0,,Natsume's here again!
 Dialogue: 10,0:24:03.05,0:24:07.93,Default,,0,0,0,,When he sees how strong I've gotten, will he be happy?

@@ -17,8 +17,9 @@ Video File: ../../../natsume 3/natsume_s3_06.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 6
-Video Position: 166
+Scroll Position: 407
+Active Line: 409
+Video Position: 14938
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -454,7 +455,7 @@ Dialogue: 10,0:10:19.35,0:10:20.64,Default - italics,,0,0,0,,{\i1}This guy...
 Dialogue: 10,0:10:27.11,0:10:29.78,Default - italics,,0,0,0,,{\i1}This guy's a Matoba?
 Dialogue: 1,0:10:23.02,0:10:26.02,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
 Dialogue: 2,0:10:23.02,0:10:26.02,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
-Dialogue: 1,0:10:23.02,0:10:26.02,titlename,,0,0,0,,{\pos(1167.8,200)\fs135\be1\1c&8A6424&\b0}N{\1c&967033&}a{\1c&A37D43&}t{\1c&AF8953&}s{\1c&BC9663&}u{\1c&C8A273&}m{\1c&D5AF83&}e\h{\1c&8A6424&}Y{\1c&926C2E&}u{\1c&9A7439&}u{\1c&A37D43&}j{\1c&AB854E&}i{\1c&B38D58&}n{\1c&BC9663&}c{\1c&C49E6D&}h{\1c&CCA678&}o{\1c&D5AF83&}u
+Dialogue: 1,0:10:23.02,0:10:26.02,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1176.87,185.33)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
 Dialogue: 0,0:10:23.02,0:10:26.02,titlename-blur,,0,0,0,,{\pos(1214,219)\p1\blur20}m 0 0 s 1350 0 1350 150 0 150 c
 Dialogue: 10,0:10:30.23,0:10:33.78,Default,,0,0,0,,You're the one who came into that temple.
 Dialogue: 10,0:10:33.78,0:10:35.82,Default,,0,0,0,,I apologize.
