@@ -17,18 +17,19 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_01.mkv
-Video File: ../../../natsume 3/natsume_s3_01.mkv
+Audio File: natsume_s3_01.mkv
+Video File: natsume_s3_01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 30
-Active Line: 37
-Video Position: 33846
+Video Zoom Percent: 0.625000
+Scroll Position: 56
+Active Line: 57
+Video Position: 7112
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
+Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -38,96 +39,41 @@ Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9
 Style: nexttime-shadow,Footlight MT Light,105,&H00C4F6CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,845,310,1
 Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
 Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
-Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,0,9,60,60,30,1
-Style: Default - italics,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,-1,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: Default - Overlap,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H005B2509,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: signs,Footlight MT Light,105,&H00192F4A,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,9,0,190,100,1
-Style: classsign,Vrinda,80,&H00484A33,&H00FFFFFF,&H142B2B2B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,180,180,60,1
 Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.48,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1100,\blur1)\1a&HFF}Natsume's\h{\1a&H00}Book\h{\1a&HFF}Of\hFriends
-Dialogue: 0,0:00:01.19,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&HFF}Natsume's\hBook\h{\1a&H00}Of{\1a&HFF}\hFriends
-Dialogue: 0,0:00:01.98,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&H00}Natsu{\1a&HFF}me's\hBook\hOf\hFriends
-Dialogue: 0,0:00:02.82,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsume's\hBook\hOf\h{\1a&H00}Friends
-Dialogue: 0,0:00:03.32,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsu{\1a&H00}me's{\1a&HFF}\hBook\hOf\hFriends
-Dialogue: 1,0:00:04.32,0:00:07.15,titlename,,0,0,0,,{\an3\fad(0,200)\be2\fs100\pos(1402,306.5)}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:06.90,0:00:08.15,titlename,,0,0,0,,{\an3\fs100\pos(1402,306.5)\fad(200,0)\be2\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 2,0:00:07.78,0:00:15.83,number,,0,0,0,,{\an2\pos(1606.5,503.5)\fad(250,1500)\blur8\t(0,250,\blur3)\fscx105\fay-0.14\t(5900,0,\blur10)}3
-Dialogue: 1,0:00:07.78,0:00:15.83,number-box,,0,0,0,,{\an2\pos(1603.5,502.5)\fad(250,1500)\blur8\t(0,250,\blur3)\t(5900,0,\blur10)}\h
-Dialogue: 2,0:00:08.15,0:00:08.74,titlename,,0,0,0,,{\an3\be2\move(1402,306.5,1385.5,293.5)\c&8A6424&\fs100}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:08.32,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,1500)\blur3.5\fs100\t(6200,1000,\be15)\t(5000,0,\blur10)\c&H433E2F&}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:08.74,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1385.5,293.5)\fad(0,1500)\be2\fs100\t(5900,1000,\be5)\blur0\t(5000,0,\blur10)\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:14.99,0:00:21.96,OP,,0,0,0,,{\fade(300,0)}Living through these meaningless days, I let out a sigh
-Dialogue: 1,0:00:21.96,0:00:29.01,OP,,0,0,0,,{\fade(300,300)}I've lost sight of my true self
-Dialogue: 1,0:00:29.43,0:00:36.22,OP,,0,0,0,,{\fade(300,300)}Even if I strain my ears I can't hear your voice
-Dialogue: 1,0:00:36.47,0:00:43.23,OP,,0,0,0,,{\fade(300,300)}So I keep walking trying to catch up
-Dialogue: 1,0:00:43.36,0:00:50.82,OP,,0,0,0,,{\fade(300,300)}The things I couldn't tell you form into a chrysalis over time
-Dialogue: 1,0:00:50.82,0:00:58.79,OP,,0,0,0,,{\fade(0,300)}Spreading wings, they take flight
-Dialogue: 1,0:00:58.87,0:01:05.92,OP,,0,0,0,,{\fade(300,300)}The one, the one precious thing I'll never forget
-Dialogue: 1,0:01:06.05,0:01:13.76,OP,,0,0,0,,{\fade(300,300)}Someday, that warm emotion
-Dialogue: 1,0:01:14.30,0:01:19.89,OP,,0,0,0,,{\fade(300,300)}I'll do what little I can
-Dialogue: 1,0:01:19.89,0:01:28.65,OP,,0,0,0,,{\fad(300,1000)\c&H98ADF1&}Little by little, to get through to you
-Dialogue: 1,0:02:39.31,0:02:43.31,title,,0,0,0,,{\blur0.65}The Name of {\c&H035A09&}a{\c} Monster
-Dialogue: 0,0:02:39.31,0:02:43.31,title-shadow,,0,0,0,,{\blur3\c&HAE975E&}The Name of {\c&H84648A&}a{\c&HAE975E&} Monster
-Dialogue: 0,0:05:57.92,0:06:00.92,signs,,0,0,0,,{=11}{\clip()\t(21,2982,\clip())\fscx100\t(21,2982,\fscx89.19)\fscy100\t(21,2982,\fscy89.19)\fnEFN OknoFont\b0\c&H3A423D&\blur1\t(21,2982,\blur0.89)\fs35\fry-3.67\frx10.84\frz-12.67\fax-0.14\move(888.73,752.15,896.61,729.09,21,2982)}Book of Friends
-Dialogue: 0,0:07:24.13,0:07:26.01,signs,,0,0,0,,{\be2\fnVrinda\c&H4C4B37&\fs72\fry1.49\frx0.17\frz-10.58\fax0.18\clip(m 515.2 158.4 l 1353.6 336 1352 657.6 510.4 502.4)\fscx90.74\fscy94.64\pos(1211.23,567.32)}Year 2\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hClass 2
-Dialogue: 2,0:11:14.03,0:11:17.03,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
-Dialogue: 1,0:11:14.03,0:11:17.03,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
-Dialogue: 1,0:11:14.03,0:11:17.03,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1182.47,183.33)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:11:14.03,0:11:17.03,titlename-blur,,0,0,0,,{\p1\blur20\pos(1208.67,216.33)}m 0 0 s 1350 0 1350 150 0 150 c
-Dialogue: 0,0:22:30.75,0:22:41.21,ED,,0,0,0,,{\fad(300,300)}Lining up the sparks of warmth I've lost one by one
-Dialogue: 0,0:22:42.76,0:22:49.39,ED,,0,0,0,,{\fad(300,300)}Coming to the rainbow-colored pieces of you
-Dialogue: 0,0:22:50.35,0:22:54.89,ED,,0,0,0,,{\fad(300,300)}I crack a smile
-Dialogue: 0,0:22:57.52,0:23:08.58,ED,,0,0,0,,{\fad(300,300)}Not even knowing how to make memories
-Dialogue: 0,0:23:10.99,0:23:16.25,ED,,0,0,0,,{\fad(300,300)}Even when we took things too fast
-Dialogue: 0,0:23:17.21,0:23:24.42,ED,,0,0,0,,{\fad(300,300)}We were only going with the flow
-Dialogue: 0,0:23:24.92,0:23:31.39,ED,,0,0,0,,{\fad(300,300)}No matter where I go, even after this darkness
-Dialogue: 0,0:23:31.64,0:23:37.48,ED,,0,0,0,,{\fad(300,300)}How many times must I say goodbye?
-Dialogue: 0,0:23:37.48,0:23:44.44,ED,,0,0,0,,{\fad(300,300)}Shining with the flame of a young heart
-Dialogue: 0,0:23:44.90,0:23:50.66,ED,,0,0,0,,{\fad(300,300)}Those faraway pieces of you
-Dialogue: 1,0:24:00.00,0:24:15.02,nexttime,,0,0,0,,{\fs100\pos(473.04,831.71)\blur0.6}Ukihara Village
-Dialogue: 0,0:24:00.00,0:24:15.02,nexttime-shadow,,0,0,0,,{\blur3.5\fs100\pos(478.04,836.71)}Ukihara Village
-Dialogue: 1,0:24:00.00,0:24:15.02,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
-Dialogue: 0,0:24:00.00,0:24:15.02,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
-Dialogue: 1,0:24:00.00,0:24:15.02,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
-Dialogue: 0,0:24:00.00,0:24:15.02,number-box,,0,0,0,,{\pos(1747.333,180)\be1\fscx36\fscy38}\h
-Dialogue: 0,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
-Dialogue: 1,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 10,0:01:33.82,0:01:35.87,Default,,0,0,0,,{\i1}Ever since I was little,{\i0}
-Dialogue: 10,0:01:35.87,0:01:37.41,Default,,0,0,0,,{\i1}I've seen strange things every now and then.{\i0}
+Dialogue: 10,0:01:33.82,0:01:37.41,Default,,0,0,0,,{\i1}Ever since I was little, \NI've seen strange things every now and then.{\i0}
 Dialogue: 10,0:01:41.04,0:01:43.33,Default,,0,0,0,,My my, we didn't catch a thing today.
 Dialogue: 10,0:01:43.33,0:01:44.71,Default,,0,0,0,,I'm hungry.
 Dialogue: 10,0:01:45.00,0:01:47.21,Default,,0,0,0,,Maybe I'll go pick some akebi.
 Dialogue: 10,0:01:47.21,0:01:48.34,Default,,0,0,0,,You there.
-Dialogue: 10,0:01:53.76,0:01:58.85,Default,,0,0,0,,Did you see a human child just now?
-Dialogue: 10,0:01:58.85,0:02:02.31,Default,,0,0,0,,The grandchild of Natsume Reiko, the one with the Book of Friends,
-Dialogue: 10,0:02:02.31,0:02:05.23,Default,,0,0,0,,{\i1}should{\i0} have run this way.
+Dialogue: 10,0:01:53.76,0:01:58.31,Default,,0,0,0,,Did you see a human child just now?
+Dialogue: 10,0:01:58.85,0:02:00.68,Default,,0,0,0,,The grandchild of Natsume Reiko,
+Dialogue: 10,0:02:00.68,0:02:05.23,Default,,0,0,0,,the one with the Book of Friends, {\i1}should{\i0} have run this way.
 Dialogue: 10,0:02:06.94,0:02:10.15,Default,,0,0,0,,Lie to me and I'll eat you, too.
 Dialogue: 10,0:02:10.15,0:02:11.86,Default,,0,0,0,,We don't know anything!
-Dialogue: 10,0:02:11.86,0:02:13.07,Default,,0,0,0,,That's right!
+Dialogue: 10,0:02:11.86,0:02:12.53,Default,,0,0,0,,That's right!
 Dialogue: 10,0:02:14.03,0:02:16.78,Default,,0,0,0,,Where did he run?
 Dialogue: 10,0:02:17.16,0:02:21.29,Default,,0,0,0,,He looked yummy too.
 Dialogue: 10,0:02:27.17,0:02:28.67,Default,,0,0,0,,He's gone.
-Dialogue: 10,0:02:28.67,0:02:29.80,Default,,0,0,0,,A human child.
-Dialogue: 10,0:02:29.80,0:02:33.80,Default - italics,,0,0,0,,{\i1}The things I see are probably\N what people would call demons.{\i0}
-Dialogue: 10,0:02:45.06,0:02:47.56,Default - italics,,0,0,0,,{\i1}My grandmother left me The Book of Friends.
-Dialogue: 10,0:02:48.11,0:02:50.78,Default - italics,,0,0,0,,{\i1}She was born with great mystical powers
-Dialogue: 10,0:02:50.78,0:02:54.07,Default - italics,,0,0,0,,{\i1}and challenged every demon she met to a battle.
-Dialogue: 10,0:02:54.07,0:02:57.57,Default - italics,,0,0,0,,{\i1}When she defeated them, she would force the demons to write their names in it,
-Dialogue: 10,0:02:58.45,0:03:00.08,Default - italics,,0,0,0,,{\i1}binding them as servant and master.
-Dialogue: 10,0:03:00.08,0:03:04.66,Default - italics,,0,0,0,,{\i1}The Book of Friends is a set of contracts. Call the names within and their owners cannot disobey.
-Dialogue: 10,0:03:04.66,0:03:07.33,Default - italics,,0,0,0,,{\i1}Ever since I got it, I've spent \Nmy days running from demons.
-Dialogue: 10,0:03:11.84,0:03:13.88,Default - italics,,0,0,0,,{\i1}I need to catch my \Nbreath before I go in.
+Dialogue: 10,0:02:28.67,0:02:29.96,Default,,0,0,0,,A human child.
+Dialogue: 10,0:02:29.96,0:02:33.80,Default,,0,0,0,,{\i1}The things I see are probably \Nwhat people would call demons.{\i0}
+Dialogue: 10,0:02:45.06,0:02:47.56,Default,,0,0,0,,{\i1}My grandmother left me The Book of Friends.
+Dialogue: 10,0:02:48.11,0:02:50.78,Default,,0,0,0,,{\i1}She was born with great mystical powers
+Dialogue: 10,0:02:50.78,0:02:54.07,Default,,0,0,0,,{\i1}and challenged every demon she met to a battle.
+Dialogue: 10,0:02:54.07,0:02:57.57,Default,,0,0,0,,{\i1}When she defeated them, she would force \Nthe demons to write their names in it,
+Dialogue: 10,0:02:58.45,0:03:00.08,Default,,0,0,0,,{\i1}binding them as servant and master.
+Dialogue: 10,0:03:00.08,0:03:04.91,Default,,0,0,0,,{\q2\i1}The Book of Friends is a set of contracts. \NCall the names within and their owners cannot disobey.
+Dialogue: 10,0:03:04.91,0:03:07.33,Default,,0,0,0,,{\i1}Ever since I got it, I've spent \Nmy days running from demons.
+Dialogue: 10,0:03:11.84,0:03:13.88,Default,,0,0,0,,{\i1}I need to catch my breath before I go in.
 Dialogue: 10,0:03:17.09,0:03:18.18,Default,,0,0,0,,A teacup?
 Dialogue: 10,0:03:18.80,0:03:21.18,Default,,0,0,0,,What's it doing here?
 Dialogue: 10,0:03:30.36,0:03:31.77,Default,,0,0,0,,Hey, come out from there!
 Dialogue: 10,0:03:32.15,0:03:34.19,Default,,0,0,0,,Don't go hiding under people's houses!
 Dialogue: 10,0:03:34.19,0:03:35.24,Default,,0,0,0,,Takashi{**-kun}?
-Dialogue: 10,0:03:35.24,0:03:36.11,Default,,0,0,0,,Yes?
-Dialogue: 10,0:03:36.11,0:03:37.36,Default,,0,0,0,,Oww...
+Dialogue: 10,0:03:35.24,0:03:37.36,Default,,0,0,0,,Yes? Oww...
 Dialogue: 10,0:03:38.66,0:03:40.12,Default,,0,0,0,,T-Touko{**-san}?
 Dialogue: 10,0:03:40.12,0:03:41.49,Default,,0,0,0,,I'm back.
 Dialogue: 10,0:03:41.49,0:03:43.58,Default,,0,0,0,,Shopping took longer than I thought.
@@ -135,92 +81,83 @@ Dialogue: 10,0:03:43.58,0:03:44.54,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:03:44.54,0:03:45.87,Default,,0,0,0,,Yes, I'm fine.
 Dialogue: 10,0:03:46.29,0:03:47.42,Default,,0,0,0,,What's wrong?
 Dialogue: 10,0:03:47.42,0:03:52.00,Default,,0,0,0,,Um, I thought I saw a rat, \Nbut it was my imagination.
-Dialogue: 10,0:03:52.88,0:03:54.51,Default,,0,0,0,,It's okay.
-Dialogue: 10,0:03:54.51,0:03:57.01,Default,,0,0,0,,We have a cat, right?
+Dialogue: 10,0:03:52.88,0:03:54.67,Default,,0,0,0,,It's okay.
+Dialogue: 10,0:03:54.67,0:03:57.01,Default,,0,0,0,,We have a cat, right?
 Dialogue: 10,0:03:57.01,0:03:58.63,Default,,0,0,0,,Yes, we do.
 Dialogue: 10,0:03:58.63,0:04:01.72,Default,,0,0,0,,My, you're covered in dirt...
-Dialogue: 10,0:04:06.31,0:04:09.94,Default,,0,0,0,,Oh right, we're having beef hot pot tonight, Takashi{**-kun}.
+Dialogue: 10,0:04:06.31,0:04:09.94,Default,,0,0,0,,{\q2}Oh right, we're having beef hot pot tonight, Takashi{**-kun}.
 Dialogue: 10,0:04:09.94,0:04:11.02,Default,,0,0,0,,Great!
-Dialogue: 10,0:04:12.19,0:04:13.90,Default - italics,,0,0,0,,{\i1}That was close.
-Dialogue: 10,0:04:13.90,0:04:17.28,Default - italics,,0,0,0,,{\i1}I need to be careful not to do anything suspicious.
+Dialogue: 10,0:04:12.19,0:04:13.90,Default,,0,0,0,,{\i1}That was close.
+Dialogue: 10,0:04:13.90,0:04:17.28,Default,,0,0,0,,{\i1}I need to be careful not to do anything suspicious.
 Dialogue: 10,0:04:19.16,0:04:22.78,Default,,0,0,0,,If there really was a rat, we need to buy rat traps.
 Dialogue: 10,0:04:22.78,0:04:25.50,Default,,0,0,0,,No, I think I mistook something else for a rat.
 Dialogue: 10,0:04:25.87,0:04:29.17,Default,,0,0,0,,Maybe it was one of the neighbor's puppies.
 Dialogue: 10,0:04:29.58,0:04:31.50,Default,,0,0,0,,Takashi{**-kun}, would you like some more?
 Dialogue: 10,0:04:32.67,0:04:33.46,Default,,0,0,0,,Sure.
-Dialogue: 10,0:04:35.13,0:04:37.34,Default - italics,,0,0,0,,I lost my parents when I was young,
-Dialogue: 10,0:04:37.34,0:04:42.18,Default - italics,,0,0,0,,and my relatives passed me around until the Fujiwaras finally took me in.
-Dialogue: 10,0:04:43.10,0:04:45.85,Default - italics,,0,0,0,,This home is very dear to me.
-Dialogue: 10,0:04:43.85,0:04:45.85,Default - Overlap,,0,0,0,,Here you go.
+Dialogue: 10,0:04:35.13,0:04:37.34,Default,,0,0,0,,{\i1}I lost my parents when I was young,
+Dialogue: 10,0:04:37.34,0:04:42.18,Default,,0,0,0,,{\i1}and my relatives passed me around \Nuntil the Fujiwaras finally took me in.
+Dialogue: 10,0:04:43.10,0:04:45.85,Default,,0,0,0,,{\i1}This home is very dear to me.
+Dialogue: 10,0:04:43.85,0:04:45.85,Default - Alt,,0,0,0,,Here you go.
 Dialogue: 10,0:04:47.10,0:04:49.89,Default,,0,0,0,,It's called a Shadow Teacup.
-Dialogue: 10,0:04:49.89,0:04:53.23,Default,,0,0,0,,It's been living underneath the house for about two weeks.
+Dialogue: 10,0:04:49.89,0:04:53.23,Default,,0,0,0,,It's been living underneath the house \Nfor about two weeks.
 Dialogue: 10,0:04:54.36,0:04:56.61,Default,,0,0,0,,It's been there two weeks?!
-Dialogue: 10,0:04:56.61,0:04:59.03,Default,,0,0,0,,{*}Nyanko{**Sensei}, you're supposed to be guarding the house!
+Dialogue: 10,0:04:56.61,0:04:59.03,Default,,0,0,0,,{\q2}{*}Nyanko{*Sensei}, you're supposed to be guarding the house!
 Dialogue: 10,0:04:59.03,0:05:00.49,Default,,0,0,0,,Calm down, idiot.
 Dialogue: 10,0:05:00.49,0:05:02.66,Default,,0,0,0,,Ooh, I won!
 Dialogue: 10,0:05:02.66,0:05:04.37,Default,,0,0,0,,Go get me another, Natsume.
-Dialogue: 10,0:05:04.37,0:05:05.24,Default,,0,0,0,,{*}Nyanko{**Sensei}!
-Dialogue: 10,0:05:05.24,0:05:08.96,Default,,0,0,0,,When an exceptionally well-made teacup is broken and thrown away,
-Dialogue: 10,0:05:08.96,0:05:12.92,Default,,0,0,0,,it sometimes absorbs the power of the Earth and becomes a spirit.
-Dialogue: 10,0:05:12.92,0:05:18.13,Default,,0,0,0,,Then it takes up residence under old houses just to be near people.
+Dialogue: 10,0:05:04.37,0:05:05.24,Default,,0,0,0,,{*}Nyanko{*Sensei}!
+Dialogue: 10,0:05:05.24,0:05:08.96,Default,,0,0,0,,When an exceptionally well-made teacup \Nis broken and thrown away,
+Dialogue: 10,0:05:08.96,0:05:12.92,Default,,0,0,0,,it sometimes absorbs the power of the Earth \Nand becomes a spirit.
+Dialogue: 10,0:05:12.92,0:05:18.13,Default,,0,0,0,,Then it takes up residence under \Nold houses just to be near people.
 Dialogue: 10,0:05:18.13,0:05:19.80,Default,,0,0,0,,So it can be near people?
-Dialogue: 10,0:05:19.80,0:05:22.55,Default,,0,0,0,,I hear that sometimes, when a disaster is about to strike,
+Dialogue: 10,0:05:19.80,0:05:22.55,Default,,0,0,0,,I hear that sometimes, \Nwhen a disaster is about to strike,
 Dialogue: 10,0:05:22.55,0:05:25.18,Default,,0,0,0,,it'll run around the house to warn everyone,
-Dialogue: 10,0:05:25.51,0:05:27.31,Default,,0,0,0,,and sometimes, on a whim,
-Dialogue: 10,0:05:27.31,0:05:30.56,Default,,0,0,0,,it'll sacrifice itself to prevent it.
+Dialogue: 10,0:05:25.51,0:05:30.56,Default,,0,0,0,,and sometimes, on a whim, \Nit'll sacrifice itself to prevent it.
 Dialogue: 10,0:05:30.56,0:05:32.69,Default,,0,0,0,,It's not dangerous?
 Dialogue: 10,0:05:32.69,0:05:34.06,Default,,0,0,0,,That's right.
 Dialogue: 10,0:05:34.06,0:05:36.32,Default,,0,0,0,,Once it gets bored, it'll leave.
 Dialogue: 10,0:05:36.32,0:05:37.82,Default,,0,0,0,,Let it be.
 Dialogue: 10,0:05:37.82,0:05:39.24,Default,,0,0,0,,I see.
 Dialogue: 10,0:05:39.24,0:05:41.20,Default,,0,0,0,,And I'm not a guard,
-Dialogue: 10,0:05:41.20,0:05:44.24,Default,,0,0,0,,I'm just here because you promised to hand over the Book of Friends when you die,
-Dialogue: 10,0:05:44.24,0:05:48.95,Default,,0,0,0,,so I'm protecting you from other spirits that try to get it before me.
+Dialogue: 10,0:05:41.20,0:05:44.24,Default,,0,0,0,,I'm just here because you promised to hand \Nover the Book of Friends when you die,
+Dialogue: 10,0:05:44.24,0:05:48.95,Default,,0,0,0,,so I'm protecting you from other spirits \Nthat try to get it before me.
 Dialogue: 10,0:05:50.04,0:05:51.66,Default,,0,0,0,,Good evening.
-Dialogue: 10,0:05:52.75,0:05:54.83,Default,,0,0,0,,{*}Mr. Natsume{**Natsume-sama}, is it?
+Dialogue: 10,0:05:52.75,0:05:54.83,Default,,0,0,0,,{*}Mr. Natsume{*Natsume-sama}, is it?
 Dialogue: 10,0:05:54.83,0:05:57.92,Default,,0,0,0,,I've come to ask for my name back.
-Dialogue: 10,0:05:58.88,0:06:00.92,Default - italics,,0,0,0,,Ever since I inherited the Book of Friends,
-Dialogue: 10,0:06:00.92,0:06:05.43,Default - italics,,0,0,0,,I've returned the names of the demons within it.
-Dialogue: 10,0:06:05.43,0:06:08.14,Default - italics,,0,0,0,,First, I bring up an image of them in my mind,
-Dialogue: 10,0:06:08.14,0:06:09.56,Default - italics,,0,0,0,,and concentrate.
+Dialogue: 10,0:05:58.88,0:06:00.92,Default,,0,0,0,,{\i1}Ever since I inherited the Book of Friends,
+Dialogue: 10,0:06:00.92,0:06:05.43,Default,,0,0,0,,{\i1}I've returned the names of the demons within it.
+Dialogue: 10,0:06:05.43,0:06:09.56,Default,,0,0,0,,{\i1}First, I bring up an image \Nof them in my mind, and concentrate.
 Dialogue: 10,0:06:09.56,0:06:12.98,Default,,0,0,0,,That which shields me, reveal thy name.
-Dialogue: 10,0:06:14.60,0:06:17.19,Default,,0,0,0,,To release their names, you need the saliva
-Dialogue: 10,0:06:17.19,0:06:20.57,Default,,0,0,0,,and breath of someone of the same bloodline as Reiko.
+Dialogue: 10,0:06:14.60,0:06:20.57,Default,,0,0,0,,{\q2}To release their names, you need the saliva and breath \Nof someone of the same bloodline as Reiko.
 Dialogue: 10,0:06:27.45,0:06:29.87,Default,,0,0,0,,Thank you very much.
-Dialogue: 10,0:06:33.21,0:06:35.88,Default - italics,,0,0,0,,When I return a name, I get really tired.
+Dialogue: 10,0:06:33.21,0:06:35.88,Default,,0,0,0,,{\i1}When I return a name, I get really tired.
 Dialogue: 10,0:06:35.88,0:06:37.25,Default,,0,0,0,,You idiot!
 Dialogue: 10,0:06:37.25,0:06:39.96,Default,,0,0,0,,There goes another page out of the Book of Friends!
-Dialogue: 10,0:06:39.96,0:06:41.51,Default,,0,0,0,,They come without warning,
-Dialogue: 10,0:06:41.51,0:06:43.22,Default,,0,0,0,,and then they leave the same way.
-Dialogue: 10,0:06:43.22,0:06:46.30,Default,,0,0,0,,Will I ever become strong enough
-Dialogue: 10,0:06:46.30,0:06:48.97,Default,,0,0,0,,{\fad(0,971)}to not have my life ruled by them?
-Dialogue: 10,0:06:52.35,0:06:53.93,Default - italics,,0,0,0,,What's that sound?
-Dialogue: 10,0:06:53.93,0:06:56.23,Default - italics,,0,0,0,,It sounds like footsteps.
-Dialogue: 10,0:06:57.27,0:06:59.77,Default - italics,,0,0,0,,I hear that sometimes, when a disaster is about to strike,
-Dialogue: 10,0:06:59.77,0:07:02.90,Default - italics,,0,0,0,,it'll run around the house to warn everyone...
-Dialogue: 10,0:07:05.86,0:07:07.95,Default,,0,0,0,,It's running around already!
-Dialogue: 10,0:07:10.08,0:07:11.08,Default,,0,0,0,,Watch out!
-Dialogue: 10,0:07:20.13,0:07:21.21,Default,,0,0,0,,{*}Nyanko{**Sensei}!
-Dialogue: 10,0:07:21.21,0:07:24.13,Default,,0,0,0,,It's not my fault!
-Dialogue: 10,0:07:26.01,0:07:27.47,Default - italics,,0,0,0,,In other words,
-Dialogue: 10,0:07:27.47,0:07:30.35,Default - italics,,0,0,0,,some kind of disaster is about to happen?
+Dialogue: 10,0:06:39.96,0:06:43.22,Default,,0,0,0,,They come without warning, \Nand then they leave the same way.
+Dialogue: 10,0:06:43.22,0:06:48.97,Default,,0,0,0,,{\t(4687,5730,1,\c&H000000&\3c&H000000&)}Will I ever become strong enough \Nto not have my life ruled by them?
+Dialogue: 10,0:06:52.35,0:06:53.93,Default,,0,0,0,,{\i1}What's that sound?
+Dialogue: 10,0:06:53.93,0:06:56.23,Default,,0,0,0,,{\i1}It sounds like footsteps.
+Dialogue: 10,0:06:57.27,0:06:59.77,Default,,0,0,0,,{\i1}I hear that sometimes, \Nwhen a disaster is about to strike,
+Dialogue: 10,0:06:59.77,0:07:02.90,Default,,0,0,0,,{\i1}it'll run around the house to warn everyone...
+Dialogue: 10,0:07:05.78,0:07:07.95,Default,,0,0,0,,It's running around already!
+Dialogue: 10,0:07:10.41,0:07:11.08,Default,,0,0,0,,Watch out!
+Dialogue: 10,0:07:20.13,0:07:21.09,Default,,0,0,0,,{*}Nyanko{*Sensei}!
+Dialogue: 10,0:07:21.09,0:07:24.13,Default,,0,0,0,,It's not my fault!
+Dialogue: 10,0:07:26.01,0:07:30.35,Default,,0,0,0,,{\i1}In other words, some kind of disaster \Nis about to happen?
 Dialogue: 10,0:07:32.35,0:07:34.06,Default,,0,0,0,,What's wrong, Natsume?
 Dialogue: 10,0:07:34.06,0:07:36.23,Default,,0,0,0,,You finally starting to have love problems?
 Dialogue: 10,0:07:36.23,0:07:38.48,Default,,0,0,0,,No, that's not it.
 Dialogue: 10,0:07:38.48,0:07:39.86,Default,,0,0,0,,Just didn't get much sleep.
 Dialogue: 10,0:07:40.61,0:07:43.86,Default,,0,0,0,,Up late reading dirty mags again?
 Dialogue: 10,0:07:43.86,0:07:44.86,Default,,0,0,0,,No.
-Dialogue: 10,0:07:44.86,0:07:45.90,Default,,0,0,0,,What's up?
-Dialogue: 10,0:07:45.90,0:07:47.32,Default,,0,0,0,,What's going on with Natsume?
+Dialogue: 10,0:07:44.86,0:07:47.32,Default,,0,0,0,,What's up? What's going on with Natsume{**-kun}?
 Dialogue: 10,0:07:47.32,0:07:49.41,Default,,0,0,0,,It's got nothing to do with girls.
 Dialogue: 10,0:07:49.41,0:07:50.87,Default,,0,0,0,,What? That's no fun.
 Dialogue: 10,0:07:50.87,0:07:52.87,Default,,0,0,0,,Come on, you can tell me!
-Dialogue: 10,0:07:53.62,0:07:56.66,Default - italics,,0,0,0,,I've made some friends since I moved to this town.
-Dialogue: 10,0:07:54.75,0:07:56.08,Default - Overlap,,0,0,0,,Are you okay?
-Dialogue: 10,0:07:56.66,0:07:59.50,Default - italics,,0,0,0,,My grandmother, Reiko,
-Dialogue: 10,0:07:59.50,0:08:02.13,Default - italics,,0,0,0,,apparently didn't have many human friends.
-Dialogue: 10,0:08:02.67,0:08:05.84,Default - italics,,0,0,0,,That's probably why she picked fights
-Dialogue: 10,0:08:05.84,0:08:08.47,Default - italics,,0,0,0,,with every demon she met.
+Dialogue: 10,0:07:53.62,0:07:56.66,Default,,0,0,0,,{\i1}I've made some friends since I moved to this town.
+Dialogue: 10,0:07:54.75,0:07:56.08,Default,,0,0,0,,{\an8}Are you okay?
+Dialogue: 10,0:07:56.66,0:08:02.13,Default,,0,0,0,,{\i1}My grandmother, Reiko{**-san}, \Napparently didn't have many human friends.
+Dialogue: 10,0:08:02.67,0:08:08.47,Default,,0,0,0,,{\i1}That's probably why she picked fights \Nwith every demon she met.
 Dialogue: 10,0:08:10.14,0:08:11.35,Default,,0,0,0,,Oww...
 Dialogue: 10,0:08:11.35,0:08:14.01,Default,,0,0,0,,Oh, my staff, my staff...
 Dialogue: 10,0:08:14.35,0:08:15.60,Default,,0,0,0,,Are you all right?
@@ -234,19 +171,17 @@ Dialogue: 10,0:08:31.74,0:08:32.74,Default,,0,0,0,,Let me go!
 Dialogue: 10,0:08:32.74,0:08:34.45,Default,,0,0,0,,What perfect timing.
 Dialogue: 10,0:08:34.45,0:08:37.46,Default,,0,0,0,,I can't see well, boy.
 Dialogue: 10,0:08:37.46,0:08:40.00,Default,,0,0,0,,Help this old woman out.
-Dialogue: 10,0:08:40.00,0:08:45.76,Default,,0,0,0,,I borrowed a mirror from a very powerful spirit a long time ago.
-Dialogue: 10,0:08:46.01,0:08:47.67,Default,,0,0,0,,I don't know its name,
-Dialogue: 10,0:08:47.67,0:08:52.51,Default,,0,0,0,,but the other demons feared it because it brought terrible disasters.
+Dialogue: 10,0:08:40.00,0:08:45.76,Default,,0,0,0,,I borrowed a mirror from \Na very powerful spirit a long time ago.
+Dialogue: 10,0:08:46.01,0:08:52.51,Default,,0,0,0,,I don't know its name, but the other demons feared it \Nbecause it brought terrible disasters.
 Dialogue: 10,0:08:52.51,0:08:57.27,Default,,0,0,0,,Someone with your power should be able to find it!
 Dialogue: 10,0:08:57.89,0:08:58.81,Default,,0,0,0,,Let me go!
 Dialogue: 10,0:08:58.81,0:08:59.52,Default,,0,0,0,,I can't do that!
 Dialogue: 10,0:08:59.52,0:09:01.02,Default,,0,0,0,,I'm sorry, but I can't help you!
 Dialogue: 10,0:09:03.65,0:09:05.02,Default,,0,0,0,,Oh my, that's no good.
-Dialogue: 10,0:09:05.02,0:09:06.65,Default,,0,0,0,,You can see spirits,
-Dialogue: 10,0:09:06.65,0:09:10.40,Default,,0,0,0,,but you don't know what happens when you refuse one?
+Dialogue: 10,0:09:05.02,0:09:10.40,Default,,0,0,0,,You can see spirits, but you don't know \Nwhat happens when you refuse one?
 Dialogue: 10,0:09:10.40,0:09:12.45,Default,,0,0,0,,I just don't want any trouble.
 Dialogue: 10,0:09:12.45,0:09:15.41,Default,,0,0,0,,If I get involved with a demon that brings disaster...
-Dialogue: 10,0:09:16.04,0:09:19.37,Default,,0,0,0,,{\i1\fad(0,519)}If something were to happen to the Fujiwaras...
+Dialogue: 10,0:09:16.04,0:09:19.41,Default,,0,0,0,,{\i1\t(2811,3352,1,\c&H000000&\3c&H000000&)}If something were to happen to the Fujiwaras...
 Dialogue: 10,0:09:19.96,0:09:22.25,Default,,0,0,0,,Sorry, but I've taken a liking to you.
 Dialogue: 10,0:09:22.25,0:09:24.79,Default,,0,0,0,,If you don't help me,
 Dialogue: 10,0:09:24.79,0:09:26.00,Default,,0,0,0,,I'll curse you.
@@ -265,10 +200,10 @@ Dialogue: 10,0:09:55.83,0:09:57.58,Default,,0,0,0,,Sounds scary.
 Dialogue: 10,0:09:57.58,0:09:59.20,Default,,0,0,0,,Hey, wake up.
 Dialogue: 10,0:09:59.20,0:09:59.95,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:09:59.95,0:10:01.62,Default,,0,0,0,,Hey, Natsume!
-Dialogue: 10,0:10:00.25,0:10:01.62,Default - Overlap,,0,0,0,,{\i1}What is it?{\i0}
-Dialogue: 10,0:10:01.62,0:10:06.67,Default - italics,,0,0,0,,Something the old lady said really bothered me.
-Dialogue: 10,0:10:09.67,0:10:11.92,Default - italics,,0,0,0,,The Shadow Teacup is running...
-Dialogue: 10,0:10:11.92,0:10:14.22,Default - italics,,0,0,0,,because I brought disaster?
+Dialogue: 10,0:10:00.25,0:10:01.62,Default - Alt,,0,0,0,,{\i1}What is it?{\i0}
+Dialogue: 10,0:10:01.62,0:10:06.67,Default,,0,0,0,,{\i1}Something the old lady said really bothered me.
+Dialogue: 10,0:10:09.67,0:10:11.92,Default,,0,0,0,,{\i1}The Shadow Teacup is running...
+Dialogue: 10,0:10:11.92,0:10:14.13,Default,,0,0,0,,{\i1}because I brought disaster?
 Dialogue: 10,0:10:15.85,0:10:18.31,Default,,0,0,0,,It's not going to bloom this year, either?
 Dialogue: 10,0:10:19.01,0:10:20.98,Default,,0,0,0,,If it withers away,
 Dialogue: 10,0:10:20.98,0:10:24.35,Default,,0,0,0,,I'll be sad and have nothing to look forward to.
@@ -280,27 +215,25 @@ Dialogue: 10,0:10:42.33,0:10:43.54,Default,,0,0,0,,I came.
 Dialogue: 10,0:10:44.37,0:10:45.50,Default,,0,0,0,,W-Why?{stutter added}
 Dialogue: 10,0:10:45.50,0:10:47.96,Default,,0,0,0,,You said you'd wait 'til tomorrow.
 Dialogue: 10,0:10:49.13,0:10:50.67,Default,,0,0,0,,I couldn't wait.
-Dialogue: 10,0:10:50.67,0:10:54.01,Default,,0,0,0,,Now that I've finally met somebody who could find that spirit,
+Dialogue: 10,0:10:50.67,0:10:54.01,Default,,0,0,0,,Now that I've finally met somebody \Nwho could find that spirit,
 Dialogue: 10,0:10:54.01,0:10:56.22,Default,,0,0,0,,it would be a waste if you got away.
 Dialogue: 10,0:10:56.22,0:10:59.26,Default,,0,0,0,,Sorry, but I'm not a patient lady.
 Dialogue: 10,0:10:59.26,0:11:01.02,Default,,0,0,0,,Will you help me?
 Dialogue: 10,0:11:01.02,0:11:03.02,Default,,0,0,0,,Or will you not?
 Dialogue: 10,0:11:03.02,0:11:05.10,Default,,0,0,0,,I get it, I'll help you!
 Dialogue: 10,0:11:05.10,0:11:07.10,Default,,0,0,0,,Just don't come into this house!
-Dialogue: 10,0:11:18.28,0:11:21.24,Default,,0,0,0,,Is that old lady somebody so powerful
-Dialogue: 10,0:11:21.24,0:11:22.83,Default,,0,0,0,,that even you couldn't get rid of her?
-Dialogue: 10,0:11:22.83,0:11:26.42,Default,,0,0,0,,She's probably a spirit that was worshiped and enshrined.
-Dialogue: 10,0:11:26.79,0:11:28.00,Default,,0,0,0,,I'd be all right,
-Dialogue: 10,0:11:28.00,0:11:31.30,Default,,0,0,0,,but someone less powerful would be cursed if they touched her.
+Dialogue: 10,0:11:18.28,0:11:22.83,Default,,0,0,0,,Is that old lady somebody so powerful \Nthat even you couldn't get rid of her?
+Dialogue: 10,0:11:22.83,0:11:26.42,Default,,0,0,0,,She's probably a spirit \Nthat was worshiped and enshrined.
+Dialogue: 10,0:11:26.79,0:11:31.30,Default,,0,0,0,,I'd be all right, but someone less powerful \Nwould be cursed if they touched her.
 Dialogue: 10,0:11:31.30,0:11:33.13,Default,,0,0,0,,She's that strong?
 Dialogue: 10,0:11:33.71,0:11:35.05,Default,,0,0,0,,How annoying.
 Dialogue: 10,0:11:35.05,0:11:40.68,Default,,0,0,0,,Nowadays, most gods like her are sick or weakened.
 Dialogue: 10,0:11:40.68,0:11:44.02,Default,,0,0,0,,She looks like she can barely see,
 Dialogue: 10,0:11:44.02,0:11:46.60,Default,,0,0,0,,so go with her for a bit and just get it over with.
 Dialogue: 10,0:11:47.06,0:11:49.56,Default,,0,0,0,,So someone less powerful can't even get close.
-Dialogue: 10,0:11:49.56,0:11:53.48,Default - italics,,0,0,0,,Is that why she's so glad she found a human who can see demons?
-Dialogue: 10,0:11:54.03,0:11:56.86,Default - italics,,0,0,0,,A god who can't approach spirits or humans.
-Dialogue: 10,0:11:58.53,0:11:59.87,Default - italics,,0,0,0,,Reiko{**-san}...
+Dialogue: 10,0:11:49.56,0:11:53.48,Default,,0,0,0,,{\i1}Is that why she's so glad she found \Na human who can see demons?
+Dialogue: 10,0:11:54.03,0:11:56.86,Default,,0,0,0,,{\i1}A god who can't approach spirits or humans.
+Dialogue: 10,0:11:58.53,0:11:59.87,Default,,0,0,0,,{\i1}Reiko{**-san}...
 Dialogue: 10,0:12:00.82,0:12:02.45,Default,,0,0,0,,This smell...
 Dialogue: 10,0:12:02.45,0:12:03.95,Default,,0,0,0,,This way, boy.
 Dialogue: 10,0:12:03.95,0:12:05.37,Default,,0,0,0,,I'm glad you came!
@@ -313,62 +246,54 @@ Dialogue: 10,0:12:17.34,0:12:20.72,Default,,0,0,0,,I see... it does, it does.
 Dialogue: 10,0:12:20.72,0:12:23.43,Default,,0,0,0,,This way, boy.
 Dialogue: 10,0:12:23.43,0:12:26.85,Default,,0,0,0,,You can meet it in the forest this way.
 Dialogue: 10,0:12:27.48,0:12:29.73,Default,,0,0,0,,Please stop calling me "boy".
-Dialogue: 10,0:12:30.98,0:12:32.56,Default - italics,,0,0,0,,I see.
-Dialogue: 10,0:12:32.56,0:12:34.78,Default - italics,,0,0,0,,If she doesn't spend a lot of time with demons,
-Dialogue: 10,0:12:34.78,0:12:37.32,Default - italics,,0,0,0,,she wouldn't know about the Book of Friends or the Natsume family.
+Dialogue: 10,0:12:30.98,0:12:32.56,Default,,0,0,0,,{\i1}I see.
+Dialogue: 10,0:12:32.56,0:12:34.94,Default,,0,0,0,,{\i1}If she doesn't spend a lot of time with demons,
+Dialogue: 10,0:12:34.94,0:12:37.40,Default,,0,0,0,,{\i1}she wouldn't know about the Book of Friends \Nor the Natsume family.
 Dialogue: 10,0:12:44.12,0:12:47.50,Default,,0,0,0,,This is a pretty easy place to get lost in.
 Dialogue: 10,0:12:47.50,0:12:49.21,Default,,0,0,0,,Over here! Over here!
 Dialogue: 10,0:12:49.54,0:12:52.88,Default,,0,0,0,,I met that spirit right over here.
 Dialogue: 10,0:12:52.88,0:12:56.59,Default,,0,0,0,,This demon that could bring disaster...
 Dialogue: 10,0:12:56.59,0:12:57.88,Default,,0,0,0,,what was he like?
 Dialogue: 10,0:12:58.76,0:13:04.01,Default,,0,0,0,,I couldn't really see it, but it was pretty small.
-Dialogue: 10,0:13:04.01,0:13:05.60,Default - italics,,0,0,0,,Small...
-Dialogue: 10,0:13:05.60,0:13:07.02,Default - italics,,0,0,0,,If worst comes to worst,
-Dialogue: 10,0:13:07.02,0:13:09.39,Default - italics,,0,0,0,,{*}Nyanko{**Sensei} and I might be able to take him.
-Dialogue: 10,0:13:09.39,0:13:10.31,Default - italics,,0,0,0,,Huh?
-Dialogue: 10,0:13:10.31,0:13:12.98,Default - italics,,0,0,0,,Didn't she say she borrowed \Na mirror from it?
-Dialogue: 10,0:13:12.98,0:13:14.77,Default - italics,,0,0,0,,Even though it was that dangerous?
-Dialogue: 10,0:13:15.27,0:13:18.40,Default - italics,,0,0,0,,I see... so that's what bothered me.
+Dialogue: 10,0:13:04.01,0:13:05.60,Default,,0,0,0,,{\i1}Small...
+Dialogue: 10,0:13:05.60,0:13:09.39,Default,,0,0,0,,{\i1}If worst comes to worst, \N{*}Nyanko{*Sensei} and I might be able to take him.
+Dialogue: 10,0:13:09.39,0:13:10.31,Default,,0,0,0,,{\i1}Huh?
+Dialogue: 10,0:13:10.31,0:13:12.98,Default,,0,0,0,,{\i1}Didn't she say she borrowed a mirror from it?
+Dialogue: 10,0:13:12.98,0:13:14.77,Default,,0,0,0,,{\i1}Even though it was that dangerous?
+Dialogue: 10,0:13:15.27,0:13:18.40,Default,,0,0,0,,{\i1}I see... so that's what bothered me.
 Dialogue: 10,0:13:19.40,0:13:22.70,Default,,0,0,0,,I don't have many friends.
 Dialogue: 10,0:13:22.70,0:13:27.29,Default,,0,0,0,,There was an old cherry tree near here,
 Dialogue: 10,0:13:27.29,0:13:30.62,Default,,0,0,0,,but it was possessed by a stubborn evil spirit.
-Dialogue: 10,0:13:30.62,0:13:31.87,Default,,0,0,0,,An old tree...
-Dialogue: 10,0:13:31.87,0:13:33.79,Default,,0,0,0,,so that's what that dream was.
-Dialogue: 10,0:13:33.79,0:13:39.01,Default,,0,0,0,,So it started to wither, and to get rid of it I needed a mirror.
-Dialogue: 10,0:13:39.01,0:13:43.80,Default,,0,0,0,,I was looking for a mirror, and then I found somebody holding one.
+Dialogue: 10,0:13:30.62,0:13:33.79,Default,,0,0,0,,An old tree... so that's what that dream was.
+Dialogue: 10,0:13:33.79,0:13:39.01,Default,,0,0,0,,So it started to wither, \Nand to get rid of it I needed a mirror.
+Dialogue: 10,0:13:39.01,0:13:43.80,Default,,0,0,0,,I was looking for a mirror, \Nand then I found somebody holding one.
 Dialogue: 10,0:13:43.80,0:13:46.31,Default,,0,0,0,,I thought I would steal it.
 Dialogue: 10,0:13:46.31,0:13:49.68,Default,,0,0,0,,But I was defeated and knocked away.
 Dialogue: 10,0:13:49.68,0:13:51.89,Default,,0,0,0,,Not much of a god, huh?
-Dialogue: 10,0:13:52.14,0:13:55.36,Default,,0,0,0,,But then, when I begged for the mirror,
-Dialogue: 10,0:13:55.36,0:13:56.65,Default,,0,0,0,,that spirit gave it to me.
+Dialogue: 10,0:13:52.14,0:13:56.65,Default,,0,0,0,,But then, when I begged for the mirror, \Nthat spirit gave it to me.
 Dialogue: 10,0:13:57.15,0:13:59.11,Default,,0,0,0,,But everybody was afraid of it...
 Dialogue: 10,0:13:59.11,0:14:00.94,Default,,0,0,0,,He must not be so bad.
 Dialogue: 10,0:14:01.24,0:14:02.70,Default,,0,0,0,,That's right.
-Dialogue: 10,0:14:02.70,0:14:08.33,Default,,0,0,0,,But the other spirits always kept their distance out of fear.
+Dialogue: 10,0:14:02.70,0:14:08.33,Default,,0,0,0,,But the other spirits always \Nkept their distance out of fear.
 Dialogue: 10,0:14:08.33,0:14:10.66,Default,,0,0,0,,That spirit said the same thing,
 Dialogue: 10,0:14:11.04,0:14:14.00,Default,,0,0,0,,that disaster followed everywhere it went.
 Dialogue: 10,0:14:14.00,0:14:17.42,Default,,0,0,0,,It said it wasn't very fond of humans, either.
 Dialogue: 10,0:14:19.80,0:14:23.80,Default,,0,0,0,,I got the mirror, but I couldn't get rid of the spirit.
 Dialogue: 10,0:14:23.80,0:14:26.35,Default,,0,0,0,,I went to give it back,
-Dialogue: 10,0:14:26.35,0:14:30.47,Default,,0,0,0,,but that spirit said that it didn't like looking in the mirror, and refused to take it.
-Dialogue: 10,0:14:30.47,0:14:34.39,Default,,0,0,0,,Instead, I started to come and see it every once in a while.
+Dialogue: 10,0:14:26.35,0:14:30.47,Default,,0,0,0,,but that spirit said that it didn't like looking \Nin the mirror, and refused to take it.
+Dialogue: 10,0:14:30.47,0:14:34.39,Default,,0,0,0,,Instead, I started to come \Nand see it every once in a while.
 Dialogue: 10,0:14:36.73,0:14:39.02,Default,,0,0,0,,When I looked really close,
 Dialogue: 10,0:14:39.02,0:14:41.86,Default,,0,0,0,,I could see that they had a scar here.
-Dialogue: 10,0:14:41.86,0:14:44.45,Default,,0,0,0,,The spirits were so scared of it,
-Dialogue: 10,0:14:44.45,0:14:46.87,Default,,0,0,0,,and yet the wound came from a human.
-Dialogue: 10,0:14:47.32,0:14:48.78,Default,,0,0,0,,That spirit was kind of cute,
-Dialogue: 10,0:14:48.78,0:14:50.66,Default,,0,0,0,,when I invited it to my home,
-Dialogue: 10,0:14:50.66,0:14:53.00,Default,,0,0,0,,it looked at my shrine...
+Dialogue: 10,0:14:41.86,0:14:46.87,Default,,0,0,0,,The spirits were so scared of it, \Nand yet the wound came from a human.
+Dialogue: 10,0:14:47.32,0:14:53.00,Default,,0,0,0,,That spirit was kind of cute. \NWhen I invited it to my home, it looked at my shrine...
 Dialogue: 10,0:14:54.00,0:14:57.25,Default,,0,0,0,,and, for some reason, seemed kind of disappointed.
-Dialogue: 10,0:14:58.59,0:15:01.13,Default,,0,0,0,,When I told that spirit why I'd wanted the mirror,
-Dialogue: 10,0:15:01.13,0:15:04.34,Default,,0,0,0,,it got rid of the spirit in the tree for me.
+Dialogue: 10,0:14:58.59,0:15:04.34,Default,,0,0,0,,When I told that spirit why I'd wanted the mirror, \Nit got rid of the spirit in the tree for me.
 Dialogue: 10,0:15:04.34,0:15:07.51,Default,,0,0,0,,This flower is from that tree.
 Dialogue: 10,0:15:07.89,0:15:09.85,Default,,0,0,0,,But why, I wonder?
 Dialogue: 10,0:15:09.85,0:15:13.31,Default,,0,0,0,,You smell like that spirit,
 Dialogue: 10,0:15:13.31,0:15:16.60,Default,,0,0,0,,and you look kind of like it, too.
 Dialogue: 10,0:15:17.19,0:15:20.61,Default,,0,0,0,,Please, let me look at that mirror.
-Dialogue: 10,0:15:23.32,0:15:25.32,Default - italics,,0,0,0,,For a while now,
-Dialogue: 10,0:15:25.32,0:15:26.99,Default - italics,,0,0,0,,the Book of Friends has felt warm.
+Dialogue: 10,0:15:23.32,0:15:26.99,Default,,0,0,0,,{\i1}For a while now, the Book of Friends has felt warm.
 Dialogue: 10,0:15:33.83,0:15:36.33,Default,,0,0,0,,Ma'am, is the spirit you're looking for—{added em dash}
 Dialogue: 10,0:15:36.33,0:15:38.46,Default,,0,0,0,,I've finally found you,
 Dialogue: 10,0:15:38.46,0:15:40.34,Default,,0,0,0,,Natsume of the Book of Friends!
@@ -376,7 +301,7 @@ Dialogue: 10,0:15:41.42,0:15:43.46,Default,,0,0,0,,This time, you won't get away
 Dialogue: 10,0:15:43.46,0:15:45.88,Default,,0,0,0,,Dinnertime!
 Dialogue: 10,0:15:47.63,0:15:48.80,Default,,0,0,0,,He's the one from before!
 Dialogue: 10,0:15:50.60,0:15:51.81,Default,,0,0,0,,My left shoulder...
-Dialogue: 10,0:15:55.56,0:15:56.60,Default,,0,0,0,,{*}Nyanko{**Sensei}!
+Dialogue: 10,0:15:55.56,0:15:56.60,Default,,0,0,0,,{*}Nyanko{*Sensei}!
 Dialogue: 10,0:15:58.98,0:16:00.36,Default,,0,0,0,,Get lost!{starts on blue dragon}
 Dialogue: 10,0:16:05.32,0:16:06.28,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:16:07.24,0:16:09.49,Default,,0,0,0,,Quit being such a wimp!
@@ -384,32 +309,30 @@ Dialogue: 10,0:16:10.45,0:16:11.16,Default,,0,0,0,,Boy...
 Dialogue: 10,0:16:13.37,0:16:16.83,Default,,0,0,0,,That's good... your shoulder's fine.
 Dialogue: 10,0:16:16.83,0:16:18.83,Default,,0,0,0,,I thought it ate you.
 Dialogue: 10,0:16:18.83,0:16:21.67,Default,,0,0,0,,Yes, it doesn't seem to be broken.
-Dialogue: 10,0:16:21.67,0:16:25.96,Default,,0,0,0,,And here I thought that lump of fur was supposed to be your bodyguard.
+Dialogue: 10,0:16:21.67,0:16:25.96,Default,,0,0,0,,And here I thought that lump of fur \Nwas supposed to be your bodyguard.
 Dialogue: 10,0:16:25.96,0:16:27.93,Default,,0,0,0,,Useless, isn't he?
 Dialogue: 10,0:16:28.63,0:16:30.59,Default,,0,0,0,,I got rid of that thing!
 Dialogue: 10,0:16:30.59,0:16:32.97,Default,,0,0,0,,It's this kid that needs to pay more attention!
-Dialogue: 10,0:16:32.97,0:16:34.60,Default - italics,,0,0,0,,That's right.
-Dialogue: 10,0:16:34.60,0:16:37.02,Default - italics,,0,0,0,,I need to be more careful.
-Dialogue: 10,0:16:37.02,0:16:39.23,Default - italics,,0,0,0,,It's not like it used to be.
-Dialogue: 10,0:16:39.65,0:16:41.15,Default - italics,,0,0,0,,I...{fade from black if you want}
-Dialogue: 10,0:16:41.15,0:16:45.28,Default,,0,0,0,,Honestly, I don't care if he loses an arm or a leg or two
-Dialogue: 10,0:16:45.28,0:16:47.44,Default,,0,0,0,,as long as the Book of Friends is safe.
+Dialogue: 10,0:16:32.97,0:16:34.60,Default,,0,0,0,,{\i1}That's right.
+Dialogue: 10,0:16:34.60,0:16:37.02,Default,,0,0,0,,{\i1}I need to be more careful.
+Dialogue: 10,0:16:37.02,0:16:39.23,Default,,0,0,0,,{\i1}It's not like it used to be.
+Dialogue: 10,0:16:39.65,0:16:41.15,Default,,0,0,0,,{\i1}I...{fade from black if you want}
+Dialogue: 10,0:16:41.15,0:16:47.44,Default,,0,0,0,,Honestly, I don't care if he loses an arm or a leg or two \Nas long as the Book of Friends is safe.
 Dialogue: 10,0:16:47.44,0:16:48.15,Default,,0,0,0,,Hey, Natsume.
 Dialogue: 10,0:16:48.15,0:16:50.28,Default,,0,0,0,,The Book of Friends is safe, right?
 Dialogue: 10,0:16:50.28,0:16:51.20,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:16:53.33,0:16:54.33,Default,,0,0,0,,Miss...
 Dialogue: 10,0:16:55.24,0:16:57.70,Default,,0,0,0,,your name is in the Book of Friends, isn't it?
 Dialogue: 10,0:16:57.70,0:16:59.29,Default,,0,0,0,,The Book of Friends...
-Dialogue: 10,0:16:59.29,0:17:01.25,Default,,0,0,0,,Come to think of it,
-Dialogue: 10,0:17:01.25,0:17:04.54,Default,,0,0,0,,I did write my name in something.
-Dialogue: 10,0:17:04.54,0:17:09.26,Default,,0,0,0,,Ever since then, that spirit stopped coming for some reason.
+Dialogue: 10,0:16:59.29,0:17:04.54,Default,,0,0,0,,Come to think of it, \NI did write my name in something.
+Dialogue: 10,0:17:04.54,0:17:09.26,Default,,0,0,0,,Ever since then, that spirit \Nstopped coming for some reason.
 Dialogue: 10,0:17:09.88,0:17:13.05,Default,,0,0,0,,That's why you couldn't find her.
-Dialogue: 10,0:17:13.05,0:17:15.47,Default,,0,0,0,,She was probably human.
+Dialogue: 10,0:17:13.05,0:17:14.97,Default,,0,0,0,,She was probably human.
 Dialogue: 10,0:17:15.47,0:17:18.77,Default,,0,0,0,,My grandmother, Natsume Reiko.
-Dialogue: 10,0:17:21.56,0:17:25.02,Default - italics,,0,0,0,,That which shields me, reveal thy name.
-Dialogue: 10,0:17:27.23,0:17:28.78,Default - italics,,0,0,0,,I return your name.
-Dialogue: 10,0:17:29.74,0:17:30.78,Default - italics,,0,0,0,,Please take it,
-Dialogue: 10,0:17:34.49,0:17:35.91,Default - italics,,0,0,0,,Aokuchinashi.
+Dialogue: 10,0:17:21.56,0:17:25.02,Default,,0,0,0,,{\i1}That which shields me, reveal thy name.
+Dialogue: 10,0:17:27.23,0:17:28.78,Default,,0,0,0,,{\i1}I return your name.
+Dialogue: 10,0:17:29.74,0:17:30.78,Default,,0,0,0,,{\i1}Please take it,
+Dialogue: 10,0:17:34.49,0:17:35.91,Default,,0,0,0,,{\i1}Aokuchinashi.
 Dialogue: 10,0:17:38.04,0:17:40.37,Default,,0,0,0,,How infuriating.
 Dialogue: 10,0:17:40.37,0:17:44.33,Default,,0,0,0,,The flowers of that tree were my one pleasure.
 Dialogue: 10,0:17:44.33,0:17:45.46,Default,,0,0,0,,A mirror...
@@ -438,7 +361,7 @@ Dialogue: 10,0:18:44.52,0:18:45.44,Default,,0,0,0,,Take it.
 Dialogue: 10,0:18:45.44,0:18:46.65,Default,,0,0,0,,Really?
 Dialogue: 10,0:18:46.65,0:18:47.48,Default,,0,0,0,,But...
 Dialogue: 10,0:18:47.48,0:18:48.44,Default,,0,0,0,,It's fine.
-Dialogue: 10,0:18:48.44,0:18:50.57,Default,,0,0,0,,I can look at my wound, but I don't have any medicine for it.
+Dialogue: 10,0:18:48.44,0:18:50.57,Default,,0,0,0,,I can look at my wound, \Nbut I don't have any medicine for it.
 Dialogue: 10,0:18:50.57,0:18:53.65,Default,,0,0,0,,What? You're hurt?
 Dialogue: 10,0:18:53.65,0:18:55.95,Default,,0,0,0,,Hmm, let me see...
 Dialogue: 10,0:18:57.07,0:18:58.58,Default,,0,0,0,,That tickles.
@@ -456,14 +379,13 @@ Dialogue: 10,0:19:25.89,0:19:27.65,Default,,0,0,0,,Much, much farther away.
 Dialogue: 10,0:19:28.19,0:19:29.94,Default,,0,0,0,,To a place nobody knows.
 Dialogue: 10,0:19:31.53,0:19:35.20,Default,,0,0,0,,Would you like to come to my home?
 Dialogue: 10,0:19:36.28,0:19:37.66,Default,,0,0,0,,Can I?
-Dialogue: 10,0:19:37.66,0:19:40.53,Default,,0,0,0,,Sure. It's almost withered away,
-Dialogue: 10,0:19:40.53,0:19:43.41,Default,,0,0,0,,but there's a tree with beautiful flowers.
+Dialogue: 10,0:19:37.66,0:19:43.41,Default,,0,0,0,,Sure. It's almost withered away, \Nbut there's a tree with beautiful flowers.
 Dialogue: 10,0:19:43.41,0:19:45.08,Default,,0,0,0,,Come see it.
 Dialogue: 10,0:19:45.91,0:19:47.17,Default,,0,0,0,,This is it.
 Dialogue: 10,0:19:47.54,0:19:48.75,Default,,0,0,0,,A shrine...
 Dialogue: 10,0:19:48.75,0:19:51.55,Default,,0,0,0,,And that's the tree.
 Dialogue: 10,0:19:51.55,0:19:53.59,Default,,0,0,0,,Yeah... that's right.
-Dialogue: 10,0:19:53.59,0:19:57.47,Default,,0,0,0,,I thought it was strange for somebody to care about me.
+Dialogue: 10,0:19:53.59,0:19:57.47,Default,,0,0,0,,I thought it was strange \Nfor somebody to care about me.
 Dialogue: 10,0:19:57.47,0:20:00.22,Default,,0,0,0,,You're a spirit, aren't you?
 Dialogue: 10,0:20:01.14,0:20:02.89,Default,,0,0,0,,That's right.
 Dialogue: 10,0:20:02.89,0:20:04.98,Default,,0,0,0,,What's your name?
@@ -473,7 +395,7 @@ Dialogue: 10,0:20:09.77,0:20:13.28,Default,,0,0,0,,If you win, I'll do anything 
 Dialogue: 10,0:20:13.28,0:20:15.99,Default,,0,0,0,,You can eat me if you like.
 Dialogue: 10,0:20:15.99,0:20:19.32,Default,,0,0,0,,But if I win, you'll write your name...
 Dialogue: 10,0:20:20.82,0:20:22.28,Default,,0,0,0,,I remember.
-Dialogue: 10,0:20:22.28,0:20:26.12,Default,,0,0,0,,I lost the match and wrote my name on a piece of paper.
+Dialogue: 10,0:20:22.28,0:20:26.12,Default,,0,0,0,,I lost the match and wrote \Nmy name on a piece of paper.
 Dialogue: 10,0:20:26.12,0:20:30.29,Default,,0,0,0,,She never did give me her name.
 Dialogue: 10,0:20:30.54,0:20:33.25,Default,,0,0,0,,I see... so it's Reiko.
 Dialogue: 10,0:20:33.25,0:20:37.01,Default,,0,0,0,,Her name was Natsume Reiko.
@@ -482,44 +404,60 @@ Dialogue: 10,0:20:42.76,0:20:43.81,Default,,0,0,0,,Yes.
 Dialogue: 10,0:20:43.81,0:20:45.68,Default,,0,0,0,,Please keep that mirror.
 Dialogue: 10,0:20:45.93,0:20:47.77,Default,,0,0,0,,Well, I'm going home.
 Dialogue: 10,0:20:48.69,0:20:51.61,Default,,0,0,0,,You've been a great help, grandson of Reiko.
-Dialogue: 10,0:20:51.61,0:20:55.07,Default,,0,0,0,,Go down that path, and you'll return to the land of men.
+Dialogue: 10,0:20:51.61,0:20:55.07,Default,,0,0,0,,Go down that path, \Nand you'll return to the land of men.
 Dialogue: 10,0:20:55.07,0:20:55.78,Default,,0,0,0,,Yes.
 Dialogue: 10,0:21:00.36,0:21:02.28,Default,,0,0,0,,Straight down that path!
 Dialogue: 10,0:21:02.28,0:21:03.62,Default,,0,0,0,,Goodbye!
-Dialogue: 10,0:21:04.37,0:21:07.37,Default - italics,,0,0,0,,Just like how the old woman thought that Reiko was a spirit,
-Dialogue: 10,0:21:07.95,0:21:10.00,Default - italics,,0,0,0,,Reiko thought she was human.
-Dialogue: 10,0:21:10.75,0:21:13.54,Default - italics,,0,0,0,,When she thought she had a human friend,
-Dialogue: 10,0:21:13.54,0:21:15.13,Default - italics,,0,0,0,,she must have been so happy.
-Dialogue: 10,0:21:15.59,0:21:17.38,Default - italics,,0,0,0,,{\fad(0,520)\i1}I thought it was strange...{\i0}
-Dialogue: 10,0:21:17.71,0:21:22.59,Default - italics,,0,0,0,,I wonder if that's when she began to dislike demons.
+Dialogue: 10,0:21:04.37,0:21:07.37,Default,,0,0,0,,{\i1}Just like how the old woman thought \Nthat Reiko{**-san} was a spirit,
+Dialogue: 10,0:21:07.95,0:21:10.00,Default,,0,0,0,,{\i1}Reiko{**-san} thought she was human.
+Dialogue: 10,0:21:10.75,0:21:13.54,Default,,0,0,0,,{\i1}When she thought she had a human friend,
+Dialogue: 10,0:21:13.54,0:21:15.13,Default,,0,0,0,,{\i1}she must have been so happy.
+Dialogue: 10,0:21:15.59,0:21:17.38,Default,,0,0,0,,{\i1\t(1227,1769,1,\c&H000000&\3c&H000000&)}I thought it was strange...{\i0}
+Dialogue: 10,0:21:17.71,0:21:22.59,Default,,0,0,0,,{\i1}I wonder if that's when she began to dislike demons.
 Dialogue: 10,0:21:23.89,0:21:25.89,Default,,0,0,0,,Hey, Natsume, look!
 Dialogue: 10,0:21:28.52,0:21:30.39,Default,,0,0,0,,Those flowers, they're the ones...
 Dialogue: 10,0:21:30.39,0:21:34.23,Default,,0,0,0,,Yeah, this is the tree Reiko banished the spirit from.
 Dialogue: 10,0:21:34.23,0:21:37.23,Default,,0,0,0,,Crazy woman, for a human.
 Dialogue: 10,0:21:37.23,0:21:39.82,Default,,0,0,0,,Yeah, that's right.
-Dialogue: 10,0:21:39.82,0:21:42.41,Default,,0,0,0,,She got rid of the evil spirit from the tree
-Dialogue: 10,0:21:42.41,0:21:45.83,Default,,0,0,0,,after she learned that the old lady was a spirit.
+Dialogue: 10,0:21:39.82,0:21:45.83,Default,,0,0,0,,She got rid of the evil spirit from the tree \Nafter she learned that the old lady was a spirit.
 Dialogue: 10,0:21:47.37,0:21:48.62,Default,,0,0,0,,I'm back.
 Dialogue: 10,0:21:50.50,0:21:52.92,Default,,0,0,0,,Touko{**-san}, what's wrong?
 Dialogue: 10,0:21:52.92,0:21:54.33,Default,,0,0,0,,Look, Takashi{**-kun}.
 Dialogue: 10,0:21:54.33,0:21:56.63,Default,,0,0,0,,There's a tea cup I've never seen before here.
 Dialogue: 10,0:21:56.96,0:21:59.38,Default,,0,0,0,,See, whose is this?
-Dialogue: 10,0:22:01.13,0:22:03.13,Default - italics,,0,0,0,,{\fad(316,0)\i1}...and sometimes, on a whim,{\i0}
-Dialogue: 10,0:22:03.13,0:22:06.89,Default - italics,,0,0,0,,{\fad(0,564)\i1}it'll sacrifice itself to prevent it.{\i0}
+Dialogue: 10,0:22:01.13,0:22:06.89,Default,,0,0,0,,{\i1\c&H000000&\3c&H000000&\t(23,315,1,\c&HF1F4F9&\3c&H02060E&)\t(5195,5737,1,\c&H000000&\3c&H000000&)}...and sometimes, on a whim, \Nit'll sacrifice itself to prevent it.
 Dialogue: 10,0:22:07.68,0:22:08.72,Default,,0,0,0,,It's mine.
 Dialogue: 10,0:22:09.06,0:22:10.31,Default,,0,0,0,,It's mine.
 Dialogue: 10,0:22:11.39,0:22:12.73,Default,,0,0,0,,It's very important to me.
-Dialogue: 10,0:22:14.60,0:22:16.27,Default - italics,,0,0,0,,They come without warning,
-Dialogue: 10,0:22:16.27,0:22:18.23,Default - italics,,0,0,0,,and then they leave the same way.
-Dialogue: 10,0:22:18.78,0:22:22.11,Default - italics,,0,0,0,,But once you meet them,
-Dialogue: 10,0:22:22.36,0:22:24.61,Default - italics,,0,0,0,,even if nobody ever knows it,
-Dialogue: 10,0:22:24.61,0:22:28.74,Default - italics,,0,0,0,,that encounter will change your life for the better.
+Dialogue: 10,0:22:14.60,0:22:16.27,Default,,0,0,0,,{\i1}They come without warning,
+Dialogue: 10,0:22:16.27,0:22:18.23,Default,,0,0,0,,{\i1}and then they leave the same way.
+Dialogue: 10,0:22:18.78,0:22:22.11,Default,,0,0,0,,{\i1}But once you meet them,
+Dialogue: 10,0:22:22.36,0:22:24.61,Default,,0,0,0,,{\i1}even if nobody ever knows it,
+Dialogue: 10,0:22:24.61,0:22:28.74,Default,,0,0,0,,{\i1}that encounter will change your life for the better.
 Dialogue: 10,0:24:00.25,0:24:01.59,Default,,0,0,0,,The village of Ukihara?
 Dialogue: 10,0:24:01.59,0:24:04.63,Default,,0,0,0,,It's a legendary village that's not part of this world.
 Dialogue: 10,0:24:04.63,0:24:06.47,Default,,0,0,0,,Then how did they get here?
 Dialogue: 10,0:24:06.47,0:24:10.68,Default,,0,0,0,,You don't think the smell of baked squid and\N the sound of festival music brought them here?
 Dialogue: 10,0:24:10.68,0:24:12.18,Default,,0,0,0,,I want to return.
 Dialogue: 10,0:24:12.18,0:24:15.02,Default,,0,0,0,,Together, if possible.
+Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
+Dialogue: 10,0:22:29.95,0:22:29.95,Default,,0,0,0,edsync,
+Dialogue: 1,0:02:39.31,0:02:43.31,title,,0,0,0,,{\blur0.65}The Name of {\c&H035A09&}a{\c} Monster
+Dialogue: 0,0:02:39.31,0:02:43.31,title-shadow,,0,0,0,,{\blur3\c&HAE975E&}The Name of {\c&H84648A&}a{\c&HAE975E&} Monster
+Dialogue: 0,0:05:57.92,0:06:00.92,signs,,0,0,0,,{=11}{\clip()\t(21,2982,\clip())\fscx100\t(21,2982,\fscx89.19)\fscy100\t(21,2982,\fscy89.19)\fnEFN OknoFont\b0\c&H3A423D&\blur1\t(21,2982,\blur0.89)\fs35\fry-3.67\frx10.84\frz-12.67\fax-0.14\move(888.73,752.15,896.61,729.09,21,2982)}Book of Friends
+Dialogue: 0,0:07:24.13,0:07:26.01,signs,,0,0,0,,{\be2\fnVrinda\c&H4C4B37&\fs72\fry1.49\frx0.17\frz-10.58\fax0.18\clip(m 515.2 158.4 l 1353.6 336 1352 657.6 510.4 502.4)\fscx90.74\fscy94.64\pos(1211.23,567.32)}Year 2\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hClass 2
+Dialogue: 2,0:11:14.03,0:11:17.03,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
+Dialogue: 1,0:11:14.03,0:11:17.03,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
+Dialogue: 1,0:11:14.03,0:11:17.03,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1182.47,183.33)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:11:14.03,0:11:17.03,titlename-blur,,0,0,0,,{\p1\blur20\pos(1208.67,216.33)}m 0 0 s 1350 0 1350 150 0 150 c
+Dialogue: 1,0:24:00.00,0:24:15.02,nexttime,,0,0,0,,{\fs100\pos(473.04,831.71)\blur0.6}Ukihara Village
+Dialogue: 0,0:24:00.00,0:24:15.02,nexttime-shadow,,0,0,0,,{\blur3.5\fs100\pos(478.04,836.71)}Ukihara Village
+Dialogue: 1,0:24:00.00,0:24:15.02,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
+Dialogue: 0,0:24:00.00,0:24:15.02,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
+Dialogue: 1,0:24:00.00,0:24:15.02,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
+Dialogue: 0,0:24:00.00,0:24:15.02,number-box,,0,0,0,,{\pos(1747.333,180)\be1\fscx36\fscy38}\h
+Dialogue: 0,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
+Dialogue: 1,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
 
 [Aegisub Extradata]
 Data: 11,a-mo,e{"originalText"#3A"{\\fnEFN OknoFont\\b0\\c&H3A423D&\\blur1\\fs35\\fry-3.67\\frx10.84\\frz-12.67\\fax-0.14\\pos(888.73#2C752.15)}Book of Friends"#2C"uuid"#3A"b8d88403-0105-4914-aa5a-8d4eda3adc66"}
