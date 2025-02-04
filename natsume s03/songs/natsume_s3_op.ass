@@ -16,16 +16,17 @@ Audio File: natsume_s3_12.mkv
 Video File: natsume_s3_12.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 1
-Video Position: 483
+Video Zoom Percent: 0.375000
+Scroll Position: 27
+Active Line: 36
+Video Position: 104
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
-Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
+Style: number,square kids,150,&H001D1ACB,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
+Style: number-box,!Square Engine 150 Simplex,172,&H001D1ACB,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
