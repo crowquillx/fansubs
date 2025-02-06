@@ -21,15 +21,15 @@ Audio File: natsume_s3_01.mkv
 Video File: natsume_s3_01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 81
-Active Line: 84
-Video Position: 8982
+Video Zoom Percent: 0.500000
+Scroll Position: 5
+Active Line: 15
+Video Position: 3756
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
-Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,53,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -59,7 +59,7 @@ Dialogue: 10,0:02:14.03,0:02:16.78,Default,,0,0,0,,Where did he run?
 Dialogue: 10,0:02:17.16,0:02:21.29,Default,,0,0,0,,He looked yummy too.
 Dialogue: 10,0:02:27.17,0:02:28.67,Default,,0,0,0,,He's gone.
 Dialogue: 10,0:02:28.67,0:02:29.96,Default,,0,0,0,,A human child.
-Dialogue: 10,0:02:29.96,0:02:33.80,Default,,0,0,0,,{\i1}The things I see are probably \Nwhat people would call demons.{\i0}
+Dialogue: 10,0:02:29.96,0:02:36.11,Default,,0,0,0,,{\i1}The things I see are probably \Nwhat people would call demons.{\i0}
 Dialogue: 10,0:02:45.06,0:02:47.56,Default,,0,0,0,,{\i1}My grandmother left me The Book of Friends.
 Dialogue: 10,0:02:48.11,0:02:50.78,Default,,0,0,0,,{\i1}She was born with great mystical powers
 Dialogue: 10,0:02:50.78,0:02:54.07,Default,,0,0,0,,{\i1}and challenged every demon she met to a battle.
@@ -128,7 +128,7 @@ Dialogue: 10,0:05:58.88,0:06:00.92,Default,,0,0,0,,{\i1}Ever since I inherited t
 Dialogue: 10,0:06:00.92,0:06:05.43,Default,,0,0,0,,{\i1}I've returned the names of the demons within it.
 Dialogue: 10,0:06:05.43,0:06:09.56,Default,,0,0,0,,{\i1}First, I bring up an image \Nof them in my mind, and concentrate.
 Dialogue: 10,0:06:09.56,0:06:12.98,Default,,0,0,0,,That which shields me, reveal thy name.
-Dialogue: 10,0:06:14.60,0:06:20.57,Default,,0,0,0,,{\q2\i1}To release their names, you need the saliva and breath \Nof someone of the same bloodline as Reiko.
+Dialogue: 10,0:06:14.60,0:06:20.57,Default,,0,0,0,,{\q2}To release their names, you need the saliva and breath \Nof someone of the same bloodline as Reiko.
 Dialogue: 10,0:06:27.45,0:06:29.87,Default,,0,0,0,,Thank you very much.
 Dialogue: 10,0:06:33.21,0:06:35.88,Default,,0,0,0,,{\i1}When I return a name, I get really tired.
 Dialogue: 10,0:06:35.88,0:06:37.25,Default,,0,0,0,,You idiot!
@@ -441,7 +441,7 @@ Dialogue: 10,0:24:06.47,0:24:10.68,Default,,0,0,0,,You don't think the smell of 
 Dialogue: 10,0:24:10.68,0:24:12.18,Default,,0,0,0,,I want to return.
 Dialogue: 10,0:24:12.18,0:24:15.02,Default,,0,0,0,,Together, if possible.
 Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
-Dialogue: 10,0:22:29.95,0:22:29.95,Default,,0,0,0,edsync,
+Dialogue: 10,0:22:29.95,0:22:30.00,Default,,0,0,0,edsync,
 Dialogue: 1,0:02:39.31,0:02:43.31,title,,0,0,0,,{\blur0.65}The Name of {\c&H035A09&}a{\c} Monster
 Dialogue: 0,0:02:39.31,0:02:43.31,title-shadow,,0,0,0,,{\blur3\c&HAE975E&}The Name of {\c&H84648A&}a{\c&HAE975E&} Monster
 Dialogue: 0,0:05:57.92,0:06:00.92,signs,,0,0,0,,{=11}{\clip()\t(21,2982,\clip())\fscx100\t(21,2982,\fscx89.19)\fscy100\t(21,2982,\fscy89.19)\fnEFN OknoFont\b0\c&H3A423D&\blur1\t(21,2982,\blur0.89)\fs35\fry-3.67\frx10.84\frz-12.67\fax-0.14\move(888.73,752.15,896.61,729.09,21,2982)}Book of Friends

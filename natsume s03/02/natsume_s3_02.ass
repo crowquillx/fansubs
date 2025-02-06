@@ -17,14 +17,14 @@ Video File: natsume_s3_02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 75
-Active Line: 80
-Video Position: 9187
+Scroll Position: 302
+Active Line: 323
+Video Position: 34787
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
-Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,53,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
 Style: Sign,Anna,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,53,53,56,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -362,7 +362,7 @@ Dialogue: 10,0:24:03.63,0:24:06.22,Default,,0,0,0,,The one who lied about seeing
 Dialogue: 10,0:24:06.22,0:24:07.09,Default,,0,0,0,,How did you—
 Dialogue: 10,0:24:07.09,0:24:09.30,Default,,0,0,0,,Bratty kid.
 Dialogue: 10,0:24:09.30,0:24:10.64,Default,,0,0,0,,Maybe I'll eat him.
-Dialogue: 10,0:24:10.89,0:24:14.27,Default,,0,0,0,,I remembered you when I met him.
+Dialogue: 10,0:24:10.64,0:24:14.27,Default,,0,0,0,,I remembered you when I met him.
 Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
 Dialogue: 10,0:22:29.95,0:22:30.00,Default,,0,0,0,edsync,
 Dialogue: 0,0:12:34.94,0:12:36.94,Sign,,0,0,0,,{\fnArno Pro\c&H1E2F34&\3c&H527686&}Happara Temple Complex Map
