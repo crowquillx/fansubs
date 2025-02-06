@@ -24,7 +24,7 @@ Video Position: 9187
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
-Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,53,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
 Style: Sign,Anna,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,53,53,56,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
