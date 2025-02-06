@@ -12,24 +12,21 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_02.mkv
-Video File: ../../../natsume 3/natsume_s3_02.mkv
+Audio File: natsume_s3_02.mkv
+Video File: natsume_s3_02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 173
-Active Line: 180
-Video Position: 4104
+Video Zoom Percent: 0.625000
+Scroll Position: 75
+Active Line: 80
+Video Position: 9187
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP-eng,MV Boli,80,&H00ACFBC5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,45,45,45,1
-Style: ED-eng,EFN Karet,60,&H14E4E4E4,&H000000FF,&H0A422300,&H00000000,0,0,0,0,95,90,0,0,1,2.25,0,3,50,50,50,1
-Style: EpTitle,Arabic Typesetting,180,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
-Style: EpTitleC,Andalus,90,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,100,100,1.5,0,1,0,0,7,15,15,15,1
 Style: Sign,Anna,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,53,53,56,1
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -38,38 +35,337 @@ Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9
 Style: nexttime-shadow,Footlight MT Light,105,&H00C4F6CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,845,310,1
 Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
 Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
-Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,0,9,60,60,30,1
-Style: classsign,Vrinda,80,&H00484A33,&H00FFFFFF,&H142B2B2B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,180,180,60,1
 Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
-Style: Default - italics,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,-1,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: Default - Overlap,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H005B2509,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:01:43.67,0:01:45.42,Default,,0,0,0,,Look at that.
+Dialogue: 10,0:01:45.42,0:01:47.30,Default,,0,0,0,,Yatsuhara looks like a sea of light.
+Dialogue: 10,0:01:47.30,0:01:52.51,Default,,0,0,0,,Forget that, let's just go home so you \Ncan gimme those dumplings, Natsume!
+Dialogue: 10,0:01:52.51,0:01:54.97,Default,,0,0,0,,You do nothing but eat, Master{*Sensei}.
+Dialogue: 10,0:01:56.93,0:01:57.93,Default,,0,0,0,,What's that?
+Dialogue: 10,0:01:58.64,0:02:00.10,Default,,0,0,0,,I like it!
+Dialogue: 10,0:02:00.10,0:02:01.43,Default,,0,0,0,,It smells great.
+Dialogue: 10,0:02:01.43,0:02:02.64,Default,,0,0,0,,I really like it!
+Dialogue: 10,0:02:11.65,0:02:14.32,Default,,0,0,0,,We're under attack by some kind of white pig!
+Dialogue: 10,0:02:14.32,0:02:17.70,Default,,0,0,0,,What did you say, you punks? I'll eat you!
+Dialogue: 10,0:02:17.70,0:02:19.33,Default,,0,0,0,,Stop it, Master{*Sensei}.
+Dialogue: 10,0:02:19.33,0:02:22.41,Default,,0,0,0,,Oh, it's Natsume{**-sama} and the Pig Cat!
+Dialogue: 10,0:02:22.41,0:02:24.83,Default,,0,0,0,,Pig cat!  Pig cat!
+Dialogue: 10,0:02:24.83,0:02:27.29,Default,,0,0,0,,I mean, Mr. Madara{*Madara-sama}.
+Dialogue: 10,0:02:27.29,0:02:29.75,Default,,0,0,0,,Oh, did you bring us snacks?
+Dialogue: 10,0:02:30.25,0:02:31.26,Default,,0,0,0,,How nice.
+Dialogue: 10,0:02:30.42,0:02:31.26,Default - Alt,,0,0,0,,Not for you!
+Dialogue: 10,0:02:32.51,0:02:36.51,Default,,0,0,0,,If you guys make too much noise, \Nthat priest will purify you again.
+Dialogue: 10,0:02:36.51,0:02:42.02,Default,,0,0,0,,Actually, we haven't heard him chant \Nany sutras for the past few days.
+Dialogue: 10,0:02:42.56,0:02:44.48,Default,,0,0,0,,I wonder if he's dead?
+Dialogue: 10,0:02:44.48,0:02:46.15,Default,,0,0,0,,He's dead!  He's dead!
+Dialogue: 10,0:02:47.69,0:02:51.15,Default,,0,0,0,,{\i1\i1}Did something happen to Tanuma's dad?
+Dialogue: 10,0:02:56.07,0:02:59.87,Default,,0,0,0,,{\i1\i1}Tanuma is one of the few people \Nwho knows I can see demons,
+Dialogue: 10,0:02:59.87,0:03:01.33,Default,,0,0,0,,{\i1\i1}and a close friend of mine.
+Dialogue: 10,0:03:01.33,0:03:03.16,Default,,0,0,0,,Hey, Natsume, Nishimura.
+Dialogue: 10,0:03:03.16,0:03:04.21,Default,,0,0,0,,Got gym next?
+Dialogue: 10,0:03:04.21,0:03:04.71,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:03:04.71,0:03:06.08,Default,,0,0,0,,We've got a marathon.
+Dialogue: 10,0:03:08.71,0:03:09.88,Default,,0,0,0,,Oh, Tanuma.
+Dialogue: 10,0:03:13.97,0:03:16.30,Default,,0,0,0,,No, it's nothing.
+Dialogue: 10,0:03:16.30,0:03:17.14,Default,,0,0,0,,See you.
+Dialogue: 10,0:03:17.14,0:03:19.14,Default,,0,0,0,,Yeah, see you.
+Dialogue: 10,0:03:19.97,0:03:24.73,Default,,0,0,0,,He says that sometimes he can feel \Na demon's presence,
+Dialogue: 10,0:03:24.73,0:03:27.06,Default,,0,0,0,,or see them vaguely, like shadows.
+Dialogue: 10,0:03:27.65,0:03:30.61,Default,,0,0,0,,So, you left without asking him anything?
+Dialogue: 10,0:03:31.07,0:03:34.15,Default,,0,0,0,,I didn't know how to ask him.
+Dialogue: 10,0:03:34.15,0:03:34.99,Default,,0,0,0,,Why's that?
+Dialogue: 10,0:03:34.99,0:03:38.70,Default,,0,0,0,,He knows you can see demons.
+Dialogue: 10,0:03:38.70,0:03:41.83,Default,,0,0,0,,I just thought that if his dad were sick or something,
+Dialogue: 10,0:03:41.83,0:03:44.62,Default,,0,0,0,,I shouldn't talk about it with other people.
+Dialogue: 10,0:03:44.62,0:03:46.16,Default,,0,0,0,,What are you on about?
+Dialogue: 10,0:03:46.16,0:03:47.33,Default,,0,0,0,,Well...
+Dialogue: 10,0:03:48.08,0:03:53.92,Default,,0,0,0,,I don't really know if it's appropriate for me \Nto intrude on someone else's family.
+Dialogue: 10,0:03:53.92,0:03:56.17,Default,,0,0,0,,Like I'd know!
+Dialogue: 10,0:03:57.30,0:03:59.14,Default,,0,0,0,,Yeah, that's right.
+Dialogue: 10,0:03:59.68,0:04:03.76,Default,,0,0,0,,When I was young, I never had any friends \Nwho I could talk about family with.
+Dialogue: 10,0:04:04.31,0:04:07.89,Default,,0,0,0,,So I don't know how to act at times like these.
+Dialogue: 10,0:04:08.39,0:04:10.06,Default,,0,0,0,,I'm back.
+Dialogue: 10,0:04:10.52,0:04:13.32,Default,,0,0,0,,Well, I guess nobody's here.
+Dialogue: 10,0:04:41.51,0:04:43.43,Default,,0,0,0,,My name...
+Dialogue: 10,0:04:45.18,0:04:47.81,Default,,0,0,0,,Natsume{**-sama} of the Book of Friends...
+Dialogue: 10,0:04:47.81,0:04:50.06,Default,,0,0,0,,You want your name back?
+Dialogue: 10,0:04:52.40,0:04:55.19,Default,,0,0,0,,Sorry, but I'm heading to school.
+Dialogue: 10,0:04:55.19,0:04:57.49,Default,,0,0,0,,Can we do it later?
+Dialogue: 10,0:05:10.00,0:05:11.04,Default,,0,0,0,,Tanuma!
+Dialogue: 10,0:05:13.42,0:05:15.55,Default,,0,0,0,,What, you're worried about my dad?
+Dialogue: 10,0:05:15.55,0:05:19.47,Default,,0,0,0,,They said they haven't heard any sutras lately.
+Dialogue: 10,0:05:19.47,0:05:23.72,Default,,0,0,0,,He's helping out with a ceremony at the main temple, \Nso he's gone for the month.
+Dialogue: 10,0:05:24.26,0:05:26.14,Default,,0,0,0,,It's like a business trip.
+Dialogue: 10,0:05:26.14,0:05:27.35,Default,,0,0,0,,He does that sometimes.
+Dialogue: 10,0:05:27.35,0:05:29.68,Default,,0,0,0,,I see. I'm glad to hear that.
+Dialogue: 10,0:05:29.68,0:05:31.98,Default,,0,0,0,,You were worried?
+Dialogue: 10,0:05:31.98,0:05:33.10,Default,,0,0,0,,Thanks.
+Dialogue: 10,0:05:33.10,0:05:35.02,Default,,0,0,0,,No, it's nothing.
+Dialogue: 10,0:05:35.48,0:05:37.61,Default,,0,0,0,,So, you're alone now?
+Dialogue: 10,0:05:37.61,0:05:38.78,Default,,0,0,0,,That must be hard.
+Dialogue: 10,0:05:38.78,0:05:40.19,Default,,0,0,0,,Not really.
+Dialogue: 10,0:05:40.19,0:05:42.07,Default,,0,0,0,,It's nice and quiet.
+Dialogue: 10,0:05:43.45,0:05:44.49,Default,,0,0,0,,Is something wrong?
+Dialogue: 10,0:05:44.49,0:05:47.08,Default,,0,0,0,,No, it's nothing.
+Dialogue: 10,0:05:47.08,0:05:48.87,Default,,0,0,0,,I'll be going.
+Dialogue: 10,0:05:48.87,0:05:49.70,Default,,0,0,0,,See you tomorrow.
+Dialogue: 10,0:05:49.70,0:05:50.62,Default,,0,0,0,,See you.
+Dialogue: 10,0:05:56.04,0:05:57.13,Default,,0,0,0,,You again?
+Dialogue: 10,0:05:57.63,0:05:59.38,Default,,0,0,0,,Return my name.
+Dialogue: 10,0:06:02.05,0:06:03.68,Default,,0,0,0,,{\i1\i1}I guess it'll be okay here.
+Dialogue: 10,0:06:05.76,0:06:08.97,Default,,0,0,0,,That which shields me, reveal thy name.
+Dialogue: 10,0:06:11.31,0:06:12.27,Default,,0,0,0,,Natsume!
+Dialogue: 10,0:06:13.60,0:06:16.65,Default,,0,0,0,,What are you standing around for?
+Dialogue: 10,0:06:19.86,0:06:21.86,Default,,0,0,0,,I don't have her name?
+Dialogue: 10,0:06:23.15,0:06:24.74,Default,,0,0,0,,A spirit?
+Dialogue: 10,0:06:24.74,0:06:28.41,Default,,0,0,0,,You were going to give back another name?!
+Dialogue: 10,0:06:29.04,0:06:29.79,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:06:29.79,0:06:30.75,Default,,0,0,0,,You fool!
+Dialogue: 10,0:06:30.75,0:06:33.75,Default,,0,0,0,,If you keep giving their names back,
+Dialogue: 10,0:06:33.75,0:06:36.79,Default,,0,0,0,,the Book of Friends is going to \Nbe empty by the time I get it!
+Dialogue: 10,0:06:55.23,0:06:58.36,Default,,0,0,0,,{\an8}Oh, the beef bowl blues!
+Dialogue: 10,0:06:56.85,0:06:59.02,Default,,0,0,0,,This is a problem.
+Dialogue: 10,0:06:59.02,0:07:03.44,Default,,0,0,0,,Just when we were happy over the priest's absence, \Nsomething like this has to happen?
+Dialogue: 10,0:07:03.44,0:07:07.11,Default,,0,0,0,,When will peace come to Yatsuhara?
+Dialogue: 10,0:07:08.78,0:07:10.58,Default,,0,0,0,,It's the white pig again!
+Dialogue: 10,0:07:10.58,0:07:13.29,Default,,0,0,0,,Oh, Mr. Madara{*Madara-sama}.
+Dialogue: 10,0:07:13.29,0:07:15.75,Default,,0,0,0,,What's got you wimps all riled up?
+Dialogue: 10,0:07:15.75,0:07:19.79,Default,,0,0,0,,Well, you see, {\i1}he{\i0} seems to have revived.
+Dialogue: 10,0:07:19.79,0:07:20.46,Default,,0,0,0,,He?
+Dialogue: 10,0:07:20.46,0:07:27.34,Default,,0,0,0,,Do you remember that one spirit who came \Nand started spreading a miasma everywhere?
+Dialogue: 10,0:07:27.34,0:07:30.85,Default,,0,0,0,,Yeah, I guess I do, kinda.
+Dialogue: 10,0:07:30.85,0:07:35.23,Default,,0,0,0,,Weaker spirits fell sick \Njust from coming in contact with it.
+Dialogue: 10,0:07:35.23,0:07:36.98,Default,,0,0,0,,It was a big problem.
+Dialogue: 10,0:07:36.98,0:07:38.60,Default,,0,0,0,,A problem. A problem.
+Dialogue: 10,0:07:38.60,0:07:43.32,Default,,0,0,0,,From what I've heard, \NNatsume Reiko{**-sama} stole his name,
+Dialogue: 10,0:07:43.32,0:07:46.95,Default,,0,0,0,,and then he went to the mountain and fell asleep.
+Dialogue: 10,0:07:47.66,0:07:48.70,Default,,0,0,0,,Reiko did?
+Dialogue: 10,0:07:48.70,0:07:51.03,Default,,0,0,0,,That girl's always so cruel.
+Dialogue: 10,0:07:51.03,0:07:54.83,Default,,0,0,0,,We saw his miasma again.
+Dialogue: 10,0:07:54.83,0:07:56.83,Default,,0,0,0,,Actually, you see, he's...
+Dialogue: 10,0:08:00.38,0:08:02.88,Default,,0,0,0,,I'm sorry about yesterday,
+Dialogue: 10,0:08:02.88,0:08:05.21,Default,,0,0,0,,Natsume{**-sama} of the Book of Friends.
+Dialogue: 10,0:08:05.46,0:08:10.05,Default,,0,0,0,,Is your name not in the Book of Friends?
+Dialogue: 10,0:08:11.55,0:08:12.68,Default,,0,0,0,,Yes.
+Dialogue: 10,0:08:12.68,0:08:16.39,Default,,0,0,0,,I didn't mean my name.
+Dialogue: 10,0:08:16.39,0:08:17.94,Default,,0,0,0,,I meant my brother's name.
+Dialogue: 10,0:08:17.94,0:08:18.94,Default,,0,0,0,,Brother?
+Dialogue: 10,0:08:18.94,0:08:23.15,Default,,0,0,0,,My brother is from Ukihara village.
+Dialogue: 10,0:08:23.73,0:08:25.53,Default,,0,0,0,,Ukihara village?
+Dialogue: 10,0:08:25.53,0:08:31.16,Default,,0,0,0,,Ukihara village is a legendary village \Nthat humans can't see.
+Dialogue: 10,0:08:31.16,0:08:33.62,Default,,0,0,0,,Why would somebody from there come here?
+Dialogue: 10,0:08:33.62,0:08:34.58,Default,,0,0,0,,I don't know,
+Dialogue: 10,0:08:34.87,0:08:38.16,Default,,0,0,0,,but he said that he had been \Non a journey for many years
+Dialogue: 10,0:08:38.16,0:08:40.58,Default,,0,0,0,,looking for a way to return to his home.
+Dialogue: 10,0:08:41.25,0:08:42.84,Default,,0,0,0,,In Ukihara village,
+Dialogue: 10,0:08:42.84,0:08:45.55,Default,,0,0,0,,beautiful flowers bloom all year round,
+Dialogue: 10,0:08:45.55,0:08:47.97,Default,,0,0,0,,and the voices of the birds never cease.
+Dialogue: 10,0:08:47.97,0:08:51.97,Default,,0,0,0,,It normally has no contact with this world,
+Dialogue: 10,0:08:51.97,0:08:56.06,Default,,0,0,0,,but sometimes during festivals, \Na bridge connects the two.
+Dialogue: 10,0:08:57.27,0:09:00.48,Default,,0,0,0,,My brother and I were tempted by a festival dance,
+Dialogue: 10,0:09:00.77,0:09:04.02,Default,,0,0,0,,and we came to this world accidentally.
+Dialogue: 10,0:09:07.15,0:09:13.03,Default,,0,0,0,,My brother and I went on a journey \Nto find the entrance to Ukihara village.
+Dialogue: 10,0:09:13.03,0:09:15.49,Default,,0,0,0,,We traveled for years, and years...
+Dialogue: 10,0:09:15.99,0:09:18.20,Default,,0,0,0,,Eventually my brother fell sick,
+Dialogue: 10,0:09:18.20,0:09:21.12,Default,,0,0,0,,and began to give off a miasma.
+Dialogue: 10,0:09:21.54,0:09:25.54,Default,,0,0,0,,I was hurt by it and heavily weakened.
+Dialogue: 10,0:09:26.34,0:09:31.76,Default,,0,0,0,,My brother saw this and left me in \Na holy tree on a certain mountain,
+Dialogue: 10,0:09:31.76,0:09:34.68,Default,,0,0,0,,and then went off somewhere by himself.
+Dialogue: 10,0:09:34.68,0:09:41.06,Default,,0,0,0,,After that, I recovered due to \Nthe spiritual energy of the holy tree,
+Dialogue: 10,0:09:41.06,0:09:46.02,Default,,0,0,0,,and followed the rumors \Nabout my brother to this place.
+Dialogue: 10,0:09:46.90,0:09:52.53,Default,,0,0,0,,{\q2}I've heard from the local spirits that \Nmy brother had his name stolen by you, Natsume{**-sama},
+Dialogue: 10,0:09:52.53,0:09:55.57,Default,,0,0,0,,and has since vanished.
+Dialogue: 10,0:09:55.57,0:09:58.91,Default,,0,0,0,,So you came to me because \NI have the Book of Friends.
+Dialogue: 10,0:09:58.91,0:10:02.92,Default,,0,0,0,,But it was my grandmother \Nwho took his name, not me.
+Dialogue: 10,0:10:02.92,0:10:07.71,Default,,0,0,0,,I don't know what he looks like, \Nso I can't even call him.
+Dialogue: 10,0:10:08.05,0:10:09.63,Default,,0,0,0,,I see.
+Dialogue: 10,0:10:09.63,0:10:14.97,Default,,0,0,0,,Then, since I know his face, I could call him, right?
+Dialogue: 10,0:10:14.97,0:10:15.93,Default,,0,0,0,,I guess...
+Dialogue: 10,0:10:15.93,0:10:17.18,Default,,0,0,0,,Then...
+Dialogue: 10,0:10:19.14,0:10:22.10,Default,,0,0,0,,give me the Book of Friends!
+Dialogue: 10,0:10:23.44,0:10:24.40,Default,,0,0,0,,Stop!
+Dialogue: 10,0:10:28.69,0:10:30.23,Default,,0,0,0,,Lord Natsume{*Natsume-dono}.
+Dialogue: 10,0:10:31.44,0:10:32.49,Default,,0,0,0,,Misuzu!
+Dialogue: 10,0:10:32.49,0:10:35.36,Default,,0,0,0,,I felt the presence of a spirit here.
+Dialogue: 10,0:10:35.36,0:10:37.58,Default,,0,0,0,,You saved me.
+Dialogue: 10,0:10:37.58,0:10:40.41,Default,,0,0,0,,I just happened to pass by.
+Dialogue: 10,0:10:40.41,0:10:44.29,Default,,0,0,0,,Several of the weaker spirits \Nhave been eaten in this riverbed,
+Dialogue: 10,0:10:44.29,0:10:46.46,Default,,0,0,0,,so I was looking for the culprit.
+Dialogue: 10,0:10:46.46,0:10:49.25,Default,,0,0,0,,Oh, if it isn't Misuzu!
+Dialogue: 10,0:10:50.50,0:10:53.38,Default,,0,0,0,,Madara, it's not you, is it?
+Dialogue: 10,0:10:53.38,0:10:56.30,Default,,0,0,0,,The one who's been eating \Nthe weaker spirits in my territory.
+Dialogue: 10,0:10:56.30,0:10:59.43,Default,,0,0,0,,What? Don't you dare accuse me like that!
+Dialogue: 10,0:10:59.43,0:11:03.27,Default,,0,0,0,,I'm a gourmet,\N so I wouldn't settle for eating wimps!
+Dialogue: 10,0:11:03.27,0:11:05.23,Default,,0,0,0,,Could those two be...
+Dialogue: 10,0:11:05.69,0:11:09.23,Default,,0,0,0,,So, it's the one who hides in that mountain?
+Dialogue: 10,0:11:09.23,0:11:13.11,Default,,0,0,0,,He's the brother of the spirit you met.
+Dialogue: 10,0:11:13.11,0:11:17.66,Default,,0,0,0,,He appeared near Tanuma's house, didn't he?
+Dialogue: 10,0:11:17.66,0:11:21.99,Default,,0,0,0,,Since the priest is gone, \Nhe's started to wander around the temple grounds.
+Dialogue: 10,0:11:22.70,0:11:23.75,Default,,0,0,0,,Tanuma...
+Dialogue: 10,0:11:27.88,0:11:30.96,Default,,0,0,0,,Where? Where is it?
+Dialogue: 10,0:11:30.96,0:11:34.42,Default,,0,0,0,,I will take... Natsume...
+Dialogue: 10,0:11:37.30,0:11:38.76,Default,,0,0,0,,Natsume?
+Dialogue: 10,0:11:46.64,0:11:47.48,Default,,0,0,0,,Hey!
+Dialogue: 10,0:11:49.06,0:11:51.40,Default,,0,0,0,,Are you looking for something?
+Dialogue: 10,0:11:53.82,0:11:56.03,Default,,0,0,0,,I'll make you regret it \Nif you do anything to Natsume!
+Dialogue: 10,0:12:11.79,0:12:12.84,Default,,0,0,0,,Rust?
+Dialogue: 10,0:12:36.94,0:12:39.41,Default,,0,0,0,,An old map of the temple?
+Dialogue: 10,0:12:44.41,0:12:46.00,Default,,0,0,0,,Tanuma went home early?
+Dialogue: 10,0:12:46.00,0:12:47.16,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:12:47.16,0:12:51.21,Default,,0,0,0,,He was here this morning, but he left early \Nbecause he said he had a bad headache.
+Dialogue: 10,0:12:51.21,0:12:52.25,Default,,0,0,0,,A headache...
+Dialogue: 10,0:12:53.04,0:12:54.17,Default,,0,0,0,,No way...
+Dialogue: 10,0:12:55.17,0:12:58.17,Default,,0,0,0,,He must've been affected by that demon's miasma.
+Dialogue: 10,0:12:58.17,0:13:00.09,Default,,0,0,0,,What a wimp.
+Dialogue: 10,0:13:00.09,0:13:02.05,Default,,0,0,0,,I'm worried about him. Let's hurry!
+Dialogue: 10,0:13:02.05,0:13:03.14,Default,,0,0,0,,Roger!
+Dialogue: 10,0:13:07.10,0:13:09.23,Default,,0,0,0,,He's not home? Is he at the hospital?
+Dialogue: 10,0:13:09.23,0:13:12.60,Default,,0,0,0,,Natsume, I can feel a spirit around here.
+Dialogue: 10,0:13:21.32,0:13:22.36,Default,,0,0,0,,This is...
+Dialogue: 10,0:13:22.78,0:13:25.83,Default,,0,0,0,,Uh... is this a map of the temple?
+Dialogue: 10,0:13:26.83,0:13:33.17,Default,,0,0,0,,It's small now, but it used to be much bigger.
+Dialogue: 10,0:13:33.17,0:13:37.76,Default,,0,0,0,,They held a festival and a shrine dance \Nat this temple every year.
+Dialogue: 10,0:13:37.76,0:13:38.63,Default,,0,0,0,,A shrine dance?
+Dialogue: 10,0:13:38.63,0:13:43.30,Default,,0,0,0,,Sometimes a shrine dance would open \Nthe door to the other world.
+Dialogue: 10,0:13:43.30,0:13:45.93,Default,,0,0,0,,I see, the building for the shrine dance was right here.
+Dialogue: 10,0:13:45.93,0:13:48.89,Default,,0,0,0,,That's at the end of Yatsuhara.
+Dialogue: 10,0:13:51.23,0:13:51.94,Default,,0,0,0,,Huh?
+Dialogue: 10,0:13:51.94,0:13:53.23,Default,,0,0,0,,Tanuma?
+Dialogue: 10,0:13:53.65,0:13:54.69,Default,,0,0,0,,What's wrong?
+Dialogue: 10,0:13:54.69,0:13:57.11,Default,,0,0,0,,No... nothing, really.
+Dialogue: 10,0:13:58.03,0:14:00.36,Default,,0,0,0,,Your dad's gone right now, right?
+Dialogue: 10,0:14:00.94,0:14:03.66,Default,,0,0,0,,It's gotta be tough to be sick when you're alone.
+Dialogue: 10,0:14:03.66,0:14:07.20,Default,,0,0,0,,Sorry, I didn't want to stay home.
+Dialogue: 10,0:14:07.20,0:14:08.74,Default,,0,0,0,,Don't worry about it.
+Dialogue: 10,0:14:08.74,0:14:12.25,Default,,0,0,0,,Natsume was really worried \Nwhen he heard you collapsed.
+Dialogue: 10,0:14:15.88,0:14:17.09,Default,,0,0,0,,This way?
+Dialogue: 10,0:14:17.09,0:14:19.42,Default,,0,0,0,,Hey, Master Nyanko{*Nyanko-sensei}?
+Dialogue: 10,0:14:22.88,0:14:24.22,Default,,0,0,0,,H-Hey!{added stutter}
+Dialogue: 10,0:14:24.22,0:14:26.60,Default,,0,0,0,,He's been hit by the miasma.
+Dialogue: 10,0:14:26.60,0:14:28.76,Default,,0,0,0,,Let him sleep it off over there.
+Dialogue: 10,0:14:28.76,0:14:30.56,Default,,0,0,0,,Are you all right, Master{*Sensei}?
+Dialogue: 10,0:14:30.56,0:14:33.23,Default,,0,0,0,,Don't treat me like those wimps!
+Dialogue: 10,0:14:34.14,0:14:35.23,Default,,0,0,0,,Let's hurry.
+Dialogue: 10,0:14:39.32,0:14:40.69,Default,,0,0,0,,This feels bad.
+Dialogue: 10,0:14:41.40,0:14:43.15,Default,,0,0,0,,He's close, Natsume.
+Dialogue: 10,0:14:43.15,0:14:44.03,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:14:48.66,0:14:49.41,Default,,0,0,0,,Wait!
+Dialogue: 10,0:14:51.91,0:14:54.04,Default,,0,0,0,,Natsume?
+Dialogue: 10,0:14:55.54,0:14:58.38,Default,,0,0,0,,Natsume... Reiko?
+Dialogue: 10,0:14:58.38,0:14:59.71,Default,,0,0,0,,Reiko?
+Dialogue: 10,0:14:59.71,0:15:01.67,Default,,0,0,0,,No, I'm...
+Dialogue: 10,0:15:03.67,0:15:05.09,Default,,0,0,0,,I see.
+Dialogue: 10,0:15:05.09,0:15:06.43,Default,,0,0,0,,Reiko is gone.
+Dialogue: 10,0:15:06.89,0:15:12.56,Default,,0,0,0,,I know that my blood is hurting \Nthe spirits around me.
+Dialogue: 10,0:15:12.56,0:15:14.52,Default,,0,0,0,,I'm sorry for that.
+Dialogue: 10,0:15:14.52,0:15:20.48,Default,,0,0,0,,But the entrance to Ukihara Village responds \Nto the blood of its villagers.
+Dialogue: 10,0:15:20.77,0:15:22.86,Default,,0,0,0,,So that's why you hurt yourself...
+Dialogue: 10,0:15:22.86,0:15:26.16,Default,,0,0,0,,But it seems that I don't need \Nto do that anymore.
+Dialogue: 10,0:15:26.16,0:15:27.11,Default,,0,0,0,,What's wrong?
+Dialogue: 10,0:15:27.11,0:15:29.12,Default,,0,0,0,,Are you giving up already?
+Dialogue: 10,0:15:31.58,0:15:35.71,Default,,0,0,0,,A demon who calls herself your sister \Nis looking for you.
+Dialogue: 10,0:15:35.71,0:15:38.17,Default,,0,0,0,,No, that's impossible.
+Dialogue: 10,0:15:38.17,0:15:40.92,Default,,0,0,0,,My sister died ages ago.
+Dialogue: 10,0:15:44.42,0:15:46.55,Default,,0,0,0,,It was my fault.
+Dialogue: 10,0:15:46.55,0:15:50.93,Default,,0,0,0,,The sound of the shrine dance tempted me \Nto take her out of the village,
+Dialogue: 10,0:15:50.93,0:15:53.22,Default,,0,0,0,,and she died soon after in this unknown land.
+Dialogue: 10,0:15:54.39,0:15:57.81,Default,,0,0,0,,After that, I wandered alone.
+Dialogue: 10,0:15:58.94,0:16:01.69,Default,,0,0,0,,After I'd given up on returning to my village,
+Dialogue: 10,0:16:01.69,0:16:03.23,Default,,0,0,0,,I met Reiko.
+Dialogue: 10,0:16:03.23,0:16:05.53,Default,,0,0,0,,That's when you got your ass kicked?
+Dialogue: 10,0:16:06.53,0:16:10.87,Default,,0,0,0,,It was a meaningless battle, \Nbut I lost and gave her my name.
+Dialogue: 10,0:16:10.87,0:16:16.62,Default,,0,0,0,,But Reiko died without ever calling my name.
+Dialogue: 10,0:16:18.37,0:16:23.38,Default,,0,0,0,,So I went to the mountain, found a cave, and slept.
+Dialogue: 10,0:16:24.21,0:16:27.72,Default,,0,0,0,,A long time must have passed.
+Dialogue: 10,0:16:27.72,0:16:31.76,Default,,0,0,0,,When I awoke, the old, \Nabandoned temple had been rebuilt.
+Dialogue: 10,0:16:32.68,0:16:35.43,Default,,0,0,0,,Tanuma and his father moved in.
+Dialogue: 10,0:16:35.43,0:16:38.27,Default,,0,0,0,,For a while, I couldn't get close,
+Dialogue: 10,0:16:38.27,0:16:43.44,Default,,0,0,0,,but I haven't felt the priest's presence \Nfor the last few days, so I decided to go see.
+Dialogue: 10,0:16:43.44,0:16:46.11,Default,,0,0,0,,And you found the old map there?
+Dialogue: 10,0:16:46.40,0:16:53.37,Default,,0,0,0,,I came here because I heard a rumor \Nthat the door once opened here.
+Dialogue: 10,0:16:54.12,0:16:57.62,Default,,0,0,0,,That was probably at the remains of this building.
+Dialogue: 10,0:17:00.83,0:17:02.46,Default,,0,0,0,,Must've been a fire.
+Dialogue: 10,0:17:02.46,0:17:07.13,Default,,0,0,0,,If the building was still here, \Nit might work, but as it is...
+Dialogue: 10,0:17:07.13,0:17:10.18,Default,,0,0,0,,Then, that other demon...
+Dialogue: 10,0:17:10.18,0:17:15.47,Default,,0,0,0,,It was probably a demon named Sagume, \Nwho was banished from Ukihara Village.
+Dialogue: 10,0:17:16.01,0:17:20.35,Default,,0,0,0,,She probably thinks that if she follows me, \Nshe'll be able to return to the village someday.
+Dialogue: 10,0:17:20.35,0:17:21.48,Default,,0,0,0,,I see.
+Dialogue: 10,0:17:21.48,0:17:24.61,Default,,0,0,0,,So that's why she was after the Book of Friends.
+Dialogue: 10,0:17:24.61,0:17:28.94,Default,,0,0,0,,She was going to use you \Nto open the door to the village.
+Dialogue: 10,0:17:28.94,0:17:33.49,Default,,0,0,0,,Was she the one eating those weak spirits \Nthat Misuzu was talking about?
+Dialogue: 10,0:17:34.66,0:17:39.54,Default,,0,0,0,,We should give you your name back \Nbefore she comes after the Book of Friends again.
+Dialogue: 10,0:17:40.33,0:17:42.00,Default,,0,0,0,,In Reiko{**-san}'s place...
+Dialogue: 10,0:17:44.96,0:17:48.38,Default,,0,0,0,,That which shields me, reveal thy name.
+Dialogue: 10,0:17:55.18,0:17:57.22,Default,,0,0,0,,I return this to you, Kanawa.{ends on scenechange not keyframe}
+Dialogue: 10,0:17:57.85,0:17:58.85,Default,,0,0,0,,Please take it.
+Dialogue: 10,0:18:11.78,0:18:17.20,Default,,0,0,0,,Banished simply for breaking \Na flower stem... how unfair!
+Dialogue: 10,0:18:17.20,0:18:20.45,Default,,0,0,0,,The blood of a criminal will not open the door.
+Dialogue: 10,0:18:20.45,0:18:22.08,Default,,0,0,0,,I hate them.
+Dialogue: 10,0:18:24.50,0:18:27.34,Default,,0,0,0,,I don't need the Book of Friends, kid.
+Dialogue: 10,0:18:27.34,0:18:30.42,Default,,0,0,0,,I'll take his blood instead!
+Dialogue: 10,0:18:34.30,0:18:38.26,Default,,0,0,0,,The trees that grew on the remains \Nof the building are responding to his blood!
+Dialogue: 10,0:18:39.10,0:18:40.93,Default,,0,0,0,,The door will open!
+Dialogue: 10,0:18:40.93,0:18:42.81,Default,,0,0,0,,I can go home!
+Dialogue: 10,0:19:20.51,0:19:25.39,Default,,0,0,0,,I wanted to show this sight to Reiko.
+Dialogue: 10,0:19:27.56,0:19:29.86,Default,,0,0,0,,{\fad(270,0)}His body is rusted.{*Make this fade in or something | would need to be an alpha transform from the level of transparency in the first frame to normal on the first white frame}
+Dialogue: 10,0:19:29.86,0:19:32.48,Default,,0,0,0,,{\fad(0,1560)}What a bother.
+Dialogue: 10,0:19:39.20,0:19:41.99,Default,,0,0,0,,You're not even going to greet me? I was here first.
+Dialogue: 10,0:19:41.99,0:19:44.37,Default,,0,0,0,,You can see me?
+Dialogue: 10,0:19:44.75,0:19:48.46,Default,,0,0,0,,You're the one the other demons were talking about.
+Dialogue: 10,0:19:49.88,0:19:52.59,Default,,0,0,0,,Aren't you scared of me?
+Dialogue: 10,0:19:53.55,0:19:55.38,Default,,0,0,0,,I'm strong.
+Dialogue: 10,0:19:58.51,0:20:01.81,Default,,0,0,0,,So your village is that great, huh?
+Dialogue: 10,0:20:01.81,0:20:05.52,Default,,0,0,0,,Yes, it's a very beautiful place.
+Dialogue: 10,0:20:05.52,0:20:07.89,Default,,0,0,0,,But you've given up?
+Dialogue: 10,0:20:07.89,0:20:09.77,Default,,0,0,0,,On going home?
+Dialogue: 10,0:20:09.77,0:20:13.73,Default,,0,0,0,,With my body like this, \NI wouldn't last long even if I did return.
+Dialogue: 10,0:20:13.73,0:20:17.99,Default,,0,0,0,,Now I simply wander, \Nlooking for a place to waste away.
+Dialogue: 10,0:20:19.87,0:20:23.08,Default,,0,0,0,,Hey, want to have a match with me?
+Dialogue: 10,0:20:24.79,0:20:26.96,Default,,0,0,0,,Rock, paper, scissors!
+Dialogue: 10,0:20:28.71,0:20:29.71,Default,,0,0,0,,That hurt.
+Dialogue: 10,0:20:30.88,0:20:32.59,Default,,0,0,0,,Rock, paper, scissors!
+Dialogue: 10,0:20:34.30,0:20:35.46,Default,,0,0,0,,That hurt.
+Dialogue: 10,0:20:36.72,0:20:38.43,Default,,0,0,0,,Rock, paper, scissors!
+Dialogue: 10,0:20:39.51,0:20:40.18,Default,,0,0,0,,That hurt.
+Dialogue: 10,0:20:40.68,0:20:43.56,Default,,0,0,0,,Great! I win.
+Dialogue: 10,0:20:43.56,0:20:45.77,Default,,0,0,0,,Now, you're my servant.
+Dialogue: 10,0:20:45.77,0:20:48.19,Default,,0,0,0,,Write your name here, please.
+Dialogue: 10,0:20:51.44,0:20:55.36,Default,,0,0,0,,Listen, when you find it, tell me, okay?
+Dialogue: 10,0:20:55.36,0:20:57.03,Default,,0,0,0,,The entrance to your village, that is.
+Dialogue: 10,0:20:58.57,0:21:00.99,Default,,0,0,0,,I want to see it too.
+Dialogue: 10,0:21:00.99,0:21:03.24,Default,,0,0,0,,If there's a beautiful world like that.
+Dialogue: 10,0:21:05.62,0:21:07.45,Default,,0,0,0,,Then, will you come with me?
+Dialogue: 10,0:21:08.33,0:21:13.21,Default,,0,0,0,,If you dislike people so much, \Nthen come with me to Ukihara village.
+Dialogue: 10,0:21:17.96,0:21:22.39,Default,,0,0,0,,Will you come with me, \NNatsume, grandson of Reiko?
+Dialogue: 10,0:21:24.01,0:21:29.89,Default,,0,0,0,,No, Kanawa. This place is what's important to me.
+Dialogue: 10,0:21:29.89,0:21:31.14,Default,,0,0,0,,I see.
+Dialogue: 10,0:21:31.14,0:21:34.90,Default,,0,0,0,,You seem to have good human friends, too.
+Dialogue: 10,0:21:43.07,0:21:44.28,Default,,0,0,0,,Natsume!
+Dialogue: 10,0:21:44.28,0:21:47.37,Default,,0,0,0,,Tanuma? Where were you?
+Dialogue: 10,0:21:47.37,0:21:49.79,Default,,0,0,0,,I heard you collapsed, so I was worried.
+Dialogue: 10,0:21:49.79,0:21:53.04,Default,,0,0,0,,Sorry. Actually, there was \Nthis weird demon in my house.
+Dialogue: 10,0:21:53.04,0:21:54.83,Default,,0,0,0,,He's gone now.
+Dialogue: 10,0:21:55.84,0:21:58.09,Default,,0,0,0,,You got rid of it?
+Dialogue: 10,0:21:58.09,0:22:01.72,Default,,0,0,0,,No, he went back to his village.
+Dialogue: 10,0:22:01.72,0:22:04.47,Default,,0,0,0,,He wasn't dangerous?
+Dialogue: 10,0:22:04.47,0:22:06.43,Default,,0,0,0,,He wasn't an evil spirit.
+Dialogue: 10,0:22:07.81,0:22:09.77,Default,,0,0,0,,I see. I'm glad.
+Dialogue: 10,0:22:10.77,0:22:14.94,Default,,0,0,0,,I wasn't sure whether to tell you or not.
+Dialogue: 10,0:22:16.48,0:22:19.11,Default,,0,0,0,,I thought I'd be involving you.
+Dialogue: 10,0:22:19.11,0:22:22.11,Default,,0,0,0,,But I should've told you earlier.
+Dialogue: 10,0:22:23.45,0:22:24.70,Default,,0,0,0,,Tanuma...
+Dialogue: 10,0:24:00.00,0:24:02.17,Default,,0,0,0,,There are some things you \Ndon't want other people to know.{long lead-in for cps reasons + keyframe snapping}
+Dialogue: 10,0:24:02.46,0:24:03.63,Default,,0,0,0,,You're Natsume, right?
+Dialogue: 10,0:24:03.63,0:24:06.22,Default,,0,0,0,,The one who lied about seeing monsters.
+Dialogue: 10,0:24:06.22,0:24:07.09,Default,,0,0,0,,How did you—
+Dialogue: 10,0:24:07.09,0:24:09.30,Default,,0,0,0,,Bratty kid.
+Dialogue: 10,0:24:09.30,0:24:10.64,Default,,0,0,0,,Maybe I'll eat him.
+Dialogue: 10,0:24:10.89,0:24:14.27,Default,,0,0,0,,I remembered you when I met him.
+Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
+Dialogue: 10,0:22:29.95,0:22:30.00,Default,,0,0,0,edsync,
 Dialogue: 0,0:12:34.94,0:12:36.94,Sign,,0,0,0,,{\fnArno Pro\c&H1E2F34&\3c&H527686&}Happara Temple Complex Map
-Dialogue: 0,0:00:00.48,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1100,\blur1)\1a&HFF}Natsume's\h{\1a&H00}Book\h{\1a&HFF}Of\hFriends
-Dialogue: 0,0:00:01.19,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&HFF}Natsume's\hBook\h{\1a&H00}Of{\1a&HFF}\hFriends
-Dialogue: 0,0:00:01.98,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&H00}Natsu{\1a&HFF}me's\hBook\hOf\hFriends
-Dialogue: 0,0:00:02.82,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsume's\hBook\hOf\h{\1a&H00}Friends
-Dialogue: 0,0:00:03.32,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsu{\1a&H00}me's{\1a&HFF}\hBook\hOf\hFriends
-Dialogue: 1,0:00:04.32,0:00:07.15,titlename,,0,0,0,,{\an3\fad(0,200)\be2\fs100\pos(1402,306.5)}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:06.90,0:00:08.15,titlename,,0,0,0,,{\an3\fs100\pos(1402,306.5)\fad(200,0)\be2\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 2,0:00:07.78,0:00:15.83,number,,0,0,0,,{\an2\pos(1606.5,503.5)\fad(250,1500)\blur8\t(0,250,\blur3)\fscx105\fay-0.14\t(5900,0,\blur10)}3
-Dialogue: 1,0:00:07.78,0:00:15.83,number-box,,0,0,0,,{\an2\pos(1603.5,502.5)\fad(250,1500)\blur8\t(0,250,\blur3)\t(5900,0,\blur10)}\h
-Dialogue: 2,0:00:08.15,0:00:08.74,titlename,,0,0,0,,{\an3\be2\move(1402,306.5,1385.5,293.5)\c&8A6424&\fs100}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:08.32,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,1500)\blur3.5\fs100\t(6200,1000,\be15)\t(5000,0,\blur10)\c&H433E2F&}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:08.74,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1385.5,293.5)\fad(0,1500)\be2\fs100\t(5900,1000,\be5)\blur0\t(5000,0,\blur10)\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:14.99,0:00:21.96,OP,,0,0,0,,{\fade(300,0)}Living through these meaningless days, I let out a sigh
-Dialogue: 1,0:00:21.96,0:00:29.01,OP,,0,0,0,,{\fade(300,300)}I've lost sight of my true self
-Dialogue: 1,0:00:29.43,0:00:36.22,OP,,0,0,0,,{\fade(300,300)}Even if I strain my ears I can't hear your voice
-Dialogue: 1,0:00:36.47,0:00:43.23,OP,,0,0,0,,{\fade(300,300)}So I keep walking trying to catch up
-Dialogue: 1,0:00:43.36,0:00:50.82,OP,,0,0,0,,{\fade(300,300)}The things I couldn't tell you form into a chrysalis over time
-Dialogue: 1,0:00:50.82,0:00:58.79,OP,,0,0,0,,{\fade(0,300)}Spreading wings, they take flight
-Dialogue: 1,0:00:58.87,0:01:05.92,OP,,0,0,0,,{\fade(300,300)}The one, the one precious thing I'll never forget
-Dialogue: 1,0:01:06.05,0:01:13.76,OP,,0,0,0,,{\fade(300,300)}Someday, that warm emotion
-Dialogue: 1,0:01:14.30,0:01:19.89,OP,,0,0,0,,{\fade(300,300)}I'll do what little I can
-Dialogue: 1,0:01:19.89,0:01:28.65,OP,,0,0,0,,{\fad(300,1000)\c&H98ADF1&}Little by little, to get through to you
 Dialogue: 2,0:01:33.03,0:01:33.07,Sign,,0,0,0,,{=12}{\fscx100\fscy100\fs30\1c&H1F2F36&\bord0\shad0\b1\blur1\fnIwata Gyousho Pro-FSN B\pos(1281.11,587.64)\frz349.9}7th Street Shop
 Dialogue: 2,0:01:33.07,0:01:33.11,Sign,,0,0,0,,{=12}{\fscx100\fscy100\fs30\frz349.9\c&H1F2F36&\bord0\shad0\b1\blur1\fnIwata Gyousho Pro-FSN B\pos(1276.5,587.64)}7th Street Shop
 Dialogue: 2,0:01:33.11,0:01:33.16,Sign,,0,0,0,,{=12}{\fscx100\fscy100\fs30\frz349.9\c&H1F2F36&\bord0\shad0\b1\blur1\fnIwata Gyousho Pro-FSN B\pos(1271.89,587.64)}7th Street Shop
@@ -356,368 +652,14 @@ Dialogue: 0,0:13:48.06,0:13:48.10,Sign,,0,0,0,,{=27}{\fscx34.93\fscy34.93\bord0\
 Dialogue: 0,0:13:48.10,0:13:48.14,Sign,,0,0,0,,{=27}{\fscx34.79\fscy34.79\bord0\fs89\c&H1B2A34&\fnEraserDustPL\b1\blur0.79\frz47.93\pos(882.32,512.2)}Hall Of {\c&H356080&}Worship
 Dialogue: 0,0:13:48.14,0:13:48.18,Sign,,0,0,0,,{=27}{\fscx34.79\fscy34.79\bord0\fs89\c&H1B2A34&\fnEraserDustPL\b1\blur0.79\frz47.93\pos(882.34,512.22)}Hall Of {\c&H356080&}Worship
 Dialogue: 0,0:13:48.18,0:13:48.89,Sign,,0,0,0,,{\fscx34.79\fscy34.79\bord0\fs89\c&H1B2A34&\fnEraserDustPL\b1\blur0.79\frz47.93\pos(882.34,512.22)}Hall Of {\c&H356080&}Worship
-Dialogue: 0,0:22:30.75,0:22:41.21,ED,,0,0,0,,{\fad(300,300)}Lining up the sparks of warmth I've lost one by one
-Dialogue: 0,0:22:42.76,0:22:49.39,ED,,0,0,0,,{\fad(300,300)}Coming to the rainbow-colored pieces of you
-Dialogue: 0,0:22:50.35,0:22:54.89,ED,,0,0,0,,{\fad(300,300)}I crack a smile
-Dialogue: 0,0:22:57.52,0:23:08.58,ED,,0,0,0,,{\fad(300,300)}Not even knowing how to make memories
-Dialogue: 0,0:23:10.99,0:23:16.25,ED,,0,0,0,,{\fad(300,300)}Even when we took things too fast
-Dialogue: 0,0:23:17.21,0:23:24.42,ED,,0,0,0,,{\fad(300,300)}We were only going with the flow
-Dialogue: 0,0:23:24.92,0:23:31.39,ED,,0,0,0,,{\fad(300,300)}No matter where I go, even after this darkness
-Dialogue: 0,0:23:31.64,0:23:37.48,ED,,0,0,0,,{\fad(300,300)}How many times must I say goodbye?
-Dialogue: 0,0:23:37.48,0:23:44.44,ED,,0,0,0,,{\fad(300,300)}Shining with the flame of a young heart
-Dialogue: 0,0:23:44.90,0:23:50.66,ED,,0,0,0,,{\fad(300,300)}Those faraway pieces of you
 Dialogue: 1,0:24:00.00,0:24:15.02,nexttime,,0,0,0,,{\fs125\blur0.6\pos(579.04,811.71)}False Friend
 Dialogue: 0,0:24:00.00,0:24:15.02,nexttime-shadow,,0,0,0,,{\blur3.5\fs125\pos(584.04,816.71)}False Friend
 Dialogue: 1,0:24:00.00,0:24:15.02,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
 Dialogue: 0,0:24:00.00,0:24:15.02,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
-Dialogue: 1,0:24:00.00,0:24:15.02,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
-Dialogue: 0,0:24:00.00,0:24:15.02,number-box,,0,0,0,,{\pos(1747.333,180)\be1\fscx36\fscy38}\h
+Dialogue: 1,0:24:00.00,0:24:15.02,number,,0,0,0,,{\pos(1748,180.667)\blur0.7\fay-0.14\fscx36\fscy38\c&H1316D7&}3
+Dialogue: 0,0:24:00.00,0:24:15.02,number-box,,0,0,0,,{\pos(1747.333,180)\blur0.7\fscx36\fscy38\c&H1316D7&}\h
 Dialogue: 0,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
 Dialogue: 1,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 10,0:01:43.67,0:01:45.42,Default,,0,0,0,,Look at that.
-Dialogue: 10,0:01:45.42,0:01:47.30,Default,,0,0,0,,Yatsuhara looks like a sea of light.
-Dialogue: 10,0:01:47.30,0:01:48.46,Default,,0,0,0,,Forget that,
-Dialogue: 10,0:01:48.46,0:01:52.51,Default,,0,0,0,,let's just go home so you can gimme those dumplings, Natsume!
-Dialogue: 10,0:01:52.51,0:01:54.97,Default,,0,0,0,,You do nothing but eat, {*}Master{**Sensei}.
-Dialogue: 10,0:01:56.93,0:01:57.93,Default,,0,0,0,,What's that?
-Dialogue: 10,0:01:58.64,0:02:00.10,Default,,0,0,0,,I like it!
-Dialogue: 10,0:02:00.10,0:02:01.43,Default,,0,0,0,,It smells great.
-Dialogue: 10,0:02:01.43,0:02:02.64,Default,,0,0,0,,I really like it!
-Dialogue: 10,0:02:11.65,0:02:14.32,Default,,0,0,0,,We're under attack by some kind of white pig!
-Dialogue: 10,0:02:14.32,0:02:17.70,Default,,0,0,0,,What did you say, you punks? I'll eat you!
-Dialogue: 10,0:02:17.70,0:02:19.33,Default,,0,0,0,,Stop it, {*}Master{**Sensei}.
-Dialogue: 10,0:02:19.33,0:02:22.41,Default,,0,0,0,,Oh, it's Natsume{**-sama} and the Pig Cat!
-Dialogue: 10,0:02:22.41,0:02:24.83,Default,,0,0,0,,Pig cat!  Pig cat!
-Dialogue: 10,0:02:24.83,0:02:27.29,Default,,0,0,0,,I mean, {*}Mr. Madara{**Madara-sama}.
-Dialogue: 10,0:02:27.29,0:02:29.75,Default,,0,0,0,,Oh, did you bring us snacks?
-Dialogue: 10,0:02:30.25,0:02:31.26,Default,,0,0,0,,How nice.
-Dialogue: 10,0:02:30.42,0:02:31.26,Default - Overlap,,0,0,0,,Not for you!
-Dialogue: 10,0:02:32.51,0:02:36.51,Default,,0,0,0,,If you guys make too much noise, that priest will purify you again.
-Dialogue: 10,0:02:36.51,0:02:42.02,Default,,0,0,0,,Actually, we haven't heard him chant any sutras for the past few days.
-Dialogue: 10,0:02:42.56,0:02:44.48,Default,,0,0,0,,I wonder if he's dead?
-Dialogue: 10,0:02:44.48,0:02:46.15,Default,,0,0,0,,He's dead!  He's dead!
-Dialogue: 10,0:02:47.69,0:02:51.15,Default - italics,,0,0,0,,{\i1}Did something happen to Tanuma's dad?
-Dialogue: 10,0:02:56.07,0:02:59.87,Default - italics,,0,0,0,,{\i1}Tanuma is one of the few people who knows I can see demons,
-Dialogue: 10,0:02:59.87,0:03:01.33,Default - italics,,0,0,0,,{\i1}and a close friend of mine.
-Dialogue: 10,0:03:01.33,0:03:03.16,Default,,0,0,0,,Hey, Natsume, Nishimura.
-Dialogue: 10,0:03:03.16,0:03:04.21,Default,,0,0,0,,Got gym next?
-Dialogue: 10,0:03:04.21,0:03:04.71,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:03:04.71,0:03:06.08,Default,,0,0,0,,We've got a marathon.
-Dialogue: 10,0:03:08.71,0:03:09.88,Default,,0,0,0,,Oh, Tanuma.
-Dialogue: 10,0:03:13.97,0:03:16.30,Default,,0,0,0,,No, it's nothing.
-Dialogue: 10,0:03:16.30,0:03:17.14,Default,,0,0,0,,See you.
-Dialogue: 10,0:03:17.14,0:03:19.14,Default,,0,0,0,,Yeah, see you.
-Dialogue: 10,0:03:19.97,0:03:24.73,Default,,0,0,0,,He says that sometimes he can feel a demon's presence,
-Dialogue: 10,0:03:24.73,0:03:27.06,Default,,0,0,0,,or see them vaguely, like shadows.
-Dialogue: 10,0:03:27.65,0:03:30.61,Default,,0,0,0,,So, you left without asking him anything?
-Dialogue: 10,0:03:31.07,0:03:34.15,Default,,0,0,0,,I didn't know how to ask him.
-Dialogue: 10,0:03:34.15,0:03:34.99,Default,,0,0,0,,Why's that?
-Dialogue: 10,0:03:34.99,0:03:38.70,Default,,0,0,0,,He knows you can see demons.
-Dialogue: 10,0:03:38.70,0:03:41.83,Default,,0,0,0,,I just thought that if his dad were sick or something,
-Dialogue: 10,0:03:41.83,0:03:44.62,Default,,0,0,0,,I shouldn't talk about it with other people.
-Dialogue: 10,0:03:44.62,0:03:46.16,Default,,0,0,0,,What are you on about?
-Dialogue: 10,0:03:46.16,0:03:47.33,Default,,0,0,0,,Well...
-Dialogue: 10,0:03:48.08,0:03:50.88,Default,,0,0,0,,I don't really know if it's appropriate
-Dialogue: 10,0:03:50.88,0:03:53.92,Default,,0,0,0,,for me to intrude on someone else's family.
-Dialogue: 10,0:03:53.92,0:03:56.17,Default,,0,0,0,,Like I'd know!
-Dialogue: 10,0:03:57.30,0:03:59.14,Default,,0,0,0,,Yeah, that's right.
-Dialogue: 10,0:03:59.68,0:04:01.05,Default,,0,0,0,,When I was young,
-Dialogue: 10,0:04:01.05,0:04:03.76,Default,,0,0,0,,I never had any friends who I could talk about family with.
-Dialogue: 10,0:04:04.31,0:04:07.89,Default,,0,0,0,,So I don't know how to act at times like these.
-Dialogue: 10,0:04:08.39,0:04:10.06,Default,,0,0,0,,I'm back.
-Dialogue: 10,0:04:10.52,0:04:13.32,Default,,0,0,0,,Well, I guess nobody's here.
-Dialogue: 10,0:04:41.51,0:04:43.43,Default,,0,0,0,,My name...
-Dialogue: 10,0:04:45.18,0:04:47.81,Default,,0,0,0,,Natsume{**-sama} of the Book of Friends...
-Dialogue: 10,0:04:47.81,0:04:50.06,Default,,0,0,0,,You want your name back?
-Dialogue: 10,0:04:52.40,0:04:55.19,Default,,0,0,0,,Sorry, but I'm heading to school.
-Dialogue: 10,0:04:55.19,0:04:57.49,Default,,0,0,0,,Can we do it later?
-Dialogue: 10,0:05:10.00,0:05:11.04,Default,,0,0,0,,Tanuma!
-Dialogue: 10,0:05:13.42,0:05:15.55,Default,,0,0,0,,What, you're worried about my dad?
-Dialogue: 10,0:05:15.55,0:05:19.47,Default,,0,0,0,,They said they haven't heard any sutras lately.
-Dialogue: 10,0:05:19.47,0:05:21.51,Default,,0,0,0,,He's helping out with a ceremony at the main temple,
-Dialogue: 10,0:05:21.51,0:05:23.72,Default,,0,0,0,,so he's gone for the month.
-Dialogue: 10,0:05:24.26,0:05:27.35,Default,,0,0,0,,It's like a business trip. He does that sometimes.
-Dialogue: 10,0:05:27.35,0:05:29.68,Default,,0,0,0,,I see. I'm glad to hear that.
-Dialogue: 10,0:05:29.68,0:05:31.98,Default,,0,0,0,,You were worried?
-Dialogue: 10,0:05:31.98,0:05:33.10,Default,,0,0,0,,Thanks.
-Dialogue: 10,0:05:33.10,0:05:35.02,Default,,0,0,0,,No, it's nothing.
-Dialogue: 10,0:05:35.48,0:05:37.61,Default,,0,0,0,,So, you're alone now?
-Dialogue: 10,0:05:37.61,0:05:38.78,Default,,0,0,0,,That must be hard.
-Dialogue: 10,0:05:38.78,0:05:40.19,Default,,0,0,0,,Not really.
-Dialogue: 10,0:05:40.19,0:05:42.07,Default,,0,0,0,,It's nice and quiet.
-Dialogue: 10,0:05:43.45,0:05:44.49,Default,,0,0,0,,Is something wrong?
-Dialogue: 10,0:05:44.49,0:05:47.08,Default,,0,0,0,,No, it's nothing.
-Dialogue: 10,0:05:47.08,0:05:48.87,Default,,0,0,0,,I'll be going.
-Dialogue: 10,0:05:48.87,0:05:49.70,Default,,0,0,0,,See you tomorrow.
-Dialogue: 10,0:05:49.70,0:05:50.62,Default,,0,0,0,,See you.
-Dialogue: 10,0:05:56.04,0:05:57.13,Default,,0,0,0,,You again?
-Dialogue: 10,0:05:57.63,0:05:59.38,Default,,0,0,0,,Return my name.
-Dialogue: 10,0:06:02.05,0:06:03.68,Default - italics,,0,0,0,,{\i1}I guess it'll be okay here.
-Dialogue: 10,0:06:05.76,0:06:08.97,Default,,0,0,0,,That which shields me, reveal thy name.
-Dialogue: 10,0:06:11.31,0:06:12.27,Default,,0,0,0,,Natsume!
-Dialogue: 10,0:06:13.60,0:06:16.65,Default,,0,0,0,,What are you standing around for?
-Dialogue: 10,0:06:19.86,0:06:21.86,Default,,0,0,0,,I don't have her name?
-Dialogue: 10,0:06:23.15,0:06:24.74,Default,,0,0,0,,A spirit?
-Dialogue: 10,0:06:24.74,0:06:28.41,Default,,0,0,0,,You were going to give back another name?!
-Dialogue: 10,0:06:29.04,0:06:29.79,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:06:29.79,0:06:30.75,Default,,0,0,0,,You fool!
-Dialogue: 10,0:06:30.75,0:06:33.75,Default,,0,0,0,,If you keep giving their names back,
-Dialogue: 10,0:06:33.75,0:06:36.79,Default,,0,0,0,,the Book of Friends is going to be empty by the time I get it!
-Dialogue: 10,0:06:55.23,0:06:58.36,Default,,0,0,0,,{\an8}Oh, the beef bowl blues!
-Dialogue: 10,0:06:56.85,0:06:59.02,Default,,0,0,0,,This is a problem.
-Dialogue: 10,0:06:59.02,0:07:03.44,Default,,0,0,0,,Just when we were happy over the priest's absence, something like this has to happen?
-Dialogue: 10,0:07:03.44,0:07:07.11,Default,,0,0,0,,When will peace come to Yatsuhara?
-Dialogue: 10,0:07:08.78,0:07:10.58,Default,,0,0,0,,It's the white pig again!
-Dialogue: 10,0:07:10.58,0:07:13.29,Default,,0,0,0,,Oh, {*}Mr. Madara{**Madara-sama}.
-Dialogue: 10,0:07:13.29,0:07:15.75,Default,,0,0,0,,What's got you wimps all riled up?
-Dialogue: 10,0:07:15.75,0:07:19.79,Default,,0,0,0,,Well, you see, {\i1}he{\i0} seems to have revived.
-Dialogue: 10,0:07:19.79,0:07:20.46,Default,,0,0,0,,He?
-Dialogue: 10,0:07:20.46,0:07:23.71,Default,,0,0,0,,Do you remember that one spirit
-Dialogue: 10,0:07:23.71,0:07:27.34,Default,,0,0,0,,who came and started spreading a miasma everywhere?
-Dialogue: 10,0:07:27.34,0:07:30.85,Default,,0,0,0,,Yeah, I guess I do, kinda.
-Dialogue: 10,0:07:30.85,0:07:35.23,Default,,0,0,0,,Weaker spirits fell sick just from coming in contact with it.
-Dialogue: 10,0:07:35.23,0:07:36.98,Default,,0,0,0,,It was a big problem.
-Dialogue: 10,0:07:36.98,0:07:38.60,Default,,0,0,0,,A problem. A problem.
-Dialogue: 10,0:07:38.60,0:07:43.32,Default,,0,0,0,,From what I've heard, Natsume Reiko stole his name,
-Dialogue: 10,0:07:43.32,0:07:46.95,Default,,0,0,0,,and then he went to the mountain and fell asleep.
-Dialogue: 10,0:07:47.66,0:07:48.70,Default,,0,0,0,,Reiko did?
-Dialogue: 10,0:07:48.70,0:07:51.03,Default,,0,0,0,,That girl's always so cruel.
-Dialogue: 10,0:07:51.03,0:07:54.83,Default,,0,0,0,,We saw his miasma again.
-Dialogue: 10,0:07:54.83,0:07:56.83,Default,,0,0,0,,Actually, you see, he's...
-Dialogue: 10,0:08:00.38,0:08:02.88,Default,,0,0,0,,I'm sorry about yesterday,
-Dialogue: 10,0:08:02.88,0:08:05.21,Default,,0,0,0,,Natsume{**-sama} of the Book of Friends.
-Dialogue: 10,0:08:05.46,0:08:10.05,Default,,0,0,0,,Is your name not in the Book of Friends?
-Dialogue: 10,0:08:11.55,0:08:12.68,Default,,0,0,0,,Yes.
-Dialogue: 10,0:08:12.68,0:08:16.39,Default,,0,0,0,,I didn't mean my name.
-Dialogue: 10,0:08:16.39,0:08:17.94,Default,,0,0,0,,I meant my brother's name.
-Dialogue: 10,0:08:17.94,0:08:18.94,Default,,0,0,0,,Brother?
-Dialogue: 10,0:08:18.94,0:08:23.15,Default,,0,0,0,,My brother is from Ukihara village.
-Dialogue: 10,0:08:23.73,0:08:25.53,Default,,0,0,0,,Ukihara village?
-Dialogue: 10,0:08:25.53,0:08:31.16,Default,,0,0,0,,Ukihara village is a legendary village that humans can't see.
-Dialogue: 10,0:08:31.16,0:08:33.62,Default,,0,0,0,,Why would somebody from there come here?
-Dialogue: 10,0:08:33.62,0:08:34.58,Default,,0,0,0,,I don't know,
-Dialogue: 10,0:08:34.87,0:08:38.16,Default,,0,0,0,,but he said that he had been on a journey for many years
-Dialogue: 10,0:08:38.16,0:08:40.58,Default,,0,0,0,,looking for a way to return to his home.
-Dialogue: 10,0:08:41.25,0:08:42.84,Default,,0,0,0,,In Ukihara village,
-Dialogue: 10,0:08:42.84,0:08:45.50,Default,,0,0,0,,beautiful flowers bloom all year round,
-Dialogue: 10,0:08:45.50,0:08:47.97,Default,,0,0,0,,and the voices of the birds never cease.
-Dialogue: 10,0:08:47.97,0:08:51.97,Default,,0,0,0,,It normally has no contact with this world,
-Dialogue: 10,0:08:51.97,0:08:56.06,Default,,0,0,0,,but sometimes during festivals, a bridge connects the two.
-Dialogue: 10,0:08:57.27,0:09:00.48,Default,,0,0,0,,My brother and I were tempted by a festival dance,
-Dialogue: 10,0:09:00.77,0:09:04.02,Default,,0,0,0,,and we came to this world accidentally.
-Dialogue: 10,0:09:07.15,0:09:13.03,Default,,0,0,0,,My brother and I went on a journey to find the entrance to Ukihara village.
-Dialogue: 10,0:09:13.03,0:09:15.49,Default,,0,0,0,,We traveled for years, and years...
-Dialogue: 10,0:09:15.99,0:09:18.20,Default,,0,0,0,,Eventually my brother fell sick,
-Dialogue: 10,0:09:18.20,0:09:21.12,Default,,0,0,0,,and began to give off a miasma.
-Dialogue: 10,0:09:21.54,0:09:25.54,Default,,0,0,0,,I was hurt by it and heavily weakened.
-Dialogue: 10,0:09:26.34,0:09:28.17,Default,,0,0,0,,My brother saw this
-Dialogue: 10,0:09:28.17,0:09:31.76,Default,,0,0,0,,and left me in a holy tree on a certain mountain,
-Dialogue: 10,0:09:31.76,0:09:34.68,Default,,0,0,0,,and then went off somewhere by himself.
-Dialogue: 10,0:09:34.68,0:09:41.06,Default,,0,0,0,,After that, I recovered due to the spiritual energy of the holy tree,
-Dialogue: 10,0:09:41.06,0:09:46.02,Default,,0,0,0,,and followed the rumors about my brother to this place.
-Dialogue: 10,0:09:46.90,0:09:52.53,Default,,0,0,0,,I've heard from the local spirits that my brother had his name stolen by you, Natsume{**-sama},
-Dialogue: 10,0:09:52.53,0:09:55.57,Default,,0,0,0,,and has since vanished.
-Dialogue: 10,0:09:55.57,0:09:58.91,Default,,0,0,0,,So you came to me because I have the Book of Friends.
-Dialogue: 10,0:09:58.91,0:10:02.92,Default,,0,0,0,,But it was my grandmother who took his name, not me.
-Dialogue: 10,0:10:02.92,0:10:05.88,Default,,0,0,0,,I don't know what he looks like,
-Dialogue: 10,0:10:05.88,0:10:07.71,Default,,0,0,0,,so I can't even call him.
-Dialogue: 10,0:10:08.05,0:10:09.63,Default,,0,0,0,,I see.
-Dialogue: 10,0:10:09.63,0:10:12.72,Default,,0,0,0,,Then, since I know his face,
-Dialogue: 10,0:10:12.72,0:10:14.97,Default,,0,0,0,,I could call him, right?
-Dialogue: 10,0:10:14.97,0:10:15.93,Default,,0,0,0,,I guess...
-Dialogue: 10,0:10:15.93,0:10:17.18,Default,,0,0,0,,Then...
-Dialogue: 10,0:10:19.14,0:10:22.10,Default,,0,0,0,,give me the Book of Friends!
-Dialogue: 10,0:10:23.44,0:10:24.40,Default,,0,0,0,,Stop!
-Dialogue: 10,0:10:28.69,0:10:30.23,Default,,0,0,0,,{*}Lord Natsume{**Natsume-dono}.
-Dialogue: 10,0:10:31.44,0:10:32.49,Default,,0,0,0,,Misuzu!
-Dialogue: 10,0:10:32.49,0:10:35.36,Default,,0,0,0,,I felt the presence of a spirit here.
-Dialogue: 10,0:10:35.36,0:10:37.58,Default,,0,0,0,,You saved me.
-Dialogue: 10,0:10:37.58,0:10:40.41,Default,,0,0,0,,I just happened to pass by.
-Dialogue: 10,0:10:40.41,0:10:44.29,Default,,0,0,0,,Several of the weaker spirits have been eaten in this riverbed,
-Dialogue: 10,0:10:44.29,0:10:46.46,Default,,0,0,0,,so I was looking for the culprit.
-Dialogue: 10,0:10:46.46,0:10:49.25,Default,,0,0,0,,Oh, if it isn't Misuzu!
-Dialogue: 10,0:10:50.50,0:10:53.38,Default,,0,0,0,,Madara, it's not you, is it?
-Dialogue: 10,0:10:53.38,0:10:56.30,Default,,0,0,0,,The one who's been eating the weaker spirits in my territory.
-Dialogue: 10,0:10:56.30,0:10:57.18,Default,,0,0,0,,What?
-Dialogue: 10,0:10:57.18,0:10:59.43,Default,,0,0,0,,Don't you dare accuse me like that!
-Dialogue: 10,0:10:59.43,0:11:03.27,Default,,0,0,0,,I'm a gourmet,\N so I wouldn't settle for eating wimps!
-Dialogue: 10,0:11:03.27,0:11:05.23,Default,,0,0,0,,Could those two be...
-Dialogue: 10,0:11:05.69,0:11:09.23,Default,,0,0,0,,So, it's the one who hides in that mountain?
-Dialogue: 10,0:11:09.23,0:11:13.11,Default,,0,0,0,,He's the brother of the spirit you met.
-Dialogue: 10,0:11:13.11,0:11:17.66,Default,,0,0,0,,He appeared near Tanuma's house, didn't he?
-Dialogue: 10,0:11:17.66,0:11:19.37,Default,,0,0,0,,Since the priest is gone,
-Dialogue: 10,0:11:19.37,0:11:21.99,Default,,0,0,0,,he's started to wander around the temple grounds.
-Dialogue: 10,0:11:22.70,0:11:23.75,Default,,0,0,0,,Tanuma...
-Dialogue: 10,0:11:27.88,0:11:30.96,Default,,0,0,0,,Where? Where is it?
-Dialogue: 10,0:11:30.96,0:11:34.42,Default,,0,0,0,,I will take... Natsume...
-Dialogue: 10,0:11:37.30,0:11:38.76,Default,,0,0,0,,Natsume?
-Dialogue: 10,0:11:46.64,0:11:47.48,Default,,0,0,0,,Hey!
-Dialogue: 10,0:11:49.06,0:11:51.40,Default,,0,0,0,,Are you looking for something?
-Dialogue: 10,0:11:53.82,0:11:56.03,Default,,0,0,0,,I'll make you regret it if you do anything to Natsume!
-Dialogue: 10,0:12:11.79,0:12:12.84,Default,,0,0,0,,Rust?
-Dialogue: 10,0:12:36.94,0:12:39.41,Default,,0,0,0,,An old map of the temple?
-Dialogue: 10,0:12:44.41,0:12:46.00,Default,,0,0,0,,Tanuma went home early?
-Dialogue: 10,0:12:46.00,0:12:48.75,Default,,0,0,0,,Yeah. He was here this morning,
-Dialogue: 10,0:12:48.75,0:12:51.21,Default,,0,0,0,,but he left early because he said he had a bad headache.
-Dialogue: 10,0:12:51.21,0:12:52.25,Default,,0,0,0,,A headache...
-Dialogue: 10,0:12:53.04,0:12:54.17,Default,,0,0,0,,No way...
-Dialogue: 10,0:12:55.17,0:12:58.17,Default,,0,0,0,,He must've been affected by that demon's miasma.
-Dialogue: 10,0:12:58.17,0:13:00.09,Default,,0,0,0,,What a wimp.
-Dialogue: 10,0:13:00.09,0:13:02.05,Default,,0,0,0,,I'm worried about him. Let's hurry!
-Dialogue: 10,0:13:02.05,0:13:03.14,Default,,0,0,0,,Roger!
-Dialogue: 10,0:13:07.10,0:13:09.23,Default,,0,0,0,,He's not home? Is he at the hospital?
-Dialogue: 10,0:13:09.23,0:13:12.60,Default,,0,0,0,,Natsume, I can feel a spirit around here.
-Dialogue: 10,0:13:21.32,0:13:22.36,Default,,0,0,0,,This is...
-Dialogue: 10,0:13:22.78,0:13:25.83,Default,,0,0,0,,Uh... is this a map of the temple?
-Dialogue: 10,0:13:26.83,0:13:33.17,Default,,0,0,0,,It's small now, but it used to be much bigger.
-Dialogue: 10,0:13:33.17,0:13:37.76,Default,,0,0,0,,They held a festival and a shrine dance at this temple every year.
-Dialogue: 10,0:13:37.76,0:13:38.63,Default,,0,0,0,,A shrine dance?
-Dialogue: 10,0:13:38.63,0:13:40.26,Default,,0,0,0,,Sometimes a shrine dance
-Dialogue: 10,0:13:40.26,0:13:43.30,Default,,0,0,0,,would open the door to the other world.
-Dialogue: 10,0:13:43.30,0:13:45.93,Default,,0,0,0,,I see, the building for the shrine dance was right here.
-Dialogue: 10,0:13:45.93,0:13:48.89,Default,,0,0,0,,That's at the end of Yatsuhara.
-Dialogue: 10,0:13:51.23,0:13:51.94,Default,,0,0,0,,Huh?
-Dialogue: 10,0:13:51.94,0:13:53.23,Default,,0,0,0,,Tanuma?
-Dialogue: 10,0:13:53.65,0:13:54.69,Default,,0,0,0,,What's wrong?
-Dialogue: 10,0:13:54.69,0:13:57.11,Default,,0,0,0,,No... nothing, really.
-Dialogue: 10,0:13:58.03,0:14:00.36,Default,,0,0,0,,Your dad's gone right now, right?
-Dialogue: 10,0:14:00.94,0:14:03.66,Default,,0,0,0,,It's gotta be tough to be sick when you're alone.
-Dialogue: 10,0:14:03.66,0:14:07.20,Default,,0,0,0,,Sorry, I didn't want to stay home.
-Dialogue: 10,0:14:07.20,0:14:08.74,Default,,0,0,0,,Don't worry about it.
-Dialogue: 10,0:14:08.74,0:14:12.25,Default,,0,0,0,,Natsume was really worried when he heard you collapsed.
-Dialogue: 10,0:14:15.88,0:14:17.09,Default,,0,0,0,,This way?
-Dialogue: 10,0:14:17.09,0:14:19.42,Default,,0,0,0,,Hey, {*}Master Nyanko{**Nyanko-sensei}?
-Dialogue: 10,0:14:22.88,0:14:24.22,Default,,0,0,0,,H-Hey!{added stutter}
-Dialogue: 10,0:14:24.22,0:14:26.60,Default,,0,0,0,,He's been hit by the miasma.
-Dialogue: 10,0:14:26.60,0:14:28.76,Default,,0,0,0,,Let him sleep it off over there.
-Dialogue: 10,0:14:28.76,0:14:30.56,Default,,0,0,0,,Are you all right, {*}Master{**Sensei}?
-Dialogue: 10,0:14:30.56,0:14:33.23,Default,,0,0,0,,Don't treat me like those wimps!
-Dialogue: 10,0:14:34.14,0:14:35.23,Default,,0,0,0,,Let's hurry.
-Dialogue: 10,0:14:39.32,0:14:40.69,Default,,0,0,0,,This feels bad.
-Dialogue: 10,0:14:41.40,0:14:43.15,Default,,0,0,0,,He's close, Natsume.
-Dialogue: 10,0:14:43.15,0:14:44.03,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:14:48.66,0:14:49.41,Default,,0,0,0,,Wait!
-Dialogue: 10,0:14:51.91,0:14:54.04,Default,,0,0,0,,Natsume?
-Dialogue: 10,0:14:55.54,0:14:58.38,Default,,0,0,0,,Natsume... Reiko?
-Dialogue: 10,0:14:58.38,0:14:59.71,Default,,0,0,0,,Reiko?
-Dialogue: 10,0:14:59.71,0:15:01.67,Default,,0,0,0,,No, I'm...
-Dialogue: 10,0:15:03.67,0:15:05.09,Default,,0,0,0,,I see.
-Dialogue: 10,0:15:05.09,0:15:06.43,Default,,0,0,0,,Reiko is gone.
-Dialogue: 10,0:15:06.89,0:15:12.56,Default,,0,0,0,,I know that my blood is hurting the spirits around me.
-Dialogue: 10,0:15:12.56,0:15:14.52,Default,,0,0,0,,I'm sorry for that.
-Dialogue: 10,0:15:14.52,0:15:17.81,Default,,0,0,0,,But the entrance to Ukihara Village
-Dialogue: 10,0:15:17.81,0:15:20.48,Default,,0,0,0,,responds to the blood of its villagers.
-Dialogue: 10,0:15:20.77,0:15:22.86,Default,,0,0,0,,So that's why you hurt yourself...
-Dialogue: 10,0:15:22.86,0:15:26.16,Default,,0,0,0,,But it seems that I don't need to do that anymore.
-Dialogue: 10,0:15:26.16,0:15:27.11,Default,,0,0,0,,What's wrong?
-Dialogue: 10,0:15:27.11,0:15:29.12,Default,,0,0,0,,Are you giving up already?
-Dialogue: 10,0:15:31.58,0:15:35.71,Default,,0,0,0,,A demon who calls herself your sister is looking for you.
-Dialogue: 10,0:15:35.71,0:15:38.17,Default,,0,0,0,,No, that's impossible.
-Dialogue: 10,0:15:38.17,0:15:40.92,Default,,0,0,0,,My sister died ages ago.
-Dialogue: 10,0:15:44.42,0:15:46.55,Default,,0,0,0,,It was my fault.
-Dialogue: 10,0:15:46.55,0:15:50.93,Default,,0,0,0,,The sound of the shrine dance tempted me to take her out of the village,
-Dialogue: 10,0:15:50.93,0:15:53.22,Default,,0,0,0,,and she died soon after in this unknown land.
-Dialogue: 10,0:15:54.39,0:15:57.81,Default,,0,0,0,,After that, I wandered alone.
-Dialogue: 10,0:15:58.94,0:16:01.69,Default,,0,0,0,,After I'd given up on returning to my village,
-Dialogue: 10,0:16:01.69,0:16:03.23,Default,,0,0,0,,I met Reiko.
-Dialogue: 10,0:16:03.23,0:16:05.53,Default,,0,0,0,,That's when you got your ass kicked?
-Dialogue: 10,0:16:06.53,0:16:08.61,Default,,0,0,0,,It was a meaningless battle,
-Dialogue: 10,0:16:08.61,0:16:10.87,Default,,0,0,0,,but I lost and gave her my name.
-Dialogue: 10,0:16:10.87,0:16:16.62,Default,,0,0,0,,But Reiko died without ever calling my name.
-Dialogue: 10,0:16:18.37,0:16:23.38,Default,,0,0,0,,So I went to the mountain, found a cave, and slept.
-Dialogue: 10,0:16:24.21,0:16:27.72,Default,,0,0,0,,A long time must have passed.
-Dialogue: 10,0:16:27.72,0:16:29.05,Default,,0,0,0,,When I awoke,
-Dialogue: 10,0:16:29.05,0:16:31.76,Default,,0,0,0,,the old, abandoned temple had been rebuilt.
-Dialogue: 10,0:16:32.68,0:16:35.43,Default,,0,0,0,,Tanuma and his father moved in.
-Dialogue: 10,0:16:35.43,0:16:38.27,Default,,0,0,0,,For a while, I couldn't get close,
-Dialogue: 10,0:16:38.27,0:16:41.56,Default,,0,0,0,,but I haven't felt the priest's presence for the last few days,
-Dialogue: 10,0:16:41.56,0:16:43.44,Default,,0,0,0,,so I decided to go see.
-Dialogue: 10,0:16:43.44,0:16:46.11,Default,,0,0,0,,And you found the old map there?
-Dialogue: 10,0:16:46.40,0:16:49.91,Default,,0,0,0,,I came here because I heard a rumor
-Dialogue: 10,0:16:49.91,0:16:53.37,Default,,0,0,0,,that the door once opened here.
-Dialogue: 10,0:16:54.12,0:16:57.62,Default,,0,0,0,,That was probably at the remains of this building.
-Dialogue: 10,0:17:00.83,0:17:02.46,Default,,0,0,0,,Must've been a fire.
-Dialogue: 10,0:17:02.46,0:17:07.13,Default,,0,0,0,,If the building was still here, it might work, but as it is...
-Dialogue: 10,0:17:07.13,0:17:10.18,Default,,0,0,0,,Then, that other demon...
-Dialogue: 10,0:17:10.18,0:17:15.47,Default,,0,0,0,,It was probably a demon named Sagume, who was banished from Ukihara Village.
-Dialogue: 10,0:17:16.01,0:17:17.72,Default,,0,0,0,,She probably thinks that if she follows me,
-Dialogue: 10,0:17:17.72,0:17:20.35,Default,,0,0,0,,she'll be able to return to the village someday.
-Dialogue: 10,0:17:20.35,0:17:21.48,Default,,0,0,0,,I see.
-Dialogue: 10,0:17:21.48,0:17:24.61,Default,,0,0,0,,So that's why she was after the Book of Friends.
-Dialogue: 10,0:17:24.61,0:17:28.94,Default,,0,0,0,,She was going to use you to open the door to the village.
-Dialogue: 10,0:17:28.94,0:17:33.49,Default,,0,0,0,,Was she the one eating those weak spirits that Misuzu was talking about?
-Dialogue: 10,0:17:34.66,0:17:39.54,Default,,0,0,0,,We should give you your name back before she comes after the Book of Friends again.
-Dialogue: 10,0:17:40.33,0:17:42.00,Default,,0,0,0,,In Reiko{**-san}'s place...
-Dialogue: 10,0:17:44.96,0:17:48.38,Default,,0,0,0,,That which shields me, reveal thy name.
-Dialogue: 10,0:17:55.18,0:17:57.22,Default,,0,0,0,,I return this to you, Kanawa.{ends on scenechange not keyframe}
-Dialogue: 10,0:17:57.85,0:17:58.85,Default,,0,0,0,,Please take it.
-Dialogue: 10,0:18:11.78,0:18:15.49,Default,,0,0,0,,Banished simply for breaking a flower stem...
-Dialogue: 10,0:18:15.49,0:18:17.20,Default,,0,0,0,,how unfair!
-Dialogue: 10,0:18:17.20,0:18:20.45,Default,,0,0,0,,The blood of a criminal will not open the door.
-Dialogue: 10,0:18:20.45,0:18:22.08,Default,,0,0,0,,I hate them.
-Dialogue: 10,0:18:24.50,0:18:27.34,Default,,0,0,0,,I don't need the Book of Friends, kid.
-Dialogue: 10,0:18:27.34,0:18:30.42,Default,,0,0,0,,I'll take his blood instead!
-Dialogue: 10,0:18:34.30,0:18:36.76,Default,,0,0,0,,The trees that grew on the remains of the building
-Dialogue: 10,0:18:36.76,0:18:38.26,Default,,0,0,0,,are responding to his blood!
-Dialogue: 10,0:18:39.10,0:18:40.93,Default,,0,0,0,,The door will open!
-Dialogue: 10,0:18:40.93,0:18:42.81,Default,,0,0,0,,I can go home!
-Dialogue: 10,0:19:20.51,0:19:25.39,Default,,0,0,0,,I wanted to show this sight to Reiko.
-Dialogue: 10,0:19:27.90,0:19:29.86,Default,,0,0,0,,His body is rusted.{*Make this fade in or something | would need to be an alpha transform from the level of transparency in the first frame to normal on the first white frame}
-Dialogue: 10,0:19:29.86,0:19:31.73,Default,,0,0,0,,What a bother.
-Dialogue: 10,0:19:39.20,0:19:41.99,Default,,0,0,0,,You're not even going to greet me? I was here first.
-Dialogue: 10,0:19:41.99,0:19:44.37,Default,,0,0,0,,You can see me?
-Dialogue: 10,0:19:44.75,0:19:48.46,Default,,0,0,0,,You're the one the other demons were talking about.
-Dialogue: 10,0:19:49.88,0:19:52.59,Default,,0,0,0,,Aren't you scared of me?
-Dialogue: 10,0:19:53.55,0:19:55.38,Default,,0,0,0,,I'm strong.
-Dialogue: 10,0:19:58.51,0:20:01.81,Default,,0,0,0,,So your village is that great, huh?
-Dialogue: 10,0:20:01.81,0:20:05.52,Default,,0,0,0,,Yes, it's a very beautiful place.
-Dialogue: 10,0:20:05.52,0:20:07.89,Default,,0,0,0,,But you've given up?
-Dialogue: 10,0:20:07.89,0:20:09.77,Default,,0,0,0,,On going home?
-Dialogue: 10,0:20:09.77,0:20:13.73,Default,,0,0,0,,With my body like this, I wouldn't last long even if I did return.
-Dialogue: 10,0:20:13.73,0:20:17.99,Default,,0,0,0,,Now I simply wander, \Nlooking for a place to waste away.
-Dialogue: 10,0:20:19.87,0:20:23.08,Default,,0,0,0,,Hey, want to have a match with me?
-Dialogue: 10,0:20:24.79,0:20:26.96,Default,,0,0,0,,Rock, paper, scissors!
-Dialogue: 10,0:20:28.71,0:20:29.71,Default,,0,0,0,,That hurt.
-Dialogue: 10,0:20:30.88,0:20:32.59,Default,,0,0,0,,Rock, paper, scissors!
-Dialogue: 10,0:20:34.30,0:20:35.46,Default,,0,0,0,,That hurt.
-Dialogue: 10,0:20:36.72,0:20:38.43,Default,,0,0,0,,Rock, paper, scissors!
-Dialogue: 10,0:20:39.51,0:20:40.18,Default,,0,0,0,,That hurt.
-Dialogue: 10,0:20:40.68,0:20:43.56,Default,,0,0,0,,Great! I win.
-Dialogue: 10,0:20:43.56,0:20:45.77,Default,,0,0,0,,Now, you're my servant.
-Dialogue: 10,0:20:45.77,0:20:48.19,Default,,0,0,0,,Write your name here, please.
-Dialogue: 10,0:20:51.44,0:20:55.36,Default,,0,0,0,,Listen, when you find it, tell me, okay?
-Dialogue: 10,0:20:55.36,0:20:57.03,Default,,0,0,0,,The entrance to your village, that is.
-Dialogue: 10,0:20:58.57,0:21:00.99,Default,,0,0,0,,I want to see it too.
-Dialogue: 10,0:21:00.99,0:21:03.24,Default,,0,0,0,,If there's a beautiful world like that.
-Dialogue: 10,0:21:05.62,0:21:07.45,Default,,0,0,0,,Then, will you come with me?
-Dialogue: 10,0:21:08.33,0:21:10.21,Default,,0,0,0,,If you dislike people so much,
-Dialogue: 10,0:21:10.21,0:21:13.21,Default,,0,0,0,,then come with me to Ukihara village.
-Dialogue: 10,0:21:17.96,0:21:20.97,Default,,0,0,0,,Will you come with me, Natsume,
-Dialogue: 10,0:21:20.97,0:21:22.39,Default,,0,0,0,,grandson of Reiko?
-Dialogue: 10,0:21:24.01,0:21:29.89,Default,,0,0,0,,No, Kanawa. This place is what's important to me.
-Dialogue: 10,0:21:29.89,0:21:31.14,Default,,0,0,0,,I see.
-Dialogue: 10,0:21:31.14,0:21:34.90,Default,,0,0,0,,You seem to have good human friends, too.
-Dialogue: 10,0:21:43.07,0:21:44.28,Default,,0,0,0,,Natsume!
-Dialogue: 10,0:21:44.28,0:21:47.37,Default,,0,0,0,,Tanuma? Where were you?
-Dialogue: 10,0:21:47.37,0:21:49.79,Default,,0,0,0,,I heard you collapsed, so I was worried.
-Dialogue: 10,0:21:49.79,0:21:53.04,Default,,0,0,0,,Sorry. Actually, there was this weird demon in my house.
-Dialogue: 10,0:21:53.04,0:21:54.83,Default,,0,0,0,,He's gone now.
-Dialogue: 10,0:21:55.84,0:21:58.09,Default,,0,0,0,,You got rid of it?
-Dialogue: 10,0:21:58.09,0:22:01.72,Default,,0,0,0,,No, he went back to his village.
-Dialogue: 10,0:22:01.72,0:22:04.47,Default,,0,0,0,,He wasn't dangerous?
-Dialogue: 10,0:22:04.47,0:22:06.43,Default,,0,0,0,,He wasn't an evil spirit.
-Dialogue: 10,0:22:07.81,0:22:09.77,Default,,0,0,0,,I see. I'm glad.
-Dialogue: 10,0:22:10.77,0:22:14.94,Default,,0,0,0,,I wasn't sure whether to tell you or not.
-Dialogue: 10,0:22:16.48,0:22:19.11,Default,,0,0,0,,I thought I'd be involving you.
-Dialogue: 10,0:22:19.11,0:22:22.11,Default,,0,0,0,,But I should've told you earlier.
-Dialogue: 10,0:22:23.45,0:22:24.70,Default,,0,0,0,,Tanuma...
-Dialogue: 10,0:24:00.00,0:24:02.17,Default,,0,0,0,,There are some things you don't want other people to know.{long lead-in for cps reasons + keyframe snapping}
-Dialogue: 10,0:24:02.46,0:24:03.63,Default,,0,0,0,,You're Natsume, right?
-Dialogue: 10,0:24:03.63,0:24:06.22,Default,,0,0,0,,The one who lied about seeing monsters.
-Dialogue: 10,0:24:06.22,0:24:07.09,Default,,0,0,0,,How did you—
-Dialogue: 10,0:24:07.09,0:24:09.30,Default,,0,0,0,,Bratty kid.
-Dialogue: 10,0:24:09.30,0:24:10.64,Default,,0,0,0,,Maybe I'll eat him.
-Dialogue: 10,0:24:10.64,0:24:14.27,Default,,0,0,0,,I remembered you when I met him.
 
 [Aegisub Extradata]
 Data: 12,a-mo,e{"uuid"#3A"73d7a687-e830-4aae-b41f-deacc9d43690"#2C"originalText"#3A"{\\fs30\\frz-6\\1c&H1F2F36&\\bord0\\shad0\\b1\\blur1\\fnIwata Gyousho Pro-FSN B\\pos(1281.11#2C587.64)}7th Street Shop"}
