@@ -21,10 +21,10 @@ Audio File: natsume_s3_01.mkv
 Video File: natsume_s3_01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 395
-Active Line: 410
-Video Position: 34526
+Video Zoom Percent: 0.750000
+Scroll Position: 81
+Active Line: 84
+Video Position: 8982
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 10,0:05:58.88,0:06:00.92,Default,,0,0,0,,{\i1}Ever since I inherited t
 Dialogue: 10,0:06:00.92,0:06:05.43,Default,,0,0,0,,{\i1}I've returned the names of the demons within it.
 Dialogue: 10,0:06:05.43,0:06:09.56,Default,,0,0,0,,{\i1}First, I bring up an image \Nof them in my mind, and concentrate.
 Dialogue: 10,0:06:09.56,0:06:12.98,Default,,0,0,0,,That which shields me, reveal thy name.
-Dialogue: 10,0:06:14.60,0:06:20.57,Default,,0,0,0,,{\q2}To release their names, you need the saliva and breath \Nof someone of the same bloodline as Reiko.
+Dialogue: 10,0:06:14.60,0:06:20.57,Default,,0,0,0,,{\q2\i1}To release their names, you need the saliva and breath \Nof someone of the same bloodline as Reiko.
 Dialogue: 10,0:06:27.45,0:06:29.87,Default,,0,0,0,,Thank you very much.
 Dialogue: 10,0:06:33.21,0:06:35.88,Default,,0,0,0,,{\i1}When I return a name, I get really tired.
 Dialogue: 10,0:06:35.88,0:06:37.25,Default,,0,0,0,,You idiot!
