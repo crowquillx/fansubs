@@ -16,10 +16,9 @@ Audio File: natsume_s3_12.mkv
 Video File: natsume_s3_12.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 24
-Active Line: 38
-Video Position: 303
+Video Zoom Percent: 0.625000
+Active Line: 12
+Video Position: 876
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,12 +36,12 @@ Dialogue: 2,0:00:14.95,0:00:21.96,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF
 Dialogue: 0,0:00:21.96,0:00:29.01,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H80&\1a&HFF&\t(105,150,\1a&H00&)\t(6900,6945,\1a&HFF&)}I've lost sight of my true self
 Dialogue: 1,0:00:21.96,0:00:29.01,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(6900,6945,\1a&HFF&)}I've lost sight of my true self
 Dialogue: 2,0:00:21.96,0:00:29.01,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF&}I've lost sight of my true self
-Dialogue: 0,0:00:29.55,0:00:36.52,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H80&\1a&HFF&\t(105,150,\1a&H00&)\t(6820,6865,\1a&HFF&)}Even if I strain my ears I can't hear your voice
-Dialogue: 1,0:00:29.55,0:00:36.52,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(6820,6865,\1a&HFF&)}Even if I strain my ears I can't hear your voice
-Dialogue: 2,0:00:29.55,0:00:36.52,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF&}Even if I strain my ears I can't hear your voice
-Dialogue: 0,0:00:36.52,0:00:43.31,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H80&\1a&HFF&\t(105,150,\1a&H00&)\t(6640,6685,\1a&HFF&)}So I keep walking trying to catch up
-Dialogue: 1,0:00:36.52,0:00:43.31,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(6640,6685,\1a&HFF&)}So I keep walking trying to catch up
-Dialogue: 2,0:00:36.52,0:00:43.31,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF&}So I keep walking trying to catch up
+Dialogue: 0,0:00:29.55,0:00:36.52,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H80&\1a&HFF&\t(105,150,\1a&H00&)\t(6820,6865,\1a&HFF&)}Even if I strain my ears, I can't hear your voice
+Dialogue: 1,0:00:29.55,0:00:36.52,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(6820,6865,\1a&HFF&)}Even if I strain my ears, I can't hear your voice
+Dialogue: 2,0:00:29.55,0:00:36.52,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF&}Even if I strain my ears, I can't hear your voice
+Dialogue: 0,0:00:36.52,0:00:43.31,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H80&\1a&HFF&\t(105,150,\1a&H00&)\t(6640,6685,\1a&HFF&)}So I keep walking, trying to catch up
+Dialogue: 1,0:00:36.52,0:00:43.31,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(6640,6685,\1a&HFF&)}So I keep walking, trying to catch up
+Dialogue: 2,0:00:36.52,0:00:43.31,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF&}So I keep walking, trying to catch up
 Dialogue: 0,0:00:43.31,0:00:50.95,OP,,0,0,0,,{\fad(150,150)\blur10\bord4\alpha&H80&\1a&HFF&\t(105,150,\1a&H00&)\t(7490,7535,\1a&HFF&)}The things I couldn't tell you form into a chrysalis over time
 Dialogue: 1,0:00:43.31,0:00:50.95,OP,,0,0,0,,{\fad(150,150)\blur1\bord2.8\c&H02060E&\1a&HFF&\t(105,150,\1a&H00&)\t(7490,7535,\1a&HFF&)}The things I couldn't tell you form into a chrysalis over time
 Dialogue: 2,0:00:43.31,0:00:50.95,OP,,0,0,0,,{\fad(150,150)\blur0.4\bord0\4a&HFF&}The things I couldn't tell you form into a chrysalis over time
