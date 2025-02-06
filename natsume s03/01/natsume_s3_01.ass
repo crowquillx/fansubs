@@ -21,10 +21,10 @@ Audio File: natsume_s3_01.mkv
 Video File: natsume_s3_01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 56
-Active Line: 57
-Video Position: 7112
+Video Zoom Percent: 0.500000
+Scroll Position: 395
+Active Line: 410
+Video Position: 34526
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,
 Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
-Style: number,square kids,150,&H001D1ACB,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
+Style: number,square kids,150,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
 Style: title-shadow,Footlight MT Light,105,&H00B8E0B8,&H0000FFFF,&H9696C4B1,&H00B8E0B8,-1,0,0,0,100,100,0,0,1,0,1,7,43,0,24,1
 Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,850,315,1
@@ -40,7 +40,7 @@ Style: nexttime-shadow,Footlight MT Light,105,&H00C4F6CE,&H000019FF,&H00000000,&
 Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
 Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
 Style: signs,Footlight MT Light,105,&H00192F4A,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,9,0,190,100,1
-Style: number-box,!Square Engine 150 Simplex,172,&H001D1ACB,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
+Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -454,8 +454,8 @@ Dialogue: 1,0:24:00.00,0:24:15.02,nexttime,,0,0,0,,{\fs100\pos(473.04,831.71)\bl
 Dialogue: 0,0:24:00.00,0:24:15.02,nexttime-shadow,,0,0,0,,{\blur3.5\fs100\pos(478.04,836.71)}Ukihara Village
 Dialogue: 1,0:24:00.00,0:24:15.02,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
 Dialogue: 0,0:24:00.00,0:24:15.02,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
-Dialogue: 1,0:24:00.00,0:24:15.02,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
-Dialogue: 0,0:24:00.00,0:24:15.02,number-box,,0,0,0,,{\pos(1747.333,180)\be1\fscx36\fscy38}\h
+Dialogue: 1,0:24:00.00,0:24:15.02,number,,0,0,0,,{\pos(1748,180.667)\blur0.7\fay-0.14\fscx36\fscy38\c&H1316D7&}3
+Dialogue: 0,0:24:00.00,0:24:15.02,number-box,,0,0,0,,{\pos(1747.333,180)\blur0.7\fscx36\fscy38\c&H1316D7&}\h
 Dialogue: 0,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
 Dialogue: 1,0:24:00.00,0:24:15.02,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
 
