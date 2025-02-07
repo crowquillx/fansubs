@@ -21,15 +21,14 @@ Audio File: natsume_s3_01.mkv
 Video File: natsume_s3_01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 5
+Video Zoom Percent: 0.375000
 Active Line: 15
-Video Position: 3756
+Video Position: 3596
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
-Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -65,7 +64,7 @@ Dialogue: 10,0:02:48.11,0:02:50.78,Default,,0,0,0,,{\i1}She was born with great 
 Dialogue: 10,0:02:50.78,0:02:54.07,Default,,0,0,0,,{\i1}and challenged every demon she met to a battle.
 Dialogue: 10,0:02:54.07,0:02:57.57,Default,,0,0,0,,{\i1}When she defeated them, she would force \Nthe demons to write their names in it,
 Dialogue: 10,0:02:58.45,0:03:00.08,Default,,0,0,0,,{\i1}binding them as servant and master.
-Dialogue: 10,0:03:00.08,0:03:04.91,Default,,0,0,0,,{\q2\i1}The Book of Friends is a set of contracts. \NCall the names within and their owners cannot disobey.
+Dialogue: 10,0:03:00.08,0:03:04.91,Default,,0,0,0,,{\i1\q2}The Book of Friends is a set of contracts. \NCall the names within and their owners cannot disobey.
 Dialogue: 10,0:03:04.91,0:03:07.33,Default,,0,0,0,,{\i1}Ever since I got it, I've spent \Nmy days running from demons.
 Dialogue: 10,0:03:11.84,0:03:13.88,Default,,0,0,0,,{\i1}I need to catch my breath before I go in.
 Dialogue: 10,0:03:17.09,0:03:18.18,Default,,0,0,0,,A teacup?
@@ -134,7 +133,7 @@ Dialogue: 10,0:06:33.21,0:06:35.88,Default,,0,0,0,,{\i1}When I return a name, I 
 Dialogue: 10,0:06:35.88,0:06:37.25,Default,,0,0,0,,You idiot!
 Dialogue: 10,0:06:37.25,0:06:39.96,Default,,0,0,0,,There goes another page out of the Book of Friends!
 Dialogue: 10,0:06:39.96,0:06:43.22,Default,,0,0,0,,They come without warning, \Nand then they leave the same way.
-Dialogue: 10,0:06:43.22,0:06:48.97,Default,,0,0,0,,{\t(4687,5730,1,\c&H000000&\3c&H000000&)}Will I ever become strong enough \Nto not have my life ruled by them?
+Dialogue: 10,0:06:43.22,0:06:48.97,Default,,0,0,0,,{\t(4687,5730,\c&H000000&\3c&H000000&)}Will I ever become strong enough \Nto not have my life ruled by them?
 Dialogue: 10,0:06:52.35,0:06:53.93,Default,,0,0,0,,{\i1}What's that sound?
 Dialogue: 10,0:06:53.93,0:06:56.23,Default,,0,0,0,,{\i1}It sounds like footsteps.
 Dialogue: 10,0:06:57.27,0:06:59.77,Default,,0,0,0,,{\i1}I hear that sometimes, \Nwhen a disaster is about to strike,
@@ -181,7 +180,7 @@ Dialogue: 10,0:09:03.65,0:09:05.02,Default,,0,0,0,,Oh my, that's no good.
 Dialogue: 10,0:09:05.02,0:09:10.40,Default,,0,0,0,,You can see spirits, but you don't know \Nwhat happens when you refuse one?
 Dialogue: 10,0:09:10.40,0:09:12.45,Default,,0,0,0,,I just don't want any trouble.
 Dialogue: 10,0:09:12.45,0:09:15.41,Default,,0,0,0,,If I get involved with a demon that brings disaster...
-Dialogue: 10,0:09:16.04,0:09:19.41,Default,,0,0,0,,{\i1\t(2811,3352,1,\c&H000000&\3c&H000000&)}If something were to happen to the Fujiwaras...
+Dialogue: 10,0:09:16.04,0:09:19.41,Default,,0,0,0,,{\i1\t(2811,3352,\c&H000000&\3c&H000000&)}If something were to happen to the Fujiwaras...
 Dialogue: 10,0:09:19.96,0:09:22.25,Default,,0,0,0,,Sorry, but I've taken a liking to you.
 Dialogue: 10,0:09:22.25,0:09:24.79,Default,,0,0,0,,If you don't help me,
 Dialogue: 10,0:09:24.79,0:09:26.00,Default,,0,0,0,,I'll curse you.
@@ -412,7 +411,7 @@ Dialogue: 10,0:21:04.37,0:21:07.37,Default,,0,0,0,,{\i1}Just like how the old wo
 Dialogue: 10,0:21:07.95,0:21:10.00,Default,,0,0,0,,{\i1}Reiko{**-san} thought she was human.
 Dialogue: 10,0:21:10.75,0:21:13.54,Default,,0,0,0,,{\i1}When she thought she had a human friend,
 Dialogue: 10,0:21:13.54,0:21:15.13,Default,,0,0,0,,{\i1}she must have been so happy.
-Dialogue: 10,0:21:15.59,0:21:17.38,Default,,0,0,0,,{\i1\t(1227,1769,1,\c&H000000&\3c&H000000&)}I thought it was strange...{\i0}
+Dialogue: 10,0:21:15.59,0:21:17.38,Default,,0,0,0,,{\i1\t(1227,1769,\c&H000000&\3c&H000000&)}I thought it was strange...{\i0}
 Dialogue: 10,0:21:17.71,0:21:22.59,Default,,0,0,0,,{\i1}I wonder if that's when she began to dislike demons.
 Dialogue: 10,0:21:23.89,0:21:25.89,Default,,0,0,0,,Hey, Natsume, look!
 Dialogue: 10,0:21:28.52,0:21:30.39,Default,,0,0,0,,Those flowers, they're the ones...
@@ -425,7 +424,7 @@ Dialogue: 10,0:21:50.50,0:21:52.92,Default,,0,0,0,,Touko{**-san}, what's wrong?
 Dialogue: 10,0:21:52.92,0:21:54.33,Default,,0,0,0,,Look, Takashi{**-kun}.
 Dialogue: 10,0:21:54.33,0:21:56.63,Default,,0,0,0,,There's a tea cup I've never seen before here.
 Dialogue: 10,0:21:56.96,0:21:59.38,Default,,0,0,0,,See, whose is this?
-Dialogue: 10,0:22:01.13,0:22:06.89,Default,,0,0,0,,{\i1\c&H000000&\3c&H000000&\t(23,315,1,\c&HF1F4F9&\3c&H02060E&)\t(5195,5737,1,\c&H000000&\3c&H000000&)}...and sometimes, on a whim, \Nit'll sacrifice itself to prevent it.
+Dialogue: 10,0:22:01.13,0:22:06.89,Default,,0,0,0,,{\i1\c&H000000&\3c&H000000&\t(23,315,\c&HFFFFFF&\3c&H02060E&)\t(5195,5737,\c&H000000&\3c&H000000&)}...and sometimes, on a whim, \Nit'll sacrifice itself to prevent it.
 Dialogue: 10,0:22:07.68,0:22:08.72,Default,,0,0,0,,It's mine.
 Dialogue: 10,0:22:09.06,0:22:10.31,Default,,0,0,0,,It's mine.
 Dialogue: 10,0:22:11.39,0:22:12.73,Default,,0,0,0,,It's very important to me.

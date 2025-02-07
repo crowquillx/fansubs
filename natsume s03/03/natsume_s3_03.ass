@@ -17,14 +17,14 @@ Video File: natsume_s3_03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 379
-Active Line: 388
-Video Position: 34736
+Scroll Position: 363
+Active Line: 389
+Video Position: 34803
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
-Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
 Style: Sign,Beautiful Every Time,68,&H00383838,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,53,53,56,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -44,7 +44,7 @@ Dialogue: 10,0:01:33.74,0:01:37.20,Default,,0,0,0,,Yes, it's Shigeru{**-san}'s b
 Dialogue: 10,0:01:37.20,0:01:40.08,Default,,0,0,0,,Takashi{**-kun}, could you buy one on your way home?
 Dialogue: 10,0:01:40.08,0:01:41.62,Default,,0,0,0,,What kind do you want?
 Dialogue: 10,0:01:41.62,0:01:43.25,Default,,0,0,0,,Let me think...
-Dialogue: 10,0:01:43.25,0:01:46.92,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,since it's his birthday, \Nstrawberry shortcake would be great.
+Dialogue: 10,0:01:43.25,0:01:46.92,Default,,0,0,0,,since it's his birthday, \Nstrawberry shortcake would be great.
 Dialogue: 10,0:01:46.92,0:01:48.17,Default,,0,0,0,,Get three slices.
 Dialogue: 10,0:01:48.63,0:01:49.71,Default,,0,0,0,,Okay.
 Dialogue: 10,0:01:50.17,0:01:51.38,Default,,0,0,0,,Make it four!
@@ -64,7 +64,7 @@ Dialogue: 10,0:02:30.59,0:02:31.96,Default,,0,0,0,,That's why we're here, right?
 Dialogue: 10,0:02:31.96,0:02:35.01,Default,,0,0,0,,It's hard for a guy to go in there alone.
 Dialogue: 10,0:02:36.97,0:02:38.55,Default,,0,0,0,,I can't do it.
 Dialogue: 10,0:02:38.55,0:02:40.89,Default,,0,0,0,,It's too much for me.
-Dialogue: 10,0:02:40.89,0:02:44.19,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,You always carry that cat everywhere, \Nso what are you embarrassed for?
+Dialogue: 10,0:02:40.89,0:02:44.19,Default,,0,0,0,,You always carry that cat everywhere, \Nso what are you embarrassed for?
 Dialogue: 10,0:02:44.19,0:02:45.52,Default,,0,0,0,,Just go.
 Dialogue: 10,0:02:45.52,0:02:48.65,Default,,0,0,0,,You want to give your folks a nice cake, right?
 Dialogue: 10,0:02:50.32,0:02:51.78,Default,,0,0,0,,That's right.
@@ -93,7 +93,7 @@ Dialogue: 10,0:03:43.24,0:03:44.58,Default,,0,0,0,,See you later.
 Dialogue: 10,0:03:44.58,0:03:46.25,Default,,0,0,0,,Hey, Natsume?
 Dialogue: 10,0:03:54.92,0:03:56.88,Default,,0,0,0,,How far are we going to walk?
 Dialogue: 10,0:03:56.88,0:04:00.05,Default,,0,0,0,,You used to say some pretty weird stuff.
-Dialogue: 10,0:04:01.22,0:04:04.10,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,Like how you could see things \Nthat everyone else couldn't.
+Dialogue: 10,0:04:01.22,0:04:04.10,Default,,0,0,0,,Like how you could see things \Nthat everyone else couldn't.
 Dialogue: 10,0:04:05.48,0:04:07.31,Default,,0,0,0,,Was that true?
 Dialogue: 10,0:04:16.24,0:04:17.07,Default,,0,0,0,,{\i1}Liar!
 Dialogue: 10,0:04:17.07,0:04:19.57,Default,,0,0,0,,{\i1}He's lying again.
@@ -102,8 +102,8 @@ Dialogue: 10,0:04:20.49,0:04:23.28,Default,,0,0,0,,{\i1}Liar!
 Dialogue: 10,0:04:25.24,0:04:26.50,Default,,0,0,0,,No way.
 Dialogue: 10,0:04:26.50,0:04:28.33,Default,,0,0,0,,Your face changed color.
 Dialogue: 10,0:04:28.33,0:04:29.37,Default,,0,0,0,,Are you serious?
-Dialogue: 10,0:04:30.04,0:04:31.88,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,It was just a joke when we were little.
-Dialogue: 10,0:04:31.88,0:04:33.67,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,Nothing serious.
+Dialogue: 10,0:04:30.04,0:04:31.88,Default,,0,0,0,,It was just a joke when we were little.
+Dialogue: 10,0:04:31.88,0:04:33.67,Default,,0,0,0,,Nothing serious.
 Dialogue: 10,0:04:33.67,0:04:34.92,Default,,0,0,0,,I'm going home.
 Dialogue: 10,0:04:34.92,0:04:36.42,Default,,0,0,0,,I'll come back again.
 Dialogue: 10,0:04:37.30,0:04:39.68,Default,,0,0,0,,You don't want your new friends \Nto find out about it.
@@ -137,7 +137,7 @@ Dialogue: 10,0:06:06.51,0:06:08.18,Default,,0,0,0,,Liar.
 Dialogue: 10,0:06:08.18,0:06:10.18,Default,,0,0,0,,Hey, play along!
 Dialogue: 10,0:06:11.68,0:06:13.48,Default,,0,0,0,,You're good friends, huh?
 Dialogue: 10,0:06:14.44,0:06:17.11,Default,,0,0,0,,{\i1}And then, for a short while,
-Dialogue: 10,0:06:18.52,0:06:23.40,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,{\i1}the girl named Murasaki talked \Nwith Shibata, and then went home.
+Dialogue: 10,0:06:18.52,0:06:23.40,Default,,0,0,0,,{\i1}the girl named Murasaki talked \Nwith Shibata, and then went home.
 Dialogue: 10,0:06:29.49,0:06:31.37,Default,,0,0,0,,{\i1}The two seemed close.
 Dialogue: 10,0:06:31.91,0:06:35.67,Default,,0,0,0,,{\i1}Shibata seemed to be in love with her.
 Dialogue: 10,0:06:36.79,0:06:39.50,Default,,0,0,0,,Sorry for being so weird.
@@ -165,7 +165,7 @@ Dialogue: 10,0:07:30.72,0:07:33.22,Default,,0,0,0,,{\i1}Shibata looked for it wi
 Dialogue: 10,0:07:36.52,0:07:37.81,Default,,0,0,0,,This is really good.
 Dialogue: 10,0:07:37.81,0:07:41.48,Default,,0,0,0,,Takashi{**-kun} bought it for us.
 Dialogue: 10,0:07:41.48,0:07:43.36,Default,,0,0,0,,Thank you, Takashi.
-Dialogue: 10,0:07:47.45,0:07:51.78,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,Eating something sweet \Nafter something salty is really nice.
+Dialogue: 10,0:07:47.45,0:07:51.78,Default,,0,0,0,,Eating something sweet \Nafter something salty is really nice.
 Dialogue: 10,0:07:51.78,0:07:53.95,Default,,0,0,0,,Natsume, go get me another one of these.
 Dialogue: 10,0:07:54.54,0:07:56.62,Default,,0,0,0,,I'm tired.
 Dialogue: 10,0:07:56.62,0:07:58.04,Default,,0,0,0,,It's hopeless.
@@ -191,17 +191,17 @@ Dialogue: 10,0:09:20.58,0:09:22.96,Default,,0,0,0,,So, you really are a demon.
 Dialogue: 10,0:09:22.96,0:09:24.63,Default,,0,0,0,,That's right.
 Dialogue: 10,0:09:24.63,0:09:28.34,Default,,0,0,0,,I can eat you instead of him.
 Dialogue: 10,0:09:35.72,0:09:37.97,Default,,0,0,0,,A white pig is biting me!
-Dialogue: 10,0:09:37.97,0:09:39.27,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei}!
+Dialogue: 10,0:09:37.97,0:09:39.27,Default,,0,0,0,,Master Nyanko{*Nyanko-sensei}!
 Dialogue: 10,0:09:39.27,0:09:40.06,Default,,0,0,0,,Ow.
 Dialogue: 10,0:09:40.81,0:09:42.31,Default,,0,0,0,,Curse you, human!
 Dialogue: 10,0:09:42.31,0:09:47.44,Default,,0,0,0,,If you dare tell anyone who I am, \NI'll follow you forever and eat you!
 Dialogue: 10,0:09:47.44,0:09:48.48,Default,,0,0,0,,You brat!
 Dialogue: 10,0:09:48.48,0:09:50.99,Default,,0,0,0,,He's my emergency ration!
-Dialogue: 10,0:09:57.95,0:10:01.04,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,She's a spirit from one of \Nthe flower trees around here.
-Dialogue: 10,0:10:01.04,0:10:03.79,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,She's pretending to be human \Nto deceive other humans and eat them.
+Dialogue: 10,0:09:57.95,0:10:01.04,Default,,0,0,0,,She's a spirit from one of \Nthe flower trees around here.
+Dialogue: 10,0:10:01.04,0:10:03.79,Default,,0,0,0,,She's pretending to be human \Nto deceive other humans and eat them.
 Dialogue: 10,0:10:04.46,0:10:08.34,Default,,0,0,0,,Then, she's deceiving Shibata.
 Dialogue: 10,0:10:08.71,0:10:11.84,Default,,0,0,0,,Spirits who act that obvious \Nend up making mistakes.
-Dialogue: 10,0:10:12.30,0:10:18.76,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,That kid probably came to you \Nbecause he felt something was wrong.
+Dialogue: 10,0:10:12.30,0:10:18.76,Default,,0,0,0,,That kid probably came to you \Nbecause he felt something was wrong.
 Dialogue: 10,0:10:23.89,0:10:26.06,Default,,0,0,0,,Hey, did you see that guy at the gate?
 Dialogue: 10,0:10:26.06,0:10:29.11,Default,,0,0,0,,Yeah, who do you think he's waiting for?
 Dialogue: 10,0:10:29.57,0:10:32.07,Default,,0,0,0,,He's not from our school.
@@ -217,15 +217,15 @@ Dialogue: 10,0:11:03.39,0:11:06.10,Default,,0,0,0,,What did you come all this wa
 Dialogue: 10,0:11:07.27,0:11:10.11,Default,,0,0,0,,It's about that girl from yesterday...
 Dialogue: 10,0:11:10.65,0:11:15.11,Default,,0,0,0,,Yeah... I really feel bad for what I said.
 Dialogue: 10,0:11:15.57,0:11:18.87,Default,,0,0,0,,I met her in that park.
-Dialogue: 10,0:11:20.16,0:11:24.04,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,The first time we met, \Nshe appeared by chance when I was alone.
+Dialogue: 10,0:11:20.16,0:11:24.04,Default,,0,0,0,,The first time we met, \Nshe appeared by chance when I was alone.
 Dialogue: 10,0:11:25.37,0:11:28.38,Default,,0,0,0,,After that, I started seeing her every now and then.
-Dialogue: 10,0:11:29.21,0:11:35.30,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,But she wouldn't tell me her name, \Nher phone number, or what school she went to.
+Dialogue: 10,0:11:29.21,0:11:35.30,Default,,0,0,0,,But she wouldn't tell me her name, \Nher phone number, or what school she went to.
 Dialogue: 10,0:11:35.30,0:11:37.89,Default,,0,0,0,,I thought she didn't like me.
 Dialogue: 10,0:11:38.47,0:11:42.64,Default,,0,0,0,,But her eyes made me feel like she really liked me.
 Dialogue: 10,0:11:43.06,0:11:44.93,Default,,0,0,0,,Hey, Shibata.
 Dialogue: 10,0:11:44.93,0:11:46.27,Default,,0,0,0,,That girl...
 Dialogue: 10,0:11:46.27,0:11:47.56,Default,,0,0,0,,It's cold.
-Dialogue: 10,0:11:48.65,0:11:53.03,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,Whenever I hold her hand while we look \Nat the flowers or the evening sun,
+Dialogue: 10,0:11:48.65,0:11:53.03,Default,,0,0,0,,Whenever I hold her hand while we look \Nat the flowers or the evening sun,
 Dialogue: 10,0:11:53.53,0:11:56.53,Default,,0,0,0,,her hand is always so cold.
 Dialogue: 10,0:11:57.49,0:11:58.53,Default,,0,0,0,,When we first met...
 Dialogue: 10,0:11:59.66,0:12:02.53,Default,,0,0,0,,{\i1}What would you do if I were a monster?
@@ -278,30 +278,30 @@ Dialogue: 10,0:14:09.33,0:14:11.62,Default,,0,0,0,,No, he's...
 Dialogue: 10,0:14:12.00,0:14:13.79,Default,,0,0,0,,a kid I never used to believe,
 Dialogue: 10,0:14:13.79,0:14:15.17,Default,,0,0,0,,and always used to bully.
 Dialogue: 10,0:14:17.13,0:14:18.88,Default,,0,0,0,,What are you going to do?
-Dialogue: 10,0:14:18.88,0:14:22.17,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,I'll watch that demon, \Nand make sure she stays away from Shibata.
+Dialogue: 10,0:14:18.88,0:14:22.17,Default,,0,0,0,,I'll watch that demon, \Nand make sure she stays away from Shibata.
 Dialogue: 10,0:14:22.17,0:14:24.01,Default,,0,0,0,,What a pain.
 Dialogue: 10,0:14:24.01,0:14:27.64,Default,,0,0,0,,You don't have any reason to go that far for him.
 Dialogue: 10,0:14:27.64,0:14:31.81,Default,,0,0,0,,He's kind of a jerk, but not a bad person. I think.
 Dialogue: 10,0:14:33.60,0:14:34.69,Default,,0,0,0,,Oh, fine.
-Dialogue: 10,0:14:34.69,0:14:37.65,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,You owe me another slice of cake \Nand another dried squid!
+Dialogue: 10,0:14:34.69,0:14:37.65,Default,,0,0,0,,You owe me another slice of cake \Nand another dried squid!
 Dialogue: 10,0:14:42.57,0:14:43.78,Default,,0,0,0,,{\i1}This smell...
 Dialogue: 10,0:14:45.41,0:14:46.78,Default,,0,0,0,,Let me go!{ends on scenechange}
 Dialogue: 10,0:14:48.83,0:14:50.54,Default,,0,0,0,,You again?
 Dialogue: 10,0:14:50.54,0:14:52.87,Default,,0,0,0,,Did you come to let me eat you?
 Dialogue: 10,0:14:53.46,0:14:57.71,Default,,0,0,0,,Yesterday, I told Shibata that you weren't human.
-Dialogue: 10,0:14:57.71,0:15:00.46,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,No matter how long you wait \Nto eat him, he won't come!
+Dialogue: 10,0:14:57.71,0:15:00.46,Default,,0,0,0,,No matter how long you wait \Nto eat him, he won't come!
 Dialogue: 10,0:15:00.46,0:15:02.67,Default,,0,0,0,,Give up on him!
 Dialogue: 10,0:15:05.01,0:15:06.09,Default,,0,0,0,,You're lying.
 Dialogue: 10,0:15:06.68,0:15:07.72,Default,,0,0,0,,I'm not lying!
 Dialogue: 10,0:15:07.72,0:15:10.68,Default,,0,0,0,,Then, he didn't believe you.
-Dialogue: 10,0:15:10.68,0:15:14.73,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,If he did, then you wouldn't \Nhave needed to come here.
+Dialogue: 10,0:15:10.68,0:15:14.73,Default,,0,0,0,,If he did, then you wouldn't \Nhave needed to come here.
 Dialogue: 10,0:15:15.48,0:15:17.02,Default,,0,0,0,,W-Well...{added stutter}
-Dialogue: 10,0:15:17.02,0:15:23.11,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,He didn't believe you, so you came here \Nto do something about it yourself, right?
+Dialogue: 10,0:15:17.02,0:15:23.11,Default,,0,0,0,,He didn't believe you, so you came here \Nto do something about it yourself, right?
 Dialogue: 10,0:15:23.69,0:15:24.95,Default,,0,0,0,,Too bad.
 Dialogue: 10,0:15:24.95,0:15:27.74,Default,,0,0,0,,Hey, Natsume. You see her?
 Dialogue: 10,0:15:28.57,0:15:29.24,Default,,0,0,0,,Let me go!
 Dialogue: 10,0:15:31.37,0:15:34.75,Default,,0,0,0,,I can end this right now by eating her.
-Dialogue: 10,0:15:35.33,0:15:36.75,Default,,0,0,0,,Wait, {*}Master{*Sensei}.
+Dialogue: 10,0:15:35.33,0:15:36.75,Default,,0,0,0,,Wait, Master{*Sensei}.
 Dialogue: 10,0:15:36.75,0:15:37.62,Default,,0,0,0,,Natsume.
 Dialogue: 10,0:15:37.62,0:15:39.96,Default,,0,0,0,,Wait just a bit longer.
 Dialogue: 10,0:15:39.96,0:15:42.25,Default,,0,0,0,,I want to see what I should do.
@@ -312,7 +312,7 @@ Dialogue: 10,0:15:53.39,0:15:54.39,Default,,0,0,0,,Chase her!
 Dialogue: 10,0:16:00.48,0:16:01.86,Default,,0,0,0,,She fell!
 Dialogue: 10,0:16:01.86,0:16:04.19,Default,,0,0,0,,I knew it, she's weakened.
 Dialogue: 10,0:16:04.19,0:16:05.15,Default,,0,0,0,,Weakened?
-Dialogue: 10,0:16:05.44,0:16:09.78,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,Yeah. I left her alone because \Nshe didn't have much time left.
+Dialogue: 10,0:16:05.44,0:16:09.78,Default,,0,0,0,,Yeah. I left her alone because \Nshe didn't have much time left.
 Dialogue: 10,0:16:13.70,0:16:14.91,Default,,0,0,0,,Murasaki...
 Dialogue: 10,0:16:16.16,0:16:17.71,Default,,0,0,0,,Murasaki...
 Dialogue: 10,0:16:17.71,0:16:18.87,Default,,0,0,0,,Murasaki?
@@ -325,7 +325,7 @@ Dialogue: 10,0:16:34.72,0:16:38.06,Default,,0,0,0,,If you lowly humans touch me,
 Dialogue: 10,0:16:39.06,0:16:41.73,Default,,0,0,0,,Will you get better if you do?
 Dialogue: 10,0:16:41.73,0:16:43.02,Default,,0,0,0,,I don't know.
 Dialogue: 10,0:16:43.02,0:16:44.48,Default,,0,0,0,,But...
-Dialogue: 10,0:16:44.48,0:16:49.11,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,I thought I'd rather try to eat a human \Nthan just disappear.
+Dialogue: 10,0:16:44.48,0:16:49.11,Default,,0,0,0,,I thought I'd rather try to eat a human \Nthan just disappear.
 Dialogue: 10,0:16:49.70,0:16:54.95,Default,,0,0,0,,I took a human form, but I was so weak...
 Dialogue: 10,0:16:55.45,0:16:58.29,Default,,0,0,0,,When I was tired, and sat down to rest...
 Dialogue: 10,0:16:58.29,0:17:01.21,Default,,0,0,0,,Shibata came to you?
@@ -397,7 +397,7 @@ Dialogue: 10,0:20:15.57,0:20:17.11,Default,,0,0,0,,Murasaki wants to see me!
 Dialogue: 10,0:20:18.70,0:20:19.78,Default,,0,0,0,,This way!
 Dialogue: 10,0:20:27.37,0:20:28.37,Default,,0,0,0,,Murasaki.
 Dialogue: 10,0:20:32.75,0:20:35.46,Default,,0,0,0,,You shouldn't have come.
-Dialogue: 10,0:20:35.46,0:20:38.43,Default,,0,0,0,## AUTOMATIC LINEBREAK ##,I told you I was leaving, \Nand that we couldn't meet anymore, right?
+Dialogue: 10,0:20:35.46,0:20:38.43,Default,,0,0,0,,I told you I was leaving, \Nand that we couldn't meet anymore, right?
 Dialogue: 10,0:20:39.68,0:20:40.30,Default,,0,0,0,,But...
 Dialogue: 10,0:20:41.18,0:20:42.80,Default,,0,0,0,,You promised me, didn't you?
 Dialogue: 10,0:20:43.64,0:20:45.68,Default,,0,0,0,,Take me there, Shibata.

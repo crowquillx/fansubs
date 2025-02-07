@@ -17,14 +17,14 @@ Video File: natsume_s3_04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 42
-Active Line: 47
-Video Position: 6779
+Scroll Position: 303
+Active Line: 314
+Video Position: 31192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
-Style: Default - Alt,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
@@ -109,23 +109,23 @@ Dialogue: 10,0:05:49.83,0:05:50.45,Default,,0,0,0,,I'm going.
 Dialogue: 10,0:05:50.45,0:05:52.00,Default,,0,0,0,,Stay here and watch the house!
 Dialogue: 10,0:05:52.00,0:05:53.58,Default,,0,0,0,,No way!
 Dialogue: 10,0:05:53.58,0:05:54.13,Default,,0,0,0,,I'm going!
-Dialogue: 10,0:05:54.13,0:05:58.21,Default,,0,0,0,,{\an8\i1\i1}Now my days are full of fun.
+Dialogue: 10,0:05:54.13,0:05:58.21,Default,,0,0,0,,{\an8\i1}Now my days are full of fun.
 Dialogue: 10,0:05:54.54,0:05:55.46,Default,,0,0,0,,Ramen!
 Dialogue: 10,0:05:55.46,0:05:56.92,Default,,0,0,0,,I'm going!{unsubbed line after}
-Dialogue: 10,0:06:04.51,0:06:06.18,Default,,0,0,0,,{\i1\i1}It's quiet.
-Dialogue: 10,0:06:08.22,0:06:10.18,Default,,0,0,0,,{\i1\i1}Summer's here.
+Dialogue: 10,0:06:04.51,0:06:06.18,Default,,0,0,0,,{\i1}It's quiet.
+Dialogue: 10,0:06:08.22,0:06:10.18,Default,,0,0,0,,{\i1}Summer's here.
 Dialogue: 10,0:06:10.18,0:06:12.48,Default,,0,0,0,,I can hold my breath for ten minutes!
 Dialogue: 10,0:06:12.48,0:06:13.98,Default,,0,0,0,,That's useless!
 Dialogue: 10,0:06:13.98,0:06:14.85,Default,,0,0,0,,It's not useless!
-Dialogue: 10,0:06:14.85,0:06:18.57,Default,,0,0,0,,{\i1\i1}But I guess it doesn't matter.
+Dialogue: 10,0:06:14.85,0:06:18.57,Default,,0,0,0,,{\i1}But I guess it doesn't matter.
 Dialogue: 10,0:06:18.57,0:06:21.65,Default,,0,0,0,,Anyway, I heard you found something cool?
 Dialogue: 10,0:06:21.65,0:06:24.07,Default,,0,0,0,,I found a big bug.
-Dialogue: 10,0:06:30.91,0:06:34.37,Default,,0,0,0,,{\i1\i1}Being invisible is honestly really useless.
-Dialogue: 10,0:06:34.37,0:06:37.67,Default,,0,0,0,,{\i1\i1}Humans just walk past me.
-Dialogue: 10,0:06:38.34,0:06:40.34,Default,,0,0,0,,{\i1\i1}Just like the seasons.
-Dialogue: 10,0:06:43.34,0:06:46.14,Default,,0,0,0,,{\i1\i1}Was that summer, too?
-Dialogue: 10,0:06:48.68,0:06:50.85,Default,,0,0,0,,{\i1\i1}There was one person...
-Dialogue: 10,0:06:52.10,0:06:53.60,Default,,0,0,0,,{\i1\i1}who could see me.
+Dialogue: 10,0:06:30.91,0:06:34.37,Default,,0,0,0,,{\i1}Being invisible is honestly really useless.
+Dialogue: 10,0:06:34.37,0:06:37.67,Default,,0,0,0,,{\i1}Humans just walk past me.
+Dialogue: 10,0:06:38.34,0:06:40.34,Default,,0,0,0,,{\i1}Just like the seasons.
+Dialogue: 10,0:06:43.34,0:06:46.14,Default,,0,0,0,,{\i1}Was that summer, too?
+Dialogue: 10,0:06:48.68,0:06:50.85,Default,,0,0,0,,{\i1}There was one person...
+Dialogue: 10,0:06:52.10,0:06:53.60,Default,,0,0,0,,{\i1}who could see me.
 Dialogue: 10,0:06:58.98,0:07:01.11,Default,,0,0,0,,It's really pretty.
 Dialogue: 10,0:07:01.11,0:07:02.36,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:07:02.78,0:07:03.69,Default,,0,0,0,,Let me see.
@@ -164,17 +164,17 @@ Dialogue: 10,0:08:30.03,0:08:33.91,Default,,0,0,0,,I think... he looked right at
 Dialogue: 10,0:08:37.16,0:08:38.08,Default,,0,0,0,,No.
 Dialogue: 10,0:08:38.08,0:08:40.79,Default,,0,0,0,,Nobody can see me.
 Dialogue: 10,0:08:41.33,0:08:44.84,Default,,0,0,0,,Humans can't see spirits.
-Dialogue: 10,0:08:47.34,0:08:51.64,Default,,0,0,0,,{\i1\i1}Nobody can see me.
+Dialogue: 10,0:08:47.34,0:08:51.64,Default,,0,0,0,,{\i1}Nobody can see me.
 Dialogue: 10,0:09:01.02,0:09:02.40,Default,,0,0,0,,You really can—
 Dialogue: 10,0:09:09.07,0:09:11.16,Default,,0,0,0,,{\i1}What a rude kid!
 Dialogue: 10,0:09:11.16,0:09:13.12,Default,,0,0,0,,{\i1}I won't forget this!
-Dialogue: 10,0:09:13.12,0:09:16.04,Default,,0,0,0,,{\i1\i1}For every day after that, I chased him,
-Dialogue: 10,0:09:17.54,0:09:18.54,Default,,0,0,0,,{\i1\i1}lied in ambush,
-Dialogue: 10,0:09:20.12,0:09:21.75,Default,,0,0,0,,{\i1\i1}and scared him.
+Dialogue: 10,0:09:13.12,0:09:16.04,Default,,0,0,0,,{\i1}For every day after that, I chased him,
+Dialogue: 10,0:09:17.54,0:09:18.54,Default,,0,0,0,,{\i1}lied in ambush,
+Dialogue: 10,0:09:20.12,0:09:21.75,Default,,0,0,0,,{\i1}and scared him.
 Dialogue: 10,0:09:22.50,0:09:23.50,Default,,0,0,0,,Wait, wait!
-Dialogue: 10,0:09:23.50,0:09:24.84,Default,,0,0,0,,{\i1\i1}He always ran away.
-Dialogue: 10,0:09:26.55,0:09:28.46,Default,,0,0,0,,{\i1\i1}That was all, but...
-Dialogue: 10,0:09:30.51,0:09:33.34,Default,,0,0,0,,{\i1\i1}it was kind of fun.
+Dialogue: 10,0:09:23.50,0:09:24.84,Default,,0,0,0,,{\i1}He always ran away.
+Dialogue: 10,0:09:26.55,0:09:28.46,Default,,0,0,0,,{\i1}That was all, but...
+Dialogue: 10,0:09:30.51,0:09:33.34,Default,,0,0,0,,{\i1}it was kind of fun.
 Dialogue: 10,0:09:34.43,0:09:38.02,Default,,0,0,0,,Now then, where is he today?
 Dialogue: 10,0:09:39.18,0:09:42.44,Default,,0,0,0,,Hey, he transferred, didn't he?
 Dialogue: 10,0:09:42.44,0:09:45.90,Default,,0,0,0,,Yeah, I heard he's creepy.
@@ -183,8 +183,8 @@ Dialogue: 10,0:09:47.27,0:09:48.44,Default,,0,0,0,,Lies?
 Dialogue: 10,0:09:48.44,0:09:51.61,Default,,0,0,0,,He says he can see monsters just to get attention.
 Dialogue: 10,0:09:52.32,0:09:57.12,Default,,0,0,0,,I heard he doesn't have any parents \Nand nobody wants him, so he keeps transferring.
 Dialogue: 10,0:09:58.58,0:10:01.16,Default,,0,0,0,,That's why he's always alone.
-Dialogue: 10,0:10:01.16,0:10:02.83,Default,,0,0,0,,{\i1\i1}He's always alone.
-Dialogue: 10,0:10:04.04,0:10:07.75,Default,,0,0,0,,{\i1\i1}Just because he can see us.
+Dialogue: 10,0:10:01.16,0:10:02.83,Default,,0,0,0,,{\i1}He's always alone.
+Dialogue: 10,0:10:04.04,0:10:07.75,Default,,0,0,0,,{\i1}Just because he can see us.
 Dialogue: 10,0:10:10.34,0:10:12.76,Default,,0,0,0,,Mommy!
 Dialogue: 10,0:10:13.51,0:10:15.18,Default,,0,0,0,,Be careful.
 Dialogue: 10,0:10:15.18,0:10:18.01,Default,,0,0,0,,I made an elephant today!
@@ -192,7 +192,7 @@ Dialogue: 10,0:10:18.01,0:10:18.93,Default,,0,0,0,,Wow.
 Dialogue: 10,0:10:18.93,0:10:22.27,Default,,0,0,0,,And I did a handstand!
 Dialogue: 10,0:10:26.61,0:10:29.69,Default,,0,0,0,,You got scared! You were scared, weren't you?
 Dialogue: 10,0:10:30.23,0:10:31.61,Default,,0,0,0,,Why?
-Dialogue: 10,0:10:33.03,0:10:35.45,Default,,0,0,0,,{\i1\i1}That's the first time he's spoken to me.
+Dialogue: 10,0:10:33.03,0:10:35.45,Default,,0,0,0,,{\i1}That's the first time he's spoken to me.
 Dialogue: 10,0:10:35.87,0:10:38.16,Default,,0,0,0,,Why do you care about me?
 Dialogue: 10,0:10:38.70,0:10:39.95,Default,,0,0,0,,Are you bored?
 Dialogue: 10,0:10:40.87,0:10:41.95,Default,,0,0,0,,Bored?
@@ -208,15 +208,15 @@ Dialogue: 10,0:11:19.95,0:11:21.33,Default,,0,0,0,,How rude!
 Dialogue: 10,0:11:21.33,0:11:22.54,Default,,0,0,0,,Nose hair!
 Dialogue: 10,0:11:50.65,0:11:52.27,Default,,0,0,0,,{\an8}Look at that! It's so pretty!
 Dialogue: 10,0:11:52.27,0:11:54.94,Default,,0,0,0,,{\an8}Yeah, it's beautiful!
-Dialogue: 10,0:11:52.27,0:11:57.15,Default,,0,0,0,,{\i1\i1}I used to live around here.
+Dialogue: 10,0:11:52.27,0:11:57.15,Default,,0,0,0,,{\i1}I used to live around here.
 Dialogue: 10,0:11:57.15,0:11:58.24,Default,,0,0,0,,{\an8}Shut up about the ramen.
 Dialogue: 10,0:11:58.24,0:11:59.91,Default,,0,0,0,,What's wrong, Natsume?
 Dialogue: 10,0:11:59.91,0:12:01.41,Default,,0,0,0,,You're spacing out.
 Dialogue: 10,0:12:01.41,0:12:04.41,Default,,0,0,0,,What, are you hungry, too?
 Dialogue: 10,0:12:05.62,0:12:07.79,Default,,0,0,0,,No, it's nothing.
-Dialogue: 10,0:12:09.46,0:12:12.80,Default,,0,0,0,,{\i1\i1}My relatives passed me from one house to another.
-Dialogue: 10,0:12:12.80,0:12:16.34,Default,,0,0,0,,{\i1\i1}So I don't remember exactly where I was.
-Dialogue: 10,0:12:16.34,0:12:17.47,Default,,0,0,0,,{\i1\i1}But that...
+Dialogue: 10,0:12:09.46,0:12:12.80,Default,,0,0,0,,{\i1}My relatives passed me from one house to another.
+Dialogue: 10,0:12:12.80,0:12:16.34,Default,,0,0,0,,{\i1}So I don't remember exactly where I was.
+Dialogue: 10,0:12:16.34,0:12:17.47,Default,,0,0,0,,{\i1}But that...
 Dialogue: 10,0:12:20.18,0:12:21.47,Default,,0,0,0,,I'm back.
 Dialogue: 10,0:12:21.97,0:12:23.93,Default,,0,0,0,,I'm the one with the problem.
 Dialogue: 10,0:12:23.93,0:12:27.48,Default,,0,0,0,,Anyway, I need you to take him next week.
@@ -250,7 +250,7 @@ Dialogue: 10,0:14:22.93,0:14:23.68,Default,,0,0,0,,{\i1}Oww...
 Dialogue: 10,0:14:23.68,0:14:24.93,Default,,0,0,0,,{\i1}I'm sorry.
 Dialogue: 10,0:14:24.93,0:14:27.14,Default,,0,0,0,,{\i1}I'm soaked!
 Dialogue: 10,0:14:27.14,0:14:28.93,Default,,0,0,0,,{\i1}What was that for?
-Dialogue: 10,0:14:30.47,0:14:32.43,Default,,0,0,0,,{\i1\i1}Shoot! I didn't mean to do that.
+Dialogue: 10,0:14:30.47,0:14:32.43,Default,,0,0,0,,{\i1}Shoot! I didn't mean to do that.
 Dialogue: 10,0:14:32.43,0:14:33.52,Default,,0,0,0,,{\i1}I-I'm sorry!
 Dialogue: 10,0:14:33.52,0:14:34.69,Default,,0,0,0,,{\i1}I just...
 Dialogue: 10,0:14:34.69,0:14:35.81,Default,,0,0,0,,{\i1}Get lost.
@@ -258,30 +258,30 @@ Dialogue: 10,0:14:37.36,0:14:38.86,Default,,0,0,0,,{\i1}Get lost!
 Dialogue: 10,0:14:39.90,0:14:41.99,Default,,0,0,0,,{\i1}What did I do to you?
 Dialogue: 10,0:14:43.57,0:14:45.20,Default,,0,0,0,,{\i1}Why do I...
 Dialogue: 10,0:14:46.28,0:14:50.20,Default,,0,0,0,,{\i1}I hate you all!
-Dialogue: 10,0:14:55.87,0:15:00.42,Default,,0,0,0,,{\i1\i1}That was last day he took this path.
-Dialogue: 10,0:15:02.21,0:15:05.97,Default,,0,0,0,,{\i1\i1}It felt like he was taking \Nthe long way around to school.
-Dialogue: 10,0:15:09.85,0:15:13.48,Default,,0,0,0,,{\i1\i1}I don't think he'll listen to me anymore.
-Dialogue: 10,0:15:14.31,0:15:16.81,Default,,0,0,0,,{\i1\i1}He won't see me anymore.
+Dialogue: 10,0:14:55.87,0:15:00.42,Default,,0,0,0,,{\i1}That was last day he took this path.
+Dialogue: 10,0:15:02.21,0:15:05.97,Default,,0,0,0,,{\i1}It felt like he was taking \Nthe long way around to school.
+Dialogue: 10,0:15:09.85,0:15:13.48,Default,,0,0,0,,{\i1}I don't think he'll listen to me anymore.
+Dialogue: 10,0:15:14.31,0:15:16.81,Default,,0,0,0,,{\i1}He won't see me anymore.
 Dialogue: 10,0:15:20.32,0:15:21.57,Default,,0,0,0,,{\i1}But still...
 Dialogue: 10,0:15:45.59,0:15:48.30,Default,,0,0,0,,{\i1}He's alone again.
 Dialogue: 10,0:15:55.93,0:15:58.56,Default,,0,0,0,,Oh, it's a kitty.
 Dialogue: 10,0:16:00.81,0:16:01.90,Default,,0,0,0,,Come here.
 Dialogue: 10,0:16:11.95,0:16:15.79,Default,,0,0,0,,You smell kind of nice.
-Dialogue: 10,0:16:17.96,0:16:20.83,Default,,0,0,0,,{\i1\i1}He looks so kind...
-Dialogue: 10,0:16:27.55,0:16:29.05,Default,,0,0,0,,{\i1\i1}He's warm.
-Dialogue: 10,0:16:29.05,0:16:32.39,Default,,0,0,0,,{\i1\i1}I want to stay by him forever.
+Dialogue: 10,0:16:17.96,0:16:20.83,Default,,0,0,0,,{\i1}He looks so kind...
+Dialogue: 10,0:16:27.55,0:16:29.05,Default,,0,0,0,,{\i1}He's warm.
+Dialogue: 10,0:16:29.05,0:16:32.39,Default,,0,0,0,,{\i1}I want to stay by him forever.
 Dialogue: 10,0:16:30.51,0:16:32.39,Default,,0,0,0,,It must be nice to be you.
 Dialogue: 10,0:16:34.10,0:16:37.98,Default,,0,0,0,,I want to be alone, too.
 Dialogue: 10,0:16:40.31,0:16:43.98,Default,,0,0,0,,I want to live by myself.
-Dialogue: 10,0:16:53.08,0:16:57.62,Default,,0,0,0,,{\i1\i1}I'm a spirit, so I don't understand humans.
-Dialogue: 10,0:16:59.16,0:17:03.04,Default,,0,0,0,,{\i1\i1}But it's sad to be alone.
-Dialogue: 10,0:17:03.04,0:17:05.30,Default,,0,0,0,,{\i1\i1}I know that.
-Dialogue: 10,0:17:05.30,0:17:07.30,Default,,0,0,0,,{\i1\i1}If nothing else, I know that.
-Dialogue: 10,0:17:11.22,0:17:15.85,Default,,0,0,0,,{\i1\i1}A few days ago, he was taken far away.
+Dialogue: 10,0:16:53.08,0:16:57.62,Default,,0,0,0,,{\i1}I'm a spirit, so I don't understand humans.
+Dialogue: 10,0:16:59.16,0:17:03.04,Default,,0,0,0,,{\i1}But it's sad to be alone.
+Dialogue: 10,0:17:03.04,0:17:05.30,Default,,0,0,0,,{\i1}I know that.
+Dialogue: 10,0:17:05.30,0:17:07.30,Default,,0,0,0,,{\i1}If nothing else, I know that.
+Dialogue: 10,0:17:11.22,0:17:15.85,Default,,0,0,0,,{\i1}A few days ago, he was taken far away.
 Dialogue: 10,0:17:16.77,0:17:18.60,Default,,0,0,0,,Let's go.
-Dialogue: 10,0:17:18.60,0:17:20.27,Default,,0,0,0,,{\i1\i1}Who's that woman?
-Dialogue: 10,0:17:20.27,0:17:22.60,Default,,0,0,0,,{\i1\i1}Her lips and nails are bright red.
-Dialogue: 10,0:17:22.60,0:17:25.73,Default,,0,0,0,,{\i1\i1}And that man's eyes keep shifting around.
+Dialogue: 10,0:17:18.60,0:17:20.27,Default,,0,0,0,,{\i1}Who's that woman?
+Dialogue: 10,0:17:20.27,0:17:22.60,Default,,0,0,0,,{\i1}Her lips and nails are bright red.
+Dialogue: 10,0:17:22.60,0:17:25.73,Default,,0,0,0,,{\i1}And that man's eyes keep shifting around.
 Dialogue: 10,0:17:27.11,0:17:29.03,Default,,0,0,0,,I'll take him.
 Dialogue: 10,0:17:29.03,0:17:31.24,Default,,0,0,0,,We have a kid your age.
 Dialogue: 10,0:17:31.24,0:17:33.82,Default,,0,0,0,,Don't sweat it. You'll get used to it soon.
@@ -289,10 +289,10 @@ Dialogue: 10,0:17:33.82,0:17:34.70,Default,,0,0,0,,Right, Mommy?
 Dialogue: 10,0:17:34.70,0:17:36.45,Default,,0,0,0,,That's right.
 Dialogue: 10,0:17:36.45,0:17:38.16,Default,,0,0,0,,We're a fun family.
 Dialogue: 10,0:17:46.34,0:17:47.71,Default,,0,0,0,,{\i1}After that...
-Dialogue: 10,0:17:49.34,0:17:52.22,Default,,0,0,0,,{\i1\i1}I never saw him again.
-Dialogue: 10,0:17:54.59,0:17:57.10,Default,,0,0,0,,{\i1\i1}So what if I'm alone?
-Dialogue: 10,0:17:58.35,0:18:00.43,Default,,0,0,0,,{\i1\i1}It's much better to be alone.
-Dialogue: 10,0:18:02.19,0:18:05.86,Default,,0,0,0,,{\i1\i1}Why do those humans always \Nwant to be with each other?
+Dialogue: 10,0:17:49.34,0:17:52.22,Default,,0,0,0,,{\i1}I never saw him again.
+Dialogue: 10,0:17:54.59,0:17:57.10,Default,,0,0,0,,{\i1}So what if I'm alone?
+Dialogue: 10,0:17:58.35,0:18:00.43,Default,,0,0,0,,{\i1}It's much better to be alone.
+Dialogue: 10,0:18:02.19,0:18:05.86,Default,,0,0,0,,{\i1}Why do those humans always \Nwant to be with each other?
 Dialogue: 10,0:18:16.58,0:18:17.62,Default,,0,0,0,,What pretty flowers!
 Dialogue: 10,0:18:18.29,0:18:19.20,Default,,0,0,0,,Let me see.
 Dialogue: 10,0:18:21.00,0:18:21.54,Default,,0,0,0,,What?
@@ -306,10 +306,10 @@ Dialogue: 10,0:18:36.14,0:18:37.60,Default,,0,0,0,,Come on, don't say that.
 Dialogue: 10,0:18:37.60,0:18:38.64,Default,,0,0,0,,What?
 Dialogue: 10,0:18:38.64,0:18:40.06,Default,,0,0,0,,I'm sick of this.
 Dialogue: 10,0:18:40.06,0:18:40.89,Default,,0,0,0,,Sick of this? {You can't...}
-Dialogue: 10,0:18:40.89,0:18:43.48,Default,,0,0,0,,{\i1\i1}What an ugly, twisted face.
-Dialogue: 10,0:18:45.15,0:18:49.48,Default,,0,0,0,,{\i1\i1}I really hate humans.
+Dialogue: 10,0:18:40.89,0:18:43.48,Default,,0,0,0,,{\i1}What an ugly, twisted face.
+Dialogue: 10,0:18:45.15,0:18:49.48,Default,,0,0,0,,{\i1}I really hate humans.
 Dialogue: 10,0:18:49.48,0:18:51.36,Default,,0,0,0,,Why don't you just take care of her?
-Dialogue: 10,0:18:51.36,0:18:55.28,Default,,0,0,0,,{\i1\i1}I wish they'd all just disappear.
+Dialogue: 10,0:18:51.36,0:18:55.28,Default,,0,0,0,,{\i1}I wish they'd all just disappear.
 Dialogue: 10,0:19:01.12,0:19:03.16,Default,,0,0,0,,I hate them!
 Dialogue: 10,0:19:03.16,0:19:04.66,Default,,0,0,0,,I hate them all!
 Dialogue: 10,0:19:04.66,0:19:08.38,Default,,0,0,0,,Those ugly things that only think about themselves...
@@ -323,25 +323,25 @@ Dialogue: 10,0:19:35.40,0:19:37.11,Default,,0,0,0,,Oww!
 Dialogue: 10,0:19:44.58,0:19:46.37,Default,,0,0,0,,A cat!
 Dialogue: 10,0:19:46.37,0:19:47.62,Default,,0,0,0,,I hate cats!
 Dialogue: 10,0:19:47.62,0:19:49.08,Default,,0,0,0,,Get lost!
-Dialogue: 10,0:19:51.75,0:19:53.67,Default,,0,0,0,,{\i1\i1}I don't think anymore.
-Dialogue: 10,0:19:53.67,0:19:55.22,Default,,0,0,0,,{\i1\i1}I don't think at all.
-Dialogue: 10,0:19:56.43,0:19:58.72,Default,,0,0,0,,{\i1\i1}Time has stopped for me.
-Dialogue: 10,0:20:00.51,0:20:02.43,Default,,0,0,0,,{\i1\i1}What's he doing now?
-Dialogue: 10,0:20:03.60,0:20:06.18,Default,,0,0,0,,{\i1\i1}With his kind smile, and his sad wish...
-Dialogue: 10,0:20:07.48,0:20:10.52,Default,,0,0,0,,{\i1\i1}Is he smiling?
+Dialogue: 10,0:19:51.75,0:19:53.67,Default,,0,0,0,,{\i1}I don't think anymore.
+Dialogue: 10,0:19:53.67,0:19:55.22,Default,,0,0,0,,{\i1}I don't think at all.
+Dialogue: 10,0:19:56.43,0:19:58.72,Default,,0,0,0,,{\i1}Time has stopped for me.
+Dialogue: 10,0:20:00.51,0:20:02.43,Default,,0,0,0,,{\i1}What's he doing now?
+Dialogue: 10,0:20:03.60,0:20:06.18,Default,,0,0,0,,{\i1}With his kind smile, and his sad wish...
+Dialogue: 10,0:20:07.48,0:20:10.52,Default,,0,0,0,,{\i1}Is he smiling?
 Dialogue: 10,0:20:11.90,0:20:13.53,Default,,0,0,0,,Good.
 Dialogue: 10,0:20:13.53,0:20:15.24,Default,,0,0,0,,You're still here.
-Dialogue: 10,0:20:25.66,0:20:28.29,Default,,0,0,0,,{\i1\i1}I don't know how many seasons it's been,
-Dialogue: 10,0:20:28.83,0:20:30.96,Default,,0,0,0,,{\i1\i1}but I've never forgotten.
-Dialogue: 10,0:20:31.59,0:20:34.34,Default,,0,0,0,,{\i1\i1}I've always remembered.
+Dialogue: 10,0:20:25.66,0:20:28.29,Default,,0,0,0,,{\i1}I don't know how many seasons it's been,
+Dialogue: 10,0:20:28.83,0:20:30.96,Default,,0,0,0,,{\i1}but I've never forgotten.
+Dialogue: 10,0:20:31.59,0:20:34.34,Default,,0,0,0,,{\i1}I've always remembered.
 Dialogue: 10,0:20:34.71,0:20:36.59,Default,,0,0,0,,It was bothering me.
 Dialogue: 10,0:20:36.59,0:20:39.13,Default,,0,0,0,,We said goodbye in such a strange way.
 Dialogue: 10,0:20:39.13,0:20:40.93,Default,,0,0,0,,I'm glad you're all right.
 Dialogue: 10,0:20:41.64,0:20:44.85,Default,,0,0,0,,Back then, I could only get mad at others,
 Dialogue: 10,0:20:45.47,0:20:48.85,Default,,0,0,0,,but now, I think I understand your kindness.
-Dialogue: 10,0:20:51.81,0:20:55.78,Default,,0,0,0,,{\i1\i1}I'm sure he's met another kind soul...
-Dialogue: 10,0:20:55.78,0:20:57.78,Default,,0,0,0,,{\i1\i1}if he can smile like that.
-Dialogue: 10,0:21:05.54,0:21:07.54,Default,,0,0,0,,{\i1\i1}I remember this smell.
+Dialogue: 10,0:20:51.81,0:20:55.78,Default,,0,0,0,,{\i1}I'm sure he's met another kind soul...
+Dialogue: 10,0:20:55.78,0:20:57.78,Default,,0,0,0,,{\i1}if he can smile like that.
+Dialogue: 10,0:21:05.54,0:21:07.54,Default,,0,0,0,,{\i1}I remember this smell.
 Dialogue: 10,0:21:10.62,0:21:12.50,Default,,0,0,0,,My name is Natsume Takashi.
 Dialogue: 10,0:21:13.25,0:21:15.34,Default,,0,0,0,,Would you tell me your name?
 Dialogue: 10,0:21:21.64,0:21:23.55,Default,,0,0,0,,Welcome home!
@@ -353,7 +353,7 @@ Dialogue: 10,0:21:32.85,0:21:35.69,Default,,0,0,0,,Yeah, what about you?
 Dialogue: 10,0:21:35.69,0:21:37.23,Default,,0,0,0,,Did you have fun?
 Dialogue: 10,0:21:37.23,0:21:38.03,Default,,0,0,0,,Yes.
 Dialogue: 10,0:21:38.03,0:21:40.32,Default,,0,0,0,,I'm glad.
-Dialogue: 10,0:21:40.95,0:21:42.99,Default,,0,0,0,,{\an8}{\i1}I had one, too.
+Dialogue: 10,0:21:40.95,0:21:42.99,Default,,0,0,0,,{\an8\i1}I had one, too.
 Dialogue: 10,0:21:41.82,0:21:44.91,Default,,0,0,0,,What? You want to make a stop somewhere?
 Dialogue: 10,0:21:45.70,0:21:48.54,Default,,0,0,0,,Um, there's somebody I want to find.
 Dialogue: 10,0:21:48.54,0:21:52.08,Default,,0,0,0,,It's an old friend, \Nbut I don't know if I can see them.
@@ -368,8 +368,8 @@ Dialogue: 10,0:22:06.18,0:22:07.93,Default,,0,0,0,,Have a good time!
 Dialogue: 10,0:22:07.93,0:22:08.85,Default,,0,0,0,,Bye!
 Dialogue: 10,0:22:08.85,0:22:10.85,Default,,0,0,0,,Bye!
 Dialogue: 10,0:22:18.15,0:22:19.61,Default,,0,0,0,,{\i1}I understand now.
-Dialogue: 10,0:22:20.44,0:22:23.03,Default,,0,0,0,,{\i1\i1}If there's somebody you want to see,
-Dialogue: 10,0:22:23.74,0:22:25.53,Default,,0,0,0,,{\i1\i1}then you're not alone anymore.
+Dialogue: 10,0:22:20.44,0:22:23.03,Default,,0,0,0,,{\i1}If there's somebody you want to see,
+Dialogue: 10,0:22:23.74,0:22:25.53,Default,,0,0,0,,{\i1}then you're not alone anymore.
 Dialogue: 10,0:24:00.09,0:24:03.30,Default,,0,0,0,,There are demons who remember \Nmy grandfather here in this house?
 Dialogue: 10,0:24:03.30,0:24:07.26,Default,,0,0,0,,Yeah, they all came because they remembered him.
 Dialogue: 10,0:24:07.26,0:24:11.14,Default,,0,0,0,,My grandfather was never able to see demons.
