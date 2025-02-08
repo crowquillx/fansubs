@@ -17,9 +17,9 @@ Video File: natsume_s3_06.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 336
-Active Line: 353
-Video Position: 32369
+Scroll Position: 92
+Active Line: 114
+Video Position: 13012
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 10,0:01:46.84,0:01:49.17,Default,,0,0,0,,People can hear you!
 Dialogue: 10,0:01:49.17,0:01:51.05,Default,,0,0,0,,Cats can't eat squid, anyway.
 Dialogue: 10,0:01:51.05,0:01:55.18,Default,,0,0,0,,{\q2}Fool! I'm no cat! Are you going to take \Nthe pleasure of squid away from a middle-aged demon?{CPS}
 Dialogue: 10,0:01:55.64,0:01:58.39,Default,,0,0,0,,Don't say things that make me want to drop you.
-Dialogue: 10,0:02:02.89,0:02:07.40,Default,,0,0,0,,Jeez... at least chew your food, Master{*Sensei}.
+Dialogue: 10,0:02:02.89,0:02:07.40,Default,,0,0,0,,Jeez... at least chew your food, {*}Master{*Sensei}.
 Dialogue: 10,0:02:07.40,0:02:10.53,Default,,0,0,0,,The tastiest parts of a fried squid are the tentacles.
 Dialogue: 10,0:02:11.69,0:02:12.95,Default,,0,0,0,,Wait, squid!
 Dialogue: 10,0:02:12.95,0:02:13.78,Default,,0,0,0,,Squid, wait!
@@ -112,7 +112,7 @@ Dialogue: 10,0:06:12.77,0:06:14.48,Default,,0,0,0,,Were they okay after they wer
 Dialogue: 10,0:06:15.56,0:06:19.40,Default,,0,0,0,,To me, my friends are like family.
 Dialogue: 10,0:06:20.57,0:06:24.99,Default,,0,0,0,,I must protect the few I have left.
 Dialogue: 10,0:06:27.66,0:06:28.74,Default,,0,0,0,,Farewell.
-Dialogue: 10,0:06:33.54,0:06:35.08,Default,,0,0,0,,Master{*Sensei}...
+Dialogue: 10,0:06:33.54,0:06:35.08,Default,,0,0,0,,{*}Master{*Sensei}...
 Dialogue: 10,0:06:35.08,0:06:37.38,Default,,0,0,0,,You decided to stay out of it, right?
 Dialogue: 10,0:06:39.38,0:06:43.76,Default,,0,0,0,,You're gonna act depressed either way, aren't you?
 Dialogue: 10,0:06:43.76,0:06:46.72,Default,,0,0,0,,You're very different from Reiko. \NShe was always smiling.
@@ -150,10 +150,10 @@ Dialogue: 10,0:08:30.28,0:08:33.74,Default,,0,0,0,,I didn't see the face, but I 
 Dialogue: 10,0:08:38.54,0:08:39.92,Default,,0,0,0,,{\i1}I knew it.
 Dialogue: 10,0:08:39.92,0:08:42.54,Default,,0,0,0,,{\i1}It's a human that's attacking demons.
 Dialogue: 10,0:08:42.54,0:08:44.04,Default,,0,0,0,,{\i1}Why would someone do that?
-Dialogue: 10,0:08:52.05,0:08:55.68,Default,,0,0,0,,Master{*Sensei}, that guy had a scratch on his arm.
+Dialogue: 10,0:08:52.05,0:08:55.68,Default,,0,0,0,,{*}Master{*Sensei}, that guy had a scratch on his arm.
 Dialogue: 10,0:08:56.39,0:08:57.81,Default,,0,0,0,,Is that a coincidence?
 Dialogue: 10,0:08:58.39,0:09:01.94,Default,,0,0,0,,That's where I scratched that person yesterday.
-Dialogue: 10,0:09:02.69,0:09:03.44,Default,,0,0,0,,Master{*Sensei}?
+Dialogue: 10,0:09:02.69,0:09:03.44,Default,,0,0,0,,{*}Master{*Sensei}?
 Dialogue: 10,0:09:04.32,0:09:06.69,Default,,0,0,0,,Who was that guy?
 Dialogue: 10,0:09:06.69,0:09:08.94,Default,,0,0,0,,I felt something really bad.
 Dialogue: 10,0:09:13.74,0:09:14.66,Default,,0,0,0,,We're going after him!
@@ -269,7 +269,7 @@ Dialogue: 10,0:16:04.15,0:16:05.82,Default,,0,0,0,,Get eaten!
 Dialogue: 10,0:16:05.82,0:16:07.15,Default,,0,0,0,,Get eaten!
 Dialogue: 10,0:16:08.95,0:16:10.16,Default,,0,0,0,,A dream?
 Dialogue: 10,0:16:15.37,0:16:16.75,Default,,0,0,0,,What's that?
-Dialogue: 10,0:16:19.37,0:16:20.42,Default,,0,0,0,,Master{*Sensei}?
+Dialogue: 10,0:16:19.37,0:16:20.42,Default,,0,0,0,,{*}Master{*Sensei}?
 Dialogue: 10,0:16:20.42,0:16:25.96,Default,,0,0,0,,A piece of the the paper-masked spirit \NI got rid of got stuck to your clothes.
 Dialogue: 10,0:16:25.96,0:16:30.30,Default,,0,0,0,,Well, it's a spirit, but it's a man-made one.
 Dialogue: 10,0:16:30.30,0:16:31.14,Default,,0,0,0,,Man-made?
@@ -292,7 +292,7 @@ Dialogue: 10,0:17:23.56,0:17:24.82,Default,,0,0,0,,That's right.
 Dialogue: 10,0:17:24.82,0:17:28.15,Default,,0,0,0,,Natsume, now's your last chance to back out.
 Dialogue: 10,0:17:28.15,0:17:33.20,Default,,0,0,0,,I can protect you from spirits, \Nbut it's different with humans.
 Dialogue: 10,0:17:33.20,0:17:36.87,Default,,0,0,0,,Especially that Matoba guy. He's pretty bad.
-Dialogue: 10,0:17:37.37,0:17:38.70,Default,,0,0,0,,Master{*Sensei}...
+Dialogue: 10,0:17:37.37,0:17:38.70,Default,,0,0,0,,{*}Master{*Sensei}...
 Dialogue: 10,0:17:38.70,0:17:40.79,Default,,0,0,0,,I'm back.
 Dialogue: 10,0:17:40.79,0:17:42.42,Default,,0,0,0,,Oh, you're here.
 Dialogue: 10,0:17:42.42,0:17:43.88,Default,,0,0,0,,Natori{**-san}.
@@ -358,7 +358,7 @@ Dialogue: 10,0:20:39.59,0:20:40.43,Default,,0,0,0,,But...
 Dialogue: 10,0:20:40.43,0:20:42.68,Default,,0,0,0,,I'll go instead.
 Dialogue: 10,0:20:42.68,0:20:45.72,Default,,0,0,0,,Don't open the door for anybody until I get back.
 Dialogue: 10,0:20:45.72,0:20:47.02,Default,,0,0,0,,Fine.
-Dialogue: 10,0:20:47.02,0:20:48.44,Default,,0,0,0,,Be careful, Master{*Sensei}.
+Dialogue: 10,0:20:47.02,0:20:48.44,Default,,0,0,0,,Be careful, {*}Master{*Sensei}.
 Dialogue: 10,0:20:50.02,0:20:51.94,Default,,0,0,0,,What's wrong with this door?
 Dialogue: 10,0:20:56.99,0:21:00.20,Default,,0,0,0,,I'm useless as ever, huh?
 Dialogue: 10,0:21:03.91,0:21:05.49,Default,,0,0,0,,{\i1}What was that?
@@ -378,7 +378,7 @@ Dialogue: 10,0:21:40.28,0:21:42.20,Default,,0,0,0,,{\i1}What is she?
 Dialogue: 10,0:21:48.16,0:21:51.00,Default,,0,0,0,,Now, sorry, but I'll be taking your blood.
 Dialogue: 10,0:21:51.00,0:21:52.50,Default,,0,0,0,,Get off me!
 Dialogue: 10,0:21:55.09,0:21:57.84,Default,,0,0,0,,{\i1}She said she wanted the blood of people \Nwith strong spiritual energy.
-Dialogue: 10,0:21:57.84,0:21:59.59,Default,,0,0,0,,{\i1*}Master{*Sensei} and Natori{**-san} might be in danger.
+Dialogue: 10,0:21:57.84,0:21:59.59,Default,,0,0,0,,{\i1*}{*}Master{*Sensei} and Natori{**-san} might be in danger.
 Dialogue: 10,0:22:03.84,0:22:05.22,Default,,0,0,0,,Oh, my.
 Dialogue: 10,0:22:05.76,0:22:07.31,Default,,0,0,0,,We keep running into each other.
 Dialogue: 10,0:22:08.72,0:22:12.06,Default,,0,0,0,,Your cat isn't with you today, is he?
