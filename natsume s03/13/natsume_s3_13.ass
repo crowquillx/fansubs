@@ -17,8 +17,9 @@ Video File: ../../../natsume 3/natsume_s3_13.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 13
-Video Position: 389
+Scroll Position: 353
+Active Line: 375
+Video Position: 21191
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -230,7 +231,7 @@ Dialogue: 10,0:05:16.34,0:05:17.34,Default,,0,0,0,,Oh, yeah.
 Dialogue: 10,0:05:24.68,0:05:28.27,Default,,0,0,0,,{\i1}I watched the other kids play, but I never joined them.
 Dialogue: 10,0:05:32.23,0:05:35.15,Default,,0,0,0,,We never decided on where to go.
 Dialogue: 10,0:05:35.15,0:05:38.28,Default,,0,0,0,,You shot down everything.
-Dialogue: 10,0:05:38.28,0:05:41.45,Default,,0,0,0,,Hey, where do you want to go, Natsume(**-kun}?
+Dialogue: 10,0:05:38.28,0:05:41.45,Default,,0,0,0,,Hey, where do you want to go, Natsume{**-kun}?
 Dialogue: 10,0:05:41.45,0:05:42.78,Default,,0,0,0,,Honestly...
 Dialogue: 10,0:05:43.57,0:05:46.03,Default,,0,0,0,,anywhere would be fine.
 Dialogue: 10,0:05:46.03,0:05:49.20,Default,,0,0,0,,If we can all go together, any place would be fun.
@@ -315,7 +316,7 @@ Dialogue: 10,0:09:10.53,0:09:12.57,Default,,0,0,0,,Don't be a spoilsport.
 Dialogue: 10,0:09:12.57,0:09:15.70,Default,,0,0,0,,Come on, you can hang out with us.
 Dialogue: 10,0:09:15.70,0:09:17.37,Default,,0,0,0,,Hang out, hang out!
 Dialogue: 10,0:09:17.37,0:09:19.29,Default,,0,0,0,,That's right.
-Dialogue: 10,0:09:19.29,0:09:22.17,Default,,0,0,0,,Please join us, Natsume{**-sama}.
+Dialogue: 10,0:09:19.29,0:09:22.17,Default,,0,0,0,,Please join us, Natsume{**-oyabun}
 Dialogue: 10,0:09:23.29,0:09:25.67,Default,,0,0,0,,Stop it, you guys!
 Dialogue: 10,0:09:26.38,0:09:30.55,Default,,0,0,0,,Takashi{**-kun}, come down.
 Dialogue: 10,0:09:30.55,0:09:31.88,Default,,0,0,0,,Coming!
@@ -390,7 +391,7 @@ Comment: 10,0:13:19.61,0:13:21.32,Default - Overlap,,0,0,0,,Over here!
 Dialogue: 0,0:13:19.70,0:13:21.32,Default,,0,0,0,,{=8}{\clip()\t(16,1600,\clip())\fscy100\t(16,1600,\fscy99.99)\bord3.8\t(16,1600,\bord3.8)\shad1.5\t(16,1600,\shad1.5)\fscx100\t(16,1600,\fscx99.99)\an3\move(2017.6,981.6,1944.63,981.53,16,1600)}Over here, over here.
 Dialogue: 0,0:13:21.32,0:13:22.91,Default,,0,0,0,,{=9}{\clip()\t(22,1565,\clip())\fscy100\t(22,1565,\fscy100)\bord3.8\t(22,1565,\bord3.8)\shad1.5\t(22,1565,\shad1.5)\fscx100\t(22,1565,\fscx100)\an3\move(1864,981.6,1792.93,981.6,22,1565)}Sit next to me?
 Comment: 10,0:13:21.32,0:13:22.91,Default,,0,0,0,,Come sit by me.
-Dialogue: 10,0:13:22.91,0:13:24.62,Default,,0,0,0,,Here you go, Natsume.
+Dialogue: 10,0:13:22.91,0:13:24.62,Default,,0,0,0,,Here you go, Natsume{**-oyabun}.
 Dialogue: 0,0:13:22.91,0:13:22.91,Sign,,0,0,0,,
 Dialogue: 10,0:13:24.62,0:13:26.12,Default,,0,0,0,,You have to drink three for being late.
 Dialogue: 10,0:13:26.12,0:13:28.41,Default,,0,0,0,,No, I'm a minor.
@@ -402,13 +403,13 @@ Dialogue: 10,0:13:36.13,0:13:37.21,Default,,0,0,0,,Benio{**-san}.
 Dialogue: 10,0:13:37.21,0:13:38.88,Default,,0,0,0,,It's been a while.
 Dialogue: 10,0:13:38.88,0:13:42.05,Default,,0,0,0,,I came for the free drinks. So all this is for you?
 Dialogue: 10,0:13:42.05,0:13:43.84,Default,,0,0,0,,Hey, Benio.
-Dialogue: 10,0:13:43.84,0:13:45.60,Default,,0,0,0,,Oh, {*}Mister Madara{madara-sama}.
+Dialogue: 10,0:13:43.84,0:13:45.60,Default,,0,0,0,,Oh, {*}Mister Madara{Madara-sama}.
 Dialogue: 10,0:13:45.60,0:13:48.81,Default,,0,0,0,,You're still in that pitiful, tiny form.
 Dialogue: 10,0:13:48.81,0:13:50.56,Default,,0,0,0,,You're just shallow.
 Dialogue: 10,0:13:50.56,0:13:53.69,Default,,0,0,0,,I know someone who adores this form!
 Dialogue: 10,0:13:53.69,0:13:55.36,Default,,0,0,0,,Although she's a human girl.
 Dialogue: 10,0:13:55.36,0:13:56.23,Default,,0,0,0,,What?
-Dialogue: 10,0:13:57.82,0:14:02.07,Default,,0,0,0,,You know a lot of powerful demons, Natsume.
+Dialogue: 10,0:13:57.82,0:14:02.07,Default,,0,0,0,,You know a lot of powerful demons, Natsume{**-oyabun}.
 Dialogue: 10,0:14:02.07,0:14:03.24,Default,,0,0,0,,Really?
 Dialogue: 10,0:14:09.24,0:14:10.87,Default,,0,0,0,,Hey, Natsume!
 Dialogue: 10,0:14:10.87,0:14:12.37,Default,,0,0,0,,You dance too!
@@ -426,7 +427,7 @@ Dialogue: 10,0:14:37.73,0:14:39.44,Default,,0,0,0,,If {*}Mister Natsume{*Natsume
 Dialogue: 10,0:14:39.44,0:14:41.61,Default,,0,0,0,,then let's play that shadow tag game with him!
 Dialogue: 10,0:14:41.61,0:14:42.99,Default,,0,0,0,,Let's do that!
 Dialogue: 10,0:14:42.99,0:14:43.82,Default,,0,0,0,,Hey, wait, I didn't―
-Dialogue: 10,0:14:43.82,0:14:47.49,Default,,0,0,0,,Natsume, how do you play that game?
+Dialogue: 10,0:14:43.82,0:14:47.49,Default,,0,0,0,,Natsume{**-oyabin}, how do you play that game? {slurred oyabun??}
 Dialogue: 10,0:14:48.62,0:14:51.75,Default,,0,0,0,,You know tag, right?
 Dialogue: 10,0:14:52.50,0:14:56.63,Default,,0,0,0,,It's like that, but if the one who's "it" steps on your shadow, then you're "it".{*}
 Dialogue: 10,0:14:56.63,0:14:59.63,Default,,0,0,0,,"It", huh?  Sounds like fun.
