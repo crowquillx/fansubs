@@ -17,13 +17,14 @@ ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: natsume_s3_01.mkv
-Video File: natsume_s3_01.mkv
+Audio File: ../../../natsume 3/natsume_s3_01.mkv
+Video File: ../../../natsume 3/natsume_s3_01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 15
-Video Position: 3596
+Video Zoom Percent: 0.500000
+Scroll Position: 56
+Active Line: 57
+Video Position: 7147
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -100,11 +101,11 @@ Dialogue: 10,0:04:43.85,0:04:45.85,Default - Alt,,0,0,0,,Here you go.
 Dialogue: 10,0:04:47.10,0:04:49.89,Default,,0,0,0,,It's called a Shadow Teacup.
 Dialogue: 10,0:04:49.89,0:04:53.23,Default,,0,0,0,,It's been living underneath the house \Nfor about two weeks.
 Dialogue: 10,0:04:54.36,0:04:56.61,Default,,0,0,0,,It's been there two weeks?!
-Dialogue: 10,0:04:56.61,0:04:59.03,Default,,0,0,0,,{\q2}{*}Nyanko{*Sensei}, you're supposed to be guarding the house!
+Dialogue: 10,0:04:56.61,0:04:59.03,Default,,0,0,0,,{\q2}{*}Master{*Sensei}, you're supposed to be guarding the house!
 Dialogue: 10,0:04:59.03,0:05:00.49,Default,,0,0,0,,Calm down, idiot.
 Dialogue: 10,0:05:00.49,0:05:02.66,Default,,0,0,0,,Ooh, I won!
 Dialogue: 10,0:05:02.66,0:05:04.37,Default,,0,0,0,,Go get me another, Natsume.
-Dialogue: 10,0:05:04.37,0:05:05.24,Default,,0,0,0,,{*}Nyanko{*Sensei}!
+Dialogue: 10,0:05:04.37,0:05:05.24,Default,,0,0,0,,{*}Master{*Sensei}!
 Dialogue: 10,0:05:05.24,0:05:08.96,Default,,0,0,0,,When an exceptionally well-made teacup \Nis broken and thrown away,
 Dialogue: 10,0:05:08.96,0:05:12.92,Default,,0,0,0,,it sometimes absorbs the power of the Earth \Nand becomes a spirit.
 Dialogue: 10,0:05:12.92,0:05:18.13,Default,,0,0,0,,Then it takes up residence under \Nold houses just to be near people.
@@ -140,7 +141,7 @@ Dialogue: 10,0:06:57.27,0:06:59.77,Default,,0,0,0,,{\i1}I hear that sometimes, \
 Dialogue: 10,0:06:59.77,0:07:02.90,Default,,0,0,0,,{\i1}it'll run around the house to warn everyone...
 Dialogue: 10,0:07:05.78,0:07:07.95,Default,,0,0,0,,It's running around already!
 Dialogue: 10,0:07:10.41,0:07:11.08,Default,,0,0,0,,Watch out!
-Dialogue: 10,0:07:20.13,0:07:21.09,Default,,0,0,0,,{*}Nyanko{*Sensei}!
+Dialogue: 10,0:07:20.13,0:07:21.09,Default,,0,0,0,,{*}Master{*Sensei}!
 Dialogue: 10,0:07:21.09,0:07:24.13,Default,,0,0,0,,It's not my fault!
 Dialogue: 10,0:07:26.01,0:07:30.35,Default,,0,0,0,,{\i1}In other words, some kind of disaster \Nis about to happen?
 Dialogue: 10,0:07:32.35,0:07:34.06,Default,,0,0,0,,What's wrong, Natsume?
@@ -188,7 +189,7 @@ Dialogue: 10,0:09:27.38,0:09:28.63,Default,,0,0,0,,Stop it!
 Dialogue: 10,0:09:29.88,0:09:32.01,Default,,0,0,0,,I'll be waiting here tomorrow.
 Dialogue: 10,0:09:32.01,0:09:33.89,Default,,0,0,0,,If you don't come...
 Dialogue: 10,0:09:33.89,0:09:35.68,Default,,0,0,0,,I'll kill you!{ends on scenechange to nyanko}
-Dialogue: 10,0:09:36.85,0:09:38.77,Default,,0,0,0,,Nyanko{**-sensei}!
+Dialogue: 10,0:09:36.85,0:09:38.77,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei}!
 Dialogue: 10,0:09:39.68,0:09:41.77,Default,,0,0,0,,What's wrong, Natsume?
 Dialogue: 10,0:09:41.77,0:09:44.69,Default,,0,0,0,,Trouble. Some weird...
 Dialogue: 10,0:09:45.94,0:09:48.90,Default,,0,0,0,,You've been cursed, haven't you?
@@ -255,7 +256,7 @@ Dialogue: 10,0:12:52.88,0:12:56.59,Default,,0,0,0,,This demon that could bring d
 Dialogue: 10,0:12:56.59,0:12:57.88,Default,,0,0,0,,what was he like?
 Dialogue: 10,0:12:58.76,0:13:04.01,Default,,0,0,0,,I couldn't really see it, but it was pretty small.
 Dialogue: 10,0:13:04.01,0:13:05.60,Default,,0,0,0,,{\i1}Small...
-Dialogue: 10,0:13:05.60,0:13:09.39,Default,,0,0,0,,{\i1}If worst comes to worst, \N{*}Nyanko{*Sensei} and I might be able to take him.
+Dialogue: 10,0:13:05.60,0:13:09.39,Default,,0,0,0,,{\i1}If worst comes to worst, \N{*}Master{*Sensei} and I might be able to take him.
 Dialogue: 10,0:13:09.39,0:13:10.31,Default,,0,0,0,,{\i1}Huh?
 Dialogue: 10,0:13:10.31,0:13:12.98,Default,,0,0,0,,{\i1}Didn't she say she borrowed a mirror from it?
 Dialogue: 10,0:13:12.98,0:13:14.77,Default,,0,0,0,,{\i1}Even though it was that dangerous?
@@ -300,7 +301,7 @@ Dialogue: 10,0:15:41.42,0:15:43.46,Default,,0,0,0,,This time, you won't get away
 Dialogue: 10,0:15:43.46,0:15:45.88,Default,,0,0,0,,Dinnertime!
 Dialogue: 10,0:15:47.63,0:15:48.80,Default,,0,0,0,,He's the one from before!
 Dialogue: 10,0:15:50.60,0:15:51.81,Default,,0,0,0,,My left shoulder...
-Dialogue: 10,0:15:55.56,0:15:56.60,Default,,0,0,0,,{*}Nyanko{*Sensei}!
+Dialogue: 10,0:15:55.56,0:15:56.60,Default,,0,0,0,,{*}Master{*Sensei}!
 Dialogue: 10,0:15:58.98,0:16:00.36,Default,,0,0,0,,Get lost!{starts on blue dragon}
 Dialogue: 10,0:16:05.32,0:16:06.28,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:16:07.24,0:16:09.49,Default,,0,0,0,,Quit being such a wimp!
