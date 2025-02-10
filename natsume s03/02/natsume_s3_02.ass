@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: natsume_s3_02.mkv
-Video File: natsume_s3_02.mkv
+Audio File: ../../../natsume 3/natsume_s3_02.mkv
+Video File: ../../../natsume 3/natsume_s3_02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 264
-Active Line: 271
-Video Position: 28114
+Video Zoom Percent: 0.500000
+Scroll Position: 159
+Active Line: 176
+Video Position: 18491
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,17 +42,17 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:01:43.67,0:01:45.42,Default,,0,0,0,,Look at that.
 Dialogue: 10,0:01:45.42,0:01:47.30,Default,,0,0,0,,Yatsuhara looks like a sea of light.
 Dialogue: 10,0:01:47.30,0:01:52.51,Default,,0,0,0,,Forget that, let's just go home so you \Ncan gimme those dumplings, Natsume!
-Dialogue: 10,0:01:52.51,0:01:54.97,Default,,0,0,0,,You do nothing but eat, Master{*Sensei}.
+Dialogue: 10,0:01:52.51,0:01:54.97,Default,,0,0,0,,You do nothing but eat, {*}Master{*Sensei}.
 Dialogue: 10,0:01:56.93,0:01:57.93,Default,,0,0,0,,What's that?
 Dialogue: 10,0:01:58.64,0:02:00.10,Default,,0,0,0,,I like it!
 Dialogue: 10,0:02:00.10,0:02:01.43,Default,,0,0,0,,It smells great.
 Dialogue: 10,0:02:01.43,0:02:02.64,Default,,0,0,0,,I really like it!
 Dialogue: 10,0:02:11.65,0:02:14.32,Default,,0,0,0,,We're under attack by some kind of white pig!
 Dialogue: 10,0:02:14.32,0:02:17.70,Default,,0,0,0,,What did you say, you punks? I'll eat you!
-Dialogue: 10,0:02:17.70,0:02:19.33,Default,,0,0,0,,Stop it, Master{*Sensei}.
+Dialogue: 10,0:02:17.70,0:02:19.33,Default,,0,0,0,,Stop it, {*}Master{*Sensei}.
 Dialogue: 10,0:02:19.33,0:02:22.41,Default,,0,0,0,,Oh, it's Natsume{**-sama} and the Pig Cat!
 Dialogue: 10,0:02:22.41,0:02:24.83,Default,,0,0,0,,Pig cat!  Pig cat!
-Dialogue: 10,0:02:24.83,0:02:27.29,Default,,0,0,0,,I mean, Mr. Madara{*Madara-sama}.
+Dialogue: 10,0:02:24.83,0:02:27.29,Default,,0,0,0,,I mean, {*}Mr. Madara{*Madara-sama}.
 Dialogue: 10,0:02:27.29,0:02:29.75,Default,,0,0,0,,Oh, did you bring us snacks?
 Dialogue: 10,0:02:30.25,0:02:31.26,Default,,0,0,0,,How nice.
 Dialogue: 10,0:02:30.42,0:02:31.26,Default - Alt,,0,0,0,,Not for you!
@@ -130,7 +130,7 @@ Dialogue: 10,0:06:56.85,0:06:59.02,Default,,0,0,0,,This is a problem.
 Dialogue: 10,0:06:59.02,0:07:03.44,Default,,0,0,0,,Just when we were happy over the priest's absence, \Nsomething like this has to happen?
 Dialogue: 10,0:07:03.44,0:07:07.11,Default,,0,0,0,,When will peace come to Yatsuhara?
 Dialogue: 10,0:07:08.78,0:07:10.58,Default,,0,0,0,,It's the white pig again!
-Dialogue: 10,0:07:10.58,0:07:13.29,Default,,0,0,0,,Oh, Mr. Madara{*Madara-sama}.
+Dialogue: 10,0:07:10.58,0:07:13.29,Default,,0,0,0,,Oh, {*}Mr. Madara{*Madara-sama}.
 Dialogue: 10,0:07:13.29,0:07:15.75,Default,,0,0,0,,What's got you wimps all riled up?
 Dialogue: 10,0:07:15.75,0:07:19.79,Default,,0,0,0,,Well, you see, {\i1}he{\i0} seems to have revived.
 Dialogue: 10,0:07:19.79,0:07:20.46,Default,,0,0,0,,He?
@@ -186,7 +186,7 @@ Dialogue: 10,0:10:14.97,0:10:15.93,Default,,0,0,0,,I guess...
 Dialogue: 10,0:10:15.93,0:10:17.18,Default,,0,0,0,,Then...
 Dialogue: 10,0:10:19.14,0:10:22.10,Default,,0,0,0,,give me the Book of Friends!
 Dialogue: 10,0:10:23.44,0:10:24.40,Default,,0,0,0,,Stop!
-Dialogue: 10,0:10:28.69,0:10:30.23,Default,,0,0,0,,Lord Natsume{*Natsume-dono}.
+Dialogue: 10,0:10:28.69,0:10:30.23,Default,,0,0,0,,{*}Lord Natsume{*Natsume-dono}.
 Dialogue: 10,0:10:31.44,0:10:32.49,Default,,0,0,0,,Misuzu!
 Dialogue: 10,0:10:32.49,0:10:35.36,Default,,0,0,0,,I felt the presence of a spirit here.
 Dialogue: 10,0:10:35.36,0:10:37.58,Default,,0,0,0,,You saved me.
@@ -241,11 +241,11 @@ Dialogue: 10,0:14:03.66,0:14:07.20,Default,,0,0,0,,Sorry, I didn't want to stay 
 Dialogue: 10,0:14:07.20,0:14:08.74,Default,,0,0,0,,Don't worry about it.
 Dialogue: 10,0:14:08.74,0:14:12.25,Default,,0,0,0,,Natsume was really worried \Nwhen he heard you collapsed.
 Dialogue: 10,0:14:15.88,0:14:17.09,Default,,0,0,0,,This way?
-Dialogue: 10,0:14:17.09,0:14:19.42,Default,,0,0,0,,Hey, Master Nyanko{*Nyanko-sensei}?
+Dialogue: 10,0:14:17.09,0:14:19.42,Default,,0,0,0,,Hey, {*}Master Nyanko{*Nyanko-sensei}?
 Dialogue: 10,0:14:22.88,0:14:24.22,Default,,0,0,0,,H-Hey!{added stutter}
 Dialogue: 10,0:14:24.22,0:14:26.60,Default,,0,0,0,,He's been hit by the miasma.
 Dialogue: 10,0:14:26.60,0:14:28.76,Default,,0,0,0,,Let him sleep it off over there.
-Dialogue: 10,0:14:28.76,0:14:30.56,Default,,0,0,0,,Are you all right, Master{*Sensei}?
+Dialogue: 10,0:14:28.76,0:14:30.56,Default,,0,0,0,,Are you all right, {*}Master{*Sensei}?
 Dialogue: 10,0:14:30.56,0:14:33.23,Default,,0,0,0,,Don't treat me like those wimps!
 Dialogue: 10,0:14:34.14,0:14:35.23,Default,,0,0,0,,Let's hurry.
 Dialogue: 10,0:14:39.32,0:14:40.69,Default,,0,0,0,,This feels bad.
