@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: natsume_s3_03.mkv
-Video File: natsume_s3_03.mkv
+Audio File: ../../../natsume 3/natsume_s3_03.mkv
+Video File: ../../../natsume 3/natsume_s3_03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 363
-Active Line: 389
-Video Position: 34803
+Video Zoom Percent: 0.500000
+Scroll Position: 228
+Active Line: 262
+Video Position: 22426
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,7 +191,7 @@ Dialogue: 10,0:09:20.58,0:09:22.96,Default,,0,0,0,,So, you really are a demon.
 Dialogue: 10,0:09:22.96,0:09:24.63,Default,,0,0,0,,That's right.
 Dialogue: 10,0:09:24.63,0:09:28.34,Default,,0,0,0,,I can eat you instead of him.
 Dialogue: 10,0:09:35.72,0:09:37.97,Default,,0,0,0,,A white pig is biting me!
-Dialogue: 10,0:09:37.97,0:09:39.27,Default,,0,0,0,,Master Nyanko{*Nyanko-sensei}!
+Dialogue: 10,0:09:37.97,0:09:39.27,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei}!
 Dialogue: 10,0:09:39.27,0:09:40.06,Default,,0,0,0,,Ow.
 Dialogue: 10,0:09:40.81,0:09:42.31,Default,,0,0,0,,Curse you, human!
 Dialogue: 10,0:09:42.31,0:09:47.44,Default,,0,0,0,,If you dare tell anyone who I am, \NI'll follow you forever and eat you!
@@ -301,7 +301,7 @@ Dialogue: 10,0:15:23.69,0:15:24.95,Default,,0,0,0,,Too bad.
 Dialogue: 10,0:15:24.95,0:15:27.74,Default,,0,0,0,,Hey, Natsume. You see her?
 Dialogue: 10,0:15:28.57,0:15:29.24,Default,,0,0,0,,Let me go!
 Dialogue: 10,0:15:31.37,0:15:34.75,Default,,0,0,0,,I can end this right now by eating her.
-Dialogue: 10,0:15:35.33,0:15:36.75,Default,,0,0,0,,Wait, Master{*Sensei}.
+Dialogue: 10,0:15:35.33,0:15:36.75,Default,,0,0,0,,Wait, {*}Master{*Sensei}.
 Dialogue: 10,0:15:36.75,0:15:37.62,Default,,0,0,0,,Natsume.
 Dialogue: 10,0:15:37.62,0:15:39.96,Default,,0,0,0,,Wait just a bit longer.
 Dialogue: 10,0:15:39.96,0:15:42.25,Default,,0,0,0,,I want to see what I should do.
