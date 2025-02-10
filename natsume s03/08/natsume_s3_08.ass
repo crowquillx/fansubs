@@ -17,9 +17,9 @@ Video File: ../../../natsume 3/natsume_s3_08.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 32
-Video Position: 3577
+Scroll Position: 63
+Active Line: 89
+Video Position: 8267
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -96,7 +96,7 @@ Dialogue: 10,0:03:15.93,0:03:18.09,Default,,0,0,0,,Do you have plans with your f
 Dialogue: 10,0:03:18.09,0:03:20.30,Default,,0,0,0,,No, I'd like to go.
 Dialogue: 10,0:03:20.30,0:03:22.06,Default,,0,0,0,,Then, let's do it.
 Dialogue: 10,0:03:22.06,0:03:23.10,Default,,0,0,0,,Yes.
-Dialogue: 10,0:03:39.20,0:03:40.24,Default,,0,0,0,,{*}Master{**Sensei}?
+Dialogue: 10,0:03:39.20,0:03:40.24,Default,,0,0,0,,{*}Master{*Sensei}?
 Dialogue: 10,0:03:44.75,0:03:46.12,Default,,0,0,0,,What's up?
 Dialogue: 10,0:03:46.12,0:03:49.29,Default,,0,0,0,,Were you moaning just now?
 Dialogue: 10,0:03:49.29,0:03:51.34,Default,,0,0,0,,You must have been dreaming.
@@ -132,10 +132,10 @@ Dialogue: 10,0:05:16.96,0:05:20.47,Default,,0,0,0,,If you grind it up and apply 
 Dialogue: 10,0:05:20.47,0:05:24.93,Default,,0,0,0,,I don't need it, but take me to the hot springs anyway!
 Dialogue: 10,0:05:24.93,0:05:27.22,Default,,0,0,0,,Fine, fine...
 Dialogue: 10,0:05:28.27,0:05:31.31,Default,,0,0,0,,You want to go on the trip, don't you?
-Dialogue: 10,0:05:35.69,0:05:38.57,Default,,0,0,0,,{*}Mr. Madara{**Madara-sama}, we've come to visit.
+Dialogue: 10,0:05:35.69,0:05:38.57,Default,,0,0,0,,{*}Mr. Madara{*Madara-sama}, we've come to visit.
 Dialogue: 10,0:05:38.57,0:05:40.28,Default,,0,0,0,,Just a visit!
 Dialogue: 10,0:05:40.28,0:05:44.78,Default,,0,0,0,,I heard that the white pig cat was injured, so I came to see for myself.
-Dialogue: 10,0:05:44.78,0:05:46.66,Default,,0,0,0,,Oh hello, {*}Mistress Hinoe{**Hinoe-dono}.
+Dialogue: 10,0:05:44.78,0:05:46.66,Default,,0,0,0,,Oh hello, {*}Mistress Hinoe{*Hinoe-dono}.
 Dialogue: 10,0:05:46.66,0:05:47.91,Default,,0,0,0,,Have a drink!
 Dialogue: 10,0:05:47.91,0:05:49.29,Default,,0,0,0,,Don't mind if I do!
 Dialogue: 10,0:05:50.12,0:05:52.12,Default,,0,0,0,,Hey, it's late!
