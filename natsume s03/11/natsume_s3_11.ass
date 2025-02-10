@@ -17,9 +17,9 @@ Video File: ../../../natsume 3/natsume_s3_11.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 348
-Active Line: 371
-Video Position: 34885
+Scroll Position: 156
+Active Line: 194
+Video Position: 18999
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,7 +105,7 @@ Dialogue: 10,0:03:08.58,0:03:11.50,Default,,0,0,0,,Having a demon ask you for so
 Dialogue: 10,0:03:11.50,0:03:13.42,Default,,0,0,0,,Don't get me started.
 Dialogue: 10,0:03:13.42,0:03:14.38,Default,,0,0,0,,It happens all the time.
 Dialogue: 10,0:03:15.34,0:03:16.38,Default,,0,0,0,,All the time?
-Dialogue: 10,0:03:16.93,0:03:18.47,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei!}.
+Dialogue: 10,0:03:16.93,0:03:18.47,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei}.
 Dialogue: 10,0:03:18.47,0:03:21.06,Default,,0,0,0,,He's too nice.
 Dialogue: 10,0:03:21.06,0:03:25.02,Default,,0,0,0,,He can't say no to anything a spirit asks him to do.
 Dialogue: 10,0:03:25.31,0:03:27.15,Default,,0,0,0,,He ought to just tell them to buzz off.
@@ -231,7 +231,7 @@ Dialogue: 10,0:12:31.86,0:12:33.77,Default,,0,0,0,,Just a little longer.
 Dialogue: 10,0:12:33.77,0:12:35.61,Default,,0,0,0,,Just a little longer...
 Dialogue: 10,0:12:37.57,0:12:39.24,Default,,0,0,0,,That's Yatsuhara for you.
 Dialogue: 10,0:12:39.24,0:12:43.33,Default,,0,0,0,,It's pretty sad that a weak demon like that could get onto the temple grounds.
-Dialogue: 10,0:12:43.33,0:12:44.99,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei!}.
+Dialogue: 10,0:12:43.33,0:12:44.99,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei}.
 Dialogue: 10,0:12:44.99,0:12:46.70,Default,,0,0,0,,Where have you been?
 Dialogue: 10,0:12:46.70,0:12:47.96,Default,,0,0,0,,We were in serious trouble.
 Dialogue: 10,0:12:47.96,0:12:52.08,Default,,0,0,0,,I was watching to see who that hammer guy was.
@@ -260,7 +260,7 @@ Dialogue: 10,0:13:49.64,0:13:51.52,Default,,0,0,0,,I don't really remember,
 Dialogue: 10,0:13:51.52,0:13:55.02,Default,,0,0,0,,but I think something incredible came out of my mouth.
 Dialogue: 10,0:13:55.61,0:13:56.86,Default,,0,0,0,,What did you eat?
 Dialogue: 10,0:13:56.86,0:13:59.61,Default,,0,0,0,,No, not that kind.
-Dialogue: 10,0:14:00.90,0:14:03.36,Default,,0,0,0,,Oh, yeah. Natsume{*--kun}, here.
+Dialogue: 10,0:14:00.90,0:14:03.36,Default,,0,0,0,,Oh, yeah. Natsume{*-kun}, here.
 Dialogue: 10,0:14:04.66,0:14:07.08,Default,,0,0,0,,I made this talisman based on some books I found in my house.
 Dialogue: 10,0:14:07.62,0:14:09.70,Default,,0,0,0,,I don't know if it'll help,
 Dialogue: 10,0:14:10.20,0:14:12.83,Default,,0,0,0,,but not being able to do anything bothers me.
