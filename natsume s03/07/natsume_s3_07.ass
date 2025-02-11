@@ -12,24 +12,20 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_07.mkv
-Video File: ../../../natsume 3/natsume_s3_07.mkv
+Audio File: natsume_s3_07.mkv
+Video File: natsume_s3_07.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 217
-Active Line: 255
-Video Position: 23034
+Video Zoom Percent: 0.625000
+Scroll Position: 129
+Active Line: 148
+Video Position: 14742
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: Default - italics,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,-1,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: OP-eng,MV Boli,80,&H00ACFBC5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,45,45,45,1
-Style: ED-eng,EFN Karet,60,&H14E4E4E4,&H000000FF,&H0A422300,&H00000000,0,0,0,0,95,90,0,0,1,2.25,0,3,50,50,50,1
-Style: EpTitle,Arabic Typesetting,180,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
-Style: EpTitleC,Andalus,90,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,-1,0,0,0,100,100,1.5,0,1,0,0,7,15,15,15,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -38,45 +34,21 @@ Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9
 Style: nexttime-shadow,Footlight MT Light,105,&H00C4F5C9,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,0,270,1
 Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
 Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
-Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,0,9,60,60,30,1
 Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
-Style: Default - Overlap,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H005B2509,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.48,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1100,\blur1)\1a&HFF}Natsume's\h{\1a&H00}Book\h{\1a&HFF}Of\hFriends
-Dialogue: 0,0:00:01.19,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&HFF}Natsume's\hBook\h{\1a&H00}Of{\1a&HFF}\hFriends
-Dialogue: 0,0:00:01.98,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&H00}Natsu{\1a&HFF}me's\hBook\hOf\hFriends
-Dialogue: 0,0:00:02.82,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsume's\hBook\hOf\h{\1a&H00}Friends
-Dialogue: 0,0:00:03.32,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsu{\1a&H00}me's{\1a&HFF}\hBook\hOf\hFriends
-Dialogue: 1,0:00:04.32,0:00:07.15,titlename,,0,0,0,,{\an3\fad(0,200)\be2\fs100\pos(1402,306.5)}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:06.90,0:00:08.15,titlename,,0,0,0,,{\an3\fs100\pos(1402,306.5)\fad(200,0)\be2\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 2,0:00:07.78,0:00:15.83,number,,0,0,0,,{\an2\pos(1606.5,503.5)\fad(250,1500)\blur8\t(0,250,\blur3)\fscx105\fay-0.14\t(5900,0,\blur10)}3
-Dialogue: 1,0:00:07.78,0:00:15.83,number-box,,0,0,0,,{\an2\pos(1603.5,502.5)\fad(250,1500)\blur8\t(0,250,\blur3)\t(5900,0,\blur10)}\h
-Dialogue: 2,0:00:08.15,0:00:08.74,titlename,,0,0,0,,{\an3\be2\move(1402,306.5,1385.5,293.5)\c&8A6424&\fs100}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:08.32,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,1500)\blur3.5\fs100\t(6200,1000,\be15)\t(5000,0,\blur10)\c&H433E2F&}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:08.74,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1385.5,293.5)\fad(0,1500)\be2\fs100\t(5900,1000,\be5)\blur0\t(5000,0,\blur10)\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:00:15.04,0:00:21.83,OP,,0,0,0,,{\fade(300,0)}Living through these meaningless days, I let out a sigh
-Dialogue: 0,0:00:22.04,0:00:29.01,OP,,0,0,0,,{\fade(300,300)}I've lost sight of my true self
-Dialogue: 0,0:00:29.72,0:00:36.60,OP,,0,0,0,,{\fade(300,300)}Even if I strain my ears I can't hear your voice
-Dialogue: 0,0:00:36.60,0:00:43.40,OP,,0,0,0,,{\fade(300,300)}So I keep walking trying to catch up
-Dialogue: 0,0:00:43.40,0:00:50.91,OP,,0,0,0,,{\fade(300,300)}The things I couldn't tell you form into a chrysalis over time
-Dialogue: 0,0:00:51.20,0:00:58.71,OP,,0,0,0,,{\fade(0,300)}Spreading wings, they take flight
-Dialogue: 0,0:00:59.12,0:01:06.00,OP,,0,0,0,,{\fade(300,300)}The one, the one precious thing I'll never forget
-Dialogue: 0,0:01:06.25,0:01:13.97,OP,,0,0,0,,{\fade(300,300)}Someday, that warm emotion
-Dialogue: 0,0:01:14.30,0:01:19.81,OP,,0,0,0,,{\fade(300,300)}I'll do what little I can
-Dialogue: 0,0:01:20.14,0:01:28.57,OP,,0,0,0,,{\fad(300,1000)\c&H98ADF1&}Little by little, to get through to you
 Dialogue: 10,0:01:34.20,0:01:38.66,Default,,0,0,0,,Jeez. Why are you following me, kitty?
 Dialogue: 10,0:01:38.66,0:01:42.04,Default,,0,0,0,,The view's better than usual up here.
 Dialogue: 10,0:01:42.04,0:01:45.96,Default,,0,0,0,,Sir, pets aren't allowed in the inn.
 Dialogue: 10,0:01:45.96,0:01:49.21,Default,,0,0,0,,Oh, no, look again.
-Dialogue: 10,0:01:49.21,0:01:52.76,Default,,0,0,0,,It's just a stuffed animal. See the big head?
+Dialogue: 10,0:01:49.21,0:01:50.89,Default,,0,0,0,,It's just a stuffed animal.
+Dialogue: 10,0:01:50.89,0:01:52.76,Default,,0,0,0,,See the big head?
 Dialogue: 10,0:01:55.72,0:01:58.97,Default,,0,0,0,,So, did you find out anything about Matoba?
 Dialogue: 10,0:01:58.97,0:02:02.44,Default,,0,0,0,,No, but we should be prepared.
-Dialogue: 10,0:02:02.81,0:02:07.94,Default,,0,0,0,,He's not afraid to use dangerous demons for his own goals.
-Dialogue: 10,0:02:07.94,0:02:11.90,Default,,0,0,0,,{\fad(314,0)}Wasn't there a crow he used as bait one time?
-Dialogue: 10,0:02:11.90,0:02:15.41,Default,,0,0,0,,He doesn't hold back, no matter whose servant it is.
+Dialogue: 10,0:02:02.81,0:02:07.94,Default,,0,0,0,,He's not afraid to use dangerous \Ndemons for his own goals.
+Dialogue: 10,0:02:07.94,0:02:11.90,Default,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(21,314,1,\3c&H02060E&\4c&H000000&)}Wasn't there a crow he used as bait one time?
+Dialogue: 10,0:02:11.90,0:02:15.41,Default,,0,0,0,,He doesn't hold back, \Nno matter whose servant it is.
 Dialogue: 10,0:02:15.41,0:02:17.37,Default,,0,0,0,,So that's why you left them home?
 Dialogue: 10,0:02:18.24,0:02:19.58,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:02:19.58,0:02:21.83,Default,,0,0,0,,Your own servants.
@@ -87,24 +59,23 @@ Dialogue: 10,0:02:33.22,0:02:35.26,Default,,0,0,0,,You must have broken it when 
 Dialogue: 10,0:02:35.84,0:02:37.76,Default,,0,0,0,,So that's why the door was so hard to open.
 Dialogue: 10,0:02:37.76,0:02:39.39,Default,,0,0,0,,What were you thinking?
 Dialogue: 10,0:02:39.39,0:02:41.10,Default,,0,0,0,,What if something got in?
-Dialogue: 10,0:02:41.10,0:02:45.02,Default,,0,0,0,,It'd be your fault for putting up a charm so weak that a cat could break it!
+Dialogue: 10,0:02:41.10,0:02:45.02,Default,,0,0,0,,It'd be your fault for putting up a charm so weak \Nthat a cat could break it!
 Dialogue: 10,0:02:45.94,0:02:48.73,Default,,0,0,0,,You and I just don't seem to get along.
 Dialogue: 10,0:02:48.73,0:02:49.90,Default,,0,0,0,,Natsume?
 Dialogue: 10,0:02:49.90,0:02:51.19,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:02:54.45,0:02:55.66,Default,,0,0,0,,Natsume?
-Dialogue: 0,0:02:56.28,0:03:00.28,title-shadow,,0,0,0,,{\blur7\c&H234A76&\4a&HFF&}Ex{\c\4a}orcist
-Dialogue: 1,0:02:56.28,0:03:00.28,title,,0,0,0,,{\c&H035B09&}Ex{\c}orcist
-Dialogue: 10,0:03:01.62,0:03:03.25,Default - italics,,0,0,0,,{\i1}I won't forgive you...
-Dialogue: 10,0:03:03.25,0:03:04.16,Default - italics,,0,0,0,,{\i1}I'll never forgive you!
-Dialogue: 10,0:03:05.08,0:03:06.29,Default - italics,,0,0,0,,{\i1}How dare you?
-Dialogue: 10,0:03:06.79,0:03:07.79,Default - italics,,0,0,0,,{\i1}How dare you!
+Dialogue: 10,0:03:01.62,0:03:03.25,Default,,0,0,0,,{\i1}I won't forgive you...
+Dialogue: 10,0:03:03.25,0:03:04.16,Default,,0,0,0,,{\i1}I'll never forgive you!
+Dialogue: 10,0:03:05.08,0:03:06.29,Default,,0,0,0,,{\i1}How dare you?
+Dialogue: 10,0:03:06.79,0:03:07.79,Default,,0,0,0,,{\i1}How dare you!
 Dialogue: 10,0:03:09.38,0:03:11.13,Default,,0,0,0,,Are you awake?
 Dialogue: 10,0:03:14.92,0:03:16.05,Default,,0,0,0,,Interesting, isn't it?
 Dialogue: 10,0:03:17.05,0:03:20.14,Default,,0,0,0,,Normal people can't see that paper.
 Dialogue: 10,0:03:20.72,0:03:22.01,Default,,0,0,0,,Matoba{**-san}.
-Dialogue: 10,0:03:22.89,0:03:25.39,Default,,0,0,0,,The Natori family knows more about that paper than I do.
+Dialogue: 10,0:03:22.89,0:03:25.39,Default,,0,0,0,,The Natori family knows more about \Nthat paper than I do.
 Dialogue: 10,0:03:25.39,0:03:26.35,Default,,0,0,0,,Ask them.
-Dialogue: 10,0:03:26.35,0:03:29.44,Default,,0,0,0,,Why are you doing this? What do you...
+Dialogue: 10,0:03:26.35,0:03:28.31,Default,,0,0,0,,Why are you doing this?
+Dialogue: 10,0:03:28.31,0:03:29.44,Default,,0,0,0,,What do you...
 Dialogue: 10,0:03:29.44,0:03:31.44,Default,,0,0,0,,I haven't done anything.
 Dialogue: 10,0:03:31.94,0:03:34.61,Default,,0,0,0,,I just told them to catch you.
 Dialogue: 10,0:03:37.41,0:03:41.16,Default,,0,0,0,,But I don't think you'll buy that excuse, will you?
@@ -115,7 +86,7 @@ Dialogue: 10,0:03:49.13,0:03:51.96,Default,,0,0,0,,But it's your fault for runni
 Dialogue: 10,0:03:51.96,0:03:54.09,Default,,0,0,0,,You said you wanted to talk to me, after all.
 Dialogue: 10,0:03:54.09,0:03:56.72,Default,,0,0,0,,Why are you gathering demon blood?
 Dialogue: 10,0:03:56.72,0:03:57.80,Default,,0,0,0,,What are you planning?
-Dialogue: 10,0:03:57.80,0:04:02.05,Default,,0,0,0,,Demon blood can be used to break the seals binding more powerful demons,
+Dialogue: 10,0:03:57.80,0:04:02.05,Default,,0,0,0,,Demon blood can be used to break \Nthe seals binding more powerful demons,
 Dialogue: 10,0:04:02.05,0:04:04.97,Default,,0,0,0,,and in turn, summon them.
 Dialogue: 10,0:04:04.97,0:04:08.27,Default,,0,0,0,,In a way, it's like bait.
 Dialogue: 10,0:04:10.77,0:04:14.94,Default,,0,0,0,,There's a very powerful one sleeping in this forest.
@@ -126,45 +97,44 @@ Dialogue: 10,0:04:23.20,0:04:25.50,Default,,0,0,0,,If you don't stop this, you'l
 Dialogue: 10,0:04:25.50,0:04:27.04,Default,,0,0,0,,I'll regret it?
 Dialogue: 10,0:04:27.79,0:04:29.33,Default,,0,0,0,,You can only see them.
 Dialogue: 10,0:04:29.33,0:04:30.58,Default,,0,0,0,,What can you—
-Comment: 0,0:04:31.88,0:04:33.38,Default,,0,0,0,,unsubbed?
+Dialogue: 10,0:04:31.88,0:04:33.38,Default,,0,0,0,,Oops.
 Dialogue: 10,0:04:33.38,0:04:35.00,Default,,0,0,0,,I'm sorry.
 Dialogue: 10,0:04:35.00,0:04:37.97,Default,,0,0,0,,My depth perception isn't very good.
 Dialogue: 10,0:04:37.97,0:04:38.88,Default,,0,0,0,,Your eye...
 Dialogue: 10,0:04:38.88,0:04:40.84,Default,,0,0,0,,I can see just fine,
 Dialogue: 10,0:04:40.84,0:04:44.22,Default,,0,0,0,,but I need to wear this
 Dialogue: 10,0:04:44.22,0:04:45.89,Default,,0,0,0,,or else my eye will be eaten.
-Dialogue: 10,0:04:47.39,0:04:54.02,Default,,0,0,0,,Long ago, there was a man who promised his right eye to a demon in exchange for its service.
+Dialogue: 10,0:04:47.39,0:04:54.02,Default,,0,0,0,,Long ago, there was a man who promised his right eye \Nto a demon in exchange for its service.
 Dialogue: 10,0:04:54.02,0:04:57.32,Default,,0,0,0,,But in the end, he broke his promise.
-Dialogue: 10,0:04:57.32,0:05:01.82,Default,,0,0,0,,And for generations since, demons have been after the right eyes of the Matoba clan.
-Dialogue: 10,0:05:02.66,0:05:05.79,Default,,0,0,0,,My eyeball is still in its socket,
-Dialogue: 10,0:05:05.79,0:05:07.95,Default,,0,0,0,,but I have a nasty wound here.
+Dialogue: 10,0:04:57.32,0:05:01.82,Default,,0,0,0,,And for generations since, demons have been \Nafter the right eyes of the Matoba clan.
+Dialogue: 10,0:05:02.66,0:05:05.74,Default,,0,0,0,,My eyeball is still in its socket,
+Dialogue: 10,0:05:05.74,0:05:07.95,Default,,0,0,0,,but I have a nasty wound here.
 Dialogue: 10,0:05:09.25,0:05:11.67,Default,,0,0,0,,Would you like to have a look?
 Dialogue: 10,0:05:14.09,0:05:15.71,Default,,0,0,0,,May I have a moment?
 Dialogue: 10,0:05:16.80,0:05:18.63,Default,,0,0,0,,I'll be right there.
 Dialogue: 10,0:05:18.63,0:05:19.97,Default,,0,0,0,,Watch him.
-Dialogue: 10,0:05:21.68,0:05:23.22,Default,,0,0,0,,No matter what your reasons are,
-Dialogue: 10,0:05:23.22,0:05:25.97,Default,,0,0,0,,please stop attacking innocent demons.
+Dialogue: 10,0:05:21.68,0:05:25.97,Default,,0,0,0,,No matter what your reasons are, \Nplease stop attacking innocent demons.
 Dialogue: 10,0:05:25.97,0:05:27.56,Default,,0,0,0,,If you won't, I'll stop you.
 Dialogue: 10,0:05:29.10,0:05:34.06,Default,,0,0,0,,I just want to have strong demons to protect people.
-Dialogue: 10,0:05:34.36,0:05:38.82,Default,,0,0,0,,If that means people hate me, or I pay\N some other price, then that's fine by me.
-Dialogue: 10,0:05:40.11,0:05:42.78,Default - italics,,0,0,0,,{\i1}He's different.
-Dialogue: 10,0:05:43.57,0:05:47.45,Default - italics,,0,0,0,,{\i1}He's an exorcist, but he's very different from Natori.
+Dialogue: 10,0:05:34.36,0:05:38.82,Default,,0,0,0,,If that means people hate me, \Nor I pay some other price, then that's fine by me.
+Dialogue: 10,0:05:40.11,0:05:42.78,Default,,0,0,0,,{\i1}He's different.
+Dialogue: 10,0:05:43.57,0:05:47.45,Default,,0,0,0,,{\i1}He's an exorcist, \Nbut he's very different from Natori.
 Dialogue: 10,0:05:48.58,0:05:50.41,Default,,0,0,0,,I'll be back shortly.
-Dialogue: 10,0:05:50.41,0:05:53.17,Default,,0,0,0,,If you make a lot of noise, I'll make it so you can't make any noise.
+Dialogue: 10,0:05:50.41,0:05:53.17,Default,,0,0,0,,If you make a lot of noise, \NI'll make it so you can't make any noise.
 Dialogue: 10,0:05:53.17,0:05:55.50,Default,,0,0,0,,And if you run, I'll make it so you can't run.
 Dialogue: 10,0:05:56.09,0:05:58.13,Default,,0,0,0,,Just stay here and wait.
-Dialogue: 10,0:06:00.30,0:06:03.76,Default - italics,,0,0,0,,{\i1}If he finds out about the Book of Friends...
+Dialogue: 10,0:06:00.30,0:06:03.76,Default,,0,0,0,,{\i1}If he finds out about the Book of Friends...
 Dialogue: 10,0:06:34.67,0:06:36.17,Default,,0,0,0,,It only took one hit, huh?
 Dialogue: 10,0:06:36.79,0:06:39.71,Default,,0,0,0,,I thought he was only capable of seeing them.
 Dialogue: 10,0:06:39.71,0:06:40.92,Default,,0,0,0,,Shall we follow him?
 Dialogue: 10,0:06:40.92,0:06:41.88,Default,,0,0,0,,No.
 Dialogue: 10,0:06:43.17,0:06:44.97,Default,,0,0,0,,You don't have to.
-Dialogue: 10,0:06:46.43,0:06:47.72,Default - italics,,0,0,0,,{\i1}That was close.
-Dialogue: 10,0:06:54.35,0:06:56.48,Default - italics,,0,0,0,,{\i1}Matoba{**-san}'s servants?
-Dialogue: 10,0:06:59.90,0:07:02.74,Default - italics,,0,0,0,,{\i1}There's a very powerful demon in that forest.
+Dialogue: 10,0:06:46.43,0:06:47.72,Default,,0,0,0,,{\i1}That was close.
+Dialogue: 10,0:06:54.35,0:06:56.48,Default,,0,0,0,,{\i1}Matoba{**-san}'s servants?
+Dialogue: 10,0:06:59.90,0:07:02.74,Default,,0,0,0,,{\i1}There's a very powerful demon in that forest.
 Dialogue: 10,0:07:03.53,0:07:08.12,Default,,0,0,0,,I have to protect the few friends I have left.
 Dialogue: 10,0:07:08.12,0:07:10.62,Default,,0,0,0,,{\fad(309,0)}In a way, it's bait.
-Dialogue: 10,0:07:11.99,0:07:15.04,Default - italics,,0,0,0,,{\i1}I may still be able to stop him.
+Dialogue: 10,0:07:11.99,0:07:15.04,Default,,0,0,0,,{\i1}I may still be able to stop him.
 Dialogue: 10,0:07:17.71,0:07:20.29,Default,,0,0,0,,Natsume{**-sama}, you mustn't go into that forest!
 Dialogue: 10,0:07:22.21,0:07:23.38,Default,,0,0,0,,What is it?
 Dialogue: 10,0:07:24.47,0:07:27.84,Default,,0,0,0,,I feel a terrible presence to the west.
@@ -176,15 +146,15 @@ Dialogue: 10,0:07:35.60,0:07:39.48,Default,,0,0,0,,If that eye opens, they'll be
 Dialogue: 10,0:07:39.48,0:07:41.19,Default,,0,0,0,,They'll all be devoured!
 Dialogue: 10,0:07:42.02,0:07:44.36,Default,,0,0,0,,Where are you going?
 Dialogue: 10,0:07:44.36,0:07:46.03,Default,,0,0,0,,I'm going to save them.
-Dialogue: 10,0:07:46.03,0:07:48.36,Default,,0,0,0,,I can't get Natsume involved in this.
+Dialogue: 10,0:07:46.03,0:07:48.36,Default,,0,0,0,,I can't get Natsume{**-sama} involved in this.
 Dialogue: 10,0:07:50.49,0:07:54.25,Default,,0,0,0,,He will decide if he wants to be involved or not.
 Dialogue: 10,0:07:54.25,0:07:57.29,Default,,0,0,0,,My master and the furball are with him as well.
 Dialogue: 10,0:07:57.29,0:07:58.21,Default,,0,0,0,,But...
 Dialogue: 10,0:07:58.21,0:08:01.17,Default,,0,0,0,,What can you do, wounded as you are?
 Dialogue: 10,0:08:01.17,0:08:02.34,Default,,0,0,0,,Rest.
 Dialogue: 10,0:08:03.88,0:08:05.59,Default,,0,0,0,,Natsume{**-sama}...
-Dialogue: 10,0:08:07.51,0:08:10.59,Default - italics,,0,0,0,,{\i1}Why don't you call me, Natori?
-Dialogue: 10,0:08:10.59,0:08:12.35,Default - italics,,0,0,0,,{\i1}I would fly to your side.
+Dialogue: 10,0:08:07.51,0:08:10.59,Default,,0,0,0,,{\i1}Why don't you call me, Natori?
+Dialogue: 10,0:08:10.59,0:08:12.35,Default,,0,0,0,,{\i1}I would fly to your side.
 Dialogue: 10,0:08:12.35,0:08:16.43,Default,,0,0,0,,Matoba{**-sama} just checked out.
 Dialogue: 10,0:08:16.43,0:08:18.94,Default,,0,0,0,,I... I see.
 Dialogue: 10,0:08:19.44,0:08:21.90,Default,,0,0,0,,See? You're way behind him!
@@ -197,7 +167,7 @@ Dialogue: 10,0:08:39.17,0:08:42.38,Default,,0,0,0,,Sir, I'm pretty sure that's a
 Dialogue: 10,0:08:42.38,0:08:44.09,Default,,0,0,0,,N-no.
 Dialogue: 10,0:08:48.26,0:08:49.38,Default,,0,0,0,,What was that?
 Dialogue: 10,0:08:52.72,0:08:55.26,Default,,0,0,0,,{\i1}I can't let Matoba{**-san} get what he's after.
-Dialogue: 10,0:08:55.26,0:08:59.35,Default,,0,0,0,,{\i1}I need to find this powerful demon and stop him somehow.
+Dialogue: 10,0:08:55.26,0:08:59.35,Default,,0,0,0,,{\i1}I need to find this powerful demon \Nand stop him somehow.
 Dialogue: 10,0:09:00.27,0:09:01.73,Default,,0,0,0,,{\i1}Which way is it?
 Dialogue: 10,0:09:01.73,0:09:03.65,Default,,0,0,0,,{\i1}I should be able to sense it.
 Dialogue: 10,0:09:03.65,0:09:04.77,Default,,0,0,0,,{\i1}Which way?
@@ -224,57 +194,54 @@ Dialogue: 10,0:10:24.48,0:10:27.52,Default,,0,0,0,,My light didn't work on her.
 Dialogue: 10,0:10:28.11,0:10:29.36,Default,,0,0,0,,I know this voice.
 Dialogue: 10,0:10:30.53,0:10:35.07,Default,,0,0,0,,The evil that I felt from that masked demon...
 Dialogue: 10,0:10:35.66,0:10:37.83,Default,,0,0,0,,That voice in my dreams...
-Dialogue: 10,0:10:39.99,0:10:41.45,Default,,0,0,0,,Are you...
-Dialogue: 10,0:10:41.45,0:10:43.21,Default,,0,0,0,,actually a human?
+Dialogue: 10,0:10:39.99,0:10:43.21,Default,,0,0,0,,Are you... actually a human?
 Dialogue: 10,0:10:44.50,0:10:46.33,Default,,0,0,0,,Of course.
 Dialogue: 10,0:10:46.33,0:10:50.63,Default,,0,0,0,,I see. You're the witch who once served Matoba!
 Dialogue: 10,0:10:50.63,0:10:51.92,Default,,0,0,0,,You know her?
-Dialogue: 10,0:10:51.92,0:10:56.18,Default,,0,0,0,,Yes, her servant demon was used as food by Matoba.
+Dialogue: 10,0:10:51.92,0:10:56.18,Default,,0,0,0,,Yes, her servant demon \Nwas used as food by Matoba.
 Dialogue: 10,0:10:56.18,0:10:58.85,Default,,0,0,0,,She's been retired since then, or so I heard.
 Dialogue: 10,0:10:59.68,0:11:02.02,Default,,0,0,0,,They used her servants as bait?
 Dialogue: 10,0:11:04.06,0:11:07.19,Default,,0,0,0,,I'll never forgive Matoba.
 Dialogue: 10,0:11:09.73,0:11:11.94,Default,,0,0,0,,I'll devour you...
 Dialogue: 10,0:11:11.94,0:11:17.03,Default,,0,0,0,,and awaken a demon that will devour Matoba!
-Dialogue: 1,0:11:29.04,0:11:32.05,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
-Dialogue: 2,0:11:29.04,0:11:32.05,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
-Dialogue: 1,0:11:29.04,0:11:32.05,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1167.54,188.66)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:11:29.04,0:11:32.05,titlename-blur,,0,0,0,,{\pos(1214,219)\p1\blur20}m 0 0 s 1350 0 1350 150 0 150 c
 Dialogue: 10,0:11:40.93,0:11:42.35,Default,,0,0,0,,This is it.
 Dialogue: 10,0:11:43.18,0:11:45.85,Default,,0,0,0,,It doesn't look like it's woken up yet, but...
 Dialogue: 10,0:11:46.56,0:11:48.31,Default,,0,0,0,,Look, Natsume.
-Dialogue: 10,0:11:48.31,0:11:52.02,Default,,0,0,0,,A circle of awakening has already been drawn around him.
+Dialogue: 10,0:11:48.31,0:11:52.02,Default,,0,0,0,,A circle of awakening has already \Nbeen drawn around him.
 Dialogue: 10,0:11:52.61,0:11:53.61,Default,,0,0,0,,Those pots...
 Dialogue: 10,0:11:53.61,0:11:54.65,Default,,0,0,0,,You idiot.
-Dialogue: 10,0:11:54.65,0:11:57.86,Default,,0,0,0,,They obviously hold all the blood that's been gathered.
-Dialogue: 10,0:11:59.45,0:12:03.33,Default,,0,0,0,,I found a demon that the greedy Matoba would be sure to love,
+Dialogue: 10,0:11:54.65,0:11:57.86,Default,,0,0,0,,They obviously hold all \Nthe blood that's been gathered.
+Dialogue: 10,0:11:59.45,0:12:03.33,Default,,0,0,0,,I found a demon that \Nthe greedy Matoba would be sure to love,
 Dialogue: 10,0:12:03.33,0:12:05.50,Default,,0,0,0,,and I spread rumors all around.
-Dialogue: 10,0:12:05.79,0:12:09.75,Default,,0,0,0,,I drew him to this village so he could be devoured.
-Dialogue: 10,0:12:10.17,0:12:12.80,Default,,0,0,0,,Are you out for revenge because your servant was eaten?
-Dialogue: 10,0:12:12.80,0:12:17.09,Default,,0,0,0,,It's a shame, but in this line of work, the demons we use are—
+Dialogue: 10,0:12:05.79,0:12:09.75,Default,,0,0,0,,I drew him to this village \Nso he could be devoured.
+Dialogue: 10,0:12:10.17,0:12:12.80,Default,,0,0,0,,Are you out for revenge \Nbecause your servant was eaten?
+Dialogue: 10,0:12:12.80,0:12:17.09,Default,,0,0,0,,It's a shame, but in this line of work, \Nthe demons we use are—
 Dialogue: 10,0:12:17.09,0:12:19.51,Default,,0,0,0,,Nothing but tools?
 Dialogue: 10,0:12:19.51,0:12:22.10,Default,,0,0,0,,It wasn't like that with me.
 Dialogue: 10,0:12:23.76,0:12:25.81,Default,,0,0,0,,He wasn't just a tool.
 Dialogue: 10,0:12:27.10,0:12:29.19,Default,,0,0,0,,But this is going too far.
 Dialogue: 10,0:12:29.48,0:12:33.32,Default,,0,0,0,,I don't care if an exorcist like you understands.
-Dialogue: 10,0:12:33.32,0:12:37.15,Default,,0,0,0,,But I need blood. I need more blood.
+Dialogue: 10,0:12:33.32,0:12:35.32,Default,,0,0,0,,But I need blood.
+Dialogue: 10,0:12:35.32,0:12:37.15,Default,,0,0,0,,I need more blood.
 Dialogue: 10,0:12:37.15,0:12:38.40,Default,,0,0,0,,So I'll take yours!
 Dialogue: 10,0:12:41.66,0:12:43.58,Default,,0,0,0,,Do you think that's all I have?
 Dialogue: 10,0:12:44.91,0:12:47.20,Default,,0,0,0,,There's no end to them.
 Dialogue: 10,0:12:53.25,0:12:54.42,Default,,0,0,0,,Nasty.
 Dialogue: 10,0:12:56.05,0:12:59.43,Default,,0,0,0,,I'll tear apart these paper dolls.
-Dialogue: 10,0:13:01.93,0:13:03.51,Default,,0,0,0,,{*}Master{*Sensei}!
+Dialogue: 10,0:13:02.26,0:13:03.18,Default,,0,0,0,,{*}Master{*Sensei}!
 Dialogue: 10,0:13:04.60,0:13:05.47,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:13:06.97,0:13:08.64,Default,,0,0,0,,Oh my, excuse me.
-Dialogue: 10,0:13:09.81,0:13:13.94,Default,,0,0,0,,There were so many demons that I didn't know which was which.
+Dialogue: 10,0:13:09.81,0:13:13.94,Default,,0,0,0,,There were so many demons \Nthat I didn't know which was which.
 Dialogue: 10,0:13:13.94,0:13:16.23,Default,,0,0,0,,I didn't mean to hit him.
 Dialogue: 10,0:13:17.74,0:13:19.11,Default,,0,0,0,,Matoba!
 Dialogue: 10,0:13:19.11,0:13:23.07,Default,,0,0,0,,It was quite difficult to find this place.
-Dialogue: 10,0:13:24.03,0:13:28.66,Default,,0,0,0,,Whenever anything happened, I'd send someone to investigate the demons.
+Dialogue: 10,0:13:24.03,0:13:28.66,Default,,0,0,0,,Whenever anything happened, \NI'd send someone to investigate the demons.
 Dialogue: 10,0:13:32.25,0:13:37.55,Default,,0,0,0,,I had my servants search the forest many times.
-Dialogue: 10,0:13:37.55,0:13:42.93,Default,,0,0,0,,But when I let you go for just a minute,\N you found it for me right away.
+Dialogue: 10,0:13:37.55,0:13:42.93,Default,,0,0,0,,But when I let you go for just a minute, \Nyou found it for me right away.
 Dialogue: 10,0:13:47.47,0:13:49.73,Default,,0,0,0,,I wonder about you...
 Dialogue: 10,0:13:53.06,0:13:55.23,Default,,0,0,0,,You punk.
-Dialogue: 10,0:14:03.45,0:14:08.37,Default,,0,0,0,,You've crossed the line. Prepare to die.
+Dialogue: 10,0:14:03.45,0:14:05.87,Default,,0,0,0,,You've crossed the line.
+Dialogue: 10,0:14:05.87,0:14:08.37,Default,,0,0,0,,Prepare to die.
 Dialogue: 10,0:14:18.50,0:14:19.88,Default,,0,0,0,,{*}Master{*Sensei}!
 Dialogue: 10,0:14:19.88,0:14:21.55,Default,,0,0,0,,Calm down, {*}Master{*Sensei}!
 Dialogue: 10,0:14:21.55,0:14:22.97,Default,,0,0,0,,Don't move!
@@ -295,14 +262,14 @@ Dialogue: 10,0:15:05.26,0:15:06.72,Default,,0,0,0,,The bleeding's stopped.
 Dialogue: 10,0:15:12.98,0:15:14.39,Default,,0,0,0,,What's going on?
 Dialogue: 10,0:15:14.39,0:15:17.40,Default,,0,0,0,,You really are a demon, {*}Master{*Sensei}.
 Dialogue: 10,0:15:17.40,0:15:18.36,Default,,0,0,0,,You idiot!
-Dialogue: 10,0:15:18.36,0:15:24.74,Default,,0,0,0,,Even I'd be terrified if I had things like those running through my veins!
+Dialogue: 10,0:15:18.36,0:15:24.74,Default,,0,0,0,,Even I'd be terrified if I had things \Nlike those running through my veins!
 Dialogue: 10,0:15:26.82,0:15:27.82,Default,,0,0,0,,The blood...
 Dialogue: 10,0:15:28.82,0:15:31.58,Default,,0,0,0,,Look! The blood in the pots, too...
 Dialogue: 10,0:15:54.73,0:15:58.73,Default,,0,0,0,,Shoot... that cat's blood is powerful.
 Dialogue: 10,0:15:58.73,0:16:00.69,Default,,0,0,0,,He woke it up!
 Dialogue: 10,0:16:00.69,0:16:02.11,Default,,0,0,0,,{*}Master{*Sensei}!
 Dialogue: 10,0:16:02.11,0:16:07.45,Default,,0,0,0,,Was that arrow... aimed at Master on purpose?
-Dialogue: 10,0:16:07.45,0:16:11.62,Default,,0,0,0,,He wanted to test this demon... so he did it on purpose?
+Dialogue: 10,0:16:07.45,0:16:11.62,Default,,0,0,0,,He wanted to test this demon... \Nso he did it on purpose?
 Dialogue: 10,0:16:19.25,0:16:20.54,Default,,0,0,0,,Get away, Natsume!
 Dialogue: 10,0:16:20.54,0:16:22.04,Default,,0,0,0,,This is bad!
 Dialogue: 10,0:16:22.04,0:16:24.05,Default,,0,0,0,,He's giving off a nasty poison!
@@ -339,35 +306,35 @@ Dialogue: 10,0:17:52.97,0:17:56.22,Default,,0,0,0,,You stay with her, {*}Master{
 Dialogue: 10,0:17:58.06,0:17:59.14,Default,,0,0,0,,{*}Master{*Sensei}...
 Dialogue: 10,0:18:05.65,0:18:06.98,Default,,0,0,0,,Well?
 Dialogue: 10,0:18:06.98,0:18:09.61,Default,,0,0,0,,Can we use it?
-Dialogue: 10,0:18:09.61,0:18:14.41,Default,,0,0,0,,No. It can't speak, so we can't make a contract with it,
-Dialogue: 10,0:18:14.41,0:18:18.41,Default,,0,0,0,,and it's too strong for me to subjugate it with a spell.
+Dialogue: 10,0:18:09.61,0:18:14.41,Default,,0,0,0,,No. It can't speak, \Nso we can't make a contract with it,
+Dialogue: 10,0:18:14.41,0:18:18.41,Default,,0,0,0,,and it's too strong for me \Nto subjugate it with a spell.
 Dialogue: 10,0:18:19.08,0:18:21.00,Default,,0,0,0,,And then there's the poison...
 Dialogue: 10,0:18:21.00,0:18:23.12,Default,,0,0,0,,Oh, my.
-Dialogue: 10,0:18:23.12,0:18:27.63,Default,,0,0,0,,Since he's not out yet, Natori probably went to seal it away.
+Dialogue: 10,0:18:23.12,0:18:27.63,Default,,0,0,0,,Since he's not out yet, \NNatori probably went to seal it away.
 Dialogue: 10,0:18:27.63,0:18:28.88,Default,,0,0,0,,Natori?
 Dialogue: 10,0:18:28.88,0:18:31.76,Default,,0,0,0,,I only teased him a little, and he came running?
 Dialogue: 10,0:18:31.76,0:18:33.38,Default,,0,0,0,,What a child.
 Dialogue: 10,0:18:36.01,0:18:37.43,Default,,0,0,0,,Shall we go?
-Dialogue: 10,0:18:37.43,0:18:40.52,Default,,0,0,0,,You came all the way out here, and the demon turned out useless.
+Dialogue: 10,0:18:37.43,0:18:40.52,Default,,0,0,0,,You came all the way out here, \Nand the demon turned out useless.
 Dialogue: 10,0:18:40.52,0:18:42.31,Default,,0,0,0,,Such a waste of time.
 Dialogue: 10,0:18:43.02,0:18:44.31,Default,,0,0,0,,Not so much.
-Dialogue: 10,0:18:45.19,0:18:49.78,Default,,0,0,0,,I can't use the demon, but I am interested in the boy and the cat.
+Dialogue: 10,0:18:45.19,0:18:49.78,Default,,0,0,0,,I can't use the demon, \Nbut I am interested in the boy and the cat.
 Dialogue: 10,0:18:54.65,0:18:56.78,Default,,0,0,0,,Okay, follow me!
-Dialogue: 10,0:18:57.78,0:18:58.78,Default - italics,,0,0,0,,{\i1}He's fast!
-Dialogue: 10,0:18:59.37,0:19:00.79,Default - italics,,0,0,0,,{\i1}Come on, just a bit more!
+Dialogue: 10,0:18:57.78,0:18:58.78,Default,,0,0,0,,{\i1}He's fast!
+Dialogue: 10,0:18:59.37,0:19:00.79,Default,,0,0,0,,{\i1}Come on, just a bit more!
 Dialogue: 10,0:19:08.17,0:19:09.71,Default,,0,0,0,,Natsume!
-Dialogue: 10,0:19:20.18,0:19:23.98,Default,,0,0,0,,Ye who rest in the Earth and hold the keys, come to me.
+Dialogue: 10,0:19:20.18,0:19:23.98,Default,,0,0,0,,Ye who rest in the Earth \Nand hold the keys, come to me.
 Dialogue: 10,0:19:23.98,0:19:26.40,Default,,0,0,0,,Ye is the one who disturbs the stones.
 Dialogue: 10,0:19:26.40,0:19:28.98,Default,,0,0,0,,Take away the inhuman one.
 Dialogue: 10,0:19:36.57,0:19:37.36,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:19:38.41,0:19:39.41,Default,,0,0,0,,Natsume...
-Dialogue: 10,0:19:40.33,0:19:42.37,Default,,0,0,0,,If you don't need a demon, don't waste time on it.
+Dialogue: 10,0:19:40.33,0:19:42.37,Default,,0,0,0,,If you don't need a demon, \Ndon't waste time on it.
 Dialogue: 10,0:19:42.37,0:19:44.25,Default,,0,0,0,,Just blow it to bits.
 Dialogue: 10,0:19:44.79,0:19:47.92,Default,,0,0,0,,I don't care about the demon or that woman...
 Dialogue: 10,0:19:51.13,0:19:52.88,Default,,0,0,0,,but you interest me.
 Dialogue: 10,0:19:53.71,0:19:56.01,Default,,0,0,0,,We'll meet again.
 Dialogue: 10,0:19:56.01,0:19:58.47,Default,,0,0,0,,It was a pleasure to make your acquaintance.
-Dialogue: 10,0:20:03.68,0:20:05.64,Default - italics,,0,0,0,,{\i1}The Exorcist Matoba clan...
+Dialogue: 10,0:20:03.68,0:20:05.64,Default,,0,0,0,,{\i1}The Exorcist Matoba clan...
 Dialogue: 10,0:20:07.44,0:20:08.65,Default,,0,0,0,,I'll never forgive him.
 Dialogue: 10,0:20:09.27,0:20:10.94,Default,,0,0,0,,Matoba...
 Dialogue: 10,0:20:10.94,0:20:12.44,Default,,0,0,0,,I'll never forgive him.
@@ -391,38 +358,35 @@ Dialogue: 10,0:21:25.43,0:21:28.60,Default,,0,0,0,,I have no reason to be.
 Dialogue: 10,0:21:29.27,0:21:32.60,Default,,0,0,0,,I am your servant.
 Dialogue: 10,0:21:33.31,0:21:36.90,Default,,0,0,0,,{\i1}Can't they see it?
 Dialogue: 10,0:21:38.32,0:21:41.70,Default,,0,0,0,,{\i1}The pain of a spirit doing all \Nshe can to protect her friends,
-Dialogue: 10,0:21:42.41,0:21:46.08,Default,,0,0,0,,{\i1}or the pain of someone whose bond with a spirit was so deep
-Dialogue: 10,0:21:46.08,0:21:50.58,Default,,0,0,0,,{\i1}that when it was lost, her heart was broken.
+Dialogue: 10,0:21:42.41,0:21:50.58,Default,,0,0,0,,{\i1}or the pain of someone whose bond with a spirit was \Nso deep that when it was lost, her heart was broken.
 Dialogue: 10,0:21:52.50,0:21:54.42,Default,,0,0,0,,{\i1}As long as they get what they want,
 Dialogue: 10,0:21:54.42,0:21:56.67,Default,,0,0,0,,{\i1}they don't care who gets hurt.
 Dialogue: 10,0:21:57.34,0:21:58.17,Default,,0,0,0,,Natsume.
-Dialogue: 10,0:22:01.17,0:22:06.26,Default,,0,0,0,,There's no need for you to worry yourself about them.
+Dialogue: 10,0:22:01.17,0:22:06.26,Default,,0,0,0,,There's no need for you \Nto worry yourself about them.
 Dialogue: 10,0:22:06.26,0:22:08.81,Default,,0,0,0,,That's just how some people are.
 Dialogue: 10,0:22:08.81,0:22:10.39,Default,,0,0,0,,That's all there is to it.
 Dialogue: 10,0:22:13.48,0:22:15.15,Default,,0,0,0,,{\i1}That's right.
 Dialogue: 10,0:22:15.15,0:22:19.19,Default,,0,0,0,,{\i1}I have {*}Master{*Sensei}, Natori{**-san}, and Hiiragi.
 Dialogue: 10,0:22:22.11,0:22:23.11,Default,,0,0,0,,{\i1}I'm...
 Dialogue: 10,0:22:24.95,0:22:26.99,Default,,0,0,0,,{\i1}different from them.
-Dialogue: 0,0:22:30.70,0:22:41.17,ED,,0,0,0,,{\fad(300,300)}Lining up the sparks of warmth I've lost one by one
-Dialogue: 0,0:22:42.72,0:22:49.39,ED,,0,0,0,,{\fad(300,300)}Coming to the rainbow-colored pieces of you
-Dialogue: 0,0:22:50.35,0:22:54.85,ED,,0,0,0,,{\fad(300,300)}I crack a smile
-Dialogue: 0,0:22:57.48,0:23:08.53,ED,,0,0,0,,{\fad(300,300)}Not even knowing how to make memories
-Dialogue: 0,0:23:10.95,0:23:16.21,ED,,0,0,0,,{\fad(300,300)}Even when we took things too fast
-Dialogue: 0,0:23:17.21,0:23:24.38,ED,,0,0,0,,{\fad(300,300)}We were only going with the flow
-Dialogue: 0,0:23:24.88,0:23:31.35,ED,,0,0,0,,{\fad(300,300)}No matter where I go, even after this darkness
-Dialogue: 0,0:23:31.64,0:23:37.48,ED,,0,0,0,,{\fad(300,300)}How many times must I say goodbye?
-Dialogue: 0,0:23:37.48,0:23:44.40,ED,,0,0,0,,{\fad(300,300)}Shining with the flame of a young heart
-Dialogue: 0,0:23:44.86,0:23:50.66,ED,,0,0,0,,{\fad(300,300)}Those faraway pieces of you
-Dialogue: 1,0:24:00.09,0:24:15.10,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
-Dialogue: 0,0:24:00.09,0:24:15.10,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
-Dialogue: 1,0:24:00.09,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
-Dialogue: 0,0:24:00.09,0:24:15.10,number-box,,0,0,0,,{\be1\fscx36\fscy38\pos(1747.33,180)}\h
-Dialogue: 0,0:24:00.09,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
-Dialogue: 1,0:24:00.09,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:24:00.09,0:24:15.10,nexttime-shadow,,0,0,0,,{\blur3.5\pos(656.67,818)}The Fox Cub's Watch
-Dialogue: 1,0:24:00.09,0:24:15.10,nexttime,,0,0,0,,{\pos(654.67,813)}The Fox Cub's Watch
 Dialogue: 10,0:24:00.09,0:24:01.29,Default,,0,0,0,,He's here!
 Dialogue: 10,0:24:01.29,0:24:03.05,Default,,0,0,0,,Natsume's here again!
-Dialogue: 10,0:24:03.05,0:24:07.93,Default,,0,0,0,,When he sees how strong I've gotten, will he be happy?
+Dialogue: 10,0:24:03.05,0:24:07.93,Default,,0,0,0,,When he sees how strong I've gotten, \Nwill he be happy?
 Dialogue: 10,0:24:07.93,0:24:10.89,Default,,0,0,0,,The god of the rocks was saying something weird,
 Dialogue: 10,0:24:10.89,0:24:14.52,Default,,0,0,0,,but I want to help him as much as I can!
+Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
+Dialogue: 10,0:22:30.04,0:22:30.08,Default,,0,0,0,edsync,
+Dialogue: 1,0:24:00.09,0:24:15.10,nexttime,,0,0,0,,{\pos(654.67,813)}The Fox Cub's Watch
+Dialogue: 0,0:24:00.09,0:24:15.10,nexttime-shadow,,0,0,0,,{\blur3.5\pos(656.67,818)}The Fox Cub's Watch
+Dialogue: 1,0:24:00.09,0:24:15.10,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
+Dialogue: 0,0:24:00.09,0:24:15.10,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
+Dialogue: 2,0:11:29.04,0:11:32.05,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
+Dialogue: 1,0:24:00.09,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\blur0.7\fay-0.14\fscx36\fscy38\c&H1316D7&}3
+Dialogue: 1,0:11:29.04,0:11:32.05,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
+Dialogue: 0,0:24:00.09,0:24:15.10,number-box,,0,0,0,,{\pos(1747.333,180)\blur0.7\fscx36\fscy38\c&H1316D7&}\h
+Dialogue: 1,0:02:56.28,0:03:00.28,title,,0,0,0,,{\c&H035B09&}Ex{\c}orcist
+Dialogue: 0,0:02:56.28,0:03:00.28,title-shadow,,0,0,0,,{\blur7\c&H234A76&\4a&HFF&}Ex{\c\4a}orcist
+Dialogue: 1,0:11:29.04,0:11:32.05,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1167.54,188.66)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:24:00.09,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
+Dialogue: 1,0:24:00.09,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:11:29.04,0:11:32.05,titlename-blur,,0,0,0,,{\pos(1214,219)\p1\blur20}m 0 0 s 1350 0 1350 150 0 150 c

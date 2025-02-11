@@ -12,23 +12,20 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_08.mkv
-Video File: ../../../natsume 3/natsume_s3_08.mkv
+Audio File: natsume_s3_08.mkv
+Video File: natsume_s3_08.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 63
-Active Line: 89
-Video Position: 8267
+Video Zoom Percent: 0.625000
+Scroll Position: 264
+Active Line: 273
+Video Position: 29835
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: OP-eng,MV Boli,80,&H00ACFBC5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,45,45,45,1
-Style: ED-eng,EFN Karet,60,&H14E4E4E4,&H000000FF,&H0A422300,&H00000000,0,0,0,0,95,90,0,0,1,2.25,0,3,50,50,50,1
-Style: EpTitle,Arabic Typesetting,180,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
-Style: EpTitleC,Andalus,90,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,-1,0,0,0,100,100,1.5,0,1,0,0,7,15,15,15,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -37,37 +34,11 @@ Style: nexttime,Footlight MT Light,90,&H000B2134,&H000019FF,&H00000000,&H00CCF9D
 Style: nexttime-shadow,Footlight MT Light,90,&H00C4F5C9,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,0,0,1
 Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
 Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
-Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,0,9,60,60,30,1
 Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
-Style: Default - italics,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,-1,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: Default - Overlap,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H005B2509,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: woodsign,ArtificeSSK,54,&H0037535A,&H00FFFFFF,&H142B2B2B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.48,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1100,\blur1)\1a&HFF}Natsume's\h{\1a&H00}Book\h{\1a&HFF}Of\hFriends
-Dialogue: 0,0:00:01.19,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&HFF}Natsume's\hBook\h{\1a&H00}Of{\1a&HFF}\hFriends
-Dialogue: 0,0:00:01.98,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&H00}Natsu{\1a&HFF}me's\hBook\hOf\hFriends
-Dialogue: 0,0:00:02.82,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsume's\hBook\hOf\h{\1a&H00}Friends
-Dialogue: 0,0:00:03.32,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsu{\1a&H00}me's{\1a&HFF}\hBook\hOf\hFriends
-Dialogue: 1,0:00:04.32,0:00:07.15,titlename,,0,0,0,,{\an3\fad(0,200)\be2\fs100\pos(1402,306.5)}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:06.90,0:00:08.15,titlename,,0,0,0,,{\an3\fs100\pos(1402,306.5)\fad(200,0)\be2\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 2,0:00:07.78,0:00:15.83,number,,0,0,0,,{\an2\pos(1606.5,503.5)\fad(250,1500)\blur8\t(0,250,\blur3)\fscx105\fay-0.14\t(5900,0,\blur10)}3
-Dialogue: 1,0:00:07.78,0:00:15.83,number-box,,0,0,0,,{\an2\pos(1603.5,502.5)\fad(250,1500)\blur8\t(0,250,\blur3)\t(5900,0,\blur10)}\h
-Dialogue: 2,0:00:08.15,0:00:08.74,titlename,,0,0,0,,{\an3\be2\move(1402,306.5,1385.5,293.5)\c&8A6424&\fs100}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:08.32,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,1500)\blur3.5\fs100\t(6200,1000,\be15)\t(5000,0,\blur10)\c&H433E2F&}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:08.74,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1385.5,293.5)\fad(0,1500)\be2\fs100\t(5900,1000,\be5)\blur0\t(5000,0,\blur10)\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:00:15.04,0:00:21.83,OP,,0,0,0,,{\fade(300,0)}Living through these meaningless days, I let out a sigh
-Dialogue: 0,0:00:22.04,0:00:29.01,OP,,0,0,0,,{\fade(300,300)}I've lost sight of my true self
-Dialogue: 0,0:00:29.72,0:00:36.60,OP,,0,0,0,,{\fade(300,300)}Even if I strain my ears I can't hear your voice
-Dialogue: 0,0:00:36.60,0:00:43.40,OP,,0,0,0,,{\fade(300,300)}So I keep walking trying to catch up
-Dialogue: 0,0:00:43.40,0:00:50.91,OP,,0,0,0,,{\fade(300,300)}The things I couldn't tell you form into a chrysalis over time
-Dialogue: 0,0:00:51.20,0:00:58.71,OP,,0,0,0,,{\fade(0,300)}Spreading wings, they take flight
-Dialogue: 0,0:00:59.12,0:01:06.00,OP,,0,0,0,,{\fade(300,300)}The one, the one precious thing I'll never forget
-Dialogue: 0,0:01:06.25,0:01:13.97,OP,,0,0,0,,{\fade(300,300)}Someday, that warm emotion
-Dialogue: 0,0:01:14.30,0:01:19.81,OP,,0,0,0,,{\fade(300,300)}I'll do what little I can
-Dialogue: 0,0:01:20.14,0:01:28.57,OP,,0,0,0,,{\fad(300,1000)\c&H98ADF1&}Little by little, to get through to you
 Dialogue: 10,0:01:42.54,0:01:44.17,Default,,0,0,0,,I got it!
 Dialogue: 10,0:01:51.38,0:01:52.63,Default,,0,0,0,,Wait!
 Dialogue: 10,0:01:53.63,0:01:55.64,Default,,0,0,0,,Catch us if you can!
@@ -77,19 +48,17 @@ Dialogue: 10,0:02:16.07,0:02:19.20,Default,,0,0,0,,{\i1}Mom, I've gotten stronge
 Dialogue: 10,0:02:19.20,0:02:21.62,Default,,0,0,0,,{\i1}I'm fine on my own now.
 Dialogue: 10,0:02:21.62,0:02:24.87,Default,,0,0,0,,{\i1}I'm sure I could help Natsume!
 Dialogue: 10,0:02:27.29,0:02:28.42,Default,,0,0,0,,Natsume...
-Dialogue: 0,0:02:29.17,0:02:33.17,title-shadow,,0,0,0,,{\blur7)}The Fox Cub{\c&H64A2D6&\4c&H6A99BE&}'s{\c\4c} Watch
-Dialogue: 1,0:02:29.17,0:02:33.17,title,,0,0,0,,{}The Fox Cub{\c&H015C07&}'s{\c} Watch
 Dialogue: 10,0:02:34.84,0:02:36.93,Default,,0,0,0,,You want to go on a trip together?
 Dialogue: 10,0:02:36.93,0:02:38.14,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:02:38.14,0:02:41.85,Default,,0,0,0,,Do you remember Yasui{**-san} from the Kariba Hot Springs?
+Dialogue: 10,0:02:38.14,0:02:41.85,Default,,0,0,0,,Do you remember Yasui{**-san} \Nfrom the Kariba Hot Springs?
 Dialogue: 10,0:02:42.35,0:02:45.27,Default,,0,0,0,,From back when I had you get me this tea cup.
 Dialogue: 10,0:02:45.27,0:02:48.56,Default,,0,0,0,,Oh, on the summer trip.
 Dialogue: 10,0:02:48.56,0:02:52.86,Default,,0,0,0,,I've chatted with him a few times since then,
-Dialogue: 10,0:02:52.86,0:02:56.95,Default,,0,0,0,,and he asked me to come help him with a pottery class he's holding.
+Dialogue: 10,0:02:52.86,0:02:56.95,Default,,0,0,0,,and he asked me to come help him \Nwith a pottery class he's holding.
 Dialogue: 10,0:02:57.49,0:02:58.41,Default,,0,0,0,,Are you coming, Touko{**-san}?
-Dialogue: 10,0:02:58.41,0:03:02.08,Default,,0,0,0,,I promised to go shopping with some friends that day,
+Dialogue: 10,0:02:58.41,0:03:02.08,Default,,0,0,0,,I promised to go shopping \Nwith some friends that day,
 Dialogue: 10,0:03:02.08,0:03:04.50,Default,,0,0,0,,so you two go have fun.
-Dialogue: 10,0:03:04.50,0:03:10.84,Default,,0,0,0,,The class is just going to cover the basics with kids from around the neighborhood.
+Dialogue: 10,0:03:04.50,0:03:10.84,Default,,0,0,0,,The class is just going to cover the basics \Nwith kids from around the neighborhood.
 Dialogue: 10,0:03:12.59,0:03:14.80,Default,,0,0,0,,I can turn him down if you're busy.
 Dialogue: 10,0:03:14.80,0:03:15.93,Default,,0,0,0,,Oh, no...
 Dialogue: 10,0:03:15.93,0:03:18.09,Default,,0,0,0,,Do you have plans with your friends?
@@ -102,11 +71,11 @@ Dialogue: 10,0:03:46.12,0:03:49.29,Default,,0,0,0,,Were you moaning just now?
 Dialogue: 10,0:03:49.29,0:03:51.34,Default,,0,0,0,,You must have been dreaming.
 Dialogue: 10,0:03:56.72,0:03:58.47,Default,,0,0,0,,Does it still hurt?
 Dialogue: 10,0:03:58.47,0:04:02.01,Default,,0,0,0,,If I lick it, it'll be fine...
-Dialogue: 10,0:04:02.01,0:04:06.89,Default,,0,0,0,,I was planning on having the middle-rank demons take care of you while I went to the hot springs.
+Dialogue: 10,0:04:02.01,0:04:06.89,Default,,0,0,0,,I was planning on having the middle-rank demons \Ntake care of you while I went to the hot springs.
 Dialogue: 10,0:04:06.89,0:04:07.77,Default,,0,0,0,,What?
 Dialogue: 10,0:04:07.77,0:04:09.15,Default,,0,0,0,,A hot spring?
 Dialogue: 10,0:04:09.15,0:04:09.90,Default,,0,0,0,,Natsume!
-Dialogue: 10,0:04:09.90,0:04:12.44,Default,,0,0,0,,You're planning on going to a hot spring without me?
+Dialogue: 10,0:04:09.90,0:04:12.44,Default,,0,0,0,,You're planning on going to \Na hot spring without me?
 Dialogue: 10,0:04:13.11,0:04:16.07,Default,,0,0,0,,See? You shouldn't move around too much yet.
 Dialogue: 10,0:04:18.20,0:04:21.28,Default,,0,0,0,,The Kariba springs won't heal a spirit's wounds.
 Dialogue: 10,0:04:21.28,0:04:23.66,Default,,0,0,0,,Hinoe! Nobody asked you!
@@ -119,28 +88,28 @@ Dialogue: 10,0:04:35.67,0:04:37.13,Default,,0,0,0,,Will it?
 Dialogue: 10,0:04:37.13,0:04:38.76,Default,,0,0,0,,He said it would heal quickly.
 Dialogue: 10,0:04:38.76,0:04:41.26,Default,,0,0,0,,He wasn't lying.
 Dialogue: 10,0:04:41.26,0:04:44.14,Default,,0,0,0,,From our perspective, it's just a moment.
-Dialogue: 10,0:04:45.01,0:04:51.31,Default,,0,0,0,,But it takes time for a spirit as powerful as Madara to regain his energy.
+Dialogue: 10,0:04:45.01,0:04:51.31,Default,,0,0,0,,But it takes time for a spirit as powerful \Nas Madara to regain his energy.
 Dialogue: 10,0:04:51.31,0:04:54.52,Default,,0,0,0,,It looks like he's lost a lot of blood.
 Dialogue: 10,0:04:54.52,0:04:57.44,Default,,0,0,0,,Then, he can't go on the trip after all.
 Dialogue: 10,0:04:58.74,0:05:00.57,Default,,0,0,0,,I'll apologize to Shigeru{**-san}, and then...
 Dialogue: 10,0:05:00.57,0:05:02.41,Default,,0,0,0,,You should go.
-Dialogue: 10,0:05:03.82,0:05:08.29,Default,,0,0,0,,There's a medicinal herb called hazegrass that grows around there.
+Dialogue: 10,0:05:03.82,0:05:08.29,Default,,0,0,0,,There's a medicinal herb called hazegrass \Nthat grows around there.
 Dialogue: 10,0:05:08.29,0:05:09.41,Default,,0,0,0,,Hazegrass?
-Dialogue: 10,0:05:09.41,0:05:12.83,Default,,0,0,0,,It's a medicinal herb for spirits. Normal people can't see it.
+Dialogue: 10,0:05:09.41,0:05:12.83,Default,,0,0,0,,It's a medicinal herb for spirits. \NNormal people can't see it.
 Dialogue: 10,0:05:12.83,0:05:16.96,Default,,0,0,0,,It grows on trees that are many decades old.
-Dialogue: 10,0:05:16.96,0:05:20.47,Default,,0,0,0,,If you grind it up and apply it to a demon's wounds, they'll heal.
-Dialogue: 10,0:05:20.47,0:05:24.93,Default,,0,0,0,,I don't need it, but take me to the hot springs anyway!
+Dialogue: 10,0:05:16.96,0:05:20.47,Default,,0,0,0,,If you grind it up and apply it \Nto a demon's wounds, they'll heal.
+Dialogue: 10,0:05:20.47,0:05:24.93,Default,,0,0,0,,I don't need it, but take me \Nto the hot springs anyway!
 Dialogue: 10,0:05:24.93,0:05:27.22,Default,,0,0,0,,Fine, fine...
 Dialogue: 10,0:05:28.27,0:05:31.31,Default,,0,0,0,,You want to go on the trip, don't you?
 Dialogue: 10,0:05:35.69,0:05:38.57,Default,,0,0,0,,{*}Mr. Madara{*Madara-sama}, we've come to visit.
 Dialogue: 10,0:05:38.57,0:05:40.28,Default,,0,0,0,,Just a visit!
-Dialogue: 10,0:05:40.28,0:05:44.78,Default,,0,0,0,,I heard that the white pig cat was injured, so I came to see for myself.
+Dialogue: 10,0:05:40.28,0:05:44.78,Default,,0,0,0,,I heard that the white pig cat was injured, \Nso I came to see for myself.
 Dialogue: 10,0:05:44.78,0:05:46.66,Default,,0,0,0,,Oh hello, {*}Mistress Hinoe{*Hinoe-dono}.
 Dialogue: 10,0:05:46.66,0:05:47.91,Default,,0,0,0,,Have a drink!
 Dialogue: 10,0:05:47.91,0:05:49.29,Default,,0,0,0,,Don't mind if I do!
 Dialogue: 10,0:05:50.12,0:05:52.12,Default,,0,0,0,,Hey, it's late!
-Dialogue: 10,0:05:52.12,0:05:55.13,Default,,0,0,0,,You guys are making too much noise— oww!
-Dialogue: 10,0:05:55.13,0:05:58.88,Default,,0,0,0,,It would probably be worse for his wounds to stay here.
+Dialogue: 10,0:05:52.12,0:05:55.13,Default,,0,0,0,,You guys are making too much noise—oww!
+Dialogue: 10,0:05:55.13,0:05:58.88,Default,,0,0,0,,It would probably be worse \Nfor his wounds to stay here.
 Dialogue: 10,0:06:03.09,0:06:05.14,Default,,0,0,0,,You seem tired, Takashi.
 Dialogue: 10,0:06:05.14,0:06:09.10,Default,,0,0,0,,Yeah, I was up late packing.
 Dialogue: 10,0:06:09.10,0:06:10.43,Default,,0,0,0,,Want some coffee?
@@ -149,11 +118,11 @@ Dialogue: 10,0:06:14.48,0:06:15.69,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:06:16.86,0:06:20.11,Default,,0,0,0,,There's a place that sells good lunches on the way.
 Dialogue: 10,0:06:20.11,0:06:21.36,Default,,0,0,0,,We can go there for lunch.
 Dialogue: 10,0:06:21.36,0:06:22.36,Default,,0,0,0,,All right.
-Dialogue: 10,0:06:23.32,0:06:26.87,Default,,0,0,0,,{\i1}Is this what it feels like to go on a trip with your dad?
+Dialogue: 10,0:06:23.32,0:06:26.87,Default,,0,0,0,,{\i1}Is this what it feels like \Nto go on a trip with your dad?
 Dialogue: 10,0:06:27.91,0:06:30.75,Default,,0,0,0,,{\i1}It's a bit embarrassing, but it feels nice.
-Dialogue: 10,0:06:33.37,0:06:38.46,Default,,0,0,0,,{\i1}I'm sitting across from him, but I don't really know what to say.
-Dialogue: 10,0:06:39.63,0:06:42.72,Default,,0,0,0,,Young people aren't too interested in pottery, are they?
-Dialogue: 10,0:06:42.72,0:06:45.59,Default,,0,0,0,,I feel like I'm making you come along for an old man's hobby. Sorry.
+Dialogue: 10,0:06:33.37,0:06:38.46,Default,,0,0,0,,{\i1}I'm sitting across from him, \Nbut I don't really know what to say.
+Dialogue: 10,0:06:39.63,0:06:42.72,Default,,0,0,0,,Young people aren't too \Ninterested in pottery, are they?
+Dialogue: 10,0:06:42.72,0:06:45.59,Default,,0,0,0,,I feel like I'm making you come along \Nfor an old man's hobby. Sorry.
 Dialogue: 10,0:06:45.59,0:06:47.30,Default,,0,0,0,,That's not true.
 Dialogue: 10,0:06:47.30,0:06:49.68,Default,,0,0,0,,I really liked the tea cup I got last year.
 Dialogue: 10,0:06:50.14,0:06:53.81,Default,,0,0,0,,I've always liked the feeling of pottery.
@@ -161,18 +130,17 @@ Dialogue: 10,0:06:53.81,0:06:56.90,Default,,0,0,0,,It feels cold, but somehow wa
 Dialogue: 10,0:06:56.90,0:06:58.77,Default,,0,0,0,,like soil, I suppose.
 Dialogue: 10,0:06:58.77,0:07:00.19,Default,,0,0,0,,I understand that.
 Dialogue: 10,0:07:00.19,0:07:03.24,Default,,0,0,0,,So I've always wanted to try making it myself...
-Dialogue: 10,0:07:03.24,0:07:07.62,Default,,0,0,0,,{\i1}It's new for me to have a conversation with him like this.
+Dialogue: 10,0:07:03.24,0:07:07.62,Default,,0,0,0,,{\i1}It's new for me to have \Na conversation with him like this.
 Dialogue: 10,0:07:28.76,0:07:32.22,Default,,0,0,0,,This is what humans wear on their arms!
 Dialogue: 10,0:07:55.08,0:07:56.58,Default,,0,0,0,,I can see it!
-Dialogue: 10,0:07:56.58,0:08:02.71,Default,,0,0,0,,I've often seen you come here to watch the human trains.
+Dialogue: 10,0:07:56.58,0:08:02.71,Default,,0,0,0,,I've often seen you come here \Nto watch the human trains.
 Dialogue: 10,0:08:02.71,0:08:04.05,Default,,0,0,0,,Who are you?
 Dialogue: 10,0:08:04.05,0:08:08.05,Default,,0,0,0,,I'm the rock you're standing on.
 Dialogue: 10,0:08:09.26,0:08:12.93,Default,,0,0,0,,I suppose you could say I'm the avatar of this rock.
 Dialogue: 10,0:08:12.93,0:08:16.02,Default,,0,0,0,,I used to be worshiped by the villagers here.
 Dialogue: 10,0:08:16.02,0:08:19.73,Default,,0,0,0,,Worshiped... are you a god?
-Dialogue: 10,0:08:19.73,0:08:22.94,Default,,0,0,0,,The humans decided to worship me on their own. I never asked them to.
-Dialogue: 10,0:08:22.94,0:08:26.07,Default,,0,0,0,,You come here to watch the trains often,
-Dialogue: 10,0:08:26.07,0:08:28.24,Default,,0,0,0,,but are they that interesting?
+Dialogue: 10,0:08:19.73,0:08:22.94,Default,,0,0,0,,The humans decided to worship me \Non their own. I never asked them to.
+Dialogue: 10,0:08:22.94,0:08:28.24,Default,,0,0,0,,You come here to watch the trains often, \Nbut are they that interesting?
 Dialogue: 10,0:08:28.24,0:08:34.83,Default,,0,0,0,,No, I just come here because I might see Natsume.
 Dialogue: 10,0:08:34.83,0:08:37.62,Default,,0,0,0,,When he doesn't show up, I get disappointed.
 Dialogue: 10,0:08:37.62,0:08:39.75,Default,,0,0,0,,But I come anyway.
@@ -183,7 +151,7 @@ Dialogue: 10,0:08:48.72,0:08:51.26,Default,,0,0,0,,I see you're wearing a watch.
 Dialogue: 10,0:08:51.26,0:08:52.60,Default,,0,0,0,,A watch?
 Dialogue: 10,0:08:52.60,0:08:56.02,Default,,0,0,0,,A device that humans made to measure time.
 Dialogue: 10,0:08:57.81,0:08:59.64,Default,,0,0,0,,It wasn't moving a moment ago!
-Dialogue: 10,0:08:59.64,0:09:03.86,Default,,0,0,0,,Do you think wearing that will make you more human?
+Dialogue: 10,0:08:59.64,0:09:03.86,Default,,0,0,0,,Do you think wearing \Nthat will make you more human?
 Dialogue: 10,0:09:03.86,0:09:05.36,Default,,0,0,0,,More human?
 Dialogue: 10,0:09:05.36,0:09:09.65,Default,,0,0,0,,No, I want to be a great fox like my mom!
 Dialogue: 10,0:09:09.65,0:09:13.16,Default,,0,0,0,,Then that's something you don't need.
@@ -192,66 +160,6 @@ Dialogue: 10,0:09:16.16,0:09:17.75,Default,,0,0,0,,Human time?
 Dialogue: 10,0:09:24.38,0:09:26.17,Default,,0,0,0,,It's Natsume!
 Dialogue: 10,0:09:26.17,0:09:28.05,Default,,0,0,0,,Natsume's here!
 Dialogue: 10,0:09:29.17,0:09:31.05,Default,,0,0,0,,Wait!
-Dialogue: 1,0:10:04.79,0:10:04.83,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.51,1166.74)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:04.83,0:10:04.87,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,1153.53)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:04.87,0:10:04.91,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1140.32)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:04.91,0:10:04.95,woodsign,,0,0,0,,{=0}{\fscy100.06\fscx100.06\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1127.13)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:04.95,0:10:05.00,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1113.88)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.00,0:10:05.04,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1100.63)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.04,0:10:05.08,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1087.38)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.08,0:10:05.12,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1074.19)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.12,0:10:05.16,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1060.96)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.16,0:10:05.20,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1047.74)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.20,0:10:05.25,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,1034.48)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.25,0:10:05.29,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1021.3)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.29,0:10:05.33,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,1008.04)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.33,0:10:05.37,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,994.81)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.37,0:10:05.41,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,981.57)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.41,0:10:05.45,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.51,968.37)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.45,0:10:05.50,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,955.13)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.50,0:10:05.54,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,941.93)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.54,0:10:05.58,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,928.7)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.58,0:10:05.62,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,915.46)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.62,0:10:05.66,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,902.23)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.66,0:10:05.70,woodsign,,0,0,0,,{=0}{\fscy100.07\fscx100.07\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,889.06)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.70,0:10:05.75,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,875.76)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.75,0:10:05.79,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,862.56)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.79,0:10:05.83,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,849.33)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.83,0:10:05.87,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,836.08)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.87,0:10:05.91,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,822.83)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.91,0:10:05.96,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,809.66)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:05.96,0:10:06.00,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,796.43)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.00,0:10:06.04,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,783.18)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.04,0:10:06.08,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,769.94)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.08,0:10:06.12,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,756.73)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.12,0:10:06.16,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,743.46)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.16,0:10:06.21,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,730.24)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.21,0:10:06.25,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,717.03)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.25,0:10:06.29,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,703.79)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.29,0:10:06.33,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,690.54)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.33,0:10:06.37,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,677.35)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.37,0:10:06.41,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,664.11)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.41,0:10:06.46,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.45,650.93)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.46,0:10:06.50,woodsign,,0,0,0,,{=0}{\fscy100\fscx100\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,637.63)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.50,0:10:06.54,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,624.47)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.54,0:10:06.58,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,611.19)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.58,0:10:06.62,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,597.98)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.62,0:10:06.66,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,584.74)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.66,0:10:06.71,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,571.55)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.71,0:10:06.75,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,558.3)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.75,0:10:06.79,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,545.07)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.79,0:10:06.83,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,531.82)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.83,0:10:06.87,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,518.59)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.87,0:10:06.91,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,505.38)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.91,0:10:06.96,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,492.2)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:06.96,0:10:07.00,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.44,478.97)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.00,0:10:07.04,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,465.73)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.04,0:10:07.08,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,452.48)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.08,0:10:07.12,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,439.26)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.12,0:10:07.16,woodsign,,0,0,0,,{=0}{\fscy100\fscx100\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,426.01)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.16,0:10:07.21,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,412.84)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.21,0:10:07.25,woodsign,,0,0,0,,{=0}{\fscy99.99\fscx99.99\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,399.56)}Yasuian\NPottery\NSchool
-Dialogue: 1,0:10:07.25,0:10:07.29,woodsign,,0,0,0,,{=0}{\fscy100\fscx100\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,386.33)}Yasuian\NPottery\NSchool
 Dialogue: 10,0:09:32.59,0:09:34.93,Default,,0,0,0,,{\i1}Natsume came to see me again!
 Dialogue: 10,0:09:35.51,0:09:38.93,Default,,0,0,0,,{\i1}I'm not as weak as I used to be, Natsume!
 Dialogue: 10,0:09:41.31,0:09:42.94,Default,,0,0,0,,The wind feels good.
@@ -265,10 +173,6 @@ Dialogue: 10,0:10:01.62,0:10:04.79,Default,,0,0,0,,The person Natsume lives with
 Dialogue: 10,0:10:07.63,0:10:09.67,Default,,0,0,0,,Welcome, Fujiwara{**-san}.
 Dialogue: 10,0:10:09.67,0:10:11.47,Default,,0,0,0,,It's good to see you.
 Dialogue: 10,0:10:11.47,0:10:13.51,Default,,0,0,0,,Takashi{**-kun}, was it?
-Dialogue: 1,0:12:45.04,0:12:48.04,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
-Dialogue: 2,0:12:45.04,0:12:48.04,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
-Dialogue: 1,0:12:45.04,0:12:48.04,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1182.47,180.13)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:12:45.04,0:12:48.04,titlename-blur,,0,0,0,,{\pos(1214,219)\p1\blur20}m 0 0 s 1350 0 1350 150 0 150 c
 Dialogue: 10,0:10:13.51,0:10:16.26,Default,,0,0,0,,You came to get that pair of teacups last year.
 Dialogue: 10,0:10:16.26,0:10:18.18,Default,,0,0,0,,Yes. It's been a while.
 Dialogue: 10,0:10:18.43,0:10:19.64,Default,,0,0,0,,Come in.
@@ -287,9 +191,9 @@ Dialogue: 10,0:10:50.38,0:10:52.17,Default,,0,0,0,,Give it back!
 Dialogue: 10,0:10:53.30,0:10:54.55,Default,,0,0,0,,Give it back!
 Dialogue: 10,0:10:54.55,0:10:57.30,Default,,0,0,0,,Sorry, sorry! You can keep it!
 Dialogue: 10,0:10:57.80,0:10:59.93,Default,,0,0,0,,Freakin' beasts!
-Dialogue: 10,0:11:08.02,0:11:12.28,Default,,0,0,0,,That's the place my mom told me never to go to.
-Dialogue: 10,0:11:12.28,0:11:16.74,Default,,0,0,0,,This is where we'll fire the pieces we'll make in tomorrow's pottery class.
-Dialogue: 10,0:11:16.74,0:11:19.83,Default,,0,0,0,,They'll be done the next day, and then you can take them home.
+Dialogue: 10,0:11:08.31,0:11:12.28,Default,,0,0,0,,That's the place my mom told me never to go to.
+Dialogue: 10,0:11:12.28,0:11:16.74,Default,,0,0,0,,This is where we'll fire the pieces \Nwe'll make in tomorrow's pottery class.
+Dialogue: 10,0:11:16.74,0:11:19.83,Default,,0,0,0,,They'll be done the next day, \Nand then you can take them home.
 Dialogue: 10,0:11:19.83,0:11:21.87,Default,,0,0,0,,Sounds like fun.
 Dialogue: 10,0:11:21.87,0:11:23.66,Default,,0,0,0,,You must be tired today.
 Dialogue: 10,0:11:23.66,0:11:25.29,Default,,0,0,0,,There's a hot spring out back.
@@ -319,10 +223,11 @@ Dialogue: 10,0:13:41.22,0:13:44.39,Default,,0,0,0,,Won't I get any bigger?
 Dialogue: 10,0:13:44.76,0:13:46.89,Default,,0,0,0,,We're going to start the firing.
 Dialogue: 10,0:13:46.89,0:13:49.43,Default,,0,0,0,,Can you help me with the kiln, Takashi{**-kun}?
 Dialogue: 10,0:13:49.43,0:13:50.39,Default,,0,0,0,,Sure!
-Dialogue: 10,0:13:57.23,0:14:01.90,Default,,0,0,0,,Beast child, you must not meet with the human anymore.
+Dialogue: 10,0:13:57.23,0:14:01.90,Default,,0,0,0,,Beast child, you must not meet \Nwith the human anymore.
 Dialogue: 10,0:14:02.49,0:14:03.41,Default,,0,0,0,,Why?
 Dialogue: 10,0:14:03.41,0:14:07.91,Default,,0,0,0,,If you do, one of you will be sad.
-Dialogue: 10,0:14:09.41,0:14:15.17,Default,,0,0,0,,Listen well. Everything in this world lives in its own time.
+Dialogue: 10,0:14:09.41,0:14:10.91,Default,,0,0,0,,Listen well.
+Dialogue: 10,0:14:10.91,0:14:15.17,Default,,0,0,0,,Everything in this world lives in its own time.
 Dialogue: 10,0:14:15.17,0:14:18.05,Default,,0,0,0,,And they are not always the same.
 Dialogue: 10,0:14:18.05,0:14:21.72,Default,,0,0,0,,Humans have their time, and spirits have theirs.
 Dialogue: 10,0:14:21.72,0:14:25.01,Default,,0,0,0,,And beasts have their own as well.
@@ -330,13 +235,13 @@ Dialogue: 10,0:14:25.80,0:14:27.76,Default,,0,0,0,,I don't understand.
 Dialogue: 10,0:14:27.76,0:14:32.02,Default,,0,0,0,,Natsume's time and your time are different.
 Dialogue: 10,0:14:34.27,0:14:36.98,Default,,0,0,0,,You must hurry.
 Dialogue: 10,0:14:36.98,0:14:39.32,Default,,0,0,0,,You must find a partner and have children,
-Dialogue: 10,0:14:39.32,0:14:44.82,Default,,0,0,0,,and teach them as wisely as your mother taught you.
+Dialogue: 10,0:14:39.32,0:14:44.82,Default,,0,0,0,,and teach them as wisely \Nas your mother taught you.
 Dialogue: 10,0:14:44.82,0:14:48.53,Default,,0,0,0,,That is what it means to live in a beast's time.
 Dialogue: 10,0:14:48.87,0:14:53.83,Default,,0,0,0,,In the same way, Natsume lives in his own time.
 Dialogue: 10,0:14:53.83,0:14:58.29,Default,,0,0,0,,And it is very different from yours.
 Dialogue: 10,0:14:58.63,0:15:02.05,Default,,0,0,0,,Do you have your own time, then?
 Dialogue: 10,0:15:02.05,0:15:05.05,Default,,0,0,0,,I've lived the time of a rock.
-Dialogue: 10,0:15:05.84,0:15:10.26,Default,,0,0,0,,I was here far before the humans or spirits were born,
+Dialogue: 10,0:15:05.84,0:15:10.26,Default,,0,0,0,,I was here far before the humans \Nor spirits were born,
 Dialogue: 10,0:15:10.26,0:15:16.73,Default,,0,0,0,,and I'll sit here until time itself ends.
 Dialogue: 10,0:15:16.73,0:15:18.48,Default,,0,0,0,,You'll always be here?
 Dialogue: 10,0:15:18.48,0:15:23.07,Default,,0,0,0,,If I leave this place, I will disappear.
@@ -346,12 +251,11 @@ Dialogue: 10,0:15:28.91,0:15:32.95,Default,,0,0,0,,From my perspective, it's not
 Dialogue: 10,0:15:32.95,0:15:35.41,Default,,0,0,0,,Not that it's short either.
 Dialogue: 10,0:15:39.29,0:15:42.67,Default,,0,0,0,,We seal the clay in here for the rest of its time.
 Dialogue: 10,0:15:42.67,0:15:46.13,Default,,0,0,0,,Then it takes the form we gave it.
-Dialogue: 10,0:15:47.18,0:15:51.18,Default,,0,0,0,,Now then, let's all take a break until the pieces are done baking and are ready to paint.
+Dialogue: 10,0:15:47.18,0:15:51.18,Default,,0,0,0,,Now then, let's all take a break until the pieces \Nare done baking and are ready to paint.
 Dialogue: 10,0:15:51.85,0:15:53.81,Default,,0,0,0,,Takashi, what are you going to do?
 Dialogue: 10,0:15:53.81,0:15:57.98,Default,,0,0,0,,I've promised Yasui{**-san} I'd go see his other works.
-Dialogue: 10,0:15:59.15,0:16:03.61,Default,,0,0,0,,It's not often I get to come here, so I'm going to go wander around for a bit.
-Dialogue: 10,0:16:06.24,0:16:08.32,Default,,0,0,0,,{\i1}I thought it would be easy to find him,
-Dialogue: 10,0:16:08.32,0:16:10.32,Default,,0,0,0,,{\i1}but I guess I was wrong.
+Dialogue: 10,0:15:59.15,0:16:03.61,Default,,0,0,0,,It's not often I get to come here, \Nso I'm going to go wander around for a bit.
+Dialogue: 10,0:16:06.24,0:16:10.32,Default,,0,0,0,,{\i1}I thought it would be easy to find him, \Nbut I guess I was wrong.
 Dialogue: 10,0:16:10.32,0:16:12.87,Default,,0,0,0,,{\i1}He's got his own life, I suppose.
 Dialogue: 10,0:16:16.83,0:16:18.25,Default,,0,0,0,,I know you...
 Dialogue: 10,0:16:18.25,0:16:20.63,Default,,0,0,0,,Oh, hello. It's Mister Natsume.
@@ -379,17 +283,17 @@ Dialogue: 10,0:17:13.76,0:17:15.22,Default,,0,0,0,,Natsume...
 Dialogue: 10,0:17:15.22,0:17:19.06,Default,,0,0,0,,But he seemed busy.
 Dialogue: 10,0:17:19.06,0:17:22.85,Default,,0,0,0,,He said he was here looking for an herb.
 Dialogue: 10,0:17:22.85,0:17:23.86,Default,,0,0,0,,An herb?
-Dialogue: 10,0:17:23.86,0:17:28.11,Default,,0,0,0,,Yeah. It's called hazegrass, and it grows in old trees around here.
+Dialogue: 10,0:17:23.86,0:17:28.11,Default,,0,0,0,,Yeah. It's called hazegrass, \Nand it grows in old trees around here.
 Dialogue: 10,0:17:28.82,0:17:30.32,Default,,0,0,0,,Hazegrass...
 Dialogue: 10,0:17:35.28,0:17:36.87,Default,,0,0,0,,Takashi!
 Dialogue: 10,0:17:37.29,0:17:38.87,Default,,0,0,0,,We're going to start the painting!
 Dialogue: 10,0:17:39.41,0:17:40.50,Default,,0,0,0,,Okay!
 Dialogue: 10,0:17:56.64,0:18:00.89,Default,,0,0,0,,{\i1}If I could do something for Natsume...
-Dialogue: 10,0:18:20.87,0:18:24.58,Default,,0,0,0,,We'll bake them for twelve more hours, and they'll be done.
+Dialogue: 10,0:18:20.87,0:18:24.58,Default,,0,0,0,,We'll bake them for twelve more hours, \Nand they'll be done.
 Dialogue: 10,0:18:24.58,0:18:26.67,Default,,0,0,0,,That's all for today.
 Dialogue: 10,0:18:30.76,0:18:31.84,Default,,0,0,0,,What's wrong?
 Dialogue: 10,0:18:31.84,0:18:33.59,Default,,0,0,0,,Excuse me, I'll be right back.
-Dialogue: 10,0:18:35.30,0:18:37.80,Default,,0,0,0,,Hey, Master, you need to get back to bed!
+Dialogue: 10,0:18:35.30,0:18:37.80,Default,,0,0,0,,Hey, {*}Master{*Sensei}, you need to get back to bed!
 Dialogue: 10,0:18:37.80,0:18:40.02,Default,,0,0,0,,There's a storm coming.
 Dialogue: 10,0:18:40.52,0:18:44.02,Default,,0,0,0,,I'm sure he'll be fine, though.
 Dialogue: 10,0:18:59.87,0:19:01.20,Default,,0,0,0,,That's it!
@@ -410,11 +314,12 @@ Dialogue: 10,0:20:36.09,0:20:39.05,Default,,0,0,0,,He told me not to meet you an
 Dialogue: 10,0:20:39.89,0:20:42.80,Default,,0,0,0,,Since one of us would be sad.
 Dialogue: 10,0:20:44.35,0:20:46.98,Default,,0,0,0,,But... but that's not true, Natsume!
 Dialogue: 10,0:20:46.98,0:20:49.69,Default,,0,0,0,,The watch is broken now...
-Dialogue: 10,0:20:50.44,0:20:55.69,Default,,0,0,0,,But I remember seeing it move!{this line seems awfully short for the amount of time it takes up}
-Dialogue: 10,0:20:55.98,0:21:00.91,Default,,0,0,0,,I remember meeting the god, what we talked about, and how he saved me...
+Dialogue: 10,0:20:50.44,0:20:53.32,Default,,0,0,0,,But it really was moving, Natsume. {But I remember seeing it move!}
+Dialogue: 10,0:20:53.32,0:20:55.69,Default,,0,0,0,,I saw it happen!
+Dialogue: 10,0:20:55.98,0:21:00.91,Default,,0,0,0,,I remember meeting the god, \Nwhat we talked about, and how he saved me...
 Dialogue: 10,0:21:00.91,0:21:05.29,Default,,0,0,0,,So I'm sure you and I will... will...
 Dialogue: 10,0:21:10.58,0:21:15.80,Default,,0,0,0,,{\i1}I didn't understand everything \Nthat the fox cub told me,
-Dialogue: 10,0:21:16.46,0:21:21.09,Default,,0,0,0,,{\i1}but I think I understood the meaning of what he learned from the god.
+Dialogue: 10,0:21:16.46,0:21:21.09,Default,,0,0,0,,{\i1}but I think I understood the meaning \Nof what he learned from the god.
 Dialogue: 10,0:21:22.14,0:21:23.93,Default,,0,0,0,,{\i1}That spirit...
 Dialogue: 10,0:21:24.43,0:21:29.18,Default,,0,0,0,,{\i1}He must have spent a lot of time \Nwatching the differences
 Dialogue: 10,0:21:29.48,0:21:32.44,Default,,0,0,0,,{\i1}between how humans and spirits live their lives.
@@ -426,24 +331,6 @@ Dialogue: 10,0:22:10.52,0:22:11.77,Default,,0,0,0,,It's nicely made.
 Dialogue: 10,0:22:12.60,0:22:14.56,Default,,0,0,0,,Good for you, Nyangoro.
 Dialogue: 10,0:22:15.52,0:22:19.28,Default,,0,0,0,,{\i1}Meetings and partings may just be a moment apart.
 Dialogue: 10,0:22:19.82,0:22:24.11,Default,,0,0,0,,{\i1}Even so, I want to treasure them all.
-Dialogue: 0,0:22:30.70,0:22:41.17,ED,,0,0,0,,{\fad(300,300)}Lining up the sparks of warmth I've lost one by one
-Dialogue: 0,0:22:42.72,0:22:49.39,ED,,0,0,0,,{\fad(300,300)}Coming to the rainbow-colored pieces of you
-Dialogue: 0,0:22:50.35,0:22:54.85,ED,,0,0,0,,{\fad(300,300)}I crack a smile
-Dialogue: 0,0:22:57.48,0:23:08.53,ED,,0,0,0,,{\fad(300,300)}Not even knowing how to make memories
-Dialogue: 0,0:23:10.95,0:23:16.21,ED,,0,0,0,,{\fad(300,300)}Even when we took things too fast
-Dialogue: 0,0:23:17.21,0:23:24.38,ED,,0,0,0,,{\fad(300,300)}We were only going with the flow
-Dialogue: 0,0:23:24.88,0:23:31.35,ED,,0,0,0,,{\fad(300,300)}No matter where I go, even after this darkness
-Dialogue: 0,0:23:31.64,0:23:37.48,ED,,0,0,0,,{\fad(300,300)}How many times must I say goodbye?
-Dialogue: 0,0:23:37.48,0:23:44.40,ED,,0,0,0,,{\fad(300,300)}Shining with the flame of a young heart
-Dialogue: 0,0:23:44.86,0:23:50.66,ED,,0,0,0,,{\fad(300,300)}Those faraway pieces of you
-Dialogue: 1,0:24:00.04,0:24:15.10,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
-Dialogue: 0,0:24:00.04,0:24:15.10,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
-Dialogue: 1,0:24:00.04,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
-Dialogue: 0,0:24:00.04,0:24:15.10,number-box,,0,0,0,,{\be1\fscx36\fscy38\pos(1747.33,180)}\h
-Dialogue: 0,0:24:00.04,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
-Dialogue: 1,0:24:00.04,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:24:00.04,0:24:15.06,nexttime-shadow,,0,0,0,,{\blur3.5\pos(578.8,826)}Through the Autumn Wind
-Dialogue: 1,0:24:00.04,0:24:15.06,nexttime,,0,0,0,,{\pos(576.8,821)}Through the Autumn Wind
 Dialogue: 10,0:24:00.04,0:24:02.00,Default,,0,0,0,,I've gotten involved with another demon.
 Dialogue: 10,0:24:02.00,0:24:04.55,Default,,0,0,0,,We need to do a bunny girl cafe\N for the cultural festival!
 Dialogue: 10,0:24:04.55,0:24:06.01,Default,,0,0,0,,We can't have bunny girls!
@@ -451,6 +338,82 @@ Dialogue: 10,0:24:06.01,0:24:07.38,Default,,0,0,0,,What's wrong, Natsume?
 Dialogue: 10,0:24:07.38,0:24:09.30,Default,,0,0,0,,Festivals are all about having fun!
 Dialogue: 10,0:24:09.30,0:24:11.60,Default,,0,0,0,,Yeah, I'm looking forward to it.
 Dialogue: 10,0:24:11.60,0:24:15.06,Default,,0,0,0,,Have a cat cafe where everybody\N can admire my beauty!
+Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
+Dialogue: 10,0:22:30.00,0:22:30.04,Default,,0,0,0,edsync,
+Dialogue: 1,0:24:00.04,0:24:15.06,nexttime,,0,0,0,,{\pos(576.8,821)}Through the Autumn Wind
+Dialogue: 0,0:24:00.04,0:24:15.06,nexttime-shadow,,0,0,0,,{\blur3.5\pos(578.8,826)}Through the Autumn Wind
+Dialogue: 1,0:24:00.04,0:24:15.10,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
+Dialogue: 0,0:24:00.04,0:24:15.10,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
+Dialogue: 2,0:12:45.04,0:12:48.04,number,,0,0,0,,{\pos(1738,188)\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&}3
+Dialogue: 1,0:24:00.04,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\blur0.7\fay-0.14\fscx36\fscy38\c&H1316D7&}3
+Dialogue: 1,0:12:45.04,0:12:48.04,number-box,,0,0,0,,{\pos(1736,186)\be1.5\c&H2412C9&\fscx46\fscy45}\h
+Dialogue: 0,0:24:00.04,0:24:15.10,number-box,,0,0,0,,{\pos(1747.333,180)\blur0.7\fscx36\fscy38\c&H1316D7&}\h
+Dialogue: 1,0:02:29.17,0:02:33.17,title,,0,0,0,,{}The Fox Cub{\c&H015C07&}'s{\c} Watch
+Dialogue: 0,0:02:29.17,0:02:33.17,title-shadow,,0,0,0,,{\blur7)}The Fox Cub{\c&H64A2D6&\4c&H6A99BE&}'s{\c\4c} Watch
+Dialogue: 1,0:12:45.04,0:12:48.04,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1182.47,180.13)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:24:00.04,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
+Dialogue: 1,0:24:00.04,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:12:45.04,0:12:48.04,titlename-blur,,0,0,0,,{\pos(1214,219)\p1\blur20}m 0 0 s 1350 0 1350 150 0 150 c
+Dialogue: 1,0:10:04.79,0:10:04.83,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.51,1166.74)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:04.83,0:10:04.88,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,1153.53)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:04.88,0:10:04.92,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1140.32)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:04.92,0:10:04.96,woodsign,,0,0,0,,{=0}{\fscy100.06\fscx100.06\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1127.13)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:04.96,0:10:05.00,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1113.88)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.00,0:10:05.04,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1100.63)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.04,0:10:05.08,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,1087.38)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.08,0:10:05.13,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1074.19)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.13,0:10:05.17,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1060.96)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.17,0:10:05.21,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1047.74)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.21,0:10:05.25,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,1034.48)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.25,0:10:05.29,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,1021.3)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.29,0:10:05.33,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,1008.04)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.33,0:10:05.38,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,994.81)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.38,0:10:05.42,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,981.57)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.42,0:10:05.46,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.51,968.37)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.46,0:10:05.50,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,955.13)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.50,0:10:05.54,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,941.93)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.54,0:10:05.58,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,928.7)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.58,0:10:05.63,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,915.46)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.63,0:10:05.67,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,902.23)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.67,0:10:05.71,woodsign,,0,0,0,,{=0}{\fscy100.07\fscx100.07\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,889.06)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.71,0:10:05.75,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,875.76)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.75,0:10:05.79,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,862.56)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.79,0:10:05.84,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,849.33)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.84,0:10:05.88,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,836.08)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.88,0:10:05.92,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,822.83)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.92,0:10:05.96,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,809.66)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:05.96,0:10:06.00,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,796.43)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.00,0:10:06.04,woodsign,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,783.18)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.04,0:10:06.09,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,769.94)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.09,0:10:06.13,woodsign,,0,0,0,,{=0}{\fscy100.05\fscx100.05\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,756.73)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.13,0:10:06.17,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,743.46)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.17,0:10:06.21,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,730.24)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.21,0:10:06.25,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,717.03)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.25,0:10:06.29,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.5,703.79)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.29,0:10:06.34,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,690.54)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.34,0:10:06.38,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,677.35)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.38,0:10:06.42,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,664.11)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.42,0:10:06.46,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.45,650.93)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.46,0:10:06.50,woodsign,,0,0,0,,{=0}{\fscy100\fscx100\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,637.63)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.50,0:10:06.54,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,624.47)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.54,0:10:06.59,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,611.19)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.59,0:10:06.63,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,597.98)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.63,0:10:06.67,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,584.74)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.67,0:10:06.71,woodsign,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,571.55)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.71,0:10:06.75,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,558.3)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.75,0:10:06.79,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,545.07)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.79,0:10:06.84,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,531.82)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.84,0:10:06.88,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,518.59)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.88,0:10:06.92,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,505.38)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.92,0:10:06.96,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,492.2)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:06.96,0:10:07.00,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.44,478.97)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.00,0:10:07.04,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,465.73)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.04,0:10:07.09,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.48,452.48)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.09,0:10:07.13,woodsign,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,439.26)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.13,0:10:07.17,woodsign,,0,0,0,,{=0}{\fscy100\fscx100\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.49,426.01)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.17,0:10:07.21,woodsign,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,412.84)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.21,0:10:07.25,woodsign,,0,0,0,,{=0}{\fscy99.99\fscx99.99\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.47,399.56)}Yasuian\NPottery\NSchool
+Dialogue: 1,0:10:07.25,0:10:07.29,woodsign,,0,0,0,,{=0}{\fscy100\fscx100\blur1.25\fs36\4c&H3F5157&\b0\pos(1343.46,386.33)}Yasuian\NPottery\NSchool
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"9d448fd4-f5dd-45a1-b9db-153636cb5a77"#2C"originalText"#3A"{\\blur1.25\\fs36\\4c&H3F5157&\\b0\\pos(1343.46#2C386.33)}Yasuian\\NPottery\\NSchool"}
