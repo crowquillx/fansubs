@@ -12,38 +12,27 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_13.mkv
-Video File: ../../../natsume 3/natsume_s3_13.mkv
+Audio File: natsume_s3_13.mkv
+Video File: natsume_s3_13.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 353
-Active Line: 375
-Video Position: 21191
+Video Zoom Percent: 0.625000
+Scroll Position: 245
+Active Line: 265
+Video Position: 21171
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: Default - Overlap,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H005B2509,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: OP-eng,MV Boli,80,&H00ACFBC5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,45,45,45,1
-Style: ED-eng,EFN Karet,60,&H14E4E4E4,&H000000FF,&H0A422300,&H00000000,0,0,0,0,95,90,0,0,1,2.25,0,3,50,50,50,1
-Style: EpTitle,Arabic Typesetting,180,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
-Style: EpTitleC,Andalus,90,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,-1,0,0,0,100,100,1.5,0,1,0,0,7,15,15,15,1
 Style: sign,Caveat Brush,48,&H00313432,&H00FFFFFF,&H142B2B2B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: Blackboard,pencilPete FONT,83,&H009B9F8D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: number,square kids,150,&H001E07BE,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: title-shadow,Footlight MT Light,105,&H00B8E0B8,&H0000FFFF,&H9696C4B1,&H00B8E0B8,-1,0,0,0,100,100,0,0,1,0,1,7,43,0,24,1
-Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,1080,275,1
-Style: nexttime-shadow,Footlight MT Light,105,&H00C4F5C9,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,1075,270,1
-Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
-Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
-Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,0,9,60,60,30,1
 Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
-Style: Default - italics,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,-1,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
 Style: booktext,ArtificeSSK,86,&H00030F0D,&H00FFFFFF,&H142B2B2B,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,180,180,60,1
 Style: booktitle,Calibri,90,&H0015C5F4,&H00FFFFFF,&H142B2B2B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,180,180,60,1
 Style: box,Complete in Him,48,&H004C6364,&H00FEFEFE,&H004C6364,&H00206E20,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
@@ -52,28 +41,6 @@ Style: graveyard,JanicesHand,75,&H003C5768,&H00FEFEFE,&H00225F1C,&H00206E20,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.48,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1100,\blur1)\1a&HFF}Natsume's\h{\1a&H00}Book\h{\1a&HFF}Of\hFriends
-Dialogue: 0,0:00:01.19,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&HFF}Natsume's\hBook\h{\1a&H00}Of{\1a&HFF}\hFriends
-Dialogue: 0,0:00:01.98,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&H00}Natsu{\1a&HFF}me's\hBook\hOf\hFriends
-Dialogue: 0,0:00:02.82,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsume's\hBook\hOf\h{\1a&H00}Friends
-Dialogue: 0,0:00:03.32,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsu{\1a&H00}me's{\1a&HFF}\hBook\hOf\hFriends
-Dialogue: 1,0:00:04.32,0:00:07.15,titlename,,0,0,0,,{\an3\fad(0,200)\be2\fs100\pos(1402,306.5)}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:06.90,0:00:08.15,titlename,,0,0,0,,{\an3\fs100\pos(1402,306.5)\fad(200,0)\be2\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 2,0:00:07.78,0:00:15.83,number,,0,0,0,,{\an2\pos(1606.5,503.5)\fad(250,1500)\blur8\t(0,250,\blur3)\fscx105\fay-0.14\t(5900,0,\blur10)}3
-Dialogue: 1,0:00:07.78,0:00:15.83,number-box,,0,0,0,,{\an2\pos(1603.5,502.5)\fad(250,1500)\blur8\t(0,250,\blur3)\t(5900,0,\blur10)}\h
-Dialogue: 2,0:00:08.15,0:00:08.74,titlename,,0,0,0,,{\an3\be2\move(1402,306.5,1385.5,293.5)\c&8A6424&\fs100}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:08.32,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,1500)\blur3.5\fs100\t(6200,1000,\be15)\t(5000,0,\blur10)\c&H433E2F&}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:08.74,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1385.5,293.5)\fad(0,1500)\be2\fs100\t(5900,1000,\be5)\blur0\t(5000,0,\blur10)\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:00:15.04,0:00:21.83,OP,,0,0,0,,{\fade(300,0)}Living through these meaningless days, I let out a sigh
-Dialogue: 0,0:00:22.04,0:00:29.01,OP,,0,0,0,,{\fade(300,300)}I've lost sight of my true self
-Dialogue: 0,0:00:29.72,0:00:36.60,OP,,0,0,0,,{\fade(300,300)}Even if I strain my ears I can't hear your voice
-Dialogue: 0,0:00:36.60,0:00:43.40,OP,,0,0,0,,{\fade(300,300)}So I keep walking trying to catch up
-Dialogue: 0,0:00:43.40,0:00:50.91,OP,,0,0,0,,{\fade(300,300)}The things I couldn't tell you form into a chrysalis over time
-Dialogue: 0,0:00:51.20,0:00:58.71,OP,,0,0,0,,{\fade(0,300)}Spreading wings, they take flight
-Dialogue: 0,0:00:59.12,0:01:06.00,OP,,0,0,0,,{\fade(300,300)}The one, the one precious thing I'll never forget
-Dialogue: 0,0:01:06.25,0:01:13.97,OP,,0,0,0,,{\fade(300,300)}Someday, that warm emotion
-Dialogue: 0,0:01:14.30,0:01:19.81,OP,,0,0,0,,{\fade(300,300)}I'll do what little I can
-Dialogue: 0,0:01:20.14,0:01:28.57,OP,,0,0,0,,{\fad(300,1000)\c&H98ADF1&}Little by little, to get through to you
 Dialogue: 0,0:01:33.87,0:01:35.62,Blackboard,,0,0,0,,{\blur1.3\pos(715.5,300)\c&HA6A69C&}Math
 Dialogue: 0,0:01:33.87,0:01:35.62,Blackboard,,0,0,0,,{\blur1.3\pos(1003.5,253.5)\c&HA39A90&}Last Day
 Dialogue: 0,0:01:33.87,0:01:35.62,Blackboard,,0,0,0,,{\blur1.3\pos(1333.5,166.5)\c&H9A9489&}Midterm Exams
@@ -82,93 +49,21 @@ Dialogue: 10,0:01:37.79,0:01:39.75,Default,,0,0,0,,How'd you do, Natsume?
 Dialogue: 10,0:01:41.33,0:01:42.87,Default,,0,0,0,,Not too good, huh?
 Dialogue: 10,0:01:42.87,0:01:45.92,Default,,0,0,0,,I didn't get enough sleep, so I couldn't think.
 Dialogue: 10,0:01:45.92,0:01:49.92,Default,,0,0,0,,You idiot, that's what you get for studying all night.
-Dialogue: 10,0:01:52.05,0:01:55.26,Default,,0,0,0,,{\i1}I actually spent the whole night giving demons back their names.
+Dialogue: 10,0:01:52.05,0:01:55.26,Default,,0,0,0,,{\i1}I actually spent the whole night \Ngiving demons back their names.
 Dialogue: 10,0:01:56.18,0:01:57.51,Default,,0,0,0,,{\i1}But I can't tell him that, right?
 Dialogue: 10,0:01:57.51,0:02:00.02,Default,,0,0,0,,Anyway, the test's over!
 Dialogue: 10,0:02:00.02,0:02:02.10,Default,,0,0,0,,Let's go somewhere to celebrate.
 Dialogue: 10,0:02:02.10,0:02:03.60,Default,,0,0,0,,Here!
-Dialogue: 0,0:02:02.10,0:02:02.19,Sign,,0,0,0,,
-Dialogue: 0,0:02:02.18,0:02:02.22,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.38,996.32)}The Ideal Place
-Dialogue: 0,0:02:02.18,0:02:02.22,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur1.88\c&H0FBDFF&\pos(262.88,811.92)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.22,0:02:02.26,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.4,996.33)}The Ideal Place
-Dialogue: 0,0:02:02.22,0:02:02.26,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur1.88\c&H0FBDFF&\pos(262.89,811.94)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.26,0:02:02.31,booktext,,0,0,0,,{=0}{\fscy107\fscx107\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.53,806.71)}The Ideal Place
-Dialogue: 0,0:02:02.26,0:02:02.31,booktitle,,0,0,0,,{=1}{\fscy107\fscx107\frz344\fax-0.2\blur1.82\c&H0FBDFF&\pos(462.46,628.17)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.31,0:02:02.35,booktext,,0,0,0,,{=0}{\fscy107.01\fscx107.01\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.5,806.73)}The Ideal Place
-Dialogue: 0,0:02:02.31,0:02:02.35,booktitle,,0,0,0,,{=1}{\fscy107.01\fscx107.01\frz344\fax-0.2\blur1.82\c&H0FBDFF&\pos(462.44,628.18)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.35,0:02:02.39,booktext,,0,0,0,,{=0}{\fscy103.52\fscx103.52\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.57)}The Ideal Place
-Dialogue: 0,0:02:02.35,0:02:02.39,booktitle,,0,0,0,,{=1}{\fscy103.52\fscx103.52\frz344\fax-0.2\blur1.76\c&H0FBDFF&\pos(591.6,513.85)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.39,0:02:02.43,booktext,,0,0,0,,{=0}{\fscy103.51\fscx103.51\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.62)}The Ideal Place
-Dialogue: 0,0:02:02.39,0:02:02.43,booktitle,,0,0,0,,{=1}{\fscy103.51\fscx103.51\frz344\fax-0.2\blur1.76\c&H0FBDFF&\pos(591.61,513.9)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.43,0:02:02.47,booktext,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(665.13,605.66)}The Ideal Place
-Dialogue: 0,0:02:02.43,0:02:02.47,booktitle,,0,0,0,,{=1}{\fscy100.04\fscx100.04\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(680.97,438.74)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.47,0:02:02.51,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(697.1,574.13)}The Ideal Place
-Dialogue: 0,0:02:02.47,0:02:02.51,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(712.94,407.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.51,0:02:02.56,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(723.6,548.09)}The Ideal Place
-Dialogue: 0,0:02:02.51,0:02:02.56,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(739.43,381.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.56,0:02:02.60,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(745.29,526.67)}The Ideal Place
-Dialogue: 0,0:02:02.56,0:02:02.60,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(761.12,359.8)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.60,0:02:02.64,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(762.93,509.29)}The Ideal Place
-Dialogue: 0,0:02:02.60,0:02:02.64,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(778.76,342.42)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.64,0:02:02.68,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(776.92,495.34)}The Ideal Place
-Dialogue: 0,0:02:02.64,0:02:02.68,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(792.76,328.44)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.68,0:02:02.72,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(787.84,484.44)}The Ideal Place
-Dialogue: 0,0:02:02.68,0:02:02.72,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(803.68,317.53)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.72,0:02:02.76,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(796.61,476.33)}The Ideal Place
-Dialogue: 0,0:02:02.72,0:02:02.76,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(812.44,309.44)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.76,0:02:02.81,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(802.22,470.46)}The Ideal Place
-Dialogue: 0,0:02:02.76,0:02:02.81,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(818.05,303.56)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.81,0:02:02.85,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(805.97,466.74)}The Ideal Place
-Dialogue: 0,0:02:02.81,0:02:02.85,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(821.8,299.86)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.85,0:02:02.89,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(808.45,464.38)}The Ideal Place
-Dialogue: 0,0:02:02.85,0:02:02.89,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(824.28,297.5)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.89,0:02:02.93,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.35,463.27)}The Ideal Place
-Dialogue: 0,0:02:02.89,0:02:02.93,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.18,296.39)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.93,0:02:02.97,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810.04,463.1)}The Ideal Place
-Dialogue: 0,0:02:02.93,0:02:02.97,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.87,296.23)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.97,0:02:03.01,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.94,463.11)}The Ideal Place
-Dialogue: 0,0:02:02.97,0:02:03.01,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.77,296.25)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.01,0:02:03.06,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.85,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.01,0:02:03.06,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.68,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.06,0:02:03.10,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.06,0:02:03.10,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.10,0:02:03.14,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.12)}The Ideal Place
-Dialogue: 0,0:02:03.10,0:02:03.14,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.25)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.14,0:02:03.18,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.1)}The Ideal Place
-Dialogue: 0,0:02:03.14,0:02:03.18,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.23)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.18,0:02:03.22,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.86,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.18,0:02:03.22,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.69,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.22,0:02:03.26,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.22,0:02:03.26,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.26,0:02:03.31,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.83,463.1)}The Ideal Place
-Dialogue: 0,0:02:03.26,0:02:03.31,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.66,296.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.31,0:02:03.35,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.8,463.08)}The Ideal Place
-Dialogue: 0,0:02:03.31,0:02:03.35,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.63,296.21)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.35,0:02:03.39,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.77,463.07)}The Ideal Place
-Dialogue: 0,0:02:03.35,0:02:03.39,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.6,296.2)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.39,0:02:03.43,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.75,463.1)}The Ideal Place
-Dialogue: 0,0:02:03.39,0:02:03.43,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.58,296.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.43,0:02:03.47,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.73,463.09)}The Ideal Place
-Dialogue: 0,0:02:03.43,0:02:03.47,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.57,296.21)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.47,0:02:03.51,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463)}The Ideal Place
-Dialogue: 0,0:02:03.47,0:02:03.51,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.12)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.51,0:02:03.56,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.91,462.93)}The Ideal Place
-Dialogue: 0,0:02:03.51,0:02:03.56,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.74,296.07)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.56,0:02:03.60,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810,462.86)}The Ideal Place
-Dialogue: 0,0:02:03.56,0:02:03.60,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.83,296)}Perfect Day for a Walk
 Dialogue: 10,0:02:03.60,0:02:06.11,Default,,0,0,0,,You guys going somewhere again?
 Dialogue: 10,0:02:06.11,0:02:08.90,Default,,0,0,0,,What? Leave us alone.
 Dialogue: 10,0:02:08.90,0:02:10.69,Default,,0,0,0,,Why?
 Dialogue: 10,0:02:10.69,0:02:13.11,Default,,0,0,0,,Ooh, I want to go to this art museum!
 Dialogue: 10,0:02:13.11,0:02:15.45,Default,,0,0,0,,No way.
-Dialogue: 1,0:02:16.37,0:02:20.37,title,,0,0,0,,Natsume's Book of {\c&H045B09&}Play
-Dialogue: 0,0:02:16.37,0:02:20.37,title-shadow,,0,0,0,,{\blur7\c&HBE9D6D&}Natsume's Book of {\c&H8C9CAB&\blur5.5\4a&HFF&\1a&H00&}Play
-Dialogue: 0,0:02:19.33,0:02:22.33,Default,,0,0,0,,
 Dialogue: 10,0:02:22.33,0:02:23.96,Default,,0,0,0,,Want to go fishing again?
 Dialogue: 10,0:02:23.96,0:02:25.79,Default,,0,0,0,,You need to mix it up a little.
 Dialogue: 10,0:02:25.79,0:02:28.38,Default,,0,0,0,,Since it's autumn, want to go grape picking?
 Dialogue: 10,0:02:28.38,0:02:29.59,Default,,0,0,0,,No!
-Dialogue: 10,0:02:29.59,0:02:32.59,Default,,0,0,0,,We need to go somewhere that will give us lasting life lessons.
+Dialogue: 10,0:02:29.59,0:02:32.59,Default,,0,0,0,,We need to go somewhere \Nthat will give us lasting life lessons.
 Dialogue: 10,0:02:32.97,0:02:36.39,Default,,0,0,0,,That's not my idea of a good time.
 Dialogue: 10,0:02:36.97,0:02:39.47,Default,,0,0,0,,Hey guys, let's go home.
 Dialogue: 10,0:02:39.47,0:02:41.02,Default,,0,0,0,,Perfect timing.
@@ -177,36 +72,34 @@ Dialogue: 10,0:02:42.43,0:02:43.85,Default,,0,0,0,,What?
 Dialogue: 10,0:02:43.85,0:02:45.98,Default,,0,0,0,,They're going to go have fun somewhere.
 Dialogue: 10,0:02:45.98,0:02:47.19,Default,,0,0,0,,Let's go to the beach.
 Dialogue: 10,0:02:47.19,0:02:50.32,Default,,0,0,0,,It's too cold for the beach.
-Dialogue: 10,0:02:52.57,0:02:56.61,Default,,0,0,0,,I was just thinking that you've changed lately, Tanuma{**-kun}.
-Dialogue: 10,0:02:56.61,0:02:59.28,Default,,0,0,0,,We were in different classes, so I didn't really know,
-Dialogue: 10,0:02:59.28,0:03:01.33,Default,,0,0,0,,but I never thought of you as the talkative type.
-Dialogue: 10,0:03:01.79,0:03:04.54,Default,,0,0,0,,I never thought you'd be talking about stupid stuff with those guys.
+Dialogue: 10,0:02:52.57,0:02:56.61,Default,,0,0,0,,I was just thinking that \Nyou've changed lately, Tanuma{**-kun}.
+Dialogue: 10,0:02:56.61,0:03:01.33,Default,,0,0,0,,We were in different classes, so I didn't really know, \Nbut I never thought of you as the talkative type.
+Dialogue: 10,0:03:01.79,0:03:04.54,Default,,0,0,0,,I never thought you'd be talking \Nabout stupid stuff with those guys.
 Dialogue: 10,0:03:04.54,0:03:08.04,Default,,0,0,0,,So you're saying we always talk about stupid stuff?
 Dialogue: 10,0:03:08.04,0:03:10.46,Default,,0,0,0,,Not Natsume{**-kun}.
 Dialogue: 10,0:03:10.46,0:03:13.97,Default,,0,0,0,,Nah, he's just like us.
 Dialogue: 10,0:03:14.47,0:03:16.01,Default,,0,0,0,,That's right.
 Dialogue: 10,0:03:16.01,0:03:17.72,Default,,0,0,0,,And that goes for Tanuma, too.
-Dialogue: 10,0:03:18.55,0:03:20.35,Default,,0,0,0,,Both of you were transfer students,
-Dialogue: 10,0:03:20.35,0:03:22.35,Default,,0,0,0,,and you didn't talk very much when you first got here.
+Dialogue: 10,0:03:18.55,0:03:22.35,Default,,0,0,0,,Both of you were transfer students, \Nand you didn't talk very much when you first got here.
 Dialogue: 10,0:03:22.35,0:03:23.22,Default,,0,0,0,,That's right.
 Dialogue: 10,0:03:23.72,0:03:25.98,Default,,0,0,0,,I thought you guys would be cooler.
 Dialogue: 10,0:03:25.98,0:03:29.15,Default,,0,0,0,,Then you turned out to be just like us.
-Dialogue: 10,0:03:29.15,0:03:32.23,Default,,0,0,0,,Also, the two of you both seem to collapse from anemia all the time.
+Dialogue: 10,0:03:29.15,0:03:32.23,Default,,0,0,0,,Also, the two of you both seem to collapse \Nfrom anemia all the time.
 Dialogue: 10,0:03:32.23,0:03:33.65,Default,,0,0,0,,That's, uh...
 Dialogue: 10,0:03:33.65,0:03:35.99,Default,,0,0,0,,Well...
 Dialogue: 10,0:03:40.49,0:03:43.04,Default,,0,0,0,,What a pain.
 Dialogue: 10,0:03:43.04,0:03:45.04,Default,,0,0,0,,So, are we going fishing again?
-Dialogue: 10,0:03:45.04,0:03:48.46,Default,,0,0,0,,You're the one who said we needed to mix it up a little.
+Dialogue: 10,0:03:45.04,0:03:48.46,Default,,0,0,0,,You're the one who said we needed \Nto mix it up a little.
 Dialogue: 10,0:03:48.46,0:03:53.42,Default,,0,0,0,,I guess this means we're all grown up.
 Dialogue: 10,0:03:54.63,0:03:56.34,Default,,0,0,0,,You know what I mean?
 Dialogue: 10,0:03:56.34,0:03:58.84,Default,,0,0,0,,When little kids go out to play,
 Dialogue: 10,0:03:58.84,0:04:02.14,Default,,0,0,0,,they can have all kinds of fun in an empty lot.
 Dialogue: 10,0:04:02.14,0:04:04.35,Default,,0,0,0,,Ah, so that's what you mean.
-Dialogue: 10,0:04:04.81,0:04:09.06,Default,,0,0,0,,As people grow older, they learn to put aside childish things.
+Dialogue: 10,0:04:04.81,0:04:09.06,Default,,0,0,0,,As people grow older, \Nthey learn to put aside childish things.
 Dialogue: 10,0:04:09.65,0:04:12.98,Default,,0,0,0,,Soon, we'll be learning how adults have fun.
 Dialogue: 10,0:04:14.15,0:04:16.69,Default,,0,0,0,,How adults have fun?
 Dialogue: 10,0:04:18.24,0:04:19.45,Default,,0,0,0,,Hey!
-Dialogue: 10,0:04:19.45,0:04:23.62,Default,,0,0,0,,Well, you know, when you were a kid, anything you did was fun,
+Dialogue: 10,0:04:19.45,0:04:23.62,Default,,0,0,0,,Well, you know, when you were a kid, \Nanything you did was fun,
 Dialogue: 10,0:04:23.62,0:04:26.33,Default,,0,0,0,,so it wasn't so hard to find something to do.
 Dialogue: 10,0:04:26.33,0:04:27.75,Default,,0,0,0,,Yeah, you're right.
 Dialogue: 10,0:04:27.75,0:04:30.21,Default,,0,0,0,,We did something different every day.
@@ -215,12 +108,12 @@ Dialogue: 10,0:04:33.21,0:04:37.01,Default,,0,0,0,,I played house, tiddlywinks..
 Dialogue: 10,0:04:37.01,0:04:40.30,Default,,0,0,0,,I used to go exploring!
 Dialogue: 10,0:04:40.30,0:04:41.51,Default,,0,0,0,,Exploring?
 Dialogue: 10,0:04:41.51,0:04:42.51,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:04:42.51,0:04:46.35,Default,,0,0,0,,I'd take some kids from the neighborhood and go out to the reservoir.
+Dialogue: 10,0:04:42.51,0:04:46.35,Default,,0,0,0,,I'd take some kids from the neighborhood \Nand go out to the reservoir.
 Dialogue: 10,0:04:46.35,0:04:49.14,Default,,0,0,0,,My parents got really mad at me for that.
 Dialogue: 10,0:04:49.14,0:04:51.48,Default,,0,0,0,,I used to do things like that, too.
 Dialogue: 10,0:04:51.48,0:04:53.90,Default,,0,0,0,,I played hide and seek on the temple grounds,
-Dialogue: 10,0:04:53.90,0:04:56.32,Default,,0,0,0,,and one time I hid in this really important shrine building,
-Dialogue: 10,0:04:56.32,0:04:58.24,Default,,0,0,0,,and when my dad found me, he whipped me good.
+Dialogue: 10,0:04:53.90,0:04:56.32,Default,,0,0,0,,and one time I hid in this \Nreally important shrine building,
+Dialogue: 10,0:04:56.32,0:04:58.24,Default,,0,0,0,,and when my dad found me, \Nhe whipped me good.
 Dialogue: 10,0:04:59.36,0:05:02.11,Default,,0,0,0,,Everybody played tag and hide-and-seek.
 Dialogue: 10,0:05:02.11,0:05:04.08,Default,,0,0,0,,Shadow tag!
 Dialogue: 10,0:05:04.08,0:05:07.37,Default,,0,0,0,,I used to play shadow tag all the time.
@@ -228,7 +121,7 @@ Dialogue: 10,0:05:07.37,0:05:09.58,Default,,0,0,0,,If somebody stepped on your s
 Dialogue: 10,0:05:10.67,0:05:13.54,Default,,0,0,0,,I know that one.
 Dialogue: 10,0:05:13.54,0:05:15.71,Default,,0,0,0,,Everybody does.
 Dialogue: 10,0:05:16.34,0:05:17.34,Default,,0,0,0,,Oh, yeah.
-Dialogue: 10,0:05:24.68,0:05:28.27,Default,,0,0,0,,{\i1}I watched the other kids play, but I never joined them.
+Dialogue: 10,0:05:24.68,0:05:28.27,Default,,0,0,0,,{\i1}I watched the other kids play, \Nbut I never joined them.
 Dialogue: 10,0:05:32.23,0:05:35.15,Default,,0,0,0,,We never decided on where to go.
 Dialogue: 10,0:05:35.15,0:05:38.28,Default,,0,0,0,,You shot down everything.
 Dialogue: 10,0:05:38.28,0:05:41.45,Default,,0,0,0,,Hey, where do you want to go, Natsume{**-kun}?
@@ -239,24 +132,24 @@ Dialogue: 10,0:05:50.71,0:05:52.16,Default,,0,0,0,,Oh, right!
 Dialogue: 10,0:05:54.83,0:05:56.63,Default,,0,0,0,,Say cheese!
 Dialogue: 10,0:05:58.25,0:05:59.84,Default,,0,0,0,,What was that for?
 Dialogue: 10,0:05:59.84,0:06:04.01,Default,,0,0,0,,The teacher gave me this for the cultural fair.
-Dialogue: 10,0:06:04.01,0:06:06.89,Default,,0,0,0,,He asked me to take some pictures for the senior yearbook.
+Dialogue: 10,0:06:04.01,0:06:06.89,Default,,0,0,0,,He asked me to take some pictures \Nfor the senior yearbook.
 Dialogue: 10,0:06:06.89,0:06:08.89,Default,,0,0,0,,Senior yearbook?
 Dialogue: 10,0:06:08.89,0:06:10.89,Default,,0,0,0,,Isn't it a little early for that?
 Dialogue: 10,0:06:11.23,0:06:12.77,Default,,0,0,0,,Not at all.
 Dialogue: 10,0:06:12.77,0:06:13.89,Default,,0,0,0,,It won't be long at all.
-Dialogue: 10,0:06:14.35,0:06:17.02,Default,,0,0,0,,Tanuma, are you going to take over the temple after you graduate?
+Dialogue: 10,0:06:14.35,0:06:17.02,Default,,0,0,0,,Tanuma, are you going to take over \Nthe temple after you graduate?
 Dialogue: 10,0:06:17.57,0:06:19.78,Default,,0,0,0,,I haven't really thought about it yet.
 Dialogue: 10,0:06:19.78,0:06:22.70,Default,,0,0,0,,It must be nice to be a priest.
 Dialogue: 10,0:06:22.70,0:06:24.95,Default,,0,0,0,,I dunno what I'll do.
-Dialogue: 10,0:06:25.99,0:06:28.74,Default,,0,0,0,,Yeah, but you need to start thinking about college and work.
+Dialogue: 10,0:06:25.99,0:06:28.74,Default,,0,0,0,,Yeah, but you need to start thinking \Nabout college and work.
 Dialogue: 10,0:06:28.74,0:06:30.33,Default,,0,0,0,,{\i1}My future, huh?
-Dialogue: 10,0:06:30.95,0:06:34.87,Default,,0,0,0,,{\i1}I need to think about it, for Touko and Shigeru.
+Dialogue: 10,0:06:30.95,0:06:34.87,Default,,0,0,0,,{\i1}I need to think about it, for Touko{**-san} and Shigeru{**-san}.
 Dialogue: 10,0:06:35.42,0:06:39.50,Default,,0,0,0,,{\i1}But what kind of work can I do?
 Dialogue: 10,0:06:45.01,0:06:47.97,Default,,0,0,0,,No, no, no! No way!
-Dialogue: 10,0:06:48.39,0:06:53.98,Default,,0,0,0,,Let's enjoy being high schoolers a little longer before we decide.
+Dialogue: 10,0:06:48.39,0:06:53.98,Default,,0,0,0,,Let's enjoy being high schoolers \Na little longer before we decide.
 Dialogue: 10,0:06:53.98,0:06:56.31,Default,,0,0,0,,Yeah, that sounds good.
 Dialogue: 10,0:06:58.81,0:07:00.32,Default,,0,0,0,,I'm back.
-Dialogue: 10,0:07:00.32,0:07:02.40,Default,,0,0,0,,Welcome back, Takashi.
+Dialogue: 10,0:07:00.32,0:07:02.40,Default,,0,0,0,,Welcome back, Takashi{**-kun}.
 Dialogue: 10,0:07:02.40,0:07:03.82,Default,,0,0,0,,How was your test?
 Dialogue: 10,0:07:04.65,0:07:06.61,Default,,0,0,0,,It went okay.
 Dialogue: 10,0:07:06.61,0:07:07.28,Default,,0,0,0,,I think.
@@ -273,16 +166,15 @@ Dialogue: 10,0:07:25.22,0:07:26.22,Default,,0,0,0,,Well?
 Dialogue: 10,0:07:26.76,0:07:28.26,Default,,0,0,0,,It's good.
 Dialogue: 10,0:07:28.26,0:07:30.97,Default,,0,0,0,,I think it needs some sauce.
 Dialogue: 10,0:07:30.97,0:07:32.39,Default,,0,0,0,,Shigeru{**-san}!
-Dialogue: 0,0:07:30.97,0:07:38.23,box,,0,0,0,,{\blur1.2\fnCompleteInHimPro\pos(1389.67,80.17)}Potato
 Dialogue: 10,0:07:32.39,0:07:34.35,Default,,0,0,0,,Don't eat until dinner's ready!
 Dialogue: 10,0:07:34.35,0:07:35.85,Default,,0,0,0,,What?
 Dialogue: 10,0:07:35.85,0:07:38.23,Default,,0,0,0,,Takashi can do it, but I can't?
 Dialogue: 10,0:07:38.81,0:07:42.27,Default,,0,0,0,,That's a shrimp!\N Those are for everybody to share!
 Dialogue: 10,0:07:42.27,0:07:43.94,Default,,0,0,0,,Aww, come on. I'm just eating one.
 Dialogue: 10,0:07:43.94,0:07:47.41,Default,,0,0,0,,Nope. You get one less.
-Dialogue: 10,0:07:44.74,0:07:46.74,Default - Overlap,,0,0,0,,I'll go get changed.
+Dialogue: 10,0:07:44.74,0:07:46.74,Default - Alt,,0,0,0,,I'll go get changed.
 Dialogue: 10,0:07:50.41,0:07:54.41,Default,,0,0,0,,Welcome back, {*}Mister Natsume{*Natsume-sama}.
-Dialogue: 10,0:07:52.95,0:07:54.41,Default - Overlap,,0,0,0,,Welcome back.
+Dialogue: 10,0:07:52.95,0:07:54.41,Default - Alt,,0,0,0,,Welcome back.
 Dialogue: 10,0:07:54.41,0:07:57.71,Default,,0,0,0,,What's everybody doing here?
 Dialogue: 10,0:07:57.71,0:07:59.17,Default,,0,0,0,,Did {*}Master{*Sensei} call you?
 Dialogue: 10,0:07:59.17,0:08:01.34,Default,,0,0,0,,Why would I call them?
@@ -290,20 +182,19 @@ Dialogue: 10,0:08:01.34,0:08:04.67,Default,,0,0,0,,They have something to talk t
 Dialogue: 10,0:08:04.67,0:08:06.88,Default,,0,0,0,,What do you guys want?
 Dialogue: 10,0:08:06.88,0:08:08.68,Default,,0,0,0,,No trouble this time.
 Dialogue: 10,0:08:08.68,0:08:10.76,Default,,0,0,0,,Not at all!
-Dialogue: 10,0:08:10.76,0:08:14.77,Default,,0,0,0,,We wanted to tell you that tomorrow is the Spirit Moon.
+Dialogue: 10,0:08:10.76,0:08:14.77,Default,,0,0,0,,We wanted to tell you \Nthat tomorrow is the Spirit Moon.
 Dialogue: 10,0:08:14.77,0:08:16.60,Default,,0,0,0,,Sake tastes especially good that night.
 Dialogue: 10,0:08:16.60,0:08:17.48,Default,,0,0,0,,Yum, yum.
 Dialogue: 10,0:08:17.48,0:08:18.94,Default,,0,0,0,,The Spirit Moon?
 Dialogue: 10,0:08:18.94,0:08:20.48,Default,,0,0,0,,Indeed.
-Dialogue: 10,0:08:20.48,0:08:23.32,Default,,0,0,0,,This year, the alignment of the stars is particularly favorable,
-Dialogue: 10,0:08:23.32,0:08:27.61,Default,,0,0,0,,making the sake several times better than usual.
-Dialogue: 10,0:08:27.61,0:08:31.32,Default,,0,0,0,,So, we're all getting together tomorrow afternoon for a drinking party.
+Dialogue: 10,0:08:20.48,0:08:23.32,Default,,0,0,0,,This year, the alignment \Nof the stars is particularly favorable,
+Dialogue: 10,0:08:23.32,0:08:27.65,Default,,0,0,0,,making the sake several times better than usual.
+Dialogue: 10,0:08:27.65,0:08:31.32,Default,,0,0,0,,So, we're all getting together \Ntomorrow afternoon for a drinking party.
 Dialogue: 10,0:08:31.32,0:08:33.20,Default,,0,0,0,,Drinking party!
-Dialogue: 10,0:08:33.20,0:08:35.20,Default,,0,0,0,,So, all the spirits who know you
-Dialogue: 10,0:08:35.20,0:08:38.08,Default,,0,0,0,,have gotten together to throw the first annual
-Dialogue: 10,0:08:38.08,0:08:44.75,Default,,0,0,0,,"Party for {*}Mister Natsume{*Natsume-sama} in the Run-down Old Shrine Near Yatsuhara"!
+Dialogue: 10,0:08:33.20,0:08:38.08,Default,,0,0,0,,So, all the spirits who know you have \Ngotten together to throw the first annual
+Dialogue: 10,0:08:38.08,0:08:44.75,Default,,0,0,0,,"Party for {*}Mister Natsume{*Natsume-sama} \Nin the Run-down Old Shrine Near Yatsuhara"!
 Dialogue: 10,0:08:44.75,0:08:46.51,Default,,0,0,0,,Run-down, run-down.
-Dialogue: 10,0:08:47.13,0:08:53.35,Default,,0,0,0,,A party for those who have to put up with {*}Mister Natsume{*Natsume-sama}'s whining and meddling,
+Dialogue: 10,0:08:47.13,0:08:53.35,Default,,0,0,0,,A party for those who have to put up \Nwith {*}Mister Natsume{*Natsume-sama}'s whining and meddling,
 Dialogue: 10,0:08:53.35,0:08:56.18,Default,,0,0,0,,and run to him like a dog if he needs us.
 Dialogue: 10,0:08:56.18,0:08:59.19,Default,,0,0,0,,You could call us the "Natsume Dogs"!
 Dialogue: 10,0:08:59.19,0:08:59.60,Default,,0,0,0,,Bark!
@@ -316,7 +207,7 @@ Dialogue: 10,0:09:10.53,0:09:12.57,Default,,0,0,0,,Don't be a spoilsport.
 Dialogue: 10,0:09:12.57,0:09:15.70,Default,,0,0,0,,Come on, you can hang out with us.
 Dialogue: 10,0:09:15.70,0:09:17.37,Default,,0,0,0,,Hang out, hang out!
 Dialogue: 10,0:09:17.37,0:09:19.29,Default,,0,0,0,,That's right.
-Dialogue: 10,0:09:19.29,0:09:22.17,Default,,0,0,0,,Please join us, Natsume{**-oyabun}
+Dialogue: 10,0:09:19.29,0:09:22.17,Default,,0,0,0,,Please join us, Natsume{**-oyabun}!
 Dialogue: 10,0:09:23.29,0:09:25.67,Default,,0,0,0,,Stop it, you guys!
 Dialogue: 10,0:09:26.38,0:09:30.55,Default,,0,0,0,,Takashi{**-kun}, come down.
 Dialogue: 10,0:09:30.55,0:09:31.88,Default,,0,0,0,,Coming!
@@ -330,8 +221,6 @@ Dialogue: 10,0:09:51.07,0:09:54.24,Default,,0,0,0,,You just want to drink.
 Dialogue: 10,0:09:55.91,0:09:56.78,Default,,0,0,0,,Huh?
 Dialogue: 10,0:09:57.74,0:09:58.79,Default,,0,0,0,,Taki!
 Dialogue: 10,0:09:59.45,0:10:00.54,Default,,0,0,0,,Natsume{**-kun}!
-Dialogue: 0,0:10:01.79,0:10:04.54,recording,,0,0,0,,{\pos(960,96)\fad(300,0)\blur0.75}Recording...
-Dialogue: 0,0:10:05.84,0:10:08.84,Default,,0,0,0,,
 Dialogue: 10,0:10:08.84,0:10:10.21,Default,,0,0,0,,Kitty!
 Dialogue: 10,0:10:11.76,0:10:14.76,Default,,0,0,0,,Kitty!
 Dialogue: 10,0:10:14.76,0:10:15.85,Default,,0,0,0,,Stop it! Stop it!
@@ -340,17 +229,16 @@ Dialogue: 10,0:10:17.97,0:10:19.52,Default,,0,0,0,,I can't breathe!
 Dialogue: 10,0:10:22.85,0:10:24.56,Default,,0,0,0,,What's going on, Taki?
 Dialogue: 10,0:10:25.15,0:10:27.52,Default,,0,0,0,,You didn't get cursed again, did you?
 Dialogue: 10,0:10:27.52,0:10:31.57,Default,,0,0,0,,No, I decided something.
-Dialogue: 10,0:10:32.82,0:10:39.24,Default,,0,0,0,,I want to understand the research my grandfather did on demons.
-Dialogue: 10,0:10:40.29,0:10:43.75,Default,,0,0,0,,Of course, I won't mess around with anything dangerous.
-Dialogue: 10,0:10:44.29,0:10:47.04,Default,,0,0,0,,When I draw my circles, I don't complete them,
-Dialogue: 10,0:10:47.04,0:10:49.17,Default,,0,0,0,,and I always erase them.
+Dialogue: 10,0:10:32.82,0:10:39.24,Default,,0,0,0,,I want to understand the research \Nmy grandfather did on demons.
+Dialogue: 10,0:10:40.29,0:10:43.75,Default,,0,0,0,,Of course, I won't mess around \Nwith anything dangerous.
+Dialogue: 10,0:10:44.29,0:10:49.17,Default,,0,0,0,,When I draw my circles, I don't complete them, \Nand I always erase them.
 Dialogue: 10,0:10:49.63,0:10:53.67,Default,,0,0,0,,But sometimes I like to practice, like you just saw.
 Dialogue: 10,0:10:53.67,0:10:58.05,Default,,0,0,0,,It might help you out someday.
 Dialogue: 10,0:10:58.39,0:10:59.97,Default,,0,0,0,,You don't need to worry about me.
 Dialogue: 10,0:10:59.97,0:11:01.89,Default,,0,0,0,,That's not all.
-Dialogue: 10,0:11:01.89,0:11:07.10,Default,,0,0,0,,I don't want everything my grandfather worked for to disappear.
+Dialogue: 10,0:11:01.89,0:11:07.10,Default,,0,0,0,,I don't want everything my grandfather \Nworked for to disappear.
 Dialogue: 10,0:11:07.10,0:11:08.31,Default,,0,0,0,,Taki...
-Dialogue: 10,0:11:08.56,0:11:11.86,Default,,0,0,0,,I don't know what I'm going to do with myself after high school,
+Dialogue: 10,0:11:08.56,0:11:11.86,Default,,0,0,0,,I don't know what I'm going to do \Nwith myself after high school,
 Dialogue: 10,0:11:11.86,0:11:16.32,Default,,0,0,0,,but for now, I can do this much, right?
 Dialogue: 10,0:11:18.95,0:11:21.12,Default,,0,0,0,,{*}Mister Natsume{*Natsume-sama}.
 Dialogue: 10,0:11:21.74,0:11:25.37,Default,,0,0,0,,Please return my name.
@@ -365,34 +253,27 @@ Dialogue: 10,0:11:45.98,0:11:47.52,Default,,0,0,0,,All right.
 Dialogue: 10,0:11:47.52,0:11:48.44,Default,,0,0,0,,Bye.
 Dialogue: 10,0:11:54.32,0:11:57.70,Default,,0,0,0,,That which shields me, reveal thy name.
 Dialogue: 10,0:12:03.45,0:12:04.79,Default,,0,0,0,,I return your name.
-Dialogue: 2,0:12:14.00,0:12:15.34,number,,0,0,0,,{\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&\pos(1762,1048)}3
-Dialogue: 1,0:12:14.00,0:12:15.34,number-box,,0,0,0,,{\be1.5\c&H2412C9&\fscx46\fscy45\pos(1760,1046)}\h
-Dialogue: 1,0:12:14.00,0:12:15.34,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1198.47,1052.13)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:12:14.00,0:12:15.34,titlename-blur,,0,0,0,,{\p1\blur20\pos(1238,1079)}m 0 0 s 1350 0 1350 150 0 150 c
 Dialogue: 10,0:12:28.31,0:12:29.40,Default,,0,0,0,,What's this?
 Dialogue: 10,0:12:46.37,0:12:48.08,Default,,0,0,0,,You're the demon from this morning.
 Dialogue: 10,0:12:48.08,0:12:49.00,Default,,0,0,0,,He fell for it!
 Dialogue: 10,0:12:49.00,0:12:50.33,Default,,0,0,0,,Get him!
 Dialogue: 10,0:12:52.79,0:12:57.17,Default,,0,0,0,,Yahoo! Yahoo! Yahoo! Yahoo!
-Dialogue: 10,0:12:54.67,0:12:56.01,Default - Overlap,,0,0,0,,What are you doing?
+Dialogue: 10,0:12:54.67,0:12:56.01,Default - Alt,,0,0,0,,What are you doing?
 Dialogue: 10,0:13:01.80,0:13:02.64,Default,,0,0,0,,Stop it!{ends on scenechange}
 Dialogue: 10,0:13:02.64,0:13:03.51,Default,,0,0,0,,W-Wait!
 Dialogue: 10,0:13:10.39,0:13:13.73,Default,,0,0,0,,Oh, Natsume. You're late.
 Dialogue: 10,0:13:13.73,0:13:15.07,Default,,0,0,0,,{*}Master{*Sensei}!
 Comment: 10,0:13:15.90,0:13:21.32,Default,,0,0,0,,You're quite late. And you smell as you always do.
-Dialogue: 0,0:13:15.90,0:13:22.91,sign,,0,0,0,,{\move(262.5,142.5,-58.5,142.5)\frz8\blur1}Party
-Dialogue: 0,0:13:15.90,0:13:22.91,sign,,0,0,0,,{\move(267,177,-54,177)\frz8\blur1}of Dogs
 Dialogue: 0,0:13:16.03,0:13:17.94,Default,,0,0,0,,{=3}{\clip()\t(15,1892,\clip())\fscy100\t(15,1892,\fscy100)\bord3.8\t(15,1892,\bord3.8)\shad1.5\t(15,1892,\shad1.5)\fscx100\t(15,1892,\fscx100)\an8\move(1581.4,45.6,1495,45.61,15,1892)}You're quite late.
-Comment: 10,0:13:16.69,0:13:18.44,Default - Overlap,,0,0,0,,Welcome!
+Comment: 10,0:13:16.69,0:13:18.44,Default - Alt,,0,0,0,,Welcome!
 Dialogue: 0,0:13:16.73,0:13:18.19,Default,,0,0,0,,{=5}{\clip()\t(24,1442,\clip())\fscy100\t(24,1442,\fscy99.99)\bord3.8\t(24,1442,\bord3.8)\shad1.5\t(24,1442,\shad1.5)\fscx100\t(24,1442,\fscx99.99)\an2\move(1160.4,1052,1095.09,1051.97,24,1442)}Welcome!
 Dialogue: 0,0:13:17.94,0:13:20.49,Default,,0,0,0,,{=4}{\clip()\t(24,2526,\clip())\fscy100\t(24,2526,\fscy99.99)\bord3.8\t(24,2526,\bord3.8)\shad1.5\t(24,2526,\shad1.5)\fscx100\t(24,2526,\fscx99.99)\an8\move(1488.6,47.2,1373.36,47.24,24,2526)}And you smell as you always do.
 Dialogue: 0,0:13:18.49,0:13:21.03,Default,,0,0,0,,{=6}{\clip()\t(16,2519,\clip())\fscy100\t(16,2519,\fscy99.97)\bord3.8\t(16,2519,\bord3.8)\shad1.5\t(16,2519,\shad1.5)\fscx100\t(16,2519,\fscx99.97)\an8\move(761,940,645.74,939.79,16,2519)}Let's start drinking!
-Comment: 10,0:13:19.61,0:13:21.32,Default - Overlap,,0,0,0,,Over here!
+Comment: 10,0:13:19.61,0:13:21.32,Default - Alt,,0,0,0,,Over here!
 Dialogue: 0,0:13:19.70,0:13:21.32,Default,,0,0,0,,{=8}{\clip()\t(16,1600,\clip())\fscy100\t(16,1600,\fscy99.99)\bord3.8\t(16,1600,\bord3.8)\shad1.5\t(16,1600,\shad1.5)\fscx100\t(16,1600,\fscx99.99)\an3\move(2017.6,981.6,1944.63,981.53,16,1600)}Over here, over here.
 Dialogue: 0,0:13:21.32,0:13:22.91,Default,,0,0,0,,{=9}{\clip()\t(22,1565,\clip())\fscy100\t(22,1565,\fscy100)\bord3.8\t(22,1565,\bord3.8)\shad1.5\t(22,1565,\shad1.5)\fscx100\t(22,1565,\fscx100)\an3\move(1864,981.6,1792.93,981.6,22,1565)}Sit next to me?
 Comment: 10,0:13:21.32,0:13:22.91,Default,,0,0,0,,Come sit by me.
 Dialogue: 10,0:13:22.91,0:13:24.62,Default,,0,0,0,,Here you go, Natsume{**-oyabun}.
-Dialogue: 0,0:13:22.91,0:13:22.91,Sign,,0,0,0,,
 Dialogue: 10,0:13:24.62,0:13:26.12,Default,,0,0,0,,You have to drink three for being late.
 Dialogue: 10,0:13:26.12,0:13:28.41,Default,,0,0,0,,No, I'm a minor.
 Dialogue: 10,0:13:28.41,0:13:30.83,Default,,0,0,0,,You're always so stiff.
@@ -414,7 +295,7 @@ Dialogue: 10,0:14:02.07,0:14:03.24,Default,,0,0,0,,Really?
 Dialogue: 10,0:14:09.24,0:14:10.87,Default,,0,0,0,,Hey, Natsume!
 Dialogue: 10,0:14:10.87,0:14:12.37,Default,,0,0,0,,You dance too!
 Dialogue: 10,0:14:12.37,0:14:14.00,Default,,0,0,0,,I couldn't.
-Dialogue: 10,0:14:14.00,0:14:20.96,Default,,0,0,0,,Mister Natsume, what do humans do for fun when they gather like this?
+Dialogue: 10,0:14:14.00,0:14:20.96,Default,,0,0,0,,Mister Natsume, what do humans do for fun \Nwhen they gather like this?
 Dialogue: 10,0:14:20.96,0:14:23.05,Default,,0,0,0,,I want to know, too.
 Dialogue: 10,0:14:23.05,0:14:24.89,Default,,0,0,0,,What do they do for fun?
 Dialogue: 10,0:14:26.05,0:14:27.14,Default,,0,0,0,,I don't know.
@@ -423,20 +304,19 @@ Dialogue: 10,0:14:29.06,0:14:30.27,Default,,0,0,0,,and when they're outside,
 Dialogue: 10,0:14:30.27,0:14:33.60,Default,,0,0,0,,maybe kick the can or shadow tag.
 Dialogue: 10,0:14:33.60,0:14:36.61,Default,,0,0,0,,Shadow tag? That sounds like fun.
 Dialogue: 10,0:14:36.61,0:14:37.73,Default,,0,0,0,,I know!
-Dialogue: 10,0:14:37.73,0:14:39.44,Default,,0,0,0,,If {*}Mister Natsume{*Natsume-sama} can't drink,
-Dialogue: 10,0:14:39.44,0:14:41.61,Default,,0,0,0,,then let's play that shadow tag game with him!
+Dialogue: 10,0:14:37.73,0:14:41.61,Default,,0,0,0,,If {*}Mister Natsume{*Natsume-sama} can't drink, \Nthen let's play that shadow tag game with him!
 Dialogue: 10,0:14:41.61,0:14:42.99,Default,,0,0,0,,Let's do that!
-Dialogue: 10,0:14:42.99,0:14:43.82,Default,,0,0,0,,Hey, wait, I didn't―
+Dialogue: 10,0:14:42.99,0:14:43.82,Default,,0,0,0,,Hey, wait, I didn't—
 Dialogue: 10,0:14:43.82,0:14:47.49,Default,,0,0,0,,Natsume{**-oyabin}, how do you play that game? {slurred oyabun??}
 Dialogue: 10,0:14:48.62,0:14:51.75,Default,,0,0,0,,You know tag, right?
-Dialogue: 10,0:14:52.50,0:14:56.63,Default,,0,0,0,,It's like that, but if the one who's "it" steps on your shadow, then you're "it".{*}
+Dialogue: 10,0:14:52.50,0:14:56.63,Default,,0,0,0,,It's like that, but if the one who's "it" \Nsteps on your shadow, then you're "it".{*}
 Dialogue: 10,0:14:56.63,0:14:59.63,Default,,0,0,0,,"It", huh?  Sounds like fun.
-Dialogue: 10,0:14:59.63,0:15:03.22,Default,,0,0,0,,Of course, if you catch somebody, you get to eat them, right?
+Dialogue: 10,0:14:59.63,0:15:03.22,Default,,0,0,0,,Of course, if you catch somebody, \Nyou get to eat them, right?
 Dialogue: 10,0:15:03.22,0:15:05.34,Default,,0,0,0,,No, you definitely can't.
 Dialogue: 10,0:15:05.84,0:15:09.39,Default,,0,0,0,,I think the point is to run from the person who's "it",
-Dialogue: 10,0:15:09.39,0:15:12.56,Default,,0,0,0,,and hide from them so they can't step on your shadow.
+Dialogue: 10,0:15:09.39,0:15:12.56,Default,,0,0,0,,and hide from them so they \Ncan't step on your shadow.
 Dialogue: 10,0:15:12.56,0:15:15.06,Default,,0,0,0,,Then shouldn't you just hide in a shadow?
-Dialogue: 10,0:15:15.06,0:15:19.44,Default,,0,0,0,,If I remember correctly, you can't do that for more than five seconds.
+Dialogue: 10,0:15:15.06,0:15:19.44,Default,,0,0,0,,If I remember correctly, \Nyou can't do that for more than five seconds.
 Dialogue: 10,0:15:19.44,0:15:20.52,Default,,0,0,0,,Okay.
 Dialogue: 10,0:15:20.52,0:15:22.40,Default,,0,0,0,,I'll be "it" first.
 Dialogue: 10,0:15:22.40,0:15:25.65,Default,,0,0,0,,You can run anywhere on the shrine grounds.
@@ -476,94 +356,38 @@ Dialogue: 10,0:17:10.22,0:17:12.39,Default,,0,0,0,,Get him, {*}Mister Madara{*Ma
 Dialogue: 10,0:17:12.39,0:17:13.68,Default,,0,0,0,,Get him!
 Dialogue: 10,0:17:13.68,0:17:17.43,Default,,0,0,0,,No mercy for humans!
 Dialogue: 10,0:17:17.43,0:17:18.77,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:17:19.69,0:17:21.85,Default,,0,0,0,,I told you that anything but stepping on somebody's shadow
-Dialogue: 10,0:17:22.15,0:17:23.77,Default,,0,0,0,,was against the rules!
+Dialogue: 10,0:17:19.69,0:17:23.77,Default,,0,0,0,,I told you that anything but stepping \Non somebody's shadow was against the rules!
 Dialogue: 10,0:17:28.28,0:17:29.28,Default,,0,0,0,,That was dangerous.
 Dialogue: 10,0:17:29.28,0:17:32.11,Default,,0,0,0,,I'm guessing that was against the rules, too.
-Dialogue: 10,0:17:32.11,0:17:35.62,Default,,0,0,0,,Since I was the first one {*}Mister Madara{*Madara-sama} stepped on,
-Dialogue: 10,0:17:35.62,0:17:37.74,Default,,0,0,0,,let's get back to work!
+Dialogue: 10,0:17:32.11,0:17:37.74,Default,,0,0,0,,Since I was the first one {*}Mister Madara{*Madara-sama} \Nstepped on, let's get back to work!
 Dialogue: 10,0:17:41.58,0:17:42.96,Default,,0,0,0,,Misuzu.
 Dialogue: 10,0:17:42.96,0:17:45.21,Default,,0,0,0,,It's been a long time, {*}Lord Natsume{*Natsume-dono}.
 Dialogue: 10,0:17:45.88,0:17:49.97,Default,,0,0,0,,You've guts to call us "dogs".
-Dialogue: 0,0:17:51.21,0:17:51.25,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(178.4,277.6)}of Dogs
-Dialogue: 0,0:17:51.21,0:17:51.25,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(175.2,237.6)}Party
-Dialogue: 0,0:17:51.25,0:17:51.30,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(242.35,277.6)}of Dogs
-Dialogue: 0,0:17:51.25,0:17:51.30,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(239.15,237.6)}Party
-Dialogue: 0,0:17:51.30,0:17:51.34,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(307.31,277.6)}of Dogs
-Dialogue: 0,0:17:51.30,0:17:51.34,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(304.11,237.6)}Party
-Dialogue: 0,0:17:51.34,0:17:51.38,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(372.51,277.6)}of Dogs
-Dialogue: 0,0:17:51.34,0:17:51.38,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(369.31,237.6)}Party
-Dialogue: 0,0:17:51.38,0:17:51.42,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(435.36,277.6)}of Dogs
-Dialogue: 0,0:17:51.38,0:17:51.42,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(432.16,237.6)}Party
-Dialogue: 0,0:17:51.42,0:17:51.46,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(488.02,277.6)}of Dogs
-Dialogue: 0,0:17:51.42,0:17:51.46,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(484.82,237.59)}Party
-Dialogue: 0,0:17:51.46,0:17:51.50,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(518.48,277.59)}of Dogs
-Dialogue: 0,0:17:51.46,0:17:51.50,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(515.28,237.59)}Party
-Dialogue: 0,0:17:51.50,0:17:51.55,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(529.09,277.6)}of Dogs
-Dialogue: 0,0:17:51.50,0:17:51.55,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(525.89,237.6)}Party
-Dialogue: 0,0:17:51.55,0:17:51.59,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.48,277.6)}of Dogs
-Dialogue: 0,0:17:51.55,0:17:51.59,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.28,237.6)}Party
-Dialogue: 0,0:17:51.59,0:17:51.63,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.61)}of Dogs
-Dialogue: 0,0:17:51.59,0:17:51.75,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.61)}Party
-Dialogue: 0,0:17:51.63,0:17:51.67,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:51.67,0:17:51.71,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.61)}of Dogs
-Dialogue: 0,0:17:51.71,0:17:52.59,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:51.75,0:17:51.80,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
 Dialogue: 10,0:17:51.76,0:17:54.26,Default,,0,0,0,,That was Cyclops's idea.
-Dialogue: 0,0:17:51.80,0:17:51.84,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.61)}Party
-Dialogue: 0,0:17:51.84,0:17:52.59,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:52.59,0:17:52.71,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:52.59,0:17:52.63,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:52.63,0:17:52.67,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
-Dialogue: 0,0:17:52.67,0:17:52.71,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:52.71,0:17:52.75,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:52.71,0:17:52.75,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:52.75,0:17:52.84,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:52.75,0:17:52.84,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:52.84,0:17:52.92,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:52.84,0:17:52.92,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:52.92,0:17:53.05,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:52.92,0:17:53.01,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:53.01,0:17:53.55,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
-Dialogue: 0,0:17:53.05,0:17:53.46,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
-Dialogue: 0,0:17:53.46,0:17:53.51,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:53.51,0:17:53.55,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
-Dialogue: 0,0:17:53.55,0:17:53.76,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:53.55,0:17:53.59,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:53.59,0:17:53.92,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
-Dialogue: 0,0:17:53.76,0:17:53.80,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
-Dialogue: 0,0:17:53.80,0:17:53.88,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:53.88,0:17:53.92,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
-Dialogue: 0,0:17:53.92,0:17:54.17,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
-Dialogue: 0,0:17:53.92,0:17:54.01,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
-Dialogue: 0,0:17:54.01,0:17:54.26,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
-Dialogue: 0,0:17:54.17,0:17:54.26,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
 Dialogue: 10,0:17:54.80,0:17:55.97,Default,,0,0,0,,I stepped on your shadow!
 Dialogue: 10,0:17:56.72,0:17:59.47,Default,,0,0,0,,Now you're "it", {*}Mister Misuzu{*Misuzu-sama}.
 Dialogue: 10,0:17:59.47,0:18:02.48,Default,,0,0,0,,Oh, so I'm "it"?
 Dialogue: 10,0:18:02.48,0:18:04.90,Default,,0,0,0,,That sounds like fun!
-Dialogue: 10,0:18:05.48,0:18:06.52,Default,,0,0,0,,Wait.
-Dialogue: 10,0:18:06.52,0:18:09.07,Default,,0,0,0,,You're supposed to step on the shadow of the players who run.
+Dialogue: 10,0:18:05.48,0:18:09.07,Default,,0,0,0,,Wait. You're supposed to step \Non the shadow of the players who run.
 Dialogue: 10,0:18:09.07,0:18:10.57,Default,,0,0,0,,I see.
 Dialogue: 10,0:18:10.57,0:18:14.61,Default,,0,0,0,,That sounds like a fun game.
 Dialogue: 10,0:18:16.20,0:18:20.12,Default,,0,0,0,,Now, run, lesser beings.
 Dialogue: 10,0:18:20.12,0:18:23.62,Default,,0,0,0,,Misuzu, sorry, but could you be the referee?
 Dialogue: 10,0:18:26.34,0:18:31.34,Default,,0,0,0,,One... two... three...
-Dialogue: 10,0:18:31.34,0:18:34.84,Default,,0,0,0,,If you step on somebody's shadow, you can\N do whatever you want with them, right?
+Dialogue: 10,0:18:31.34,0:18:34.84,Default,,0,0,0,,If you step on somebody's shadow, \Nyou can do whatever you want with them, right?
 Dialogue: 10,0:18:34.84,0:18:37.10,Default,,0,0,0,,There's no rule like that.
-Dialogue: 10,0:18:37.10,0:18:40.31,Default,,0,0,0,,I get it!  You should run with your shadow in front of you!
+Dialogue: 10,0:18:37.10,0:18:40.31,Default,,0,0,0,,I get it! You should run \Nwith your shadow in front of you!
 Dialogue: 10,0:18:40.31,0:18:41.14,Default,,0,0,0,,Run to the north!
 Dialogue: 10,0:18:41.14,0:18:42.64,Default,,0,0,0,,Run away!
 Dialogue: 10,0:18:44.69,0:18:48.11,Default,,0,0,0,,What is this game?
 Dialogue: 10,0:18:48.11,0:18:50.78,Default,,0,0,0,,It's endless.
-Dialogue: 10,0:18:50.78,0:18:55.61,Default,,0,0,0,,Humans are terrifying creatures to think of such a game.
+Dialogue: 10,0:18:50.78,0:18:55.61,Default,,0,0,0,,Humans are terrifying creatures \Nto think of such a game.
 Dialogue: 10,0:18:55.61,0:18:59.95,Default,,0,0,0,,Natsume, how does this end?
 Dialogue: 10,0:18:59.95,0:19:04.96,Default,,0,0,0,,Well, I've never actually played it,
 Dialogue: 10,0:19:04.96,0:19:06.83,Default,,0,0,0,,so I don't know.
 Dialogue: 10,0:19:07.38,0:19:09.54,Default,,0,0,0,,What?
 Dialogue: 10,0:19:09.54,0:19:12.63,Default,,0,0,0,,So you've never played it before?
-Dialogue: 10,0:19:12.63,0:19:13.97,Default,,0,0,0,,Nope.
-Dialogue: 10,0:19:13.97,0:19:17.68,Default,,0,0,0,,But I can see how much fun it was for everyone I watched when I was little.
+Dialogue: 10,0:19:12.63,0:19:17.68,Default,,0,0,0,,Nope. But I can see how much fun it was \Nfor everyone I watched when I was little.
 Dialogue: 10,0:19:17.68,0:19:19.30,Default,,0,0,0,,I don't!
 Dialogue: 10,0:19:21.18,0:19:25.39,Default,,0,0,0,,{\i1}I don't know when I started meeting so many spirits.
 Dialogue: 10,0:19:25.73,0:19:30.90,Default,,0,0,0,,{\i1}I wonder if Reiko{**-san} ever felt like this.
@@ -572,183 +396,11 @@ Dialogue: 10,0:19:36.03,0:19:37.95,Default,,0,0,0,,Then let's make this our last
 Dialogue: 10,0:19:37.95,0:19:41.16,Default,,0,0,0,,If he steps on your shadow, you're out.
 Dialogue: 10,0:19:41.16,0:19:44.66,Default,,0,0,0,,And if he steps on them all, he wins.
 Dialogue: 10,0:19:44.66,0:19:46.04,Default,,0,0,0,,Wait!
-Dialogue: 10,0:19:46.04,0:19:49.04,Default,,0,0,0,,That means the one who's "it" has to do a lot of work!
+Dialogue: 10,0:19:46.04,0:19:49.04,Default,,0,0,0,,That means the one who's "it" \Nhas to do a lot of work!
 Dialogue: 10,0:19:49.04,0:19:50.04,Default,,0,0,0,,An excellent idea.
-Dialogue: 10,0:19:50.04,0:19:54.67,Default,,0,0,0,,Anyone whose shadow is stepped on has to go inside this circle.
-Dialogue: 0,0:19:50.04,0:19:50.08,graveyard,,0,0,0,,{=12}{\fscy136.78\fscx136.78\fax0.2\frz2\blur2.05\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(739.56,840.4)}Graveyard
-Dialogue: 0,0:19:50.08,0:19:50.12,graveyard,,0,0,0,,{=12}{\fscy136.04\fscx136.04\fax0.2\frz2\blur2.04\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(745.89,836.57)}Graveyard
-Dialogue: 0,0:19:50.12,0:19:50.16,graveyard,,0,0,0,,{=12}{\fscy135.29\fscx135.29\fax0.2\frz2\blur2.03\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(752.19,832.77)}Graveyard
-Dialogue: 0,0:19:50.16,0:19:50.21,graveyard,,0,0,0,,{=12}{\fscy134.52\fscx134.52\fax0.2\frz2\blur2.02\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(758.42,829.06)}Graveyard
-Dialogue: 0,0:19:50.21,0:19:50.25,graveyard,,0,0,0,,{=12}{\fscy133.77\fscx133.77\fax0.2\frz2\blur2.01\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(764.59,825.37)}Graveyard
-Dialogue: 0,0:19:50.25,0:19:50.29,graveyard,,0,0,0,,{=12}{\fscy133.02\fscx133.02\fax0.2\frz2\blur2\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(770.66,821.74)}Graveyard
-Dialogue: 0,0:19:50.29,0:19:50.33,graveyard,,0,0,0,,{=12}{\fscy132.3\fscx132.3\fax0.2\frz2\blur1.98\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(776.67,818.13)}Graveyard
-Dialogue: 0,0:19:50.33,0:19:50.37,graveyard,,0,0,0,,{=12}{\fscy131.57\fscx131.57\fax0.2\frz2\blur1.97\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(782.6,814.59)}Graveyard
-Dialogue: 0,0:19:50.37,0:19:50.41,graveyard,,0,0,0,,{=12}{\fscy130.88\fscx130.88\fax0.2\frz2\blur1.96\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(788.44,811.08)}Graveyard
-Dialogue: 0,0:19:50.41,0:19:50.46,graveyard,,0,0,0,,{=12}{\fscy130.17\fscx130.17\fax0.2\frz2\blur1.95\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(794.21,807.62)}Graveyard
-Dialogue: 0,0:19:50.46,0:19:50.50,graveyard,,0,0,0,,{=12}{\fscy129.49\fscx129.49\fax0.2\frz2\blur1.94\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(799.91,804.2)}Graveyard
-Dialogue: 0,0:19:50.50,0:19:50.54,graveyard,,0,0,0,,{=12}{\fscy128.82\fscx128.82\fax0.2\frz2\blur1.93\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(805.53,800.83)}Graveyard
-Dialogue: 0,0:19:50.54,0:19:50.58,graveyard,,0,0,0,,{=12}{\fscy128.16\fscx128.16\fax0.2\frz2\blur1.92\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(811.07,797.48)}Graveyard
-Dialogue: 0,0:19:50.58,0:19:50.62,graveyard,,0,0,0,,{=12}{\fscy127.49\fscx127.49\fax0.2\frz2\blur1.91\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(816.53,794.22)}Graveyard
-Dialogue: 0,0:19:50.62,0:19:50.66,graveyard,,0,0,0,,{=12}{\fscy126.84\fscx126.84\fax0.2\frz2\blur1.9\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(821.94,790.98)}Graveyard
-Dialogue: 0,0:19:50.66,0:19:50.71,graveyard,,0,0,0,,{=12}{\fscy126.18\fscx126.18\fax0.2\frz2\blur1.89\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(827.28,787.8)}Graveyard
-Dialogue: 0,0:19:50.71,0:19:50.75,graveyard,,0,0,0,,{=12}{\fscy125.56\fscx125.56\fax0.2\frz2\blur1.88\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(832.53,784.64)}Graveyard
-Dialogue: 0,0:19:50.75,0:19:50.79,graveyard,,0,0,0,,{=12}{\fscy124.92\fscx124.92\fax0.2\frz2\blur1.87\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(837.71,781.53)}Graveyard
-Dialogue: 0,0:19:50.79,0:19:50.83,graveyard,,0,0,0,,{=12}{\fscy124.32\fscx124.32\fax0.2\frz2\blur1.86\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(842.83,778.46)}Graveyard
-Dialogue: 0,0:19:50.83,0:19:50.87,graveyard,,0,0,0,,{=12}{\fscy123.71\fscx123.71\fax0.2\frz2\blur1.86\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(847.87,775.42)}Graveyard
-Dialogue: 0,0:19:50.87,0:19:50.91,graveyard,,0,0,0,,{=12}{\fscy123.09\fscx123.09\fax0.2\frz2\blur1.85\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(852.87,772.44)}Graveyard
-Dialogue: 0,0:19:50.91,0:19:50.96,graveyard,,0,0,0,,{=12}{\fscy122.5\fscx122.5\fax0.2\frz2\blur1.84\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(857.77,769.5)}Graveyard
-Dialogue: 0,0:19:50.96,0:19:51.00,graveyard,,0,0,0,,{=12}{\fscy121.93\fscx121.93\fax0.2\frz2\blur1.83\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(862.62,766.58)}Graveyard
-Dialogue: 0,0:19:51.00,0:19:51.04,graveyard,,0,0,0,,{=12}{\fscy121.33\fscx121.33\fax0.2\frz2\blur1.82\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(867.4,763.73)}Graveyard
-Dialogue: 0,0:19:51.04,0:19:51.08,graveyard,,0,0,0,,{=12}{\fscy120.78\fscx120.78\fax0.2\frz2\blur1.81\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(872.11,760.88)}Graveyard
-Dialogue: 0,0:19:51.08,0:19:51.12,graveyard,,0,0,0,,{=12}{\fscy120.2\fscx120.2\fax0.2\frz2\blur1.8\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(876.77,758.12)}Graveyard
-Dialogue: 0,0:19:51.12,0:19:51.16,graveyard,,0,0,0,,{=12}{\fscy119.67\fscx119.67\fax0.2\frz2\blur1.8\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(881.36,755.34)}Graveyard
-Dialogue: 0,0:19:51.16,0:19:51.21,graveyard,,0,0,0,,{=12}{\fscy119.12\fscx119.12\fax0.2\frz2\blur1.79\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(885.86,752.63)}Graveyard
-Dialogue: 0,0:19:51.21,0:19:51.25,graveyard,,0,0,0,,{=12}{\fscy118.58\fscx118.58\fax0.2\frz2\blur1.78\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(890.34,749.94)}Graveyard
-Dialogue: 0,0:19:51.25,0:19:51.29,graveyard,,0,0,0,,{=12}{\fscy118.01\fscx118.01\fax0.2\frz2\blur1.77\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(894.76,747.34)}Graveyard
-Dialogue: 0,0:19:51.29,0:19:51.33,graveyard,,0,0,0,,{=12}{\fscy117.51\fscx117.51\fax0.2\frz2\blur1.76\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(899.11,744.71)}Graveyard
-Dialogue: 0,0:19:51.33,0:19:51.37,graveyard,,0,0,0,,{=12}{\fscy116.99\fscx116.99\fax0.2\frz2\blur1.75\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(903.37,742.14)}Graveyard
-Dialogue: 0,0:19:51.37,0:19:51.42,graveyard,,0,0,0,,{=12}{\fscy116.45\fscx116.45\fax0.2\frz2\blur1.75\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(907.62,739.63)}Graveyard
-Dialogue: 0,0:19:51.42,0:19:51.46,graveyard,,0,0,0,,{=12}{\fscy115.99\fscx115.99\fax0.2\frz2\blur1.74\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(911.77,737.11)}Graveyard
-Dialogue: 0,0:19:51.46,0:19:51.50,graveyard,,0,0,0,,{=12}{\fscy115.47\fscx115.47\fax0.2\frz2\blur1.73\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(915.88,734.65)}Graveyard
-Dialogue: 0,0:19:51.50,0:19:51.54,graveyard,,0,0,0,,{=12}{\fscy115.01\fscx115.01\fax0.2\frz2\blur1.73\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(919.92,732.21)}Graveyard
-Dialogue: 0,0:19:51.54,0:19:51.58,graveyard,,0,0,0,,{=12}{\fscy114.51\fscx114.51\fax0.2\frz2\blur1.72\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(923.93,729.81)}Graveyard
-Dialogue: 0,0:19:51.58,0:19:51.62,graveyard,,0,0,0,,{=12}{\fscy114.03\fscx114.03\fax0.2\frz2\blur1.71\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(927.86,727.47)}Graveyard
-Dialogue: 0,0:19:51.62,0:19:51.67,graveyard,,0,0,0,,{=12}{\fscy113.53\fscx113.53\fax0.2\frz2\blur1.7\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(931.75,725.16)}Graveyard
-Dialogue: 0,0:19:51.67,0:19:51.71,graveyard,,0,0,0,,{=12}{\fscy113.09\fscx113.09\fax0.2\frz2\blur1.7\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(935.58,722.85)}Graveyard
-Dialogue: 0,0:19:51.71,0:19:51.75,graveyard,,0,0,0,,{=12}{\fscy112.63\fscx112.63\fax0.2\frz2\blur1.69\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(939.34,720.59)}Graveyard
-Dialogue: 0,0:19:51.75,0:19:51.79,graveyard,,0,0,0,,{=12}{\fscy112.19\fscx112.19\fax0.2\frz2\blur1.68\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(943.07,718.36)}Graveyard
-Dialogue: 0,0:19:51.79,0:19:51.83,graveyard,,0,0,0,,{=12}{\fscy111.75\fscx111.75\fax0.2\frz2\blur1.68\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(946.72,716.15)}Graveyard
-Dialogue: 0,0:19:51.83,0:19:51.87,graveyard,,0,0,0,,{=12}{\fscy111.32\fscx111.32\fax0.2\frz2\blur1.67\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(950.32,714.01)}Graveyard
-Dialogue: 0,0:19:51.87,0:19:51.92,graveyard,,0,0,0,,{=12}{\fscy110.87\fscx110.87\fax0.2\frz2\blur1.66\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(953.88,711.88)}Graveyard
-Dialogue: 0,0:19:51.92,0:19:51.96,graveyard,,0,0,0,,{=12}{\fscy110.44\fscx110.44\fax0.2\frz2\blur1.66\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(957.37,709.79)}Graveyard
-Dialogue: 0,0:19:51.96,0:19:52.00,graveyard,,0,0,0,,{=12}{\fscy110.08\fscx110.08\fax0.2\frz2\blur1.65\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(960.8,707.68)}Graveyard
-Dialogue: 0,0:19:52.00,0:19:52.04,graveyard,,0,0,0,,{=12}{\fscy109.64\fscx109.64\fax0.2\frz2\blur1.64\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(964.19,705.67)}Graveyard
-Dialogue: 0,0:19:52.04,0:19:52.08,graveyard,,0,0,0,,{=12}{\fscy109.24\fscx109.24\fax0.2\frz2\blur1.64\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(967.53,703.68)}Graveyard
-Dialogue: 0,0:19:52.08,0:19:52.12,graveyard,,0,0,0,,{=12}{\fscy108.84\fscx108.84\fax0.2\frz2\blur1.63\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(970.82,701.71)}Graveyard
-Dialogue: 0,0:19:52.12,0:19:52.17,graveyard,,0,0,0,,{=12}{\fscy108.46\fscx108.46\fax0.2\frz2\blur1.63\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(974.04,699.76)}Graveyard
-Dialogue: 0,0:19:52.17,0:19:52.21,graveyard,,0,0,0,,{=12}{\fscy108.05\fscx108.05\fax0.2\frz2\blur1.62\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(977.23,697.88)}Graveyard
-Dialogue: 0,0:19:52.21,0:19:52.25,graveyard,,0,0,0,,{=12}{\fscy107.69\fscx107.69\fax0.2\frz2\blur1.62\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(980.33,696)}Graveyard
-Dialogue: 0,0:19:52.25,0:19:52.29,graveyard,,0,0,0,,{=12}{\fscy107.34\fscx107.34\fax0.2\frz2\blur1.61\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(983.38,694.14)}Graveyard
-Dialogue: 0,0:19:52.29,0:19:52.33,graveyard,,0,0,0,,{=12}{\fscy106.96\fscx106.96\fax0.2\frz2\blur1.6\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(986.39,692.36)}Graveyard
-Dialogue: 0,0:19:52.33,0:19:52.37,graveyard,,0,0,0,,{=12}{\fscy106.61\fscx106.61\fax0.2\frz2\blur1.6\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(989.34,690.58)}Graveyard
-Dialogue: 0,0:19:52.37,0:19:52.42,graveyard,,0,0,0,,{=12}{\fscy106.23\fscx106.23\fax0.2\frz2\blur1.59\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(992.27,688.87)}Graveyard
-Dialogue: 0,0:19:52.42,0:19:52.46,graveyard,,0,0,0,,{=12}{\fscy105.89\fscx105.89\fax0.2\frz2\blur1.59\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(995.1,687.16)}Graveyard
-Dialogue: 0,0:19:52.46,0:19:52.50,graveyard,,0,0,0,,{=12}{\fscy105.56\fscx105.56\fax0.2\frz2\blur1.58\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(997.89,685.49)}Graveyard
-Dialogue: 0,0:19:52.50,0:19:52.54,graveyard,,0,0,0,,{=12}{\fscy105.24\fscx105.24\fax0.2\frz2\blur1.58\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1000.6,683.84)}Graveyard
-Dialogue: 0,0:19:52.54,0:19:52.58,graveyard,,0,0,0,,{=12}{\fscy104.91\fscx104.91\fax0.2\frz2\blur1.57\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1003.29,682.25)}Graveyard
-Dialogue: 0,0:19:52.58,0:19:52.62,graveyard,,0,0,0,,{=12}{\fscy104.6\fscx104.6\fax0.2\frz2\blur1.57\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1005.86,680.68)}Graveyard
-Dialogue: 0,0:19:52.62,0:19:52.67,graveyard,,0,0,0,,{=12}{\fscy104.3\fscx104.3\fax0.2\frz2\blur1.56\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1008.42,679.15)}Graveyard
-Dialogue: 0,0:19:52.67,0:19:52.71,graveyard,,0,0,0,,{=12}{\fscy104\fscx104\fax0.2\frz2\blur1.56\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1010.9,677.66)}Graveyard
-Dialogue: 0,0:19:52.71,0:19:52.75,graveyard,,0,0,0,,{=12}{\fscy103.71\fscx103.71\fax0.2\frz2\blur1.56\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1013.32,676.2)}Graveyard
-Dialogue: 0,0:19:52.75,0:19:52.79,graveyard,,0,0,0,,{=12}{\fscy103.41\fscx103.41\fax0.2\frz2\blur1.55\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1015.68,674.8)}Graveyard
-Dialogue: 0,0:19:52.79,0:19:52.83,graveyard,,0,0,0,,{=12}{\fscy103.12\fscx103.12\fax0.2\frz2\blur1.55\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1017.99,673.43)}Graveyard
-Dialogue: 0,0:19:52.83,0:19:52.87,graveyard,,0,0,0,,{=12}{\fscy102.87\fscx102.87\fax0.2\frz2\blur1.54\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1020.19,672.09)}Graveyard
-Dialogue: 0,0:19:52.87,0:19:52.92,graveyard,,0,0,0,,{=12}{\fscy102.59\fscx102.59\fax0.2\frz2\blur1.54\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1022.36,670.81)}Graveyard
-Dialogue: 0,0:19:52.92,0:19:52.96,graveyard,,0,0,0,,{=12}{\fscy102.37\fscx102.37\fax0.2\frz2\blur1.54\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1024.43,669.54)}Graveyard
-Dialogue: 0,0:19:52.96,0:19:53.00,graveyard,,0,0,0,,{=12}{\fscy102.11\fscx102.11\fax0.2\frz2\blur1.53\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1026.45,668.35)}Graveyard
-Dialogue: 0,0:19:53.00,0:19:53.04,graveyard,,0,0,0,,{=12}{\fscy101.86\fscx101.86\fax0.2\frz2\blur1.53\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1028.35,667.22)}Graveyard
-Dialogue: 0,0:19:53.04,0:19:53.08,graveyard,,0,0,0,,{=12}{\fscy101.64\fscx101.64\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1030.21,666.12)}Graveyard
-Dialogue: 0,0:19:53.08,0:19:53.13,graveyard,,0,0,0,,{=12}{\fscy101.43\fscx101.43\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1031.95,665.06)}Graveyard
-Dialogue: 0,0:19:53.13,0:19:53.17,graveyard,,0,0,0,,{=12}{\fscy101.22\fscx101.22\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1033.63,664.08)}Graveyard
-Dialogue: 0,0:19:53.17,0:19:53.21,graveyard,,0,0,0,,{=12}{\fscy101.04\fscx101.04\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1035.18,663.14)}Graveyard
-Dialogue: 0,0:19:53.21,0:19:53.25,graveyard,,0,0,0,,{=12}{\fscy100.88\fscx100.88\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1036.63,662.26)}Graveyard
-Dialogue: 0,0:19:53.25,0:19:53.29,graveyard,,0,0,0,,{=12}{\fscy100.74\fscx100.74\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1037.98,661.43)}Graveyard
-Dialogue: 0,0:19:53.29,0:19:53.33,graveyard,,0,0,0,,{=12}{\fscy100.57\fscx100.57\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1039.19,660.7)}Graveyard
-Dialogue: 0,0:19:53.33,0:19:53.38,graveyard,,0,0,0,,{=12}{\fscy100.45\fscx100.45\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1040.28,660.06)}Graveyard
-Dialogue: 0,0:19:53.38,0:19:53.42,graveyard,,0,0,0,,{=12}{\fscy100.3\fscx100.3\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1041.23,659.52)}Graveyard
-Dialogue: 0,0:19:53.42,0:19:53.46,graveyard,,0,0,0,,{=12}{\fscy100.21\fscx100.21\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1041.98,659.09)}Graveyard
-Dialogue: 0,0:19:53.46,0:19:53.50,graveyard,,0,0,0,,{=12}{\fscy100.15\fscx100.15\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1042.59,658.69)}Graveyard
-Dialogue: 0,0:19:53.50,0:19:53.54,graveyard,,0,0,0,,{=12}{\fscy100.13\fscx100.13\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1042.94,658.43)}Graveyard
-Dialogue: 0,0:19:53.54,0:19:53.58,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.4)}Graveyard
-Dialogue: 0,0:19:53.58,0:19:53.63,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.07,658.39)}Graveyard
-Dialogue: 0,0:19:53.63,0:19:53.71,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.39)}Graveyard
-Dialogue: 0,0:19:53.71,0:19:53.75,graveyard,,0,0,0,,{=12}{\fscy100.11\fscx100.11\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
-Dialogue: 0,0:19:53.75,0:19:53.79,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
-Dialogue: 0,0:19:53.79,0:19:53.83,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.39)}Graveyard
-Dialogue: 0,0:19:53.83,0:19:53.92,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.39)}Graveyard
-Dialogue: 0,0:19:53.92,0:19:54.00,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
-Dialogue: 0,0:19:54.00,0:19:54.04,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
-Dialogue: 0,0:19:54.04,0:19:54.08,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
-Dialogue: 0,0:19:54.08,0:19:54.13,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
-Dialogue: 0,0:19:54.13,0:19:54.17,graveyard,,0,0,0,,{=12}{\fscy100.12\fscx100.12\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.37)}Graveyard
-Dialogue: 0,0:19:54.17,0:19:54.21,graveyard,,0,0,0,,{=12}{\fscy100.11\fscx100.11\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.36)}Graveyard
-Dialogue: 0,0:19:54.21,0:19:54.25,graveyard,,0,0,0,,{=12}{\fscy100.11\fscx100.11\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.37)}Graveyard
-Dialogue: 0,0:19:54.25,0:19:54.29,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.37)}Graveyard
-Dialogue: 0,0:19:54.29,0:19:54.33,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
-Dialogue: 0,0:19:54.33,0:19:54.38,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
-Dialogue: 0,0:19:54.38,0:19:54.42,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.38)}Graveyard
-Dialogue: 0,0:19:54.42,0:19:54.58,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
-Dialogue: 0,0:19:54.58,0:19:54.63,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.37)}Graveyard
-Dialogue: 0,0:19:54.63,0:19:54.67,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
+Dialogue: 10,0:19:50.04,0:19:54.67,Default,,0,0,0,,Anyone whose shadow is stepped \Non has to go inside this circle.
 Dialogue: 10,0:19:54.67,0:19:56.43,Default,,0,0,0,,I don't want to go in that.
-Dialogue: 0,0:19:54.67,0:19:54.75,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
-Dialogue: 0,0:19:54.75,0:19:54.79,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:54.79,0:19:54.96,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
-Dialogue: 0,0:19:54.96,0:19:55.00,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
-Dialogue: 0,0:19:55.00,0:19:55.04,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
-Dialogue: 0,0:19:55.04,0:19:55.13,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:55.13,0:19:55.17,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:55.17,0:19:55.21,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
-Dialogue: 0,0:19:55.21,0:19:55.29,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:55.29,0:19:55.34,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
-Dialogue: 0,0:19:55.34,0:19:55.38,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:55.38,0:19:55.42,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
-Dialogue: 0,0:19:55.42,0:19:55.46,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.4)}Graveyard
-Dialogue: 0,0:19:55.46,0:19:55.50,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
-Dialogue: 0,0:19:55.50,0:19:55.54,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
-Dialogue: 0,0:19:55.54,0:19:55.71,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
-Dialogue: 0,0:19:55.71,0:19:55.75,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:55.75,0:19:55.79,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
-Dialogue: 0,0:19:55.79,0:19:55.84,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
-Dialogue: 0,0:19:55.84,0:19:55.88,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
-Dialogue: 0,0:19:55.88,0:19:55.92,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
-Dialogue: 0,0:19:55.92,0:19:56.00,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:56.00,0:19:56.04,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.41)}Graveyard
-Dialogue: 0,0:19:56.04,0:19:56.17,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.41)}Graveyard
-Dialogue: 0,0:19:56.17,0:19:56.25,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:56.25,0:19:56.29,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.41)}Graveyard
-Dialogue: 0,0:19:56.29,0:19:56.38,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
-Dialogue: 0,0:19:56.38,0:19:56.42,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:56.42,0:19:56.55,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
 Dialogue: 10,0:19:56.43,0:19:58.55,Default,,0,0,0,,Hey, listen to me!
-Dialogue: 0,0:19:56.55,0:19:56.59,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.4)}Graveyard
-Dialogue: 0,0:19:56.59,0:19:56.67,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
-Dialogue: 0,0:19:56.67,0:19:56.71,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:56.71,0:19:56.80,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
-Dialogue: 0,0:19:56.80,0:19:56.84,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.41)}Graveyard
-Dialogue: 0,0:19:56.84,0:19:56.96,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.41)}Graveyard
-Dialogue: 0,0:19:56.96,0:19:57.00,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.41)}Graveyard
-Dialogue: 0,0:19:57.00,0:19:57.05,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.42)}Graveyard
-Dialogue: 0,0:19:57.05,0:19:57.09,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.09,0:19:57.17,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.42)}Graveyard
-Dialogue: 0,0:19:57.17,0:19:57.21,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.42)}Graveyard
-Dialogue: 0,0:19:57.21,0:19:57.25,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
-Dialogue: 0,0:19:57.25,0:19:57.30,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.30,0:19:57.38,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.42)}Graveyard
-Dialogue: 0,0:19:57.38,0:19:57.42,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.42,0:19:57.46,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.46,0:19:57.50,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.50,0:19:57.55,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
-Dialogue: 0,0:19:57.55,0:19:57.59,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.59,0:19:57.63,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.42)}Graveyard
-Dialogue: 0,0:19:57.63,0:19:57.67,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
-Dialogue: 0,0:19:57.67,0:19:57.71,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.43)}Graveyard
-Dialogue: 0,0:19:57.71,0:19:57.75,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
-Dialogue: 0,0:19:57.75,0:19:57.80,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.44)}Graveyard
-Dialogue: 0,0:19:57.80,0:19:57.92,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.44)}Graveyard
-Dialogue: 0,0:19:57.92,0:19:57.96,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.43)}Graveyard
-Dialogue: 0,0:19:57.96,0:19:58.00,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.43)}Graveyard
-Dialogue: 0,0:19:58.00,0:19:58.05,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
-Dialogue: 0,0:19:58.05,0:19:58.13,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.44)}Graveyard
-Dialogue: 0,0:19:58.13,0:19:58.17,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.45)}Graveyard
-Dialogue: 0,0:19:58.17,0:19:58.21,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.44)}Graveyard
-Dialogue: 0,0:19:58.21,0:19:58.26,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.45)}Graveyard
-Dialogue: 0,0:19:58.26,0:19:58.30,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.46)}Graveyard
-Dialogue: 0,0:19:58.30,0:19:58.38,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.45)}Graveyard
-Dialogue: 0,0:19:58.38,0:19:58.42,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.46)}Graveyard
-Dialogue: 0,0:19:58.42,0:19:58.46,graveyard,,0,0,0,,{=12}{\fscy100\fscx100\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.47)}Graveyard
-Dialogue: 0,0:19:58.46,0:19:58.51,graveyard,,0,0,0,,{=12}{\fscy99.97\fscx99.97\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.49)}Graveyard
-Dialogue: 0,0:19:58.51,0:19:58.55,graveyard,,0,0,0,,{=12}{\fscy99.95\fscx99.95\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.52)}Graveyard
 Dialogue: 10,0:19:58.55,0:20:01.30,Default,,0,0,0,,{\an8}Begin!
 Dialogue: 10,0:20:00.43,0:20:02.43,Default,,0,0,0,,Stop!
 Dialogue: 10,0:20:03.10,0:20:05.35,Default,,0,0,0,,I'll get you all!
@@ -759,18 +411,17 @@ Dialogue: 10,0:20:09.77,0:20:11.02,Default,,0,0,0,,Dead!
 Dialogue: 10,0:20:11.02,0:20:12.86,Default,,0,0,0,,Next!
 Dialogue: 10,0:20:17.28,0:20:19.49,Default,,0,0,0,,Oww...
 Dialogue: 10,0:20:19.49,0:20:21.58,Default,,0,0,0,,{\i1}I fell down a hole?
-Dialogue: 10,0:20:21.58,0:20:25.29,Default,,0,0,0,,{\i1}I guess nobody will step on my shadow if I'm down here.
+Dialogue: 10,0:20:21.58,0:20:25.29,Default,,0,0,0,,{\i1}I guess nobody will step on \Nmy shadow if I'm down here.
 Dialogue: 10,0:20:25.29,0:20:26.41,Default,,0,0,0,,Wait!
 Dialogue: 10,0:20:26.41,0:20:28.17,Default,,0,0,0,,Let me catch you!
-Dialogue: 10,0:20:28.17,0:20:31.38,Default,,0,0,0,,Nobody's dumb enough to wait  just because you tell them to.
+Dialogue: 10,0:20:28.17,0:20:31.38,Default,,0,0,0,,Nobody's dumb enough to wait  \Njust because you tell them to.
 Dialogue: 10,0:20:31.38,0:20:33.17,Default,,0,0,0,,Wait! Hey, wait!
 Dialogue: 10,0:20:33.17,0:20:35.88,Default,,0,0,0,,{\i1}Hey, you.
 Dialogue: 10,0:20:35.88,0:20:38.01,Default,,0,0,0,,{\i1}Is your name Natsume?
 Dialogue: 10,0:20:38.01,0:20:38.97,Default,,0,0,0,,{\i1}Wanna play?
-Dialogue: 10,0:20:39.89,0:20:42.22,Default,,0,0,0,,{\i1}Every time I moved,
-Dialogue: 10,0:20:42.22,0:20:47.06,Default,,0,0,0,,{\i1}plenty of kids would talk to me at first.
+Dialogue: 10,0:20:39.89,0:20:47.06,Default,,0,0,0,,{\i1}Every time I moved, \Nplenty of kids would talk to me at first.
 Dialogue: 10,0:20:47.06,0:20:50.98,Default,,0,0,0,,{\i1}Then, I'd say things they didn't understand.
-Dialogue: 10,0:20:51.40,0:20:53.82,Default,,0,0,0,,{\i1}Of course they didn't like people they thought were liars.
+Dialogue: 10,0:20:51.40,0:20:53.82,Default,,0,0,0,,{\i1}Of course they didn't like \Npeople they thought were liars.
 Dialogue: 10,0:20:53.82,0:20:55.23,Default,,0,0,0,,{\i1}Liar Natsume!
 Dialogue: 10,0:20:55.23,0:20:57.40,Default,,0,0,0,,{\i1}Stay away, Natsume!
 Dialogue: 10,0:20:57.40,0:20:58.90,Default,,0,0,0,,{\i1}Hey, Natsume!
@@ -803,7 +454,7 @@ Dialogue: 10,0:22:12.23,0:22:14.19,Default,,0,0,0,,Now, let's drink to celebrate
 Dialogue: 10,0:22:14.19,0:22:16.73,Default,,0,0,0,,Celebrate! Celebrate!
 Dialogue: 10,0:22:16.73,0:22:19.69,Default,,0,0,0,,Sorry for being weak.
 Dialogue: 10,0:22:19.69,0:22:21.53,Default,,0,0,0,,We'll protect you.
-Dialogue: 10,0:22:22.95,0:22:26.58,Default,,0,0,0,,If someone weak like you called us, we wouldn't have a choice.
+Dialogue: 10,0:22:22.95,0:22:26.58,Default,,0,0,0,,If someone weak like you called us, \Nwe wouldn't have a choice.
 Dialogue: 10,0:22:27.16,0:22:31.87,Default,,0,0,0,,We like you, so we'd have to protect you!
 Dialogue: 10,0:22:35.79,0:22:38.21,Default,,0,0,0,,Hey, Natsume!
 Dialogue: 10,0:22:39.96,0:22:42.38,Default,,0,0,0,,What are you doing out here?
@@ -815,17 +466,320 @@ Dialogue: 10,0:23:00.86,0:23:02.19,Default,,0,0,0,,Is there something there?
 Dialogue: 10,0:23:03.32,0:23:04.61,Default,,0,0,0,,No...
 Dialogue: 10,0:23:04.61,0:23:06.16,Default,,0,0,0,,Go, Natsume.
 Dialogue: 10,0:23:08.24,0:23:12.08,Default,,0,0,0,,I'm going to play with them a bit more.
-Dialogue: 10,0:23:12.33,0:23:13.66,Default,,0,0,0,,Master...
+Dialogue: 10,0:23:12.33,0:23:13.66,Default,,0,0,0,,{*}Master{*Sensei}...
 Dialogue: 10,0:23:14.25,0:23:15.42,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:23:17.38,0:23:18.92,Default,,0,0,0,,Natsume!
 Dialogue: 10,0:23:23.17,0:23:24.13,Default,,0,0,0,,Bye!
 Dialogue: 10,0:23:25.93,0:23:29.76,Default,,0,0,0,,{\i1}Sometimes, I've hated being able to see demons.
-Dialogue: 10,0:23:30.93,0:23:31.93,Default,,0,0,0,,{\i1}However,
-Dialogue: 10,0:23:32.60,0:23:35.94,Default,,0,0,0,,{\i1}seeing them has also let me meet so many different people.
+Dialogue: 10,0:23:30.93,0:23:35.94,Default,,0,0,0,,{\i1}However, seeing them has also let me \Nmeet so many different people.
 Dialogue: 10,0:23:37.65,0:23:40.65,Default,,0,0,0,,{\i1}Now I can feel grateful.
 Dialogue: 10,0:23:45.03,0:23:46.95,Default,,0,0,0,,{\i1}My dear friends.
 Dialogue: 10,0:23:48.24,0:23:52.29,Default,,0,0,0,,{\i1}Right now, both humans and demons
 Dialogue: 10,0:23:53.24,0:23:54.58,Default,,0,0,0,,{\i1}are equally irreplacable to me.
+Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
+Dialogue: 0,0:02:02.19,0:02:02.23,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.38,996.32)}The Ideal Place
+Dialogue: 0,0:02:02.23,0:02:02.27,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.4,996.33)}The Ideal Place
+Dialogue: 0,0:02:02.27,0:02:02.31,booktext,,0,0,0,,{=0}{\fscy107\fscx107\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.53,806.71)}The Ideal Place
+Dialogue: 0,0:02:02.31,0:02:02.35,booktext,,0,0,0,,{=0}{\fscy107.01\fscx107.01\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.5,806.73)}The Ideal Place
+Dialogue: 0,0:02:02.35,0:02:02.39,booktext,,0,0,0,,{=0}{\fscy103.52\fscx103.52\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.57)}The Ideal Place
+Dialogue: 0,0:02:02.39,0:02:02.44,booktext,,0,0,0,,{=0}{\fscy103.51\fscx103.51\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.62)}The Ideal Place
+Dialogue: 0,0:02:02.44,0:02:02.48,booktext,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(665.13,605.66)}The Ideal Place
+Dialogue: 0,0:02:02.48,0:02:02.52,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(697.1,574.13)}The Ideal Place
+Dialogue: 0,0:02:02.52,0:02:02.56,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(723.6,548.09)}The Ideal Place
+Dialogue: 0,0:02:02.56,0:02:02.60,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(745.29,526.67)}The Ideal Place
+Dialogue: 0,0:02:02.60,0:02:02.64,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(762.93,509.29)}The Ideal Place
+Dialogue: 0,0:02:02.64,0:02:02.69,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(776.92,495.34)}The Ideal Place
+Dialogue: 0,0:02:02.69,0:02:02.73,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(787.84,484.44)}The Ideal Place
+Dialogue: 0,0:02:02.73,0:02:02.77,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(796.61,476.33)}The Ideal Place
+Dialogue: 0,0:02:02.77,0:02:02.81,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(802.22,470.46)}The Ideal Place
+Dialogue: 0,0:02:02.81,0:02:02.85,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(805.97,466.74)}The Ideal Place
+Dialogue: 0,0:02:02.85,0:02:02.89,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(808.45,464.38)}The Ideal Place
+Dialogue: 0,0:02:02.89,0:02:02.94,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.35,463.27)}The Ideal Place
+Dialogue: 0,0:02:02.94,0:02:02.98,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810.04,463.1)}The Ideal Place
+Dialogue: 0,0:02:02.98,0:02:03.02,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.94,463.11)}The Ideal Place
+Dialogue: 0,0:02:03.02,0:02:03.06,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.85,463.11)}The Ideal Place
+Dialogue: 0,0:02:03.06,0:02:03.10,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)}The Ideal Place
+Dialogue: 0,0:02:03.10,0:02:03.14,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.12)}The Ideal Place
+Dialogue: 0,0:02:03.14,0:02:03.19,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.1)}The Ideal Place
+Dialogue: 0,0:02:03.19,0:02:03.23,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.86,463.11)}The Ideal Place
+Dialogue: 0,0:02:03.23,0:02:03.27,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)}The Ideal Place
+Dialogue: 0,0:02:03.27,0:02:03.31,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.83,463.1)}The Ideal Place
+Dialogue: 0,0:02:03.31,0:02:03.35,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.8,463.08)}The Ideal Place
+Dialogue: 0,0:02:03.35,0:02:03.39,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.77,463.07)}The Ideal Place
+Dialogue: 0,0:02:03.39,0:02:03.44,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.75,463.1)}The Ideal Place
+Dialogue: 0,0:02:03.44,0:02:03.48,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.73,463.09)}The Ideal Place
+Dialogue: 0,0:02:03.48,0:02:03.52,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463)}The Ideal Place
+Dialogue: 0,0:02:03.52,0:02:03.56,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.91,462.93)}The Ideal Place
+Dialogue: 0,0:02:03.56,0:02:03.60,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810,462.86)}The Ideal Place
+Dialogue: 0,0:02:02.19,0:02:02.23,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur1.88\c&H0FBDFF&\pos(262.88,811.92)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.23,0:02:02.27,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur1.88\c&H0FBDFF&\pos(262.89,811.94)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.27,0:02:02.31,booktitle,,0,0,0,,{=1}{\fscy107\fscx107\frz344\fax-0.2\blur1.82\c&H0FBDFF&\pos(462.46,628.17)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.31,0:02:02.35,booktitle,,0,0,0,,{=1}{\fscy107.01\fscx107.01\frz344\fax-0.2\blur1.82\c&H0FBDFF&\pos(462.44,628.18)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.35,0:02:02.39,booktitle,,0,0,0,,{=1}{\fscy103.52\fscx103.52\frz344\fax-0.2\blur1.76\c&H0FBDFF&\pos(591.6,513.85)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.39,0:02:02.44,booktitle,,0,0,0,,{=1}{\fscy103.51\fscx103.51\frz344\fax-0.2\blur1.76\c&H0FBDFF&\pos(591.61,513.9)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.44,0:02:02.48,booktitle,,0,0,0,,{=1}{\fscy100.04\fscx100.04\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(680.97,438.74)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.48,0:02:02.52,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(712.94,407.22)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.52,0:02:02.56,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(739.43,381.22)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.56,0:02:02.60,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(761.12,359.8)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.60,0:02:02.64,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(778.76,342.42)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.64,0:02:02.69,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(792.76,328.44)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.69,0:02:02.73,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(803.68,317.53)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.73,0:02:02.77,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(812.44,309.44)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.77,0:02:02.81,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(818.05,303.56)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.81,0:02:02.85,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(821.8,299.86)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.85,0:02:02.89,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(824.28,297.5)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.89,0:02:02.94,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.18,296.39)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.94,0:02:02.98,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.87,296.23)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.98,0:02:03.02,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.77,296.25)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.02,0:02:03.06,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.68,296.24)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.06,0:02:03.10,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.24)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.10,0:02:03.14,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.25)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.14,0:02:03.19,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.23)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.19,0:02:03.23,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.69,296.24)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.23,0:02:03.27,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.24)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.27,0:02:03.31,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.66,296.22)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.31,0:02:03.35,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.63,296.21)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.35,0:02:03.39,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.6,296.2)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.39,0:02:03.44,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.58,296.22)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.44,0:02:03.48,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.57,296.21)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.48,0:02:03.52,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.12)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.52,0:02:03.56,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.74,296.07)}Perfect Day for a Walk
+Dialogue: 0,0:02:03.56,0:02:03.60,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.83,296)}Perfect Day for a Walk
+Dialogue: 0,0:07:30.97,0:07:38.23,box,,0,0,0,,{\blur1.2\fnCompleteInHimPro\pos(1389.67,80.17)}Potato
+Dialogue: 0,0:19:50.04,0:19:50.09,graveyard,,0,0,0,,{=12}{\fscy136.78\fscx136.78\fax0.2\frz2\blur2.05\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(739.56,840.4)}Graveyard
+Dialogue: 0,0:19:50.09,0:19:50.13,graveyard,,0,0,0,,{=12}{\fscy136.04\fscx136.04\fax0.2\frz2\blur2.04\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(745.89,836.57)}Graveyard
+Dialogue: 0,0:19:50.13,0:19:50.17,graveyard,,0,0,0,,{=12}{\fscy135.29\fscx135.29\fax0.2\frz2\blur2.03\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(752.19,832.77)}Graveyard
+Dialogue: 0,0:19:50.17,0:19:50.21,graveyard,,0,0,0,,{=12}{\fscy134.52\fscx134.52\fax0.2\frz2\blur2.02\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(758.42,829.06)}Graveyard
+Dialogue: 0,0:19:50.21,0:19:50.25,graveyard,,0,0,0,,{=12}{\fscy133.77\fscx133.77\fax0.2\frz2\blur2.01\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(764.59,825.37)}Graveyard
+Dialogue: 0,0:19:50.25,0:19:50.29,graveyard,,0,0,0,,{=12}{\fscy133.02\fscx133.02\fax0.2\frz2\blur2\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(770.66,821.74)}Graveyard
+Dialogue: 0,0:19:50.29,0:19:50.34,graveyard,,0,0,0,,{=12}{\fscy132.3\fscx132.3\fax0.2\frz2\blur1.98\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(776.67,818.13)}Graveyard
+Dialogue: 0,0:19:50.34,0:19:50.38,graveyard,,0,0,0,,{=12}{\fscy131.57\fscx131.57\fax0.2\frz2\blur1.97\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(782.6,814.59)}Graveyard
+Dialogue: 0,0:19:50.38,0:19:50.42,graveyard,,0,0,0,,{=12}{\fscy130.88\fscx130.88\fax0.2\frz2\blur1.96\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(788.44,811.08)}Graveyard
+Dialogue: 0,0:19:50.42,0:19:50.46,graveyard,,0,0,0,,{=12}{\fscy130.17\fscx130.17\fax0.2\frz2\blur1.95\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(794.21,807.62)}Graveyard
+Dialogue: 0,0:19:50.46,0:19:50.50,graveyard,,0,0,0,,{=12}{\fscy129.49\fscx129.49\fax0.2\frz2\blur1.94\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(799.91,804.2)}Graveyard
+Dialogue: 0,0:19:50.50,0:19:50.54,graveyard,,0,0,0,,{=12}{\fscy128.82\fscx128.82\fax0.2\frz2\blur1.93\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(805.53,800.83)}Graveyard
+Dialogue: 0,0:19:50.54,0:19:50.59,graveyard,,0,0,0,,{=12}{\fscy128.16\fscx128.16\fax0.2\frz2\blur1.92\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(811.07,797.48)}Graveyard
+Dialogue: 0,0:19:50.59,0:19:50.63,graveyard,,0,0,0,,{=12}{\fscy127.49\fscx127.49\fax0.2\frz2\blur1.91\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(816.53,794.22)}Graveyard
+Dialogue: 0,0:19:50.63,0:19:50.67,graveyard,,0,0,0,,{=12}{\fscy126.84\fscx126.84\fax0.2\frz2\blur1.9\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(821.94,790.98)}Graveyard
+Dialogue: 0,0:19:50.67,0:19:50.71,graveyard,,0,0,0,,{=12}{\fscy126.18\fscx126.18\fax0.2\frz2\blur1.89\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(827.28,787.8)}Graveyard
+Dialogue: 0,0:19:50.71,0:19:50.75,graveyard,,0,0,0,,{=12}{\fscy125.56\fscx125.56\fax0.2\frz2\blur1.88\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(832.53,784.64)}Graveyard
+Dialogue: 0,0:19:50.75,0:19:50.79,graveyard,,0,0,0,,{=12}{\fscy124.92\fscx124.92\fax0.2\frz2\blur1.87\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(837.71,781.53)}Graveyard
+Dialogue: 0,0:19:50.79,0:19:50.84,graveyard,,0,0,0,,{=12}{\fscy124.32\fscx124.32\fax0.2\frz2\blur1.86\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(842.83,778.46)}Graveyard
+Dialogue: 0,0:19:50.84,0:19:50.88,graveyard,,0,0,0,,{=12}{\fscy123.71\fscx123.71\fax0.2\frz2\blur1.86\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(847.87,775.42)}Graveyard
+Dialogue: 0,0:19:50.88,0:19:50.92,graveyard,,0,0,0,,{=12}{\fscy123.09\fscx123.09\fax0.2\frz2\blur1.85\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(852.87,772.44)}Graveyard
+Dialogue: 0,0:19:50.92,0:19:50.96,graveyard,,0,0,0,,{=12}{\fscy122.5\fscx122.5\fax0.2\frz2\blur1.84\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(857.77,769.5)}Graveyard
+Dialogue: 0,0:19:50.96,0:19:51.00,graveyard,,0,0,0,,{=12}{\fscy121.93\fscx121.93\fax0.2\frz2\blur1.83\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(862.62,766.58)}Graveyard
+Dialogue: 0,0:19:51.00,0:19:51.04,graveyard,,0,0,0,,{=12}{\fscy121.33\fscx121.33\fax0.2\frz2\blur1.82\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(867.4,763.73)}Graveyard
+Dialogue: 0,0:19:51.04,0:19:51.09,graveyard,,0,0,0,,{=12}{\fscy120.78\fscx120.78\fax0.2\frz2\blur1.81\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(872.11,760.88)}Graveyard
+Dialogue: 0,0:19:51.09,0:19:51.13,graveyard,,0,0,0,,{=12}{\fscy120.2\fscx120.2\fax0.2\frz2\blur1.8\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(876.77,758.12)}Graveyard
+Dialogue: 0,0:19:51.13,0:19:51.17,graveyard,,0,0,0,,{=12}{\fscy119.67\fscx119.67\fax0.2\frz2\blur1.8\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(881.36,755.34)}Graveyard
+Dialogue: 0,0:19:51.17,0:19:51.21,graveyard,,0,0,0,,{=12}{\fscy119.12\fscx119.12\fax0.2\frz2\blur1.79\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(885.86,752.63)}Graveyard
+Dialogue: 0,0:19:51.21,0:19:51.25,graveyard,,0,0,0,,{=12}{\fscy118.58\fscx118.58\fax0.2\frz2\blur1.78\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(890.34,749.94)}Graveyard
+Dialogue: 0,0:19:51.25,0:19:51.29,graveyard,,0,0,0,,{=12}{\fscy118.01\fscx118.01\fax0.2\frz2\blur1.77\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(894.76,747.34)}Graveyard
+Dialogue: 0,0:19:51.29,0:19:51.34,graveyard,,0,0,0,,{=12}{\fscy117.51\fscx117.51\fax0.2\frz2\blur1.76\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(899.11,744.71)}Graveyard
+Dialogue: 0,0:19:51.34,0:19:51.38,graveyard,,0,0,0,,{=12}{\fscy116.99\fscx116.99\fax0.2\frz2\blur1.75\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(903.37,742.14)}Graveyard
+Dialogue: 0,0:19:51.38,0:19:51.42,graveyard,,0,0,0,,{=12}{\fscy116.45\fscx116.45\fax0.2\frz2\blur1.75\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(907.62,739.63)}Graveyard
+Dialogue: 0,0:19:51.42,0:19:51.46,graveyard,,0,0,0,,{=12}{\fscy115.99\fscx115.99\fax0.2\frz2\blur1.74\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(911.77,737.11)}Graveyard
+Dialogue: 0,0:19:51.46,0:19:51.50,graveyard,,0,0,0,,{=12}{\fscy115.47\fscx115.47\fax0.2\frz2\blur1.73\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(915.88,734.65)}Graveyard
+Dialogue: 0,0:19:51.50,0:19:51.55,graveyard,,0,0,0,,{=12}{\fscy115.01\fscx115.01\fax0.2\frz2\blur1.73\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(919.92,732.21)}Graveyard
+Dialogue: 0,0:19:51.55,0:19:51.59,graveyard,,0,0,0,,{=12}{\fscy114.51\fscx114.51\fax0.2\frz2\blur1.72\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(923.93,729.81)}Graveyard
+Dialogue: 0,0:19:51.59,0:19:51.63,graveyard,,0,0,0,,{=12}{\fscy114.03\fscx114.03\fax0.2\frz2\blur1.71\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(927.86,727.47)}Graveyard
+Dialogue: 0,0:19:51.63,0:19:51.67,graveyard,,0,0,0,,{=12}{\fscy113.53\fscx113.53\fax0.2\frz2\blur1.7\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(931.75,725.16)}Graveyard
+Dialogue: 0,0:19:51.67,0:19:51.71,graveyard,,0,0,0,,{=12}{\fscy113.09\fscx113.09\fax0.2\frz2\blur1.7\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(935.58,722.85)}Graveyard
+Dialogue: 0,0:19:51.71,0:19:51.75,graveyard,,0,0,0,,{=12}{\fscy112.63\fscx112.63\fax0.2\frz2\blur1.69\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(939.34,720.59)}Graveyard
+Dialogue: 0,0:19:51.75,0:19:51.80,graveyard,,0,0,0,,{=12}{\fscy112.19\fscx112.19\fax0.2\frz2\blur1.68\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(943.07,718.36)}Graveyard
+Dialogue: 0,0:19:51.80,0:19:51.84,graveyard,,0,0,0,,{=12}{\fscy111.75\fscx111.75\fax0.2\frz2\blur1.68\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(946.72,716.15)}Graveyard
+Dialogue: 0,0:19:51.84,0:19:51.88,graveyard,,0,0,0,,{=12}{\fscy111.32\fscx111.32\fax0.2\frz2\blur1.67\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(950.32,714.01)}Graveyard
+Dialogue: 0,0:19:51.88,0:19:51.92,graveyard,,0,0,0,,{=12}{\fscy110.87\fscx110.87\fax0.2\frz2\blur1.66\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(953.88,711.88)}Graveyard
+Dialogue: 0,0:19:51.92,0:19:51.96,graveyard,,0,0,0,,{=12}{\fscy110.44\fscx110.44\fax0.2\frz2\blur1.66\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(957.37,709.79)}Graveyard
+Dialogue: 0,0:19:51.96,0:19:52.00,graveyard,,0,0,0,,{=12}{\fscy110.08\fscx110.08\fax0.2\frz2\blur1.65\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(960.8,707.68)}Graveyard
+Dialogue: 0,0:19:52.00,0:19:52.05,graveyard,,0,0,0,,{=12}{\fscy109.64\fscx109.64\fax0.2\frz2\blur1.64\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(964.19,705.67)}Graveyard
+Dialogue: 0,0:19:52.05,0:19:52.09,graveyard,,0,0,0,,{=12}{\fscy109.24\fscx109.24\fax0.2\frz2\blur1.64\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(967.53,703.68)}Graveyard
+Dialogue: 0,0:19:52.09,0:19:52.13,graveyard,,0,0,0,,{=12}{\fscy108.84\fscx108.84\fax0.2\frz2\blur1.63\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(970.82,701.71)}Graveyard
+Dialogue: 0,0:19:52.13,0:19:52.17,graveyard,,0,0,0,,{=12}{\fscy108.46\fscx108.46\fax0.2\frz2\blur1.63\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(974.04,699.76)}Graveyard
+Dialogue: 0,0:19:52.17,0:19:52.21,graveyard,,0,0,0,,{=12}{\fscy108.05\fscx108.05\fax0.2\frz2\blur1.62\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(977.23,697.88)}Graveyard
+Dialogue: 0,0:19:52.21,0:19:52.25,graveyard,,0,0,0,,{=12}{\fscy107.69\fscx107.69\fax0.2\frz2\blur1.62\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(980.33,696)}Graveyard
+Dialogue: 0,0:19:52.25,0:19:52.30,graveyard,,0,0,0,,{=12}{\fscy107.34\fscx107.34\fax0.2\frz2\blur1.61\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(983.38,694.14)}Graveyard
+Dialogue: 0,0:19:52.30,0:19:52.34,graveyard,,0,0,0,,{=12}{\fscy106.96\fscx106.96\fax0.2\frz2\blur1.6\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(986.39,692.36)}Graveyard
+Dialogue: 0,0:19:52.34,0:19:52.38,graveyard,,0,0,0,,{=12}{\fscy106.61\fscx106.61\fax0.2\frz2\blur1.6\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(989.34,690.58)}Graveyard
+Dialogue: 0,0:19:52.38,0:19:52.42,graveyard,,0,0,0,,{=12}{\fscy106.23\fscx106.23\fax0.2\frz2\blur1.59\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(992.27,688.87)}Graveyard
+Dialogue: 0,0:19:52.42,0:19:52.46,graveyard,,0,0,0,,{=12}{\fscy105.89\fscx105.89\fax0.2\frz2\blur1.59\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(995.1,687.16)}Graveyard
+Dialogue: 0,0:19:52.46,0:19:52.50,graveyard,,0,0,0,,{=12}{\fscy105.56\fscx105.56\fax0.2\frz2\blur1.58\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(997.89,685.49)}Graveyard
+Dialogue: 0,0:19:52.50,0:19:52.55,graveyard,,0,0,0,,{=12}{\fscy105.24\fscx105.24\fax0.2\frz2\blur1.58\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1000.6,683.84)}Graveyard
+Dialogue: 0,0:19:52.55,0:19:52.59,graveyard,,0,0,0,,{=12}{\fscy104.91\fscx104.91\fax0.2\frz2\blur1.57\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1003.29,682.25)}Graveyard
+Dialogue: 0,0:19:52.59,0:19:52.63,graveyard,,0,0,0,,{=12}{\fscy104.6\fscx104.6\fax0.2\frz2\blur1.57\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1005.86,680.68)}Graveyard
+Dialogue: 0,0:19:52.63,0:19:52.67,graveyard,,0,0,0,,{=12}{\fscy104.3\fscx104.3\fax0.2\frz2\blur1.56\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1008.42,679.15)}Graveyard
+Dialogue: 0,0:19:52.67,0:19:52.71,graveyard,,0,0,0,,{=12}{\fscy104\fscx104\fax0.2\frz2\blur1.56\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1010.9,677.66)}Graveyard
+Dialogue: 0,0:19:52.71,0:19:52.75,graveyard,,0,0,0,,{=12}{\fscy103.71\fscx103.71\fax0.2\frz2\blur1.56\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1013.32,676.2)}Graveyard
+Dialogue: 0,0:19:52.75,0:19:52.80,graveyard,,0,0,0,,{=12}{\fscy103.41\fscx103.41\fax0.2\frz2\blur1.55\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1015.68,674.8)}Graveyard
+Dialogue: 0,0:19:52.80,0:19:52.84,graveyard,,0,0,0,,{=12}{\fscy103.12\fscx103.12\fax0.2\frz2\blur1.55\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1017.99,673.43)}Graveyard
+Dialogue: 0,0:19:52.84,0:19:52.88,graveyard,,0,0,0,,{=12}{\fscy102.87\fscx102.87\fax0.2\frz2\blur1.54\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1020.19,672.09)}Graveyard
+Dialogue: 0,0:19:52.88,0:19:52.92,graveyard,,0,0,0,,{=12}{\fscy102.59\fscx102.59\fax0.2\frz2\blur1.54\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1022.36,670.81)}Graveyard
+Dialogue: 0,0:19:52.92,0:19:52.96,graveyard,,0,0,0,,{=12}{\fscy102.37\fscx102.37\fax0.2\frz2\blur1.54\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1024.43,669.54)}Graveyard
+Dialogue: 0,0:19:52.96,0:19:53.00,graveyard,,0,0,0,,{=12}{\fscy102.11\fscx102.11\fax0.2\frz2\blur1.53\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1026.45,668.35)}Graveyard
+Dialogue: 0,0:19:53.00,0:19:53.05,graveyard,,0,0,0,,{=12}{\fscy101.86\fscx101.86\fax0.2\frz2\blur1.53\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1028.35,667.22)}Graveyard
+Dialogue: 0,0:19:53.05,0:19:53.09,graveyard,,0,0,0,,{=12}{\fscy101.64\fscx101.64\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1030.21,666.12)}Graveyard
+Dialogue: 0,0:19:53.09,0:19:53.13,graveyard,,0,0,0,,{=12}{\fscy101.43\fscx101.43\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1031.95,665.06)}Graveyard
+Dialogue: 0,0:19:53.13,0:19:53.17,graveyard,,0,0,0,,{=12}{\fscy101.22\fscx101.22\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1033.63,664.08)}Graveyard
+Dialogue: 0,0:19:53.17,0:19:53.21,graveyard,,0,0,0,,{=12}{\fscy101.04\fscx101.04\fax0.2\frz2\blur1.52\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1035.18,663.14)}Graveyard
+Dialogue: 0,0:19:53.21,0:19:53.26,graveyard,,0,0,0,,{=12}{\fscy100.88\fscx100.88\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1036.63,662.26)}Graveyard
+Dialogue: 0,0:19:53.26,0:19:53.30,graveyard,,0,0,0,,{=12}{\fscy100.74\fscx100.74\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1037.98,661.43)}Graveyard
+Dialogue: 0,0:19:53.30,0:19:53.34,graveyard,,0,0,0,,{=12}{\fscy100.57\fscx100.57\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1039.19,660.7)}Graveyard
+Dialogue: 0,0:19:53.34,0:19:53.38,graveyard,,0,0,0,,{=12}{\fscy100.45\fscx100.45\fax0.2\frz2\blur1.51\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1040.28,660.06)}Graveyard
+Dialogue: 0,0:19:53.38,0:19:53.42,graveyard,,0,0,0,,{=12}{\fscy100.3\fscx100.3\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1041.23,659.52)}Graveyard
+Dialogue: 0,0:19:53.42,0:19:53.46,graveyard,,0,0,0,,{=12}{\fscy100.21\fscx100.21\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1041.98,659.09)}Graveyard
+Dialogue: 0,0:19:53.46,0:19:53.51,graveyard,,0,0,0,,{=12}{\fscy100.15\fscx100.15\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1042.59,658.69)}Graveyard
+Dialogue: 0,0:19:53.51,0:19:53.55,graveyard,,0,0,0,,{=12}{\fscy100.13\fscx100.13\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1042.94,658.43)}Graveyard
+Dialogue: 0,0:19:53.55,0:19:53.59,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.4)}Graveyard
+Dialogue: 0,0:19:53.59,0:19:53.63,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.07,658.39)}Graveyard
+Dialogue: 0,0:19:53.63,0:19:53.71,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.39)}Graveyard
+Dialogue: 0,0:19:53.71,0:19:53.76,graveyard,,0,0,0,,{=12}{\fscy100.11\fscx100.11\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
+Dialogue: 0,0:19:53.76,0:19:53.80,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
+Dialogue: 0,0:19:53.80,0:19:53.84,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.39)}Graveyard
+Dialogue: 0,0:19:53.84,0:19:53.92,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.39)}Graveyard
+Dialogue: 0,0:19:53.92,0:19:54.01,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
+Dialogue: 0,0:19:54.01,0:19:54.05,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
+Dialogue: 0,0:19:54.05,0:19:54.09,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
+Dialogue: 0,0:19:54.09,0:19:54.13,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
+Dialogue: 0,0:19:54.13,0:19:54.17,graveyard,,0,0,0,,{=12}{\fscy100.12\fscx100.12\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.37)}Graveyard
+Dialogue: 0,0:19:54.17,0:19:54.21,graveyard,,0,0,0,,{=12}{\fscy100.11\fscx100.11\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.36)}Graveyard
+Dialogue: 0,0:19:54.21,0:19:54.26,graveyard,,0,0,0,,{=12}{\fscy100.11\fscx100.11\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.37)}Graveyard
+Dialogue: 0,0:19:54.26,0:19:54.30,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.37)}Graveyard
+Dialogue: 0,0:19:54.30,0:19:54.34,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
+Dialogue: 0,0:19:54.34,0:19:54.38,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
+Dialogue: 0,0:19:54.38,0:19:54.42,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.38)}Graveyard
+Dialogue: 0,0:19:54.42,0:19:54.59,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.38)}Graveyard
+Dialogue: 0,0:19:54.59,0:19:54.63,graveyard,,0,0,0,,{=12}{\fscy100.1\fscx100.1\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.37)}Graveyard
+Dialogue: 0,0:19:54.63,0:19:54.67,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
+Dialogue: 0,0:19:54.67,0:19:54.76,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
+Dialogue: 0,0:19:54.76,0:19:54.80,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:54.80,0:19:54.97,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
+Dialogue: 0,0:19:54.97,0:19:55.01,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
+Dialogue: 0,0:19:55.01,0:19:55.05,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
+Dialogue: 0,0:19:55.05,0:19:55.13,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:55.13,0:19:55.17,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:55.17,0:19:55.22,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
+Dialogue: 0,0:19:55.22,0:19:55.30,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:55.30,0:19:55.34,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
+Dialogue: 0,0:19:55.34,0:19:55.38,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:55.38,0:19:55.42,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
+Dialogue: 0,0:19:55.42,0:19:55.47,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.4)}Graveyard
+Dialogue: 0,0:19:55.47,0:19:55.51,graveyard,,0,0,0,,{=12}{\fscy100.09\fscx100.09\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
+Dialogue: 0,0:19:55.51,0:19:55.55,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
+Dialogue: 0,0:19:55.55,0:19:55.72,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
+Dialogue: 0,0:19:55.72,0:19:55.76,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:55.76,0:19:55.80,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
+Dialogue: 0,0:19:55.80,0:19:55.84,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
+Dialogue: 0,0:19:55.84,0:19:55.88,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.39)}Graveyard
+Dialogue: 0,0:19:55.88,0:19:55.92,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.38)}Graveyard
+Dialogue: 0,0:19:55.92,0:19:56.01,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:56.01,0:19:56.05,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.41)}Graveyard
+Dialogue: 0,0:19:56.05,0:19:56.17,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.41)}Graveyard
+Dialogue: 0,0:19:56.17,0:19:56.26,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:56.26,0:19:56.30,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.41)}Graveyard
+Dialogue: 0,0:19:56.30,0:19:56.38,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
+Dialogue: 0,0:19:56.38,0:19:56.43,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:56.43,0:19:56.55,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.4)}Graveyard
+Dialogue: 0,0:19:56.55,0:19:56.59,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.4)}Graveyard
+Dialogue: 0,0:19:56.59,0:19:56.68,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.39)}Graveyard
+Dialogue: 0,0:19:56.68,0:19:56.72,graveyard,,0,0,0,,{=12}{\fscy100.08\fscx100.08\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:56.72,0:19:56.80,graveyard,,0,0,0,,{=12}{\fscy100.07\fscx100.07\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.4)}Graveyard
+Dialogue: 0,0:19:56.80,0:19:56.84,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.41)}Graveyard
+Dialogue: 0,0:19:56.84,0:19:56.97,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.41)}Graveyard
+Dialogue: 0,0:19:56.97,0:19:57.01,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.41)}Graveyard
+Dialogue: 0,0:19:57.01,0:19:57.05,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.42)}Graveyard
+Dialogue: 0,0:19:57.05,0:19:57.09,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.09,0:19:57.18,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.42)}Graveyard
+Dialogue: 0,0:19:57.18,0:19:57.22,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.42)}Graveyard
+Dialogue: 0,0:19:57.22,0:19:57.26,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
+Dialogue: 0,0:19:57.26,0:19:57.30,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.30,0:19:57.38,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.08,658.42)}Graveyard
+Dialogue: 0,0:19:57.38,0:19:57.43,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.43,0:19:57.47,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.47,0:19:57.51,graveyard,,0,0,0,,{=12}{\fscy100.06\fscx100.06\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.51,0:19:57.55,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
+Dialogue: 0,0:19:57.55,0:19:57.59,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.59,0:19:57.63,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.42)}Graveyard
+Dialogue: 0,0:19:57.63,0:19:57.68,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.42)}Graveyard
+Dialogue: 0,0:19:57.68,0:19:57.72,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.43)}Graveyard
+Dialogue: 0,0:19:57.72,0:19:57.76,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
+Dialogue: 0,0:19:57.76,0:19:57.80,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.44)}Graveyard
+Dialogue: 0,0:19:57.80,0:19:57.93,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.44)}Graveyard
+Dialogue: 0,0:19:57.93,0:19:57.97,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.43)}Graveyard
+Dialogue: 0,0:19:57.97,0:19:58.01,graveyard,,0,0,0,,{=12}{\fscy100.05\fscx100.05\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.43)}Graveyard
+Dialogue: 0,0:19:58.01,0:19:58.05,graveyard,,0,0,0,,{=12}{\fscy100.04\fscx100.04\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.43)}Graveyard
+Dialogue: 0,0:19:58.05,0:19:58.14,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.09,658.44)}Graveyard
+Dialogue: 0,0:19:58.14,0:19:58.18,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.45)}Graveyard
+Dialogue: 0,0:19:58.18,0:19:58.22,graveyard,,0,0,0,,{=12}{\fscy100.03\fscx100.03\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.44)}Graveyard
+Dialogue: 0,0:19:58.22,0:19:58.26,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.45)}Graveyard
+Dialogue: 0,0:19:58.26,0:19:58.30,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.46)}Graveyard
+Dialogue: 0,0:19:58.30,0:19:58.39,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.45)}Graveyard
+Dialogue: 0,0:19:58.39,0:19:58.43,graveyard,,0,0,0,,{=12}{\fscy100.02\fscx100.02\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.46)}Graveyard
+Dialogue: 0,0:19:58.43,0:19:58.47,graveyard,,0,0,0,,{=12}{\fscy100\fscx100\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.1,658.47)}Graveyard
+Dialogue: 0,0:19:58.47,0:19:58.51,graveyard,,0,0,0,,{=12}{\fscy99.97\fscx99.97\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.49)}Graveyard
+Dialogue: 0,0:19:58.51,0:19:58.55,graveyard,,0,0,0,,{=12}{\fscy99.95\fscx99.95\fax0.2\frz2\blur1.5\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(1043.11,658.52)}Graveyard
+Dialogue: 2,0:12:14.00,0:12:15.34,number,,0,0,0,,{\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&\pos(1762,1048)}3
+Dialogue: 1,0:12:14.00,0:12:15.34,number-box,,0,0,0,,{\be1.5\c&H2412C9&\fscx46\fscy45\pos(1760,1046)}\h
+Dialogue: 0,0:10:01.79,0:10:04.54,recording,,0,0,0,,{\pos(960,96)\fad(300,0)\bord3\blur0.9\c&H505153&\1a&HFF&\3c&H505153&\t(255,300,\1a&H00&)}Recording...
+Dialogue: 1,0:10:01.79,0:10:04.54,recording,,0,0,0,,{\bord0\pos(960,96)\fad(300,0)\blur0.9\4a&HFF&\c&HF3F1F2&}Recording...
+Dialogue: 0,0:13:15.90,0:13:22.91,sign,,0,0,0,,{\move(262.5,142.5,-58.5,142.5)\frz8\blur1}Party
+Dialogue: 0,0:13:15.90,0:13:22.91,sign,,0,0,0,,{\move(267,177,-54,177)\frz8\blur1}of Dogs
+Dialogue: 0,0:17:51.22,0:17:51.26,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(178.4,277.6)}of Dogs
+Dialogue: 0,0:17:51.22,0:17:51.26,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(175.2,237.6)}Party
+Dialogue: 0,0:17:51.26,0:17:51.30,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(242.35,277.6)}of Dogs
+Dialogue: 0,0:17:51.26,0:17:51.30,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(239.15,237.6)}Party
+Dialogue: 0,0:17:51.30,0:17:51.34,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(307.31,277.6)}of Dogs
+Dialogue: 0,0:17:51.30,0:17:51.34,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(304.11,237.6)}Party
+Dialogue: 0,0:17:51.34,0:17:51.38,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(372.51,277.6)}of Dogs
+Dialogue: 0,0:17:51.34,0:17:51.38,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(369.31,237.6)}Party
+Dialogue: 0,0:17:51.38,0:17:51.43,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(435.36,277.6)}of Dogs
+Dialogue: 0,0:17:51.38,0:17:51.43,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(432.16,237.6)}Party
+Dialogue: 0,0:17:51.43,0:17:51.47,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(488.02,277.6)}of Dogs
+Dialogue: 0,0:17:51.43,0:17:51.47,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(484.82,237.59)}Party
+Dialogue: 0,0:17:51.47,0:17:51.51,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(518.48,277.59)}of Dogs
+Dialogue: 0,0:17:51.47,0:17:51.51,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(515.28,237.59)}Party
+Dialogue: 0,0:17:51.51,0:17:51.55,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(529.09,277.6)}of Dogs
+Dialogue: 0,0:17:51.51,0:17:51.55,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(525.89,237.6)}Party
+Dialogue: 0,0:17:51.55,0:17:51.59,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.48,277.6)}of Dogs
+Dialogue: 0,0:17:51.55,0:17:51.59,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.28,237.6)}Party
+Dialogue: 0,0:17:51.59,0:17:51.63,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.61)}of Dogs
+Dialogue: 0,0:17:51.59,0:17:51.76,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.61)}Party
+Dialogue: 0,0:17:51.63,0:17:51.68,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:51.68,0:17:51.72,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.61)}of Dogs
+Dialogue: 0,0:17:51.72,0:17:52.59,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:51.76,0:17:51.80,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:51.80,0:17:51.84,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.61)}Party
+Dialogue: 0,0:17:51.84,0:17:52.59,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:52.59,0:17:52.72,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:52.59,0:17:52.63,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:52.63,0:17:52.68,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
+Dialogue: 0,0:17:52.68,0:17:52.72,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:52.72,0:17:52.76,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:52.72,0:17:52.76,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:52.76,0:17:52.84,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:52.76,0:17:52.84,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:52.84,0:17:52.93,sign,,0,0,0,,{=11}{\fscy100\fscx100\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:52.84,0:17:52.93,sign,,0,0,0,,{=10}{\fscy100\fscx100\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:52.93,0:17:53.05,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:52.93,0:17:53.01,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:53.01,0:17:53.55,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
+Dialogue: 0,0:17:53.05,0:17:53.47,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
+Dialogue: 0,0:17:53.47,0:17:53.51,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:53.51,0:17:53.55,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
+Dialogue: 0,0:17:53.55,0:17:53.76,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:53.55,0:17:53.59,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:53.59,0:17:53.93,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
+Dialogue: 0,0:17:53.76,0:17:53.80,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
+Dialogue: 0,0:17:53.80,0:17:53.89,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:53.89,0:17:53.93,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
+Dialogue: 0,0:17:53.93,0:17:54.18,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.6)}of Dogs
+Dialogue: 0,0:17:53.93,0:17:54.01,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.6)}Party
+Dialogue: 0,0:17:54.01,0:17:54.26,sign,,0,0,0,,{=10}{\fscy100.01\fscx100.01\an7\blur1\frz16.21\pos(528.51,237.59)}Party
+Dialogue: 0,0:17:54.18,0:17:54.26,sign,,0,0,0,,{=11}{\fscy100.01\fscx100.01\an7\blur1\frz14.03\pos(531.71,277.59)}of Dogs
+Dialogue: 1,0:02:16.37,0:02:20.37,title,,0,0,0,,Natsume's Book of {\c&H045B09&}Play
+Dialogue: 0,0:02:16.37,0:02:20.37,title-shadow,,0,0,0,,{\blur7\c&HBE9D6D&}Natsume's Book of {\c&H8C9CAB&\blur5.5\4a&HFF&\1a&H00&}Play
+Dialogue: 1,0:12:14.00,0:12:15.34,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1198.47,1052.13)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:12:14.00,0:12:15.34,titlename-blur,,0,0,0,,{\p1\blur20\pos(1238,1079)}m 0 0 s 1350 0 1350 150 0 150 c
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"aaddb792-2715-4a37-896e-6881fdc59795"#2C"originalText"#3A"{\\blur1.5\\frz344\\fax-0.2\\fnLeviReBrushed\\pos(810#2C462.86)}The Ideal Place"}

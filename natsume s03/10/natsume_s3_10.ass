@@ -12,23 +12,19 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_10.mkv
-Video File: ../../../natsume 3/natsume_s3_10.mkv
+Audio File: natsume_s3_10.mkv
+Video File: natsume_s3_10.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 396
-Active Line: 411
-Video Position: 29713
+Video Zoom Percent: 0.625000
+Active Line: 7
+Video Position: 3117
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,LTFinnegan Medium,78,&H00F1F4F9,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,135,135,53,1
-Style: OP-eng,MV Boli,80,&H00ACFBC5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,7,45,45,45,1
-Style: ED-eng,EFN Karet,60,&H14E4E4E4,&H000000FF,&H0A422300,&H00000000,0,0,0,0,95,90,0,0,1,2.25,0,3,50,50,50,1
-Style: EpTitle,Arabic Typesetting,180,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
+Style: Default,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H0002060E,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
+Style: Default - Alt,LTFinnegan Medium,78,&H00FFFFFF,&H000000FF,&H00743E15,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,1.5,2,200,200,60,1
 Style: title,Footlight MT Light,105,&H00123046,&H0000FFFF,&H9696C4B1,&H0096C4B1,-1,0,0,0,100,100,0,0,1,0,0,7,40,0,20,1
-Style: EpTitleC,Andalus,90,&H00000000,&H000000FF,&H00000000,&H00CEFFDE,-1,0,0,0,100,100,1.5,0,1,0,0,7,15,15,15,1
 Style: Sign,Calibri,89,&H00FFFFFF,&H000000FF,&H1E000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,53,53,56,1
 Style: titlename,EFN OknoFont,113,&H00D5AF83,&H00FFFFFF,&H00D5AF83,&H96493614,-1,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: titlename-blur,EFN OknoFont,105,&H007AB1E1,&H007AB1E1,&H007AB1E1,&H007AB1E1,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
@@ -38,44 +34,18 @@ Style: nexttime,Footlight MT Light,105,&H000B2134,&H000019FF,&H00000000,&H00CCF9
 Style: nexttime-shadow,Footlight MT Light,105,&H00C4F5C9,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,2,0,1075,270,1
 Style: ntsmall,Footlight MT Light,40,&H000D1F33,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,360,0,85,1
 Style: ntsmall-shadow,Footlight MT Light,40,&H00CEF2CE,&H000019FF,&H00000000,&H00CCF9DC,-1,0,0,0,100,100,1,0,1,0,0,8,370,0,90,1
-Style: OP,Philosopher,60,&H009DB4F7,&H000000FF,&H0002060E,&HBE000000,-1,0,0,0,100,100,0,0,1,3.8,0,3,60,60,30,1
-Style: ED,Arno Pro Light Display,76,&H004A4547,&H000000FF,&H32C2D4E8,&HBE000000,0,0,0,0,100,100,0,0,1,3.8,0,9,60,60,30,1
 Style: number-box,!Square Engine 150 Simplex,172,&H002008BC,&H00FFFFFF,&H00D5AF83,&H00493614,0,0,0,0,100,100,0,0,1,0,0,2,180,180,60,1
 Style: classsign,Vrinda,70,&H005E5C3F,&H00FFFFFF,&H142B2B2B,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,180,180,60,1
 Style: chalkboard,DJB Chalk It Up,82.5,&H00667061,&H000000FF,&H003535E7,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,180,180,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.48,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1100,\blur1)\1a&HFF}Natsume's\h{\1a&H00}Book\h{\1a&HFF}Of\hFriends
-Dialogue: 0,0:00:01.19,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&HFF}Natsume's\hBook\h{\1a&H00}Of{\1a&HFF}\hFriends
-Dialogue: 0,0:00:01.98,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\blur8\fs100\t(0,1000,\blur1)\1a&H00}Natsu{\1a&HFF}me's\hBook\hOf\hFriends
-Dialogue: 0,0:00:02.82,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsume's\hBook\hOf\h{\1a&H00}Friends
-Dialogue: 0,0:00:03.32,0:00:04.32,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,0)\be30\fs100\t(0,1000,\be2)\1a&HFF}Natsu{\1a&H00}me's{\1a&HFF}\hBook\hOf\hFriends
-Dialogue: 1,0:00:04.32,0:00:07.15,titlename,,0,0,0,,{\an3\fad(0,200)\be2\fs100\pos(1402,306.5)}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:06.90,0:00:08.15,titlename,,0,0,0,,{\an3\fs100\pos(1402,306.5)\fad(200,0)\be2\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 2,0:00:07.78,0:00:15.83,number,,0,0,0,,{\an2\pos(1606.5,503.5)\fad(250,1500)\blur8\t(0,250,\blur3)\fscx105\fay-0.14\t(5900,0,\blur10)}3
-Dialogue: 1,0:00:07.78,0:00:15.83,number-box,,0,0,0,,{\an2\pos(1603.5,502.5)\fad(250,1500)\blur8\t(0,250,\blur3)\t(5900,0,\blur10)}\h
-Dialogue: 2,0:00:08.15,0:00:08.74,titlename,,0,0,0,,{\an3\be2\move(1402,306.5,1385.5,293.5)\c&8A6424&\fs100}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 1,0:00:08.32,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1402,306.5)\fad(500,1500)\blur3.5\fs100\t(6200,1000,\be15)\t(5000,0,\blur10)\c&H433E2F&}Natsume's\hBook\hOf\hFriends
-Dialogue: 2,0:00:08.74,0:00:15.83,titlename,,0,0,0,,{\an3\pos(1385.5,293.5)\fad(0,1500)\be2\fs100\t(5900,1000,\be5)\blur0\t(5000,0,\blur10)\c&8A6424&}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:00:15.04,0:00:21.83,OP,,0,0,0,,{\fade(300,0)}Living through these meaningless days, I let out a sigh
-Dialogue: 0,0:00:22.04,0:00:29.01,OP,,0,0,0,,{\fade(300,300)}I've lost sight of my true self
-Dialogue: 0,0:00:29.72,0:00:36.60,OP,,0,0,0,,{\fade(300,300)}Even if I strain my ears I can't hear your voice
-Dialogue: 0,0:00:36.60,0:00:43.40,OP,,0,0,0,,{\fade(300,300)}So I keep walking trying to catch up
-Dialogue: 0,0:00:43.40,0:00:50.91,OP,,0,0,0,,{\fade(300,300)}The things I couldn't tell you form into a chrysalis over time
-Dialogue: 0,0:00:51.20,0:00:58.71,OP,,0,0,0,,{\fade(0,300)}Spreading wings, they take flight
-Dialogue: 0,0:00:59.12,0:01:06.00,OP,,0,0,0,,{\fade(300,300)}The one, the one precious thing I'll never forget
-Dialogue: 0,0:01:06.25,0:01:13.97,OP,,0,0,0,,{\fade(300,300)}Someday, that warm emotion
-Dialogue: 0,0:01:14.30,0:01:19.81,OP,,0,0,0,,{\fade(300,300)}I'll do what little I can
-Dialogue: 0,0:01:20.14,0:01:28.57,OP,,0,0,0,,{\fad(300,1000)\c&H98ADF1&}Little by little, to get through to you
 Dialogue: 10,0:01:41.46,0:01:42.62,Default,,0,0,0,,Natsume, look!
 Dialogue: 10,0:01:42.62,0:01:44.71,Default,,0,0,0,,Lightning! Lightning!
 Dialogue: 10,0:01:44.71,0:01:47.92,Default,,0,0,0,,Be quiet. I'm doing my homework.
 Dialogue: 10,0:01:47.92,0:01:50.30,Default,,0,0,0,,What, you scared?
 Dialogue: 10,0:01:50.30,0:01:52.55,Default,,0,0,0,,It's distracting me. Just close the curtain—
 Dialogue: 10,0:01:56.05,0:01:58.51,Default,,0,0,0,,That struck in the forest!
-Dialogue: 0,0:01:59.72,0:02:03.73,title-shadow,,0,0,0,,{\blur7}The Broken {\c&H7BBDC7&\4c&H5DA8B3&}Mirror
-Dialogue: 1,0:01:59.72,0:02:03.73,title,,0,0,0,,{\blur0.6}The Broken {\c&H025B08&}Mirror
 Dialogue: 10,0:02:07.57,0:02:09.98,Default,,0,0,0,,This isn't the path we usually take.
 Dialogue: 10,0:02:09.98,0:02:11.74,Default,,0,0,0,,We're going near the school.
 Dialogue: 10,0:02:11.74,0:02:14.24,Default,,0,0,0,,Where are you going, {*}Master Nyanko{*Nyanko-sensei}?
@@ -83,7 +53,7 @@ Dialogue: 10,0:02:14.24,0:02:17.24,Default,,0,0,0,,I'm looking for the tree that
 Dialogue: 10,0:02:17.24,0:02:19.37,Default,,0,0,0,,Lightning? You mean, from last night?
 Dialogue: 10,0:02:19.37,0:02:20.91,Default,,0,0,0,,That's a strange thing to look for.
 Dialogue: 10,0:02:20.91,0:02:22.04,Default,,0,0,0,,You ignorant fool!
-Dialogue: 10,0:02:22.04,0:02:28.13,Default,,0,0,0,,Old trees struck by lightning can produce booze that's out of this world!
+Dialogue: 10,0:02:22.04,0:02:28.13,Default,,0,0,0,,Old trees struck by lightning can \Nproduce booze that's out of this world!
 Dialogue: 10,0:02:28.84,0:02:31.76,Default,,0,0,0,,Every spirit knows that.
 Dialogue: 10,0:02:32.05,0:02:35.26,Default,,0,0,0,,And on top of that, it's free!
 Dialogue: 10,0:02:41.02,0:02:43.56,Default,,0,0,0,,That way! Let's go, Natsume!
@@ -108,9 +78,9 @@ Dialogue: 10,0:03:33.23,0:03:34.78,Default,,0,0,0,,What about you?
 Dialogue: 10,0:03:34.78,0:03:37.78,Default,,0,0,0,,I use this forest as a shortcut.
 Dialogue: 10,0:03:37.78,0:03:38.66,Default,,0,0,0,,I see.
 Dialogue: 10,0:03:38.99,0:03:40.16,Default,,0,0,0,,And...
-Dialogue: 10,0:03:40.70,0:03:45.16,Default,,0,0,0,,I feel like I've been hearing voices around here since yesterday.
+Dialogue: 10,0:03:40.70,0:03:45.16,Default,,0,0,0,,I feel like I've been hearing \Nvoices around here since yesterday.
 Dialogue: 10,0:03:45.16,0:03:46.29,Default,,0,0,0,,Voices?
-Dialogue: 10,0:03:47.08,0:03:51.17,Default,,0,0,0,,The other day, there were some minor demons who seemed really excited about something.{*}
+Dialogue: 10,0:03:47.08,0:03:51.17,Default,,0,0,0,,The other day, there were some minor demons \Nwho seemed really excited about something.{*}
 Dialogue: 10,0:03:52.25,0:03:54.38,Default,,0,0,0,,You're really amazing, Natsume.
 Dialogue: 10,0:03:55.09,0:03:57.80,Default,,0,0,0,,But that's not what I mean.
 Dialogue: 10,0:03:58.72,0:04:00.89,Default,,0,0,0,,The voice was kind of frantic,
@@ -125,25 +95,22 @@ Dialogue: 10,0:04:34.59,0:04:36.63,Default,,0,0,0,,Tanuma? Are you okay?
 Dialogue: 10,0:04:37.63,0:04:39.26,Default,,0,0,0,,Y-Yeah...
 Dialogue: 10,0:04:39.26,0:04:40.80,Default,,0,0,0,,What was that?
 Dialogue: 10,0:04:41.72,0:04:43.14,Default,,0,0,0,,Just a gust of wind?
-Dialogue: 10,0:04:44.22,0:04:45.56,Default,,0,0,0,,Thank you, Tanuma,
-Dialogue: 10,0:04:45.56,0:04:47.52,Default,,0,0,0,,but don't try to protect me!
+Dialogue: 10,0:04:44.22,0:04:47.52,Default,,0,0,0,,Thank you, Tanuma, but don't try to protect me!
 Dialogue: 10,0:04:47.52,0:04:49.14,Default,,0,0,0,,I don't want anything to happen to you!
-Dialogue: 10,0:04:49.60,0:04:50.77,Default,,0,0,0,,Yeah...
-Dialogue: 10,0:04:50.77,0:04:54.65,Default,,0,0,0,,but I don't want anything to happen to you, either.
+Dialogue: 10,0:04:49.60,0:04:54.65,Default,,0,0,0,,Yeah... but I don't want anything \Nto happen to you, either.
 Dialogue: 10,0:04:55.61,0:04:56.65,Default,,0,0,0,,I guess so.
 Dialogue: 10,0:05:01.11,0:05:04.16,Default,,0,0,0,,{\i1}This feels... kind of queer.{certified 2011 dialogue}
-Dialogue: 10,0:05:04.83,0:05:08.96,Default,,0,0,0,,{\i1}Before, neither of us had a friend we could be completely open with,
-Dialogue: 10,0:05:08.96,0:05:11.17,Default,,0,0,0,,{\i1}which actually made it harder.
+Dialogue: 10,0:05:04.83,0:05:11.17,Default,,0,0,0,,{\i1}Before, neither of us had a friend we could be \Ncompletely open with, which actually made it harder.
 Dialogue: 10,0:05:12.29,0:05:13.79,Default,,0,0,0,,Good stuff!
 Dialogue: 10,0:05:13.79,0:05:15.25,Default,,0,0,0,,That was seriously good stuff.
 Dialogue: 10,0:05:15.92,0:05:17.00,Default,,0,0,0,,A raccoon demon!
 Dialogue: 10,0:05:17.00,0:05:18.59,Default,,0,0,0,,Who're you callin' a raccoon?!
 Dialogue: 10,0:05:18.59,0:05:21.68,Default,,0,0,0,,Oh, it's Natsume's cat. Hey, {*}Mr. Kitty{*Nyanta-sensei!}!
-Dialogue: 10,0:05:21.68,0:05:24.26,Default,,0,0,0,,If you can't remember my name, at least call me "{*}Master{*Sensei}"!
+Dialogue: 10,0:05:21.68,0:05:24.26,Default,,0,0,0,,If you can't remember my name, \Nat least call me "{*}Master{*Sensei}"!
 Dialogue: 10,0:05:24.26,0:05:27.31,Default,,0,0,0,,Jeez, where were you, {*}Master Nyanko{*Nyanko-sensei}?
 Dialogue: 10,0:05:27.31,0:05:29.81,Default,,0,0,0,,Off drinking, where else?
 Dialogue: 10,0:05:31.48,0:05:32.65,Default,,0,0,0,,You drunkard!
-Dialogue: 10,0:05:32.65,0:05:35.61,Default,,0,0,0,,If you can drink booze without getting drunk, you'd be some kind of monster.
+Dialogue: 10,0:05:32.65,0:05:35.61,Default,,0,0,0,,If you can drink booze without getting drunk, \Nyou'd be some kind of monster.
 Dialogue: 10,0:05:35.61,0:05:37.48,Default,,0,0,0,,Demons {\i1}are{\i0} monsters!
 Dialogue: 10,0:05:37.48,0:05:39.82,Default,,0,0,0,,Spirits and monsters are completely different!
 Dialogue: 10,0:05:39.82,0:05:41.82,Default,,0,0,0,,I'll be going then.
@@ -151,8 +118,7 @@ Dialogue: 10,0:05:42.41,0:05:43.82,Default,,0,0,0,,Okay.
 Dialogue: 10,0:05:44.32,0:05:45.24,Default,,0,0,0,,See you.
 Dialogue: 10,0:05:45.24,0:05:46.53,Default,,0,0,0,,See you tomorrow.
 Dialogue: 10,0:05:49.75,0:05:53.58,Default,,0,0,0,,{\i1}Demons always make things difficult,
-Dialogue: 10,0:05:53.92,0:05:56.13,Default,,0,0,0,,{\i1}but just having a friend who knows my secret
-Dialogue: 10,0:05:56.13,0:05:57.50,Default,,0,0,0,,{\i1}makes things a little better.
+Dialogue: 10,0:05:53.92,0:05:57.50,Default,,0,0,0,,{\i1}but just having a friend who knows my secret \Nmakes things a little better.
 Dialogue: 10,0:05:58.17,0:06:00.34,Default,,0,0,0,,{\i1}I hope that's true for Tanuma, too.
 Dialogue: 10,0:06:04.47,0:06:05.89,Default,,0,0,0,,{\i1}My head hurts.
 Dialogue: 10,0:06:05.89,0:06:07.14,Default,,0,0,0,,{\i1}What is this?
@@ -174,15 +140,12 @@ Dialogue: 10,0:06:45.01,0:06:47.68,Default,,0,0,0,,I look really tired in this p
 Dialogue: 10,0:06:47.68,0:06:49.51,Default,,0,0,0,,But it's a good picture, isn't it?
 Dialogue: 10,0:06:50.10,0:06:51.31,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:06:51.31,0:06:53.23,Default,,0,0,0,,I've got one of Tanuma{**-kun}, too.
-Dialogue: 0,0:06:53.23,0:06:55.23,Default,,0,0,0,,
 Dialogue: 10,0:06:55.23,0:06:57.52,Default,,0,0,0,,He's sleeping with his mouth open.
 Dialogue: 10,0:06:57.52,0:07:00.69,Default,,0,0,0,,Somebody took one of him sleeping backstage.
 Dialogue: 10,0:07:00.69,0:07:02.57,Default,,0,0,0,,Would you give that to him?
 Dialogue: 10,0:07:02.57,0:07:03.99,Default,,0,0,0,,Sure, leave it to me.
-Dialogue: 0,0:07:03.99,0:07:05.99,classsign,,0,0,0,,{\pos(986.5,518)\blur1.3\fay-0.26}Year 2\h\h\h\h\h\h\h\h\h\h\h\hClass 1
 Dialogue: 10,0:07:05.99,0:07:07.45,Default,,0,0,0,,Tanuma!
 Dialogue: 10,0:07:08.24,0:07:09.83,Default,,0,0,0,,Oh, Natsume!
-Dialogue: 0,0:07:10.49,0:07:12.12,chalkboard,,0,0,0,,{\blur1.4\bord0\fscy110\fnDJB Chalk It Up\i0\pos(1252.36,24.07)}11th Oct Duty\NNakai, Kitamoto
 Dialogue: 10,0:07:10.83,0:07:12.12,Default,,0,0,0,,Kitamoto.
 Dialogue: 10,0:07:12.45,0:07:13.75,Default,,0,0,0,,Where's Tanuma?
 Dialogue: 10,0:07:13.75,0:07:16.04,Default,,0,0,0,,He's absent today.
@@ -191,15 +154,14 @@ Dialogue: 10,0:07:18.13,0:07:19.29,Default,,0,0,0,,A cold?
 Dialogue: 10,0:07:21.00,0:07:24.13,Default,,0,0,0,,Um, is Kaname{**-kun} all right?
 Dialogue: 10,0:07:24.13,0:07:25.80,Default,,0,0,0,,Oh, you came to visit?
 Dialogue: 10,0:07:26.09,0:07:27.34,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:07:27.34,0:07:29.93,Default,,0,0,0,,His fever's gone down,
-Dialogue: 10,0:07:29.93,0:07:32.22,Default,,0,0,0,,but I don't want you getting sick, too.
+Dialogue: 10,0:07:27.34,0:07:32.22,Default,,0,0,0,,His fever's gone down, \Nbut I don't want you getting sick, too.
 Dialogue: 10,0:07:33.81,0:07:36.56,Default,,0,0,0,,I think he'll be at school tomorrow.
 Dialogue: 10,0:07:41.57,0:07:45.82,Default,,0,0,0,,Tanuma is really sensitive to the presence of demons.
 Dialogue: 10,0:07:45.82,0:07:49.57,Default,,0,0,0,,I hope he didn't get too close to one yesterday.
 Dialogue: 10,0:07:49.57,0:07:53.33,Default,,0,0,0,,Maybe, but that's only because he's weak.
 Dialogue: 10,0:07:53.33,0:07:56.00,Default,,0,0,0,,It's not your fault.
 Dialogue: 10,0:07:56.00,0:07:58.33,Default,,0,0,0,,But at least he was protecting me.
-Dialogue: 10,0:07:58.79,0:08:01.21,Default,,0,0,0,,Meanwhile, my so-called bodyguard was drinking himself stupid.
+Dialogue: 10,0:07:58.79,0:08:01.21,Default,,0,0,0,,Meanwhile, my so-called bodyguard \Nwas drinking himself stupid.
 Dialogue: 10,0:08:01.21,0:08:01.84,Default,,0,0,0,,What?
 Dialogue: 10,0:08:02.21,0:08:05.59,Default,,0,0,0,,It's your fault for getting separated from me, moron!
 Dialogue: 10,0:08:05.59,0:08:07.22,Default,,0,0,0,,What was that, you fat cat?
@@ -226,16 +188,11 @@ Dialogue: 10,0:09:08.57,0:09:10.99,Default,,0,0,0,,No, it's nothing.
 Dialogue: 10,0:09:20.33,0:09:21.54,Default,,0,0,0,,{\i1}This isn't good.
 Dialogue: 10,0:09:21.54,0:09:25.13,Default,,0,0,0,,{\i1}I've been blaming everything on demons lately.
 Dialogue: 10,0:09:27.88,0:09:31.26,Default,,0,0,0,,{\i1}I hope Tanuma gets over his cold soon.
-Dialogue: 0,0:09:33.64,0:09:35.64,Sign,,0,0,0,,{\pos(964.5,816)}– The Next Day –
 Dialogue: 10,0:09:35.97,0:09:37.14,Default,,0,0,0,,How's your cold?
 Dialogue: 10,0:09:37.97,0:09:39.64,Default,,0,0,0,,Sorry, not better yet.
-Dialogue: 0,0:09:39.64,0:09:41.64,Sign,,0,0,0,,{\pos(940.5,819)\b1}– The Day After That –
 Dialogue: 10,0:09:41.64,0:09:42.65,Default,,0,0,0,,Tanuma!
 Dialogue: 10,0:09:42.65,0:09:45.15,Default,,0,0,0,,Sorry, I'm going to the teacher's office.
-Dialogue: 0,0:09:45.15,0:09:47.15,classsign,,0,0,0,,{\pos(986.5,518)\blur1.3\fay-0.26}Year 2\h\h\h\h\h\h\h\h\h\h\h\hClass 1
-Dialogue: 0,0:09:45.15,0:09:47.15,Sign,,0,0,0,,{\pos(961.5,819)}– The Day After The Day After That –
 Dialogue: 10,0:09:47.61,0:09:48.65,Default,,0,0,0,,Is Tanuma here?
-Dialogue: 0,0:09:48.65,0:09:49.90,chalkboard,,0,0,0,,{\pos(1125,15)\blur1.4\fscy110}15th Oct Duty\NTanaka, Hashimoto
 Dialogue: 10,0:09:48.65,0:09:49.90,Default,,0,0,0,,Sure is.
 Dialogue: 10,0:09:51.99,0:09:54.78,Default,,0,0,0,,Huh? He was just here.
 Dialogue: 10,0:10:06.67,0:10:07.80,Default,,0,0,0,,Tanuma?
@@ -243,10 +200,6 @@ Dialogue: 10,0:10:15.09,0:10:16.43,Default,,0,0,0,,Tanuma?
 Dialogue: 10,0:10:26.69,0:10:29.82,Default,,0,0,0,,What on earth was he digging a hole for?
 Dialogue: 10,0:10:37.83,0:10:40.12,Default,,0,0,0,,{\i1}What? My right eye hurts!
 Dialogue: 10,0:10:48.54,0:10:50.46,Default,,0,0,0,,I found you.
-Dialogue: 1,0:11:01.02,0:11:04.02,number-box,,0,0,0,,{\be1.5\c&H2412C9&\fscx46\fscy45\pos(1760,1046)}\h
-Dialogue: 2,0:11:01.02,0:11:04.02,number,,0,0,0,,{\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&\pos(1762,1048)}3
-Dialogue: 1,0:11:01.02,0:11:04.02,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1198.47,1052.13)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:11:01.02,0:11:04.02,titlename-blur,,0,0,0,,{\p1\blur20\pos(1238,1079)}m 0 0 s 1350 0 1350 150 0 150 c
 Dialogue: 10,0:11:15.70,0:11:16.95,Default,,0,0,0,,Where am I?
 Dialogue: 10,0:11:19.41,0:11:21.45,Default,,0,0,0,,The back of the school?
 Dialogue: 10,0:11:25.00,0:11:28.08,Default,,0,0,0,,Why are my hands so dirty?
@@ -265,7 +218,7 @@ Dialogue: 10,0:12:02.20,0:12:04.83,Default,,0,0,0,,But I've been feeling sick ev
 Dialogue: 10,0:12:09.38,0:12:11.84,Default,,0,0,0,,I don't have any proof that I'm possessed,
 Dialogue: 10,0:12:11.84,0:12:15.34,Default,,0,0,0,,so I didn't think it was worth bothering you about.
 Dialogue: 10,0:12:16.47,0:12:18.55,Default,,0,0,0,,It might just be a cold.
-Dialogue: 10,0:12:19.05,0:12:24.22,Default,,0,0,0,,But just a moment ago, I woke up behind the school with my hands covered in mud.
+Dialogue: 10,0:12:19.05,0:12:24.22,Default,,0,0,0,,But just a moment ago, I woke up behind the school \Nwith my hands covered in mud.
 Dialogue: 10,0:12:25.22,0:12:26.77,Default,,0,0,0,,That's never happened before.
 Dialogue: 10,0:12:26.77,0:12:27.85,Default,,0,0,0,,I see.
 Dialogue: 10,0:12:30.35,0:12:31.27,Default,,0,0,0,,So?
@@ -283,7 +236,7 @@ Dialogue: 10,0:13:03.89,0:13:07.27,Default,,0,0,0,,You're choking me! You crazy 
 Dialogue: 10,0:13:07.27,0:13:09.48,Default,,0,0,0,,You're choking me!
 Dialogue: 10,0:13:11.81,0:13:14.65,Default,,0,0,0,,It just started hurting back there.
 Dialogue: 10,0:13:15.19,0:13:18.28,Default,,0,0,0,,But it's fine now.
-Dialogue: 10,0:13:18.28,0:13:23.87,Default,,0,0,0,,Also, there's a demon with a hammer going around the school.
+Dialogue: 10,0:13:18.28,0:13:23.87,Default,,0,0,0,,Also, there's a demon with a hammer \Ngoing around the school.
 Dialogue: 10,0:13:23.87,0:13:26.62,Default,,0,0,0,,I don't know if they're connected.
 Dialogue: 10,0:13:26.62,0:13:27.45,Default,,0,0,0,,I see.
 Dialogue: 10,0:13:29.25,0:13:30.33,Default,,0,0,0,,Was that...
@@ -321,17 +274,16 @@ Dialogue: 10,0:15:39.54,0:15:41.00,Default,,0,0,0,,Get out of Tanuma!
 Dialogue: 10,0:15:41.00,0:15:43.30,Default,,0,0,0,,No, I can't.
 Dialogue: 10,0:15:43.30,0:15:44.21,Default,,0,0,0,,Why?
 Dialogue: 10,0:15:44.21,0:15:46.72,Default,,0,0,0,,My mirror's broken.
-Dialogue: 10,0:15:47.47,0:15:51.97,Default,,0,0,0,,I was struck by lightning while searching for a friend.
+Dialogue: 10,0:15:47.47,0:15:51.97,Default,,0,0,0,,I was struck by lightning \Nwhile searching for a friend.
 Dialogue: 10,0:16:16.12,0:16:18.00,Default,,0,0,0,,I'd like to search for the fragments myself,
-Dialogue: 10,0:16:18.00,0:16:21.00,Default,,0,0,0,,but it's taking quite a while to recover from that lighting strike.
+Dialogue: 10,0:16:18.00,0:16:21.00,Default,,0,0,0,,but it's taking quite a while to recover \Nfrom that lighting strike.
 Dialogue: 10,0:16:24.42,0:16:27.26,Default,,0,0,0,,This child will be my vessel.
 Dialogue: 10,0:16:30.09,0:16:33.76,Default,,0,0,0,,Were you making him dig holes to find the mirror?
 Dialogue: 10,0:16:33.76,0:16:37.77,Default,,0,0,0,,I finally, finally got the mirror.
 Dialogue: 10,0:16:37.77,0:16:40.52,Default,,0,0,0,,I can't give it up that easy.
-Dialogue: 10,0:16:40.90,0:16:44.61,Default,,0,0,0,,The fragments have hidden themselves within things that shine.
+Dialogue: 10,0:16:40.90,0:16:44.61,Default,,0,0,0,,The fragments have hidden \Nthemselves within things that shine.
 Dialogue: 10,0:16:44.61,0:16:49.78,Default,,0,0,0,,And one is hiding within your eye.
-Dialogue: 10,0:16:49.78,0:16:51.87,Default,,0,0,0,,When you get close to other fragments,
-Dialogue: 10,0:16:51.87,0:16:54.28,Default,,0,0,0,,it starts resonating with them and hurts you, right?
+Dialogue: 10,0:16:49.78,0:16:54.28,Default,,0,0,0,,When you get close to other fragments, \Nit starts resonating with them and hurts you, right?
 Dialogue: 10,0:16:54.28,0:16:56.79,Default,,0,0,0,,Give it to me...
 Dialogue: 10,0:16:56.79,0:16:59.16,Default,,0,0,0,,Give me that eye!
 Dialogue: 10,0:16:59.71,0:17:00.83,Default,,0,0,0,,Stop!
@@ -348,12 +300,12 @@ Dialogue: 10,0:17:31.03,0:17:33.45,Default,,0,0,0,,finding the others will be ea
 Dialogue: 10,0:17:33.45,0:17:36.70,Default,,0,0,0,,Once I have the mirror, I will leave.
 Dialogue: 10,0:17:37.49,0:17:39.29,Default,,0,0,0,,Like hell you will.
 Dialogue: 10,0:17:39.29,0:17:40.50,Default,,0,0,0,,{*}Master Nyanko{*Nyanko-sensei}?
-Dialogue: 10,0:17:40.50,0:17:43.63,Default,,0,0,0,,I'm not getting involved in any more ridiculous errands.
+Dialogue: 10,0:17:40.50,0:17:43.63,Default,,0,0,0,,I'm not getting involved \Nin any more ridiculous errands.
 Dialogue: 10,0:17:43.63,0:17:46.00,Default,,0,0,0,,Now, get out of there!
 Dialogue: 10,0:17:50.17,0:17:52.84,Default,,0,0,0,,Not yet...
 Dialogue: 10,0:17:55.30,0:18:00.23,Default,,0,0,0,,I will stay until I my mirror is restored.
 Dialogue: 10,0:18:01.85,0:18:03.10,Default,,0,0,0,,Tanuma!
-Dialogue: 10,0:18:04.02,0:18:08.36,Default,,0,0,0,,If she can resist my light, she must be very attached.
+Dialogue: 10,0:18:04.02,0:18:08.36,Default,,0,0,0,,If she can resist my light, \Nshe must be very attached.
 Dialogue: 10,0:18:09.28,0:18:10.36,Default,,0,0,0,,Tanuma{**-kun}!
 Dialogue: 10,0:18:11.70,0:18:12.61,Default,,0,0,0,,Tanuma!
 Dialogue: 10,0:18:14.32,0:18:15.45,Default,,0,0,0,,Are you okay?
@@ -370,13 +322,13 @@ Dialogue: 10,0:18:45.52,0:18:46.81,Default,,0,0,0,,That's right.
 Dialogue: 10,0:18:46.81,0:18:49.65,Default,,0,0,0,,You just need to gather the mirror fragments.
 Dialogue: 10,0:18:53.07,0:18:54.03,Default,,0,0,0,,Tanuma?
 Dialogue: 10,0:18:56.07,0:19:00.41,Default,,0,0,0,,I feel like my body still isn't my own.
-Dialogue: 10,0:19:01.75,0:19:07.13,Default,,0,0,0,,Natsume, I'm sorry, but would you help me find the mirror fragments?
+Dialogue: 10,0:19:01.75,0:19:07.13,Default,,0,0,0,,Natsume, I'm sorry, but would you \Nhelp me find the mirror fragments?
 Dialogue: 10,0:19:08.54,0:19:11.13,Default,,0,0,0,,Sure. We'll do it together.
 Dialogue: 10,0:19:11.42,0:19:12.84,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:19:12.84,0:19:15.09,Default,,0,0,0,,Can I help, too?
 Dialogue: 10,0:19:15.09,0:19:16.30,Default,,0,0,0,,It'd be a big help, Taki.
 Dialogue: 10,0:19:16.30,0:19:20.35,Default,,0,0,0,,But where do we start?
-Dialogue: 10,0:19:20.85,0:19:27.35,Default,,0,0,0,,That demon said that if I got close to the other fragments, my eye would start to hurt.{*}
+Dialogue: 10,0:19:20.85,0:19:27.35,Default,,0,0,0,,That demon said that if I got close \Nto the other fragments, my eye would start to hurt.{*}
 Dialogue: 10,0:19:27.35,0:19:32.40,Default,,0,0,0,,We'll know one is close when my right eye hurts.
 Dialogue: 10,0:19:33.36,0:19:36.28,Default,,0,0,0,,My eye started hurting out behind the school,
 Dialogue: 10,0:19:36.28,0:19:39.37,Default,,0,0,0,,which means there's a fragment there.
@@ -397,7 +349,7 @@ Dialogue: 10,0:20:05.64,0:20:07.19,Default,,0,0,0,,Practicing for a play?
 Dialogue: 10,0:20:10.19,0:20:11.36,Default,,0,0,0,,There it is!
 Dialogue: 10,0:20:11.36,0:20:12.69,Default,,0,0,0,,No, that's...
 Dialogue: 10,0:20:14.90,0:20:17.49,Default,,0,0,0,,What? Just a piece of glass?
-Dialogue: 10,0:20:17.49,0:20:21.28,Default,,0,0,0,,It's a demon's mirror, so normal people can't see or touch it.
+Dialogue: 10,0:20:17.49,0:20:21.28,Default,,0,0,0,,It's a demon's mirror, \Nso normal people can't see or touch it.
 Dialogue: 10,0:20:21.28,0:20:24.16,Default,,0,0,0,,Then how do we find it?
 Dialogue: 10,0:20:24.16,0:20:26.16,Default,,0,0,0,,Huh? Tanuma{**-kun}?
 Dialogue: 10,0:20:33.80,0:20:34.63,Default,,0,0,0,,That's it!
@@ -417,7 +369,6 @@ Dialogue: 10,0:21:06.54,0:21:08.83,Default,,0,0,0,,Okay. What's next, Natsume?
 Dialogue: 10,0:21:08.83,0:21:11.88,Default,,0,0,0,,Let's search around here a little more.
 Dialogue: 10,0:21:11.88,0:21:13.79,Default,,0,0,0,,This is going to take a while, isn't it?
 Dialogue: 10,0:21:19.72,0:21:21.30,Default,,0,0,0,,He says it's around here.
-Dialogue: 0,0:21:22.55,0:21:26.06,Sign,,0,0,0,,{\an5\bord0\fnAR CENA\fs75\pos(1179,283.5)\blur5\c&H070513&\alpha&30&}Flowerbeds\N Growing
 Dialogue: 10,0:21:22.55,0:21:23.55,Default,,0,0,0,,Oww...
 Dialogue: 10,0:21:23.55,0:21:24.68,Default,,0,0,0,,It's over there.
 Dialogue: 10,0:21:24.68,0:21:25.39,Default,,0,0,0,,Here, right?
@@ -436,31 +387,39 @@ Dialogue: 10,0:22:05.72,0:22:06.85,Default,,0,0,0,,I guess.
 Dialogue: 10,0:22:06.85,0:22:08.85,Default,,0,0,0,,It's for a friend?
 Dialogue: 10,0:22:09.31,0:22:11.43,Default,,0,0,0,,And she's warning me.
 Dialogue: 10,0:22:11.43,0:22:12.35,Default,,0,0,0,,Warning you?
-Dialogue: 10,0:22:12.35,0:22:16.02,Default,,0,0,0,,The mirror is very powerful,
-Dialogue: 10,0:22:16.02,0:22:18.90,Default,,0,0,0,,so there might be other demons looking for the pieces.
+Dialogue: 10,0:22:12.35,0:22:18.90,Default,,0,0,0,,The mirror is very powerful, so there might \Nbe other demons looking for the pieces.
 Dialogue: 10,0:22:18.90,0:22:20.36,Default,,0,0,0,,She says to be careful.
 Dialogue: 10,0:22:20.78,0:22:23.36,Default,,0,0,0,,Other demons looking for the pieces...
-Dialogue: 0,0:22:30.75,0:22:41.21,ED,,0,0,0,,{\fad(300,300)}Lining up the sparks of warmth I've lost one by one
-Dialogue: 0,0:22:42.76,0:22:49.43,ED,,0,0,0,,{\fad(300,300)}Coming to the rainbow-colored pieces of you
-Dialogue: 0,0:22:50.39,0:22:54.89,ED,,0,0,0,,{\fad(300,300)}I crack a smile
-Dialogue: 0,0:22:57.52,0:23:08.58,ED,,0,0,0,,{\fad(300,300)}Not even knowing how to make memories
-Dialogue: 0,0:23:10.99,0:23:16.25,ED,,0,0,0,,{\fad(300,300)}Even when we took things too fast
-Dialogue: 0,0:23:17.25,0:23:24.42,ED,,0,0,0,,{\fad(300,300)}We were only going with the flow
-Dialogue: 0,0:23:24.92,0:23:31.39,ED,,0,0,0,,{\fad(300,300)}No matter where I go, even after this darkness
-Dialogue: 0,0:23:31.68,0:23:37.52,ED,,0,0,0,,{\fad(300,300)}How many times must I say goodbye?
-Dialogue: 0,0:23:37.52,0:23:44.44,ED,,0,0,0,,{\fad(300,300)}Shining with the flame of a young heart
-Dialogue: 0,0:23:44.90,0:23:50.70,ED,,0,0,0,,{\fad(300,300)}Those faraway pieces of you
-Dialogue: 1,0:24:00.00,0:24:15.10,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
-Dialogue: 0,0:24:00.00,0:24:15.10,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
-Dialogue: 1,0:24:00.00,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\be1\fay-0.14\fscx36\fscy38}3
-Dialogue: 0,0:24:00.00,0:24:15.10,number-box,,0,0,0,,{\be1\fscx36\fscy38\pos(1747.33,180)}\h
-Dialogue: 0,0:24:00.00,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
-Dialogue: 1,0:24:00.00,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
-Dialogue: 0,0:24:00.00,0:24:15.10,nexttime-shadow,,0,0,0,,{\blur3.5\pos(481.46,830)}Reflection
-Dialogue: 1,0:24:00.00,0:24:15.10,nexttime,,0,0,0,,{\blur0.6\pos(479.46,825)}Reflection
 Dialogue: 10,0:24:00.42,0:24:03.25,Default,,0,0,0,,Is this the world you see all the time, Natsume?
 Dialogue: 10,0:24:03.25,0:24:04.63,Default,,0,0,0,,Get away from Tanuma!
 Dialogue: 10,0:24:04.63,0:24:05.63,Default,,0,0,0,,He's a dear friend.
-Dialogue: 10,0:24:05.63,0:24:09.14,Default,,0,0,0,,I had one, too. But my friend\N left one day, without saying word.{concate for CPS, different line starts at "But my"}
+Dialogue: 10,0:24:05.63,0:24:09.14,Default,,0,0,0,,I had one, too. But my friend left one day, \Nwithout saying word.{concate for CPS, different line starts at "But my"}
 Dialogue: 10,0:24:09.14,0:24:12.14,Default,,0,0,0,,I'd bet there was a reason.
 Dialogue: 10,0:24:12.14,0:24:15.02,Default,,0,0,0,,Even so, I want to save my friend.
+Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
+Dialogue: 10,0:22:29.95,0:22:30.00,Default,,0,0,0,edsync,
+Dialogue: 0,0:09:33.64,0:09:35.64,Sign,,0,0,0,,{\blur0.7\pos(964.5,816)\c&H000000&}The Next Day
+Dialogue: 1,0:09:33.64,0:09:35.64,Sign,,0,0,0,,{\bord0\blur0.6\pos(964.5,816)\4a&HFF&}The Next Day
+Dialogue: 0,0:09:39.64,0:09:41.64,Sign,,0,0,0,,{\blur0.7\pos(940.5,819)\b1\c&H000000&}The Day After That
+Dialogue: 1,0:09:39.64,0:09:41.64,Sign,,0,0,0,,{\bord0\blur0.6\pos(940.5,819)\b1\4a&HFF&}The Day After That
+Dialogue: 0,0:09:45.15,0:09:47.15,Sign,,0,0,0,,{\blur0.7\pos(961.5,819)\c&H000000&}The Day After The Day After That
+Dialogue: 1,0:09:45.15,0:09:47.15,Sign,,0,0,0,,{\bord0\blur0.6\pos(961.5,819)\4a&HFF&}The Day After The Day After That
+Dialogue: 0,0:21:22.55,0:21:26.06,Sign,,0,0,0,,{\an5\bord0\fnAR CENA\fs75\pos(1179,283.5)\blur5\c&H070513&\alpha&30&}Flowerbeds\N Growing
+Dialogue: 0,0:07:10.49,0:07:12.12,chalkboard,,0,0,0,,{\blur1.4\bord0\fscy110\fnDJB Chalk It Up\i0\pos(1252.36,24.07)}11th Oct Duty\NNakai, Kitamoto
+Dialogue: 0,0:09:48.65,0:09:49.90,chalkboard,,0,0,0,,{\pos(1125,15)\blur1.4\fscy110}15th Oct Duty\NTanaka, Hashimoto
+Dialogue: 0,0:07:03.99,0:07:05.99,classsign,,0,0,0,,{\pos(986.5,518)\blur1.3\fay-0.26}Year 2\h\h\h\h\h\h\h\h\h\h\h\hClass 1
+Dialogue: 0,0:09:45.15,0:09:47.15,classsign,,0,0,0,,{\pos(986.5,518)\blur1.3\fay-0.26}Year 2\h\h\h\h\h\h\h\h\h\h\h\hClass 1
+Dialogue: 1,0:24:00.00,0:24:15.10,nexttime,,0,0,0,,{\blur0.6\pos(479.46,825)}Reflection
+Dialogue: 0,0:24:00.00,0:24:15.10,nexttime-shadow,,0,0,0,,{\blur3.5\pos(481.46,830)}Reflection
+Dialogue: 1,0:24:00.00,0:24:15.10,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
+Dialogue: 0,0:24:00.00,0:24:15.10,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
+Dialogue: 2,0:11:01.02,0:11:04.02,number,,0,0,0,,{\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&\pos(1762,1048)}3
+Dialogue: 1,0:24:00.00,0:24:15.10,number,,0,0,0,,{\pos(1748,180.667)\blur0.7\fay-0.14\fscx36\fscy38\c&H1316D7&}3
+Dialogue: 1,0:11:01.02,0:11:04.02,number-box,,0,0,0,,{\be1.5\c&H2412C9&\fscx46\fscy45\pos(1760,1046)}\h
+Dialogue: 0,0:24:00.00,0:24:15.10,number-box,,0,0,0,,{\pos(1747.333,180)\blur0.7\fscx36\fscy38\c&H1316D7&}\h
+Dialogue: 1,0:01:59.72,0:02:03.73,title,,0,0,0,,{\blur0.6}The Broken {\c&H025B08&}Mirror
+Dialogue: 0,0:01:59.72,0:02:03.73,title-shadow,,0,0,0,,{\blur7}The Broken {\c&H7BBDC7&\4c&H5DA8B3&}Mirror
+Dialogue: 1,0:11:01.02,0:11:04.02,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8A6424&\b0\pos(1198.47,1052.13)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:24:00.00,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
+Dialogue: 1,0:24:00.00,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
+Dialogue: 0,0:11:01.02,0:11:04.02,titlename-blur,,0,0,0,,{\p1\blur20\pos(1238,1079)}m 0 0 s 1350 0 1350 150 0 150 c
