@@ -16,10 +16,10 @@ Audio File: ../../../natsume 3/natsume_s3_05.mkv
 Video File: ../../../natsume 3/natsume_s3_05.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 12
-Active Line: 26
-Video Position: 4379
+Video Zoom Percent: 1.625000
+Scroll Position: 323
+Active Line: 337
+Video Position: 6282
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -375,10 +375,10 @@ Dialogue: 10,0:24:10.01,0:24:12.56,Default,,0,0,0,,I'm sorry I'm still so fabulo
 Dialogue: 10,0:24:12.56,0:24:14.97,Default,,0,0,0,,Your bad feeling was right!
 Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
 Dialogue: 10,0:22:29.91,0:22:29.95,Default,,0,0,0,edsync,
-Dialogue: 0,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur3\an5\fax0.05\fs45\pos(742.1,129.5)\frz350.7\alpha&H80&}Demons begone
-Dialogue: 1,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur1\an5\fax0.05\fs45\pos(742.1,129.5)\frz350.7}Demons begone
-Dialogue: 0,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur3\an5\fax0.05\fs45\frz352.415\pos(729.3,372.7)\alpha&H80&}and be always away.
-Dialogue: 1,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur1\an5\fax0.05\fs45\frz352.415\pos(729.3,372.7)}and be always away.
+Dialogue: 0,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur3\an5\fax\fs45\pos(742.1,129.5)\fax0.068917\fscx98.95\fscy99.10\frz-8.0345\frx5.5210\fry12.189\alpha&H80&\b1}Demons
+Dialogue: 1,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur1\an5\fs45\b1\fax0.068917\fscx98.95\fscy99.10\frz-8.0345\frx5.5210\fry12.1895\org(742.91,129.72)\pos(741.37,129.72)}Demons{\c&H141717&}
+Dialogue: 0,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur3\an5\fs45\alpha&H80&\b1\fax0.099364\fscx98.06\fscy92.31\frz-5.7249\org(736.73,377.86)\pos(734.54,377.86)\frx358.9\fry10.28\c&H0F1313&}disperse forthwith!
+Dialogue: 1,0:04:21.99,0:04:23.70,Sign,,0,0,0,,{\blur1\an5\fs45\b1\fax0.099364\fscx98.06\fscy92.31\frz-5.7249\org(736.73,377.86)\pos(734.54,377.86)\frx358.9\fry10.28}disperse forthwith!
 Dialogue: 0,0:16:30.47,0:16:30.59,book,,0,0,0,,{\be2\frz25.01\pos(873.42,949.66)\blur0.5\bord0\b1}Yin and Yang
 Dialogue: 0,0:16:30.47,0:16:30.59,book,,0,0,0,,{\be2\frz23.92\pos(895.89,978.07)\blur0.5\bord0\b1}&
 Dialogue: 0,0:16:30.47,0:16:30.59,book,,0,0,0,,{\be2\fry-4.36\frx2.09\fax0.2\frz22.99\pos(928.86,1006.53)\blur0.5\bord0\b1}The Five Elements
