@@ -16,10 +16,10 @@ Audio File: ../../../natsume 3/natsume_s3_02.mkv
 Video File: ../../../natsume 3/natsume_s3_02.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 159
-Active Line: 176
-Video Position: 18491
+Video Zoom Percent: 0.625000
+Scroll Position: 315
+Active Line: 326
+Video Position: 18162
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,7 +365,31 @@ Dialogue: 10,0:24:09.30,0:24:10.64,Default,,0,0,0,,Maybe I'll eat him.
 Dialogue: 10,0:24:10.64,0:24:14.27,Default,,0,0,0,,I remembered you when I met him.
 Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
 Dialogue: 10,0:22:29.95,0:22:30.00,Default,,0,0,0,edsync,
-Dialogue: 0,0:12:34.94,0:12:36.94,Sign,,0,0,0,,{\fnArno Pro\c&H1E2F34&\3c&H527686&}Happara Temple Complex Map
+Dialogue: 0,0:12:34.94,0:12:34.98,Sign,,0,0,0,,{=28}{\fscx100\fscy100\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(792,85.33)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:34.98,0:12:35.02,Sign,,0,0,0,,{=28}{\fscx99.99\fscy99.99\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(790.86,74.8)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.02,0:12:35.06,Sign,,0,0,0,,{=28}{\fscx100\fscy100\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(789.7,64.19)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.06,0:12:35.10,Sign,,0,0,0,,{=28}{\fscx100.03\fscy100.03\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(788.52,53.52)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.10,0:12:35.15,Sign,,0,0,0,,{=28}{\fscx99.99\fscy99.99\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(787.37,43.08)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.15,0:12:35.19,Sign,,0,0,0,,{=28}{\fscx100\fscy100\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(786.2,32.45)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.19,0:12:35.23,Sign,,0,0,0,,{=28}{\fscx99.96\fscy99.96\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(785.07,21.98)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.23,0:12:35.27,Sign,,0,0,0,,{=28}{\fscx100.01\fscy100.01\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(783.88,11.26)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.27,0:12:35.31,Sign,,0,0,0,,{=28}{\fscx99.95\fscy99.95\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(782.75,0.86)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.31,0:12:35.35,Sign,,0,0,0,,{=28}{\fscx100.01\fscy100.01\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(781.56,-9.89)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.35,0:12:35.40,Sign,,0,0,0,,{=28}{\fscx99.97\fscy99.97\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(780.42,-20.35)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.40,0:12:35.44,Sign,,0,0,0,,{=28}{\fscx100.03\fscy100.03\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(779.23,-31.09)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.44,0:12:35.48,Sign,,0,0,0,,{=28}{\fscx100.02\fscy100.02\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(778.1,-41.64)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.48,0:12:35.52,Sign,,0,0,0,,{=28}{\fscx99.99\fscy99.99\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(776.96,-52.12)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.52,0:12:35.56,Sign,,0,0,0,,{=28}{\fscx99.96\fscy99.96\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(775.81,-62.65)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.56,0:12:35.60,Sign,,0,0,0,,{=28}{\fscx100.02\fscy100.02\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(774.6,-73.34)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.60,0:12:35.65,Sign,,0,0,0,,{=28}{\fscx99.98\fscy99.98\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(773.48,-83.83)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.65,0:12:35.69,Sign,,0,0,0,,{=28}{\fscx100\fscy100\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(772.3,-94.44)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.69,0:12:35.73,Sign,,0,0,0,,{=28}{\fscx99.97\fscy99.97\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(771.15,-104.99)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.73,0:12:35.77,Sign,,0,0,0,,{=28}{\fscx100.02\fscy100.02\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(769.96,-115.65)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.77,0:12:35.81,Sign,,0,0,0,,{=28}{\fscx100.01\fscy100.01\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(768.81,-126.2)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.81,0:12:35.85,Sign,,0,0,0,,{=28}{\fscx99.98\fscy99.98\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(767.65,-136.72)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.85,0:12:35.90,Sign,,0,0,0,,{=28}{\fscx99.97\fscy99.97\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(766.49,-147.26)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.90,0:12:35.94,Sign,,0,0,0,,{=28}{\fscx99.99\fscy99.99\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(765.33,-157.89)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
+Dialogue: 0,0:12:35.94,0:12:35.98,Sign,,0,0,0,,{=28}{\fscx99.96\fscy99.96\bord0\blur1.5\fnArno Pro\fs90\c&H1E2F34&\3c&H527686&\pos(764.18,-168.37)\fry3.74\frx0.87\frz2.45\fax0.18}Happara Temple\N Complex Map
 Dialogue: 2,0:01:33.03,0:01:33.07,Sign,,0,0,0,,{=12}{\fscx100\fscy100\fs30\1c&H1F2F36&\bord0\shad0\b1\blur1\fnIwata Gyousho Pro-FSN B\pos(1281.11,587.64)\frz349.9}7th Street Shop
 Dialogue: 2,0:01:33.07,0:01:33.11,Sign,,0,0,0,,{=12}{\fscx100\fscy100\fs30\frz349.9\c&H1F2F36&\bord0\shad0\b1\blur1\fnIwata Gyousho Pro-FSN B\pos(1276.5,587.64)}7th Street Shop
 Dialogue: 2,0:01:33.11,0:01:33.16,Sign,,0,0,0,,{=12}{\fscx100\fscy100\fs30\frz349.9\c&H1F2F36&\bord0\shad0\b1\blur1\fnIwata Gyousho Pro-FSN B\pos(1271.89,587.64)}7th Street Shop
@@ -668,3 +692,4 @@ Data: 14,a-mo,e{"uuid"#3A"f8b40635-7593-4ec5-a4ab-ad4d02ef020d"#2C"originalText"
 Data: 22,a-mo,e{"uuid"#3A"14962da3-58a2-463a-a2dd-9e7e9ed680d5"#2C"originalText"#3A"{\\bord0\\fs89\\c&H30607C&\\fnEraserDustPL\\b1\\blur1.66\\frz47.93\\pos(398.4#2C561.7)}Temple of Music and Dance"}
 Data: 26,a-mo,e{"uuid"#3A"180fde30-35d2-4638-b0c4-223cba93098e"#2C"originalText"#3A"{\\bord0\\fs89\\c&H30607C&\\fnEraserDustPL\\b1\\blur1.66\\frz47.93\\pos(398.4#2C561.7)}Temple of Music and Dance"}
 Data: 27,a-mo,e{"uuid"#3A"ea105b89-edbd-4d92-ac0b-d378441a504e"#2C"originalText"#3A"{\\fscx34.79\\fscy34.79\\bord0\\fs89\\c&H1B2A34&\\fnEraserDustPL\\b1\\blur0.79\\frz47.93\\pos(882.34#2C512.22)}Hall Of {\\c&H356080&}Worship"}
+Data: 28,a-mo,e{"originalText"#3A"{\\bord0\\blur1.5\\fnArno Pro\\fs90\\c&H1E2F34&\\3c&H527686&\\pos(792#2C85.33)\\fry3.74\\frx0.87\\frz2.45\\fax0.18}Happara Temple\\N Complex Map"#2C"uuid"#3A"a644cc68-20e8-4837-b1a3-5828f69ef048"}
