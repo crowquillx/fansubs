@@ -16,10 +16,10 @@ Audio File: ../../../natsume 3/natsume_s3_05.mkv
 Video File: ../../../natsume 3/natsume_s3_05.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.625000
-Scroll Position: 323
-Active Line: 337
-Video Position: 6282
+Video Zoom Percent: 0.750000
+Scroll Position: 41
+Active Line: 53
+Video Position: 7614
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -93,7 +93,7 @@ Dialogue: 10,0:04:24.29,0:04:27.21,Default,,0,0,0,,he used to teach me all kinds
 Dialogue: 10,0:04:33.96,0:04:36.30,Default,,0,0,0,,But my mom and dad were both creeped out by it.
 Dialogue: 10,0:04:36.30,0:04:38.93,Default,,0,0,0,,I'm the only one who ever comes in here.
 Dialogue: 10,0:04:59.32,0:05:00.49,Default,,0,0,0,,What's this?
-Dialogue: 10,0:05:17.55,0:05:19.09,Default,,0,0,0,,{\i1}A kappa, huh?
+Dialogue: 10,0:05:17.55,0:05:19.09,Default,,0,0,0,,A kappa, huh?
 Dialogue: 10,0:05:19.55,0:05:21.76,Default,,0,0,0,,{\i1}If he wanted to see demons,
 Dialogue: 10,0:05:21.76,0:05:23.64,Default,,0,0,0,,{\i1}he must have been a strange guy.
 Dialogue: 10,0:05:25.10,0:05:28.35,Default,,0,0,0,,{\i1}Nothing good comes from seeing them.
