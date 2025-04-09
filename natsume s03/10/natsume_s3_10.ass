@@ -12,13 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: natsume_s3_10.mkv
-Video File: natsume_s3_10.mkv
+Audio File: ../../../natsume 3/natsume_s3_10.mkv
+Video File: ../../../natsume 3/natsume_s3_10.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 7
-Video Position: 3117
+Video Zoom Percent: 0.875000
+Scroll Position: 357
+Active Line: 365
+Video Position: 30987
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -404,7 +405,113 @@ Dialogue: 0,0:09:39.64,0:09:41.64,Sign,,0,0,0,,{\blur0.7\pos(940.5,819)\b1\c&H00
 Dialogue: 1,0:09:39.64,0:09:41.64,Sign,,0,0,0,,{\bord0\blur0.6\pos(940.5,819)\b1\4a&HFF&}The Day After That
 Dialogue: 0,0:09:45.15,0:09:47.15,Sign,,0,0,0,,{\blur0.7\pos(961.5,819)\c&H000000&}The Day After The Day After That
 Dialogue: 1,0:09:45.15,0:09:47.15,Sign,,0,0,0,,{\bord0\blur0.6\pos(961.5,819)\4a&HFF&}The Day After The Day After That
-Dialogue: 0,0:21:22.55,0:21:26.06,Sign,,0,0,0,,{\an5\bord0\fnAR CENA\fs75\pos(1179,283.5)\blur5\c&H070513&\alpha&30&}Flowerbeds\N Growing
+Dialogue: 0,0:21:22.55,0:21:26.06,Sign,,0,0,0,,{\an5\bord0\fnAR CENA\fs75\blur5\c&H070513&\alpha&30&\pos(1169.93,248.03)}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.05,0:21:26.09,Sign,,0,0,0,,{=1}{\fscx100\fscy100\an5\bord0\fnAR CENA\fs22\blur1.2\c&H596670&\alpha&30&\pos(1087.8,805.1)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.09,0:21:26.13,Sign,,0,0,0,,{=1}{\fscx99.16\fscy99.16\an5\bord0\fnAR CENA\fs22\blur1.19\c&H596670&\alpha&30&\pos(1098.37,803.46)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.13,0:21:26.18,Sign,,0,0,0,,{=1}{\fscx98.3\fscy98.3\an5\bord0\fnAR CENA\fs22\blur1.18\c&H596670&\alpha&30&\pos(1108.79,801.85)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.18,0:21:26.22,Sign,,0,0,0,,{=1}{\fscx97.46\fscy97.46\an5\bord0\fnAR CENA\fs22\blur1.17\c&H596670&\alpha&30&\pos(1119.03,800.27)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.22,0:21:26.26,Sign,,0,0,0,,{=1}{\fscx96.65\fscy96.65\an5\bord0\fnAR CENA\fs22\blur1.16\c&H596670&\alpha&30&\pos(1129.09,798.72)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.26,0:21:26.30,Sign,,0,0,0,,{=1}{\fscx95.85\fscy95.85\an5\bord0\fnAR CENA\fs22\blur1.15\c&H596670&\alpha&30&\pos(1138.99,797.19)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.30,0:21:26.34,Sign,,0,0,0,,{=1}{\fscx95.09\fscy95.09\an5\bord0\fnAR CENA\fs22\blur1.14\c&H596670&\alpha&30&\pos(1148.67,795.68)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.34,0:21:26.38,Sign,,0,0,0,,{=1}{\fscx94.3\fscy94.3\an5\bord0\fnAR CENA\fs22\blur1.13\c&H596670&\alpha&30&\pos(1158.27,794.21)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.38,0:21:26.43,Sign,,0,0,0,,{=1}{\fscx93.55\fscy93.55\an5\bord0\fnAR CENA\fs22\blur1.12\c&H596670&\alpha&30&\pos(1167.67,792.74)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.43,0:21:26.47,Sign,,0,0,0,,{=1}{\fscx92.79\fscy92.79\an5\bord0\fnAR CENA\fs22\blur1.11\c&H596670&\alpha&30&\pos(1176.94,791.32)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.47,0:21:26.51,Sign,,0,0,0,,{=1}{\fscx92.06\fscy92.06\an5\bord0\fnAR CENA\fs22\blur1.1\c&H596670&\alpha&30&\pos(1186.04,789.91)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.51,0:21:26.55,Sign,,0,0,0,,{=1}{\fscx91.32\fscy91.32\an5\bord0\fnAR CENA\fs22\blur1.1\c&H596670&\alpha&30&\pos(1195.02,788.52)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.55,0:21:26.59,Sign,,0,0,0,,{=1}{\fscx90.62\fscy90.62\an5\bord0\fnAR CENA\fs22\blur1.09\c&H596670&\alpha&30&\pos(1203.83,787.16)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.59,0:21:26.64,Sign,,0,0,0,,{=1}{\fscx89.92\fscy89.92\an5\bord0\fnAR CENA\fs22\blur1.08\c&H596670&\alpha&30&\pos(1212.52,785.81)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.64,0:21:26.68,Sign,,0,0,0,,{=1}{\fscx89.22\fscy89.22\an5\bord0\fnAR CENA\fs22\blur1.07\c&H596670&\alpha&30&\pos(1221.08,784.49)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.68,0:21:26.72,Sign,,0,0,0,,{=1}{\fscx88.54\fscy88.54\an5\bord0\fnAR CENA\fs22\blur1.06\c&H596670&\alpha&30&\pos(1229.5,783.19)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.72,0:21:26.76,Sign,,0,0,0,,{=1}{\fscx87.87\fscy87.87\an5\bord0\fnAR CENA\fs22\blur1.05\c&H596670&\alpha&30&\pos(1237.8,781.91)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.76,0:21:26.80,Sign,,0,0,0,,{=1}{\fscx87.21\fscy87.21\an5\bord0\fnAR CENA\fs22\blur1.05\c&H596670&\alpha&30&\pos(1245.95,780.65)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.80,0:21:26.84,Sign,,0,0,0,,{=1}{\fscx86.57\fscy86.57\an5\bord0\fnAR CENA\fs22\blur1.04\c&H596670&\alpha&30&\pos(1253.99,779.4)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.84,0:21:26.89,Sign,,0,0,0,,{=1}{\fscx85.92\fscy85.92\an5\bord0\fnAR CENA\fs22\blur1.03\c&H596670&\alpha&30&\pos(1261.9,778.18)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.89,0:21:26.93,Sign,,0,0,0,,{=1}{\fscx85.3\fscy85.3\an5\bord0\fnAR CENA\fs22\blur1.02\c&H596670&\alpha&30&\pos(1269.68,776.96)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.93,0:21:26.97,Sign,,0,0,0,,{=1}{\fscx84.68\fscy84.68\an5\bord0\fnAR CENA\fs22\blur1.02\c&H596670&\alpha&30&\pos(1277.36,775.79)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:26.97,0:21:27.01,Sign,,0,0,0,,{=1}{\fscx84.05\fscy84.05\an5\bord0\fnAR CENA\fs22\blur1.01\c&H596670&\alpha&30&\pos(1284.95,774.63)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.01,0:21:27.05,Sign,,0,0,0,,{=1}{\fscx83.45\fscy83.45\an5\bord0\fnAR CENA\fs22\blur1\c&H596670&\alpha&30&\pos(1292.41,773.48)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.05,0:21:27.09,Sign,,0,0,0,,{=1}{\fscx82.86\fscy82.86\an5\bord0\fnAR CENA\fs22\blur0.99\c&H596670&\alpha&30&\pos(1299.74,772.34)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.09,0:21:27.14,Sign,,0,0,0,,{=1}{\fscx82.28\fscy82.28\an5\bord0\fnAR CENA\fs22\blur0.99\c&H596670&\alpha&30&\pos(1306.97,771.22)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.14,0:21:27.18,Sign,,0,0,0,,{=1}{\fscx81.71\fscy81.71\an5\bord0\fnAR CENA\fs22\blur0.98\c&H596670&\alpha&30&\pos(1314.09,770.12)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.18,0:21:27.22,Sign,,0,0,0,,{=1}{\fscx81.14\fscy81.14\an5\bord0\fnAR CENA\fs22\blur0.97\c&H596670&\alpha&30&\pos(1321.11,769.03)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.22,0:21:27.26,Sign,,0,0,0,,{=1}{\fscx80.58\fscy80.58\an5\bord0\fnAR CENA\fs22\blur0.97\c&H596670&\alpha&30&\pos(1328.03,767.96)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.26,0:21:27.30,Sign,,0,0,0,,{=1}{\fscx80.03\fscy80.03\an5\bord0\fnAR CENA\fs22\blur0.96\c&H596670&\alpha&30&\pos(1334.83,766.92)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.30,0:21:27.34,Sign,,0,0,0,,{=1}{\fscx79.49\fscy79.49\an5\bord0\fnAR CENA\fs22\blur0.95\c&H596670&\alpha&30&\pos(1341.54,765.87)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.34,0:21:27.39,Sign,,0,0,0,,{=1}{\fscx78.97\fscy78.97\an5\bord0\fnAR CENA\fs22\blur0.95\c&H596670&\alpha&30&\pos(1348.14,764.85)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.39,0:21:27.43,Sign,,0,0,0,,{=1}{\fscx78.43\fscy78.43\an5\bord0\fnAR CENA\fs22\blur0.94\c&H596670&\alpha&30&\pos(1354.67,763.84)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.43,0:21:27.47,Sign,,0,0,0,,{=1}{\fscx77.9\fscy77.9\an5\bord0\fnAR CENA\fs22\blur0.93\c&H596670&\alpha&30&\pos(1361.08,762.86)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.47,0:21:27.51,Sign,,0,0,0,,{=1}{\fscx77.39\fscy77.39\an5\bord0\fnAR CENA\fs22\blur0.93\c&H596670&\alpha&30&\pos(1367.42,761.88)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.51,0:21:27.55,Sign,,0,0,0,,{=1}{\fscx76.89\fscy76.89\an5\bord0\fnAR CENA\fs22\blur0.92\c&H596670&\alpha&30&\pos(1373.63,760.92)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.55,0:21:27.59,Sign,,0,0,0,,{=1}{\fscx76.4\fscy76.4\an5\bord0\fnAR CENA\fs22\blur0.92\c&H596670&\alpha&30&\pos(1379.77,759.98)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.59,0:21:27.64,Sign,,0,0,0,,{=1}{\fscx75.9\fscy75.9\an5\bord0\fnAR CENA\fs22\blur0.91\c&H596670&\alpha&30&\pos(1385.81,759.04)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.64,0:21:27.68,Sign,,0,0,0,,{=1}{\fscx75.43\fscy75.43\an5\bord0\fnAR CENA\fs22\blur0.91\c&H596670&\alpha&30&\pos(1391.76,758.11)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.68,0:21:27.72,Sign,,0,0,0,,{=1}{\fscx74.96\fscy74.96\an5\bord0\fnAR CENA\fs22\blur0.9\c&H596670&\alpha&30&\pos(1397.6,757.21)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.72,0:21:27.76,Sign,,0,0,0,,{=1}{\fscx74.5\fscy74.5\an5\bord0\fnAR CENA\fs22\blur0.89\c&H596670&\alpha&30&\pos(1403.37,756.31)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.76,0:21:27.80,Sign,,0,0,0,,{=1}{\fscx74.03\fscy74.03\an5\bord0\fnAR CENA\fs22\blur0.89\c&H596670&\alpha&30&\pos(1409.03,755.43)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.80,0:21:27.84,Sign,,0,0,0,,{=1}{\fscx73.58\fscy73.58\an5\bord0\fnAR CENA\fs22\blur0.88\c&H596670&\alpha&30&\pos(1414.62,754.57)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.84,0:21:27.89,Sign,,0,0,0,,{=1}{\fscx73.15\fscy73.15\an5\bord0\fnAR CENA\fs22\blur0.88\c&H596670&\alpha&30&\pos(1420.1,753.72)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.89,0:21:27.93,Sign,,0,0,0,,{=1}{\fscx72.7\fscy72.7\an5\bord0\fnAR CENA\fs22\blur0.87\c&H596670&\alpha&30&\pos(1425.49,752.9)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.93,0:21:27.97,Sign,,0,0,0,,{=1}{\fscx72.28\fscy72.28\an5\bord0\fnAR CENA\fs22\blur0.87\c&H596670&\alpha&30&\pos(1430.78,752.08)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:27.97,0:21:28.01,Sign,,0,0,0,,{=1}{\fscx71.85\fscy71.85\an5\bord0\fnAR CENA\fs22\blur0.86\c&H596670&\alpha&30&\pos(1436,751.28)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.01,0:21:28.05,Sign,,0,0,0,,{=1}{\fscx71.44\fscy71.44\an5\bord0\fnAR CENA\fs22\blur0.86\c&H596670&\alpha&30&\pos(1441.09,750.49)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.05,0:21:28.09,Sign,,0,0,0,,{=1}{\fscx71.03\fscy71.03\an5\bord0\fnAR CENA\fs22\blur0.85\c&H596670&\alpha&30&\pos(1446.11,749.71)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.09,0:21:28.14,Sign,,0,0,0,,{=1}{\fscx70.65\fscy70.65\an5\bord0\fnAR CENA\fs22\blur0.85\c&H596670&\alpha&30&\pos(1450.99,748.95)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.14,0:21:28.18,Sign,,0,0,0,,{=1}{\fscx70.26\fscy70.26\an5\bord0\fnAR CENA\fs22\blur0.84\c&H596670&\alpha&30&\pos(1455.78,748.2)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.18,0:21:28.22,Sign,,0,0,0,,{=1}{\fscx69.9\fscy69.9\an5\bord0\fnAR CENA\fs22\blur0.84\c&H596670&\alpha&30&\pos(1460.45,747.48)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.22,0:21:28.26,Sign,,0,0,0,,{=1}{\fscx69.52\fscy69.52\an5\bord0\fnAR CENA\fs22\blur0.83\c&H596670&\alpha&30&\pos(1465.02,746.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.26,0:21:28.30,Sign,,0,0,0,,{=1}{\fscx69.15\fscy69.15\an5\bord0\fnAR CENA\fs22\blur0.83\c&H596670&\alpha&30&\pos(1469.47,746.09)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.30,0:21:28.35,Sign,,0,0,0,,{=1}{\fscx68.81\fscy68.81\an5\bord0\fnAR CENA\fs22\blur0.83\c&H596670&\alpha&30&\pos(1473.75,745.43)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.35,0:21:28.39,Sign,,0,0,0,,{=1}{\fscx68.46\fscy68.46\an5\bord0\fnAR CENA\fs22\blur0.82\c&H596670&\alpha&30&\pos(1477.94,744.79)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.39,0:21:28.43,Sign,,0,0,0,,{=1}{\fscx68.14\fscy68.14\an5\bord0\fnAR CENA\fs22\blur0.82\c&H596670&\alpha&30&\pos(1481.92,744.18)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.43,0:21:28.47,Sign,,0,0,0,,{=1}{\fscx67.83\fscy67.83\an5\bord0\fnAR CENA\fs22\blur0.81\c&H596670&\alpha&30&\pos(1485.76,743.59)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.47,0:21:28.51,Sign,,0,0,0,,{=1}{\fscx67.54\fscy67.54\an5\bord0\fnAR CENA\fs22\blur0.81\c&H596670&\alpha&30&\pos(1489.37,743.03)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.51,0:21:28.55,Sign,,0,0,0,,{=1}{\fscx67.27\fscy67.27\an5\bord0\fnAR CENA\fs22\blur0.81\c&H596670&\alpha&30&\pos(1492.78,742.49)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.55,0:21:28.60,Sign,,0,0,0,,{=1}{\fscx67\fscy67\an5\bord0\fnAR CENA\fs22\blur0.8\c&H596670&\alpha&30&\pos(1495.97,742)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.60,0:21:28.64,Sign,,0,0,0,,{=1}{\fscx66.78\fscy66.78\an5\bord0\fnAR CENA\fs22\blur0.8\c&H596670&\alpha&30&\pos(1498.86,741.55)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.64,0:21:28.68,Sign,,0,0,0,,{=1}{\fscx66.55\fscy66.55\an5\bord0\fnAR CENA\fs22\blur0.8\c&H596670&\alpha&30&\pos(1501.48,741.15)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.68,0:21:28.72,Sign,,0,0,0,,{=1}{\fscx66.38\fscy66.38\an5\bord0\fnAR CENA\fs22\blur0.8\c&H596670&\alpha&30&\pos(1503.74,740.79)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.72,0:21:28.76,Sign,,0,0,0,,{=1}{\fscx66.24\fscy66.24\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1505.64,740.49)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.76,0:21:28.80,Sign,,0,0,0,,{=1}{\fscx66.1\fscy66.1\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1507.18,740.26)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.80,0:21:28.85,Sign,,0,0,0,,{=1}{\fscx66.01\fscy66.01\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1508.36,740.07)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.85,0:21:28.89,Sign,,0,0,0,,{=1}{\fscx65.94\fscy65.94\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1509.2,739.94)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.89,0:21:28.93,Sign,,0,0,0,,{=1}{\fscx65.91\fscy65.91\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1509.72,739.85)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.93,0:21:28.97,Sign,,0,0,0,,{=1}{\fscx65.89\fscy65.89\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.01,739.81)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:28.97,0:21:29.01,Sign,,0,0,0,,{=1}{\fscx65.85\fscy65.85\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.24,739.8)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.01,0:21:29.05,Sign,,0,0,0,,{=1}{\fscx65.85\fscy65.85\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.25,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.05,0:21:29.14,Sign,,0,0,0,,{=1}{\fscx65.85\fscy65.85\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.27,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.14,0:21:29.18,Sign,,0,0,0,,{=1}{\fscx65.85\fscy65.85\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.26,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.18,0:21:29.22,Sign,,0,0,0,,{=1}{\fscx65.85\fscy65.85\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.25,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.22,0:21:29.30,Sign,,0,0,0,,{=1}{\fscx65.85\fscy65.85\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.26,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.30,0:21:29.35,Sign,,0,0,0,,{=1}{\fscx65.84\fscy65.84\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.26,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.35,0:21:29.43,Sign,,0,0,0,,{=1}{\fscx65.84\fscy65.84\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.27,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.43,0:21:29.47,Sign,,0,0,0,,{=1}{\fscx65.84\fscy65.84\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.27,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.47,0:21:29.51,Sign,,0,0,0,,{=1}{\fscx65.84\fscy65.84\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.27,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.51,0:21:29.68,Sign,,0,0,0,,{=1}{\fscx65.84\fscy65.84\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.27,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.68,0:21:29.76,Sign,,0,0,0,,{=1}{\fscx65.83\fscy65.83\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.28,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.76,0:21:29.80,Sign,,0,0,0,,{=1}{\fscx65.83\fscy65.83\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.80,0:21:29.85,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.85,0:21:29.93,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:29.93,0:21:30.06,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.06,0:21:30.10,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.10,0:21:30.22,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.22,0:21:30.26,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.26,0:21:30.43,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.43,0:21:30.64,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.64,0:21:30.68,Sign,,0,0,0,,{=1}{\fscx65.83\fscy65.83\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.68,0:21:30.72,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.72,0:21:30.76,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.29,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.76,0:21:30.81,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.81,0:21:30.85,Sign,,0,0,0,,{=1}{\fscx65.81\fscy65.81\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.85,0:21:30.89,Sign,,0,0,0,,{=1}{\fscx65.81\fscy65.81\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.89,0:21:30.93,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.93,0:21:30.97,Sign,,0,0,0,,{=1}{\fscx65.81\fscy65.81\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.78)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:30.97,0:21:31.01,Sign,,0,0,0,,{=1}{\fscx65.82\fscy65.82\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:31.01,0:21:31.06,Sign,,0,0,0,,{=1}{\fscx65.81\fscy65.81\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.3,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:31.06,0:21:31.72,Sign,,0,0,0,,{=1}{\fscx65.81\fscy65.81\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.31,739.77)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:31.72,0:21:31.81,Sign,,0,0,0,,{=1}{\fscx65.81\fscy65.81\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.31,739.76)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:31.81,0:21:31.89,Sign,,0,0,0,,{=1}{\fscx65.8\fscy65.8\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.32,739.76)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:31.89,0:21:32.02,Sign,,0,0,0,,{=1}{\fscx65.79\fscy65.79\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.33,739.76)\1a&H00&}Flowerbeds\N Growing
+Dialogue: 0,0:21:32.02,0:21:32.06,Sign,,0,0,0,,{=1}{\fscx65.79\fscy65.79\an5\bord0\fnAR CENA\fs22\blur0.79\c&H596670&\alpha&30&\pos(1510.33,739.75)\1a&H00&}Flowerbeds\N Growing
 Dialogue: 0,0:07:10.49,0:07:12.12,chalkboard,,0,0,0,,{\blur1.4\bord0\fscy110\fnDJB Chalk It Up\i0\pos(1252.36,24.07)}11th Oct Duty\NNakai, Kitamoto
 Dialogue: 0,0:09:48.65,0:09:49.90,chalkboard,,0,0,0,,{\pos(1125,15)\blur1.4\fscy110}15th Oct Duty\NTanaka, Hashimoto
 Dialogue: 0,0:07:03.99,0:07:05.99,classsign,,0,0,0,,{\pos(986.5,518)\blur1.3\fay-0.26}Year 2\h\h\h\h\h\h\h\h\h\h\h\hClass 1
@@ -423,3 +530,6 @@ Dialogue: 1,0:11:01.02,0:11:04.02,titlename,,0,0,0,,{\fs100\bord0\shad0\be1\1c&8
 Dialogue: 0,0:24:00.00,0:24:15.10,titlename,,0,0,0,,{\an1\blur1.5\fs56\c&H000000&\fscx74\fscy104\1a&H64&\pos(1280.51,99.78)}Natsume's Book Of Friends
 Dialogue: 1,0:24:00.00,0:24:15.10,titlename,,0,0,0,,{\an1\fs56\fscx74\fscy104\c&8A6424&\b0\blur0.6\pos(1277.4,96.2)}Na{\c&967033&}ts{\c&A37D43&}um{\c&AF8953&}e's{\c&BC9663&}\hBo{\c&C8A273&}ok{\c&D5AF83&}\hO{\c&8A6424&}f{\c&926C2E&}\hF{\c&9A7439&}r{\c&A37D43&}i{\c&AB854E&}e{\c&B38D58&}n{\c&BC9663&}d{\c&C49E6D&}s
 Dialogue: 0,0:11:01.02,0:11:04.02,titlename-blur,,0,0,0,,{\p1\blur20\pos(1238,1079)}m 0 0 s 1350 0 1350 150 0 150 c
+
+[Aegisub Extradata]
+Data: 1,a-mo,e{"originalText"#3A"{\\an5\\bord0\\fnAR CENA\\fs22\\blur1.2\\c&H596670&\\alpha&30&\\pos(1087.8#2C805.1)\\1a&H00&}Flowerbeds\\N Growing"#2C"uuid"#3A"7788f479-dff8-427f-98b5-656f905253f7"}
