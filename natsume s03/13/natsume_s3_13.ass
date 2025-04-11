@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: natsume_s3_13.mkv
-Video File: natsume_s3_13.mkv
+Audio File: ../../../natsume 3/natsume_s3_13.mkv
+Video File: ../../../natsume 3/natsume_s3_13.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 245
-Active Line: 265
-Video Position: 21171
+Video Zoom Percent: 0.875000
+Scroll Position: 144
+Active Line: 155
+Video Position: 12856
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -84,7 +84,7 @@ Dialogue: 10,0:03:18.55,0:03:22.35,Default,,0,0,0,,Both of you were transfer stu
 Dialogue: 10,0:03:22.35,0:03:23.22,Default,,0,0,0,,That's right.
 Dialogue: 10,0:03:23.72,0:03:25.98,Default,,0,0,0,,I thought you guys would be cooler.
 Dialogue: 10,0:03:25.98,0:03:29.15,Default,,0,0,0,,Then you turned out to be just like us.
-Dialogue: 10,0:03:29.15,0:03:32.23,Default,,0,0,0,,Also, the two of you both seem to collapse \Nfrom anemia all the time.
+Dialogue: 10,0:03:29.15,0:03:32.23,Default,,0,0,0,,Also, both of you seem to collapse \Nfrom anemia all the time.
 Dialogue: 10,0:03:32.23,0:03:33.65,Default,,0,0,0,,That's, uh...
 Dialogue: 10,0:03:33.65,0:03:35.99,Default,,0,0,0,,Well...
 Dialogue: 10,0:03:40.49,0:03:43.04,Default,,0,0,0,,What a pain.
@@ -192,11 +192,11 @@ Dialogue: 10,0:08:23.32,0:08:27.65,Default,,0,0,0,,making the sake several times
 Dialogue: 10,0:08:27.65,0:08:31.32,Default,,0,0,0,,So, we're all getting together \Ntomorrow afternoon for a drinking party.
 Dialogue: 10,0:08:31.32,0:08:33.20,Default,,0,0,0,,Drinking party!
 Dialogue: 10,0:08:33.20,0:08:38.08,Default,,0,0,0,,So, all the spirits who know you have \Ngotten together to throw the first annual
-Dialogue: 10,0:08:38.08,0:08:44.75,Default,,0,0,0,,"Party for {*}Mister Natsume{*Natsume-sama} \Nin the Run-down Old Shrine Near Yatsuhara"!
+Dialogue: 10,0:08:38.08,0:08:44.75,Default,,0,0,0,,"Party for {*}Mister Natsume{*Natsume-sama} \Nin the Old Run-down Shrine Near Yatsuhara"!
 Dialogue: 10,0:08:44.75,0:08:46.51,Default,,0,0,0,,Run-down, run-down.
 Dialogue: 10,0:08:47.13,0:08:53.35,Default,,0,0,0,,A party for those who have to put up \Nwith {*}Mister Natsume{*Natsume-sama}'s whining and meddling,
 Dialogue: 10,0:08:53.35,0:08:56.18,Default,,0,0,0,,and run to him like a dog if he needs us.
-Dialogue: 10,0:08:56.18,0:08:59.19,Default,,0,0,0,,You could call us the "Natsume Dogs"!
+Dialogue: 10,0:08:56.18,0:08:59.19,Default,,0,0,0,,You could call us "Natsume's Dogs"!
 Dialogue: 10,0:08:59.19,0:08:59.60,Default,,0,0,0,,Bark!
 Dialogue: 10,0:08:59.60,0:09:01.40,Default,,0,0,0,,What kind of name is that?
 Dialogue: 10,0:09:01.40,0:09:04.52,Default,,0,0,0,,So, we'll be coming to pick you up tomorrow.
@@ -477,74 +477,74 @@ Dialogue: 10,0:23:45.03,0:23:46.95,Default,,0,0,0,,{\i1}My dear friends.
 Dialogue: 10,0:23:48.24,0:23:52.29,Default,,0,0,0,,{\i1}Right now, both humans and demons
 Dialogue: 10,0:23:53.24,0:23:54.58,Default,,0,0,0,,{\i1}are equally irreplacable to me.
 Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,opsync,
-Dialogue: 0,0:02:02.19,0:02:02.23,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.38,996.32)}The Ideal Place
-Dialogue: 0,0:02:02.23,0:02:02.27,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.4,996.33)}The Ideal Place
-Dialogue: 0,0:02:02.27,0:02:02.31,booktext,,0,0,0,,{=0}{\fscy107\fscx107\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.53,806.71)}The Ideal Place
-Dialogue: 0,0:02:02.31,0:02:02.35,booktext,,0,0,0,,{=0}{\fscy107.01\fscx107.01\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.5,806.73)}The Ideal Place
-Dialogue: 0,0:02:02.35,0:02:02.39,booktext,,0,0,0,,{=0}{\fscy103.52\fscx103.52\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.57)}The Ideal Place
-Dialogue: 0,0:02:02.39,0:02:02.44,booktext,,0,0,0,,{=0}{\fscy103.51\fscx103.51\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.62)}The Ideal Place
-Dialogue: 0,0:02:02.44,0:02:02.48,booktext,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(665.13,605.66)}The Ideal Place
-Dialogue: 0,0:02:02.48,0:02:02.52,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(697.1,574.13)}The Ideal Place
-Dialogue: 0,0:02:02.52,0:02:02.56,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(723.6,548.09)}The Ideal Place
-Dialogue: 0,0:02:02.56,0:02:02.60,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(745.29,526.67)}The Ideal Place
-Dialogue: 0,0:02:02.60,0:02:02.64,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(762.93,509.29)}The Ideal Place
-Dialogue: 0,0:02:02.64,0:02:02.69,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(776.92,495.34)}The Ideal Place
-Dialogue: 0,0:02:02.69,0:02:02.73,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(787.84,484.44)}The Ideal Place
-Dialogue: 0,0:02:02.73,0:02:02.77,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(796.61,476.33)}The Ideal Place
-Dialogue: 0,0:02:02.77,0:02:02.81,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(802.22,470.46)}The Ideal Place
-Dialogue: 0,0:02:02.81,0:02:02.85,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(805.97,466.74)}The Ideal Place
-Dialogue: 0,0:02:02.85,0:02:02.89,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(808.45,464.38)}The Ideal Place
-Dialogue: 0,0:02:02.89,0:02:02.94,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.35,463.27)}The Ideal Place
-Dialogue: 0,0:02:02.94,0:02:02.98,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810.04,463.1)}The Ideal Place
-Dialogue: 0,0:02:02.98,0:02:03.02,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.94,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.02,0:02:03.06,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.85,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.06,0:02:03.10,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.10,0:02:03.14,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.12)}The Ideal Place
-Dialogue: 0,0:02:03.14,0:02:03.19,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.1)}The Ideal Place
-Dialogue: 0,0:02:03.19,0:02:03.23,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.86,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.23,0:02:03.27,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)}The Ideal Place
-Dialogue: 0,0:02:03.27,0:02:03.31,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.83,463.1)}The Ideal Place
-Dialogue: 0,0:02:03.31,0:02:03.35,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.8,463.08)}The Ideal Place
-Dialogue: 0,0:02:03.35,0:02:03.39,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.77,463.07)}The Ideal Place
-Dialogue: 0,0:02:03.39,0:02:03.44,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.75,463.1)}The Ideal Place
-Dialogue: 0,0:02:03.44,0:02:03.48,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.73,463.09)}The Ideal Place
-Dialogue: 0,0:02:03.48,0:02:03.52,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463)}The Ideal Place
-Dialogue: 0,0:02:03.52,0:02:03.56,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.91,462.93)}The Ideal Place
-Dialogue: 0,0:02:03.56,0:02:03.60,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810,462.86)}The Ideal Place
-Dialogue: 0,0:02:02.19,0:02:02.23,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur1.88\c&H0FBDFF&\pos(262.88,811.92)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.23,0:02:02.27,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur1.88\c&H0FBDFF&\pos(262.89,811.94)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.27,0:02:02.31,booktitle,,0,0,0,,{=1}{\fscy107\fscx107\frz344\fax-0.2\blur1.82\c&H0FBDFF&\pos(462.46,628.17)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.31,0:02:02.35,booktitle,,0,0,0,,{=1}{\fscy107.01\fscx107.01\frz344\fax-0.2\blur1.82\c&H0FBDFF&\pos(462.44,628.18)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.35,0:02:02.39,booktitle,,0,0,0,,{=1}{\fscy103.52\fscx103.52\frz344\fax-0.2\blur1.76\c&H0FBDFF&\pos(591.6,513.85)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.39,0:02:02.44,booktitle,,0,0,0,,{=1}{\fscy103.51\fscx103.51\frz344\fax-0.2\blur1.76\c&H0FBDFF&\pos(591.61,513.9)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.44,0:02:02.48,booktitle,,0,0,0,,{=1}{\fscy100.04\fscx100.04\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(680.97,438.74)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.48,0:02:02.52,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(712.94,407.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.52,0:02:02.56,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(739.43,381.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.56,0:02:02.60,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(761.12,359.8)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.60,0:02:02.64,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(778.76,342.42)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.64,0:02:02.69,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(792.76,328.44)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.69,0:02:02.73,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(803.68,317.53)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.73,0:02:02.77,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(812.44,309.44)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.77,0:02:02.81,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(818.05,303.56)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.81,0:02:02.85,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(821.8,299.86)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.85,0:02:02.89,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(824.28,297.5)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.89,0:02:02.94,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.18,296.39)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.94,0:02:02.98,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.87,296.23)}Perfect Day for a Walk
-Dialogue: 0,0:02:02.98,0:02:03.02,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.77,296.25)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.02,0:02:03.06,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.68,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.06,0:02:03.10,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.10,0:02:03.14,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.25)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.14,0:02:03.19,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.23)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.19,0:02:03.23,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.69,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.23,0:02:03.27,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.24)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.27,0:02:03.31,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.66,296.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.31,0:02:03.35,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.63,296.21)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.35,0:02:03.39,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.6,296.2)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.39,0:02:03.44,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.58,296.22)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.44,0:02:03.48,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.57,296.21)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.48,0:02:03.52,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.67,296.12)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.52,0:02:03.56,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.74,296.07)}Perfect Day for a Walk
-Dialogue: 0,0:02:03.56,0:02:03.60,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur1.7\c&H0FBDFF&\pos(825.83,296)}Perfect Day for a Walk
+Dialogue: 0,0:02:02.19,0:02:02.23,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.38,996.32)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.23,0:02:02.27,booktext,,0,0,0,,{=0}{\fscy110.51\fscx110.51\blur1.66\frz344\fax-0.2\fnLeviReBrushed\pos(245.4,996.33)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.27,0:02:02.31,booktext,,0,0,0,,{=0}{\fscy107\fscx107\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.53,806.71)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.31,0:02:02.35,booktext,,0,0,0,,{=0}{\fscy107.01\fscx107.01\blur1.61\frz344\fax-0.2\fnLeviReBrushed\pos(445.5,806.73)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.35,0:02:02.39,booktext,,0,0,0,,{=0}{\fscy103.52\fscx103.52\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.57)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.39,0:02:02.44,booktext,,0,0,0,,{=0}{\fscy103.51\fscx103.51\blur1.55\frz344\fax-0.2\fnLeviReBrushed\pos(575.22,686.62)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.44,0:02:02.48,booktext,,0,0,0,,{=0}{\fscy100.04\fscx100.04\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(665.13,605.66)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.48,0:02:02.52,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(697.1,574.13)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.52,0:02:02.56,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(723.6,548.09)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.56,0:02:02.60,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(745.29,526.67)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.60,0:02:02.64,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(762.93,509.29)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.64,0:02:02.69,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(776.92,495.34)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.69,0:02:02.73,booktext,,0,0,0,,{=0}{\fscy100.03\fscx100.03\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(787.84,484.44)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.73,0:02:02.77,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(796.61,476.33)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.77,0:02:02.81,booktext,,0,0,0,,{=0}{\fscy100.02\fscx100.02\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(802.22,470.46)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.81,0:02:02.85,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(805.97,466.74)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.85,0:02:02.89,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(808.45,464.38)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.89,0:02:02.94,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.35,463.27)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.94,0:02:02.98,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810.04,463.1)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.98,0:02:03.02,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.94,463.11)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.02,0:02:03.06,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.85,463.11)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.06,0:02:03.10,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.10,0:02:03.14,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.12)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.14,0:02:03.19,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.1)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.19,0:02:03.23,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.86,463.11)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.23,0:02:03.27,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463.11)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.27,0:02:03.31,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.83,463.1)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.31,0:02:03.35,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.8,463.08)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.35,0:02:03.39,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.77,463.07)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.39,0:02:03.44,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.75,463.1)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.44,0:02:03.48,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.73,463.09)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.48,0:02:03.52,booktext,,0,0,0,,{=0}{\fscy100.01\fscx100.01\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.84,463)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.52,0:02:03.56,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(809.91,462.93)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:03.56,0:02:03.60,booktext,,0,0,0,,{=0}{\fscy100\fscx100\blur1.5\frz344\fax-0.2\fnLeviReBrushed\pos(810,462.86)\c&H051315&}The Ideal Place
+Dialogue: 0,0:02:02.19,0:02:02.23,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur2\c&H12C0FF&\pos(262.88,811.92)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.23,0:02:02.27,booktitle,,0,0,0,,{=1}{\fscy110.51\fscx110.51\frz344\fax-0.2\blur2\c&H12C0FF&\pos(262.89,811.94)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.27,0:02:02.31,booktitle,,0,0,0,,{=1}{\fscy107\fscx107\frz344\fax-0.2\blur2\c&H12C0FF&\pos(462.46,628.17)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.31,0:02:02.35,booktitle,,0,0,0,,{=1}{\fscy107.01\fscx107.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(462.44,628.18)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.35,0:02:02.39,booktitle,,0,0,0,,{=1}{\fscy103.52\fscx103.52\frz344\fax-0.2\blur2\c&H12C0FF&\pos(591.6,513.85)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.39,0:02:02.44,booktitle,,0,0,0,,{=1}{\fscy103.51\fscx103.51\frz344\fax-0.2\blur2\c&H12C0FF&\pos(591.61,513.9)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.44,0:02:02.48,booktitle,,0,0,0,,{=1}{\fscy100.04\fscx100.04\frz344\fax-0.2\blur2\c&H12C0FF&\pos(680.97,438.74)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.48,0:02:02.52,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur2\c&H12C0FF&\pos(712.94,407.22)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.52,0:02:02.56,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(739.43,381.22)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.56,0:02:02.60,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(761.12,359.8)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.60,0:02:02.64,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(778.76,342.42)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.64,0:02:02.69,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur2\c&H12C0FF&\pos(792.76,328.44)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.69,0:02:02.73,booktitle,,0,0,0,,{=1}{\fscy100.03\fscx100.03\frz344\fax-0.2\blur2\c&H12C0FF&\pos(803.68,317.53)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.73,0:02:02.77,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur2\c&H12C0FF&\pos(812.44,309.44)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.77,0:02:02.81,booktitle,,0,0,0,,{=1}{\fscy100.02\fscx100.02\frz344\fax-0.2\blur2\c&H12C0FF&\pos(818.05,303.56)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.81,0:02:02.85,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(821.8,299.86)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.85,0:02:02.89,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(824.28,297.5)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.89,0:02:02.94,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.18,296.39)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.94,0:02:02.98,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.87,296.23)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:02.98,0:02:03.02,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.77,296.25)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.02,0:02:03.06,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.68,296.24)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.06,0:02:03.10,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.67,296.24)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.10,0:02:03.14,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.67,296.25)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.14,0:02:03.19,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.67,296.23)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.19,0:02:03.23,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.69,296.24)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.23,0:02:03.27,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.67,296.24)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.27,0:02:03.31,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.66,296.22)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.31,0:02:03.35,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.63,296.21)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.35,0:02:03.39,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.6,296.2)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.39,0:02:03.44,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.58,296.22)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.44,0:02:03.48,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.57,296.21)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.48,0:02:03.52,booktitle,,0,0,0,,{=1}{\fscy100.01\fscx100.01\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.67,296.12)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.52,0:02:03.56,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.74,296.07)\b1}Perfect Day for a Walk
+Dialogue: 0,0:02:03.56,0:02:03.60,booktitle,,0,0,0,,{=1}{\fscy100\fscx100\frz344\fax-0.2\blur2\c&H12C0FF&\pos(825.83,296)\b1}Perfect Day for a Walk
 Dialogue: 0,0:07:30.97,0:07:38.23,box,,0,0,0,,{\blur1.2\fnCompleteInHimPro\pos(1389.67,80.17)}Potato
 Dialogue: 0,0:19:50.04,0:19:50.09,graveyard,,0,0,0,,{=12}{\fscy136.78\fscx136.78\fax0.2\frz2\blur2.05\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(739.56,840.4)}Graveyard
 Dialogue: 0,0:19:50.09,0:19:50.13,graveyard,,0,0,0,,{=12}{\fscy136.04\fscx136.04\fax0.2\frz2\blur2.04\c&H3C5768&\fnAR Tankuin Web\frx33\fry2\pos(745.89,836.57)}Graveyard
