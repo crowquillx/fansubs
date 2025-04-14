@@ -12,13 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_11.mkv
-Video File: ../../../natsume 3/natsume_s3_11.mkv
+Audio File: natsume_s3_11.mkv
+Video File: natsume_s3_11.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 7
-Video Position: 2828
+Scroll Position: 191
+Active Line: 205
+Video Position: 21926
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,8 +46,7 @@ Dialogue: 10,0:01:46.46,0:01:49.17,Default,,0,0,0,,{\i1}so I decided to stay at 
 Dialogue: 10,0:01:51.80,0:01:52.88,Default,,0,0,0,,Where's the priest?
 Dialogue: 10,0:01:52.88,0:01:55.64,Default,,0,0,0,,My father's on a business trip again.
 Dialogue: 10,0:01:56.89,0:01:57.93,Default,,0,0,0,,I see.
-Dialogue: 10,0:01:57.93,0:01:59.68,Default,,0,0,0,,Hey, kid.
-Dialogue: 10,0:01:59.68,0:02:01.27,Default,,0,0,0,,Gimme a chestnut.
+Dialogue: 10,0:01:57.93,0:02:01.27,Default,,0,0,0,,Hey, kid. Gimme a chestnut.
 Dialogue: 10,0:02:01.98,0:02:02.85,Default,,0,0,0,,Right, right.
 Dialogue: 10,0:02:04.06,0:02:04.77,Default,,0,0,0,,Hey.
 Dialogue: 10,0:02:05.23,0:02:09.40,Default,,0,0,0,,How many mirror pieces did we get this afternoon?
@@ -244,7 +244,7 @@ Dialogue: 10,0:15:01.13,0:15:03.72,Default,,0,0,0,,Okay, let's finish this today
 Dialogue: 10,0:15:03.72,0:15:06.05,Default,,0,0,0,,Where's {*}Master Nyanko{*Nyanko-sensei}, by the way?
 Dialogue: 10,0:15:06.93,0:15:10.14,Default,,0,0,0,,He said he'd look around the school by himself.
 Dialogue: 10,0:15:13.14,0:15:14.48,Default,,0,0,0,,Hey, you guys.
-Dialogue: 10,0:15:14.48,0:15:18.65,Default,,0,0,0,,Make sure ya find that spirit's \Nmirror pieces fast, 'kay?
+Dialogue: 10,0:15:14.48,0:15:18.65,Default,,0,0,0,,Make sure ya find that spirit's mirror pieces fast, 'kay?
 Dialogue: 10,0:15:18.65,0:15:20.65,Default,,0,0,0,,Right.
 Dialogue: 10,0:15:24.49,0:15:25.45,Default,,0,0,0,,Where is it?
 Dialogue: 10,0:15:28.03,0:15:33.79,Default,,0,0,0,,She said that the fragments would merge \Nwith things that shine, didn't she?
