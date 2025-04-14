@@ -17,8 +17,9 @@ Video File: natsume_s3_12.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 6
-Video Position: 2714
+Scroll Position: 284
+Active Line: 308
+Video Position: 28696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,7 +139,7 @@ Dialogue: 10,0:07:38.98,0:07:40.36,Default,,0,0,0,,Get out!
 Dialogue: 10,0:07:40.36,0:07:42.32,Default,,0,0,0,,Hey, Mom, did something happen?
 Dialogue: 10,0:07:46.78,0:07:48.49,Default,,0,0,0,,Takashi{**-kun}?
 Dialogue: 10,0:07:48.49,0:07:49.99,Default,,0,0,0,,What's wrong?
-Dialogue: 10,0:07:49.99,0:07:52.99,Default,,0,0,0,,Um... nothing.  I'm sorry.
+Dialogue: 10,0:07:49.99,0:07:52.99,Default,,0,0,0,,Um... nothing. I'm sorry.
 Dialogue: 10,0:08:03.80,0:08:05.80,Default,,0,0,0,,The room was wrecked?
 Dialogue: 10,0:08:05.80,0:08:08.76,Default,,0,0,0,,Yes. I don't think he's a bad kid,
 Dialogue: 10,0:08:09.09,0:08:12.26,Default,,0,0,0,,but it's kind of scary.
@@ -346,7 +347,7 @@ Dialogue: 10,0:19:42.62,0:19:44.54,Default,,0,0,0,,Was he doing it to hurt us?
 Dialogue: 10,0:19:44.54,0:19:45.79,Default,,0,0,0,,Mom...
 Dialogue: 10,0:19:46.71,0:19:49.96,Default,,0,0,0,,{\i1}I caused trouble for them again.
 Dialogue: 10,0:19:49.96,0:19:52.96,Default,,0,0,0,,{\i1}I can't go back to their house now.
-Dialogue: 10,0:19:56.84,0:20:00.26,Default,,0,0,0,,Oh, my...  he's asleep.
+Dialogue: 10,0:19:56.84,0:20:00.26,Default,,0,0,0,,Oh, my... he's asleep.
 Dialogue: 10,0:20:01.64,0:20:04.31,Default,,0,0,0,,You need to be quiet, or you'll wake him up.
 Dialogue: 10,0:20:04.31,0:20:05.43,Default,,0,0,0,,True.
 Dialogue: 10,0:20:05.43,0:20:06.81,Default,,0,0,0,,{*}Mrs. Fujiwara{*Fujiwara-san}?

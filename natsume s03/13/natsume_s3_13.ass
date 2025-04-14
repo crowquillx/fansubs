@@ -17,8 +17,8 @@ Video File: ../../../natsume 3/natsume_s3_13.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 144
-Active Line: 155
+Scroll Position: 350
+Active Line: 373
 Video Position: 12856
 
 [V4+ Styles]
@@ -310,7 +310,7 @@ Dialogue: 10,0:14:42.99,0:14:43.82,Default,,0,0,0,,Hey, wait, I didn't—
 Dialogue: 10,0:14:43.82,0:14:47.49,Default,,0,0,0,,Natsume{**-oyabin}, how do you play that game? {slurred oyabun??}
 Dialogue: 10,0:14:48.62,0:14:51.75,Default,,0,0,0,,You know tag, right?
 Dialogue: 10,0:14:52.50,0:14:56.63,Default,,0,0,0,,It's like that, but if the one who's "it" \Nsteps on your shadow, then you're "it".{*}
-Dialogue: 10,0:14:56.63,0:14:59.63,Default,,0,0,0,,"It", huh?  Sounds like fun.
+Dialogue: 10,0:14:56.63,0:14:59.63,Default,,0,0,0,,"It", huh? Sounds like fun.
 Dialogue: 10,0:14:59.63,0:15:03.22,Default,,0,0,0,,Of course, if you catch somebody, \Nyou get to eat them, right?
 Dialogue: 10,0:15:03.22,0:15:05.34,Default,,0,0,0,,No, you definitely can't.
 Dialogue: 10,0:15:05.84,0:15:09.39,Default,,0,0,0,,I think the point is to run from the person who's "it",
@@ -414,7 +414,7 @@ Dialogue: 10,0:20:19.49,0:20:21.58,Default,,0,0,0,,{\i1}I fell down a hole?
 Dialogue: 10,0:20:21.58,0:20:25.29,Default,,0,0,0,,{\i1}I guess nobody will step on \Nmy shadow if I'm down here.
 Dialogue: 10,0:20:25.29,0:20:26.41,Default,,0,0,0,,Wait!
 Dialogue: 10,0:20:26.41,0:20:28.17,Default,,0,0,0,,Let me catch you!
-Dialogue: 10,0:20:28.17,0:20:31.38,Default,,0,0,0,,Nobody's dumb enough to wait  \Njust because you tell them to.
+Dialogue: 10,0:20:28.17,0:20:31.38,Default,,0,0,0,,Nobody's dumb enough to wait \Njust because you tell them to.
 Dialogue: 10,0:20:31.38,0:20:33.17,Default,,0,0,0,,Wait! Hey, wait!
 Dialogue: 10,0:20:33.17,0:20:35.88,Default,,0,0,0,,{\i1}Hey, you.
 Dialogue: 10,0:20:35.88,0:20:38.01,Default,,0,0,0,,{\i1}Is your name Natsume?
