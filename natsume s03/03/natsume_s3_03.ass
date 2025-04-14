@@ -12,14 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../natsume 3/natsume_s3_03.mkv
-Video File: ../../../natsume 3/natsume_s3_03.mkv
+Audio File: natsume_s3_03.mkv
+Video File: natsume_s3_03.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 228
-Active Line: 262
-Video Position: 22426
+Video Zoom Percent: 0.250000
+Scroll Position: 636
+Active Line: 645
+Video Position: 34525
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -683,8 +683,8 @@ Dialogue: 0,0:02:18.03,0:02:18.08,Sign,,0,0,0,,{=9}{\fscx100\fscy100\fade(255,0,
 Dialogue: 0,0:02:18.08,0:02:18.12,Sign,,0,0,0,,{=11}{\fscx100\fscy100\fade(255,0,255,-3460,-3460,50,50)\blur2\fnTravelling\c&H8D948D&\fs50\pos(89.09,75.36)}River
 Dialogue: 0,0:02:18.08,0:02:18.12,Sign,,0,0,0,,{=10}{\fscx100\fscy100\fade(255,0,255,-3460,-3460,50,50)\blur2\fnTravelling\c&H8D948D&\fs50\pos(461.57,370.43)}Supermarket{As an aside, the 「川」 in the river means "River", if you wanna TS that too}
 Dialogue: 0,0:02:18.08,0:02:18.12,Sign,,0,0,0,,{=9}{\fscx100\fscy100\fade(255,0,255,-3460,-3460,50,50)\blur2\fnTravelling\c&H8D948D&\fs50\pos(1619.44,546.16)}Forest of Cuteness
-Dialogue: 1,0:23:59.96,0:24:14.97,nexttime,,0,0,0,,{\fs125\blur0.6\pos(579.04,811.71)}False Friend
-Dialogue: 0,0:23:59.96,0:24:14.97,nexttime-shadow,,0,0,0,,{\blur3.5\fs125\pos(584.04,816.71)}False Friend
+Dialogue: 1,0:23:59.96,0:24:14.97,nexttime,,0,0,0,,{\fs125\blur0.6\pos(579.04,811.71)}Young Days
+Dialogue: 0,0:23:59.96,0:24:14.97,nexttime-shadow,,0,0,0,,{\blur3.5\fs125\pos(584.04,816.71)}Young Days
 Dialogue: 1,0:23:59.96,0:24:14.97,ntsmall,,0,0,0,,{\pos(1142.33,93)}Next\NTime on
 Dialogue: 0,0:23:59.96,0:24:14.97,ntsmall-shadow,,0,0,0,,{\blur5\pos(1149.33,98)}Next\NTime on
 Dialogue: 2,0:12:50.96,0:12:53.96,number,,0,0,0,,{\be1.5\fay-0.14\fscx46\fscy47\c&H2412C9&\pos(1752.4,156)}3
